@@ -4,7 +4,8 @@
 Репозиторий для совместной работы по ТРПО, ИУ1-73, 2023
 
 ### Guides
-1. Как делать пулл-реквесты: https://gist.github.com/ComradeMashkov/c2bc1801552284c2b43b8aabaef1bae3
+1. Ссылка на репозиторий группы (там задания, литература, рукописные гайды по плюсам): https://github.com/ale5000/iu73_23_24 
+2. Как делать пулл-реквесты: https://gist.github.com/ComradeMashkov/c2bc1801552284c2b43b8aabaef1bae3
 
 ### Authors
 Участники проекта:
