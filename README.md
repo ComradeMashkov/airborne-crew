@@ -6,6 +6,8 @@
 ### Guides
 1. Ссылка на репозиторий группы (там задания, литература, рукописные гайды по плюсам): https://github.com/ale5000/iu73_23_24 
 2. Как делать пулл-реквесты: https://gist.github.com/ComradeMashkov/c2bc1801552284c2b43b8aabaef1bae3
+3. Стиль кода от Google: https://google.github.io/styleguide/cppguide.html
+4. Стиль кода от Google (на русском): https://habr.com/ru/amp/publications/480422/ 
 
 ### Task
 Задание на текущий семестр - разработать проект, в котором будет:
