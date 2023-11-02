@@ -9,6 +9,7 @@
 3. Стиль кода от Google: https://google.github.io/styleguide/cppguide.html
 4. Стиль кода от Google (на русском): https://habr.com/ru/amp/publications/480422/
 5. Проектирование архитектуры проекта: https://habr.com/ru/amp/publications/276593/
+6. Идиома RAII в C++: https://academy.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
 
 ### Task
 Задание на текущий семестр - разработать проект, в котором будет:
