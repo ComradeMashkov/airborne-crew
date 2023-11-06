@@ -22,7 +22,7 @@
 
 ### Architecture
 Архитектура проекта разработана следующим образом:
-![img](https://raw.githubusercontent.com/ComradeMashkov/airborne-crew/main/meta/Разработка%20диспетчерского%20окна.png)
+![img](https://raw.githubusercontent.com/ComradeMashkov/airborne-crew/044e054cd0e6148b2ecf593b5d3ae3306d178ec0/meta/Разработка%20диспетчерского%20окна.png)
 
 ### Authors
 Участники проекта:
