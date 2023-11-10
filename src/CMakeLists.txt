@@ -16,7 +16,7 @@ else()
     set(SYSTEM_LIBS)
 endif()
 
-add_executable(main main.cpp)
+add_executable(main main.cpp domain_functions.h)
 
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/include")
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBTGUI/include")
