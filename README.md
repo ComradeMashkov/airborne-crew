@@ -21,7 +21,7 @@
 5. Систему визуализации данных
 6. Систему логгирования отработанных действий
 
-Ссылка на карту разработки лежит в директории [`devmap`](https://github.com/ComradeMashkov/airborne-crew/blob/main/devmap/README.md). 
+Ссылка на карту разработки лежит в директории [`devlog`](https://github.com/ComradeMashkov/airborne-crew/blob/main/devlog/README.md). 
 
 ### Architecture
 Архитектура проекта разработана следующим образом:
