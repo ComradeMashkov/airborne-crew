@@ -9,4 +9,3 @@
 - Boost
 - SFML
 - TGUI
-- tinyfiledialogs
