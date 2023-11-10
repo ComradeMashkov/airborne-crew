@@ -1,7 +1,7 @@
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 #include <fstream>
-#include "../lib/dialogs/tinyfiledialogs.h"
+#include "../utils/dialogs/tinyfiledialogs.h"
 
 void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
