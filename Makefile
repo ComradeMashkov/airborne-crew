@@ -1,2 +1,0 @@
-all:
-	clang++ src/main.cpp utils/dialogs/tinyfiledialogs.cpp -Ilibs/include -L/opt/homebrew/Cellar/tgui/1.1.0/lib -ltgui -L/opt/homebrew/Cellar/sfml/2.6.1/lib -lsfml-graphics -lsfml-window -lsfml-system -o src/main -std=c++17
