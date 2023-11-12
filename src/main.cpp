@@ -1,4 +1,8 @@
-#include "domain_functions.h"
+#include "gui/canvas.h"
+#include "gui/coords.h"
+#include "gui/menu.h"
+
+using namespace gui_wrapper;
 
 int main() {
     sf::RenderWindow window{ {800, 600}, "Main window" };
@@ -6,35 +10,18 @@ int main() {
 
     std::optional<sf::CircleShape> circle;
 
-    auto canvas = tgui::CanvasSFML::create({ 400, 300 });
-    canvas->setHeight("&.height - 22");
-    canvas->setWidth("&.width");
-    canvas->setAutoLayout(tgui::AutoLayout::Bottom);
-    canvas->onMousePress(&moveCircle, std::ref(circle));
+    Canvas canvas;
+    canvas.InitializeCanvas(circle);
 
-    auto menu = tgui::MenuBar::create();
-    menu->setHeight(22.f);
-    menu->addMenu("Program");
-    menu->addMenuItem("Start");
-    menu->onMenuItemClick(&startProgram, std::ref(circle));
-    menu->addMenuItem("Finish");
-    menu->onMenuItemClick(&finishProgram, std::ref(circle));
+    UpperMenu menu;
+    menu.InitializeMenu(gui, circle);
 
-    menu->addMenu("File");
-    menu->addMenuItem("Save");
-    menu->onMenuItemClick(&saveFile, "test.txt");
-    menu->addMenuItem("Clear");
+    CoordsLabel label;
+    label.InitializeCoordsLabel();
 
-    menu->addMenu("Info");
-    menu->addMenuItem("About");
-    menu->onMenuItemClick(&showInfo, std::ref(gui));
-
-    auto label = tgui::Label::create();
-    label->setPosition({ "&.left + 7", "&.bottom - 15" });
-
-    gui.add(menu);
-    gui.add(canvas);
-    gui.add(label);
+    gui.add(menu.GetMenu());
+    gui.add(canvas.GetCanvas());
+    gui.add(label.GetLabel());
 
     while (window.isOpen()) {
         sf::Event event;
@@ -47,16 +34,16 @@ int main() {
                     break;
                 case sf::Event::MouseMoved:
                     tgui::String text{ std::to_string(event.mouseMove.x) + " " + std::to_string(event.mouseMove.y) };
-                    label->setText(text);
+                    label.SetLabelText(text);
                     break;
             }
         }
         
-        canvas->clear(sf::Color{ 211, 211, 211 });
+        canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
         if (circle.has_value()) {
-            canvas->draw(circle.value());
+            canvas.GetCanvas()->draw(circle.value());
         }
-        canvas->display();
+        canvas.GetCanvas()->display();
 
         window.clear(sf::Color{ 211, 211, 211 });
         gui.draw();
