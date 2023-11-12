@@ -1,20 +1,22 @@
 #include "gui/canvas.h"
 #include "gui/coords.h"
 #include "gui/menu.h"
+#include "objects/plane.h"
 
 using namespace gui_wrapper;
+using namespace objects;
 
 int main() {
     sf::RenderWindow window{ {800, 600}, "Main window" };
     tgui::Gui gui{ window };
 
-    std::optional<sf::CircleShape> circle;
+    Plane plane;
 
     Canvas canvas;
-    canvas.InitializeCanvas(circle);
+    canvas.InitializeCanvas(plane);
 
     UpperMenu menu;
-    menu.InitializeMenu(gui, circle);
+    menu.InitializeMenu(gui, plane);
 
     CoordsLabel label;
     label.InitializeCoordsLabel();
@@ -38,10 +40,12 @@ int main() {
                     break;
             }
         }
+
+        plane.Control();
         
         canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
-        if (circle.has_value()) {
-            canvas.GetCanvas()->draw(circle.value());
+        if (plane.GetToDraw()) {
+            canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }
         canvas.GetCanvas()->display();
 
@@ -49,4 +53,6 @@ int main() {
         gui.draw();
         window.display();
     }
+
+    return 0;
 }

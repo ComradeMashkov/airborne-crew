@@ -9,7 +9,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "CMakeFiles/3.27.7/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.7/CMakeSystem.cmake"
-  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/CMakeLists.txt"
+  "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/CMakeLists.txt"
   "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
   "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/CMakeGenericSystem.cmake"

@@ -18,18 +18,20 @@ void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
 
 // Program
 
-void startProgram(std::optional<sf::CircleShape>& circle, const std::vector<tgui::String>& menuItem) {
+void startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         sf::CircleShape c(50.f);
-        c.setPosition({ 50, 50 });
+        c.setPosition({ 50.f, 50.f });
         c.setFillColor(sf::Color::Red);
-        circle.emplace(c);
+        plane.SetPrimitive(c);
+        plane.SetToDraw(true);
+        plane.SetTargetPosition({ 50.f, 50.f });
     }
 }
 
-void finishProgram(std::optional<sf::CircleShape>& circle, const std::vector<tgui::String>& menuItem) {
+void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Finish") {
-        circle.reset();
+        plane.SetToDraw(false);
     }
 }
 
@@ -52,9 +54,6 @@ void saveFile(const std::string& filename, const std::vector<tgui::String>& menu
 
 // Graphics
 
-void moveCircle(std::optional<sf::CircleShape>& circle, const sf::Vector2f& posMouse) {
-    if (circle.has_value()) {
-        sf::Vector2f posCircle{ circle.value().getRadius(), circle.value().getRadius() };
-        circle.value().setPosition(posMouse - posCircle);
-    }
+void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
+    plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
 }

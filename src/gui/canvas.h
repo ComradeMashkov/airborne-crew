@@ -8,7 +8,7 @@ class Canvas {
 public:
     Canvas() = default;
 
-    void InitializeCanvas(std::optional<sf::CircleShape>& circle);
+    void InitializeCanvas(objects::Plane& plane);
 
     tgui::CanvasSFML::Ptr GetCanvas() const;
 

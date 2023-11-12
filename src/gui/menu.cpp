@@ -2,13 +2,13 @@
 
 namespace gui_wrapper {
 
-void UpperMenu::InitializeMenu(tgui::Gui& gui, std::optional<sf::CircleShape>& circle) {
+void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane) {
     upper_menu_->setHeight(22.f);
     upper_menu_->addMenu("Program");
     upper_menu_->addMenuItem("Start");
-    upper_menu_->onMenuItemClick(&startProgram, std::ref(circle));
+    upper_menu_->onMenuItemClick(&startProgram, std::ref(plane));
     upper_menu_->addMenuItem("Finish");
-    upper_menu_->onMenuItemClick(&finishProgram, std::ref(circle));
+    upper_menu_->onMenuItemClick(&finishProgram, std::ref(plane));
 
     upper_menu_->addMenu("File");
     upper_menu_->addMenuItem("Save");

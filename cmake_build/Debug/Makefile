@@ -57,10 +57,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/src
+CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug
+CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -249,6 +249,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+objects/plane.o: objects/plane.cpp.o
+.PHONY : objects/plane.o
+
+# target to build an object file
+objects/plane.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/objects/plane.cpp.o
+.PHONY : objects/plane.cpp.o
+
+objects/plane.i: objects/plane.cpp.i
+.PHONY : objects/plane.i
+
+# target to preprocess a source file
+objects/plane.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/objects/plane.cpp.i
+.PHONY : objects/plane.cpp.i
+
+objects/plane.s: objects/plane.cpp.s
+.PHONY : objects/plane.s
+
+# target to generate assembly for a file
+objects/plane.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/objects/plane.cpp.s
+.PHONY : objects/plane.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -273,6 +297,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... objects/plane.o"
+	@echo "... objects/plane.i"
+	@echo "... objects/plane.s"
 .PHONY : help
 
 
