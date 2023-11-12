@@ -666,4 +666,5 @@ CMakeFiles/main.dir/gui/menu.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/../objects/plane.h

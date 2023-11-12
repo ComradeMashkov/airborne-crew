@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/gui/menu.cpp.o.d"
   "CMakeFiles/main.dir/main.cpp.o"
   "CMakeFiles/main.dir/main.cpp.o.d"
+  "CMakeFiles/main.dir/objects/plane.cpp.o"
+  "CMakeFiles/main.dir/objects/plane.cpp.o.d"
   "main"
   "main.pdb"
 )

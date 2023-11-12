@@ -1,44 +1,36 @@
-CMakeFiles/main.dir/domain_functions.cpp.o: \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Layout.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Config.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/version \
+CMakeFiles/main.dir/objects/plane.cpp.o: \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.cpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ios \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__availability \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__debug \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iosfwd \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mbstate_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/cdefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_symbol_aliasing.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_posix_availability.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityVersions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityInternal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_null.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_size_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mbstate_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdlib.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdlib.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_pid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/appleapiopts.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_mcontext.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int8_t.h \
@@ -51,9 +43,68 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int64_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_intptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uintptr_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigaltstack.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ucontext.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigset_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_size_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/resource.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdint.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdint.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint8_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint16_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint32_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint64_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_intmax_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uintmax_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/endian.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_endian.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/arch.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/alloca.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ct_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_wchar_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_null.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_dev_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/type_traits \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/version \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/forward.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/move.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__undef_macros \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Config.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Clock.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Export.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Time.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Err.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ostream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bits \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__debug \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iosfwd \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mbstate_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stddef.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mbstate_t.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdio.h \
@@ -75,62 +126,31 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/runetype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional_base \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_function.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstring \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rsize_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_errno_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/strings.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/search.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/comp.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iterator_traits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/invoke.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/weak_result_type.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unary_function.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__undef_macros \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/type_traits \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/forward.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/move.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional_base \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/operations.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/reference_wrapper.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/addressof.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uses_allocator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__availability \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdlib \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/appleapiopts.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigaltstack.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ucontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigset_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/resource.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdint.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdint.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint16_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint32_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_intmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uintmax_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_endian.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/arch.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/alloca.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_dev_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/new \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeinfo \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
@@ -138,7 +158,6 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tuple \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/as_const.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/cmp.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/declval.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/exchange.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/in_place.h \
@@ -151,23 +170,7 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/to_underlying.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/wrap_iter.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iterator_traits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/readable_traits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_traits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bits \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstring \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rsize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/strings.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/search.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/comp.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/bind_front.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/perfect_forward.h \
@@ -179,6 +182,7 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/function.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_traits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/construct_at.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_traits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/compressed_pair.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/shared_ptr.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocation_guard.h \
@@ -255,6 +259,7 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/reverse_access.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/wrap_iter.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/temporary_buffer.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cassert \
@@ -359,6 +364,7 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/transform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string_view \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/enable_view.h \
@@ -369,6 +375,8 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_wctrans_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ios \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mutex_base \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/system_error \
@@ -387,10 +395,6 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/istream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ostream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/streambuf \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/nl_types.h \
@@ -421,184 +425,6 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vector2.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/String.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/StringView.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Utf.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/sstream \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Export.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Config.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.inl \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.inl \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.inl \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Duration.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Time.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Cursor.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Timer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Optional.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widget.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Signal.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Global.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Exception.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Font.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Rect.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.inl \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Filesystem.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Color.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vertex.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Color.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Export.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeindex \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Sprite.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Texture.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TextureData.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SvgImage.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendTexture.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RenderStates.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Transform.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Event.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Any.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderTarget.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Text.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TextStyle.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Outline.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/AbsoluteOrRelativeValue.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Theme.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/ThemeLoader.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/DataIO.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/WidgetRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ObjectConverter.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Variant.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_set \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Serializer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Deserializer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/CopiedPtr.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/ClonersAndDeleters.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Meta/Templates.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Config.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/Detail/PtrOwner.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/NonCopyable.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/SafeBool.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/Swap.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/Downcast.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ToolTip.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Container.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SubwidgetContainer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Group.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/GroupRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/CopiedSharedPtr.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/Backend.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/BackendFont.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/BackendFontFactory.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendText.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/BackendGui.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RelFloatRect.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TwoFingerScrollDetect.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/WidgetFactory.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/AllWidgets.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BitmapButton.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Button.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ButtonBase.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ButtonRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ClickableWidget.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Components.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChatBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Scrollbar.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ScrollbarRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChatBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/CheckBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/CheckBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RadioButtonRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButton.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChildWindow.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChildWindowRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ColorPicker.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Slider.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SliderRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Panel.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/PanelRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ColorPickerRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ComboBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ListBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ComboBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/EditBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/EditBoxRenderer.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/regex \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/FileDialog.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Label.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/LabelRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListView.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ListViewRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/FileDialogRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Grid.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalLayout.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayoutRatios.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayout.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/BoxLayoutRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalWrap.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Knob.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/KnobRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MenuBar.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/MenuBarRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MessageBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/MessageBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/PanelListBox.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ScrollablePanel.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ScrollablePanelRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/PanelListBoxRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Picture.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/PictureRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ProgressBar.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ProgressBarRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButtonGroup.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RangeSlider.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RangeSliderRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RichTextLabel.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SeparatorLine.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SeparatorLineRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinButton.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SpinButtonRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinControl.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Tabs.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TabsRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TabContainer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TextArea.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TextAreaRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ToggleButton.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TreeView.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TreeViewRenderer.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/VerticalLayout.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/SFML-Graphics.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendGuiSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Clock.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Err.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/FileInputStream.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/InputStream.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/NonCopyable.hpp \
@@ -606,11 +432,17 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/MemoryInputStream.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Mutex.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Sleep.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.inl \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.inl \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Thread.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Thread.inl \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocal.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.inl \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.inl \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector3.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector3.inl \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Clipboard.hpp \
@@ -626,44 +458,45 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Sensor.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Touch.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/VideoMode.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Window.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowBase.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Vulkan.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowHandle.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowStyle.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRendererSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendTextureSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Texture.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Image.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRenderTargetSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/View.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transform.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderStates.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/BlendMode.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/CanvasSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTexture.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTarget.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/PrimitiveType.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Vertex.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Sprite.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Drawable.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transformable.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/SFML-Graphics/BackendFontSFML.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Font.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glyph.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Export.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/CircleShape.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Shape.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Drawable.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderStates.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transform.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.inl \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transformable.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexArray.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Vertex.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Color.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/PrimitiveType.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/ConvexShape.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Font.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glyph.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Texture.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Image.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RectangleShape.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTarget.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/View.hpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTexture.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderWindow.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Shader.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.inl \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Sprite.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Text.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp
