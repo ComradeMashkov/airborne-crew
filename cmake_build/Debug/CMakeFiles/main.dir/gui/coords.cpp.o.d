@@ -1,7 +1,6 @@
-CMakeFiles/main.dir/main.cpp.o: \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.h \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/../domain_functions.h \
+CMakeFiles/main.dir/gui/coords.cpp.o: \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.cpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp \
@@ -663,9 +662,4 @@ CMakeFiles/main.dir/main.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.inl \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Text.hpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.h \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.h
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp

@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
+  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/domain_functions.cpp" "CMakeFiles/main.dir/domain_functions.cpp.o" "gcc" "CMakeFiles/main.dir/domain_functions.cpp.o.d"
+  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp" "CMakeFiles/main.dir/gui/canvas.cpp.o" "gcc" "CMakeFiles/main.dir/gui/canvas.cpp.o.d"
+  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.cpp" "CMakeFiles/main.dir/gui/coords.cpp.o" "gcc" "CMakeFiles/main.dir/gui/coords.cpp.o.d"
+  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.cpp" "CMakeFiles/main.dir/gui/menu.cpp.o" "gcc" "CMakeFiles/main.dir/gui/menu.cpp.o.d"
+  "/Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

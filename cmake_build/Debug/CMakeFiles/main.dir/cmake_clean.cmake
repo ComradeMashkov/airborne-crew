@@ -1,4 +1,12 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/main.dir/domain_functions.cpp.o"
+  "CMakeFiles/main.dir/domain_functions.cpp.o.d"
+  "CMakeFiles/main.dir/gui/canvas.cpp.o"
+  "CMakeFiles/main.dir/gui/canvas.cpp.o.d"
+  "CMakeFiles/main.dir/gui/coords.cpp.o"
+  "CMakeFiles/main.dir/gui/coords.cpp.o.d"
+  "CMakeFiles/main.dir/gui/menu.cpp.o"
+  "CMakeFiles/main.dir/gui/menu.cpp.o.d"
   "CMakeFiles/main.dir/main.cpp.o"
   "CMakeFiles/main.dir/main.cpp.o.d"
   "main"

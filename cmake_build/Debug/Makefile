@@ -57,10 +57,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/src
+CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug
+CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,6 +129,102 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+domain_functions.o: domain_functions.cpp.o
+.PHONY : domain_functions.o
+
+# target to build an object file
+domain_functions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.o
+.PHONY : domain_functions.cpp.o
+
+domain_functions.i: domain_functions.cpp.i
+.PHONY : domain_functions.i
+
+# target to preprocess a source file
+domain_functions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.i
+.PHONY : domain_functions.cpp.i
+
+domain_functions.s: domain_functions.cpp.s
+.PHONY : domain_functions.s
+
+# target to generate assembly for a file
+domain_functions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.s
+.PHONY : domain_functions.cpp.s
+
+gui/canvas.o: gui/canvas.cpp.o
+.PHONY : gui/canvas.o
+
+# target to build an object file
+gui/canvas.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/canvas.cpp.o
+.PHONY : gui/canvas.cpp.o
+
+gui/canvas.i: gui/canvas.cpp.i
+.PHONY : gui/canvas.i
+
+# target to preprocess a source file
+gui/canvas.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/canvas.cpp.i
+.PHONY : gui/canvas.cpp.i
+
+gui/canvas.s: gui/canvas.cpp.s
+.PHONY : gui/canvas.s
+
+# target to generate assembly for a file
+gui/canvas.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/canvas.cpp.s
+.PHONY : gui/canvas.cpp.s
+
+gui/coords.o: gui/coords.cpp.o
+.PHONY : gui/coords.o
+
+# target to build an object file
+gui/coords.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/coords.cpp.o
+.PHONY : gui/coords.cpp.o
+
+gui/coords.i: gui/coords.cpp.i
+.PHONY : gui/coords.i
+
+# target to preprocess a source file
+gui/coords.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/coords.cpp.i
+.PHONY : gui/coords.cpp.i
+
+gui/coords.s: gui/coords.cpp.s
+.PHONY : gui/coords.s
+
+# target to generate assembly for a file
+gui/coords.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/coords.cpp.s
+.PHONY : gui/coords.cpp.s
+
+gui/menu.o: gui/menu.cpp.o
+.PHONY : gui/menu.o
+
+# target to build an object file
+gui/menu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/menu.cpp.o
+.PHONY : gui/menu.cpp.o
+
+gui/menu.i: gui/menu.cpp.i
+.PHONY : gui/menu.i
+
+# target to preprocess a source file
+gui/menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/menu.cpp.i
+.PHONY : gui/menu.cpp.i
+
+gui/menu.s: gui/menu.cpp.s
+.PHONY : gui/menu.s
+
+# target to generate assembly for a file
+gui/menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/menu.cpp.s
+.PHONY : gui/menu.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +258,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
+	@echo "... domain_functions.o"
+	@echo "... domain_functions.i"
+	@echo "... domain_functions.s"
+	@echo "... gui/canvas.o"
+	@echo "... gui/canvas.i"
+	@echo "... gui/canvas.s"
+	@echo "... gui/coords.o"
+	@echo "... gui/coords.i"
+	@echo "... gui/coords.s"
+	@echo "... gui/menu.o"
+	@echo "... gui/menu.i"
+	@echo "... gui/menu.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

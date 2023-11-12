@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/src
+CMAKE_SOURCE_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug
+CMAKE_BINARY_DIR = /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -70,27 +70,91 @@ include CMakeFiles/main.dir/progress.make
 include CMakeFiles/main.dir/flags.make
 
 CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp
+CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp
 CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp
 
 CMakeFiles/main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp > CMakeFiles/main.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp > CMakeFiles/main.dir/main.cpp.i
 
 CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp -o CMakeFiles/main.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp -o CMakeFiles/main.dir/main.cpp.s
+
+CMakeFiles/main.dir/domain_functions.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/domain_functions.cpp.o: /Users/comrademashkov/Desktop/po/main/airborne-crew/src/domain_functions.cpp
+CMakeFiles/main.dir/domain_functions.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/domain_functions.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/domain_functions.cpp.o -MF CMakeFiles/main.dir/domain_functions.cpp.o.d -o CMakeFiles/main.dir/domain_functions.cpp.o -c /Users/comrademashkov/Desktop/po/main/airborne-crew/src/domain_functions.cpp
+
+CMakeFiles/main.dir/domain_functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/domain_functions.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/po/main/airborne-crew/src/domain_functions.cpp > CMakeFiles/main.dir/domain_functions.cpp.i
+
+CMakeFiles/main.dir/domain_functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/domain_functions.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/po/main/airborne-crew/src/domain_functions.cpp -o CMakeFiles/main.dir/domain_functions.cpp.s
+
+CMakeFiles/main.dir/gui/menu.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.cpp
+CMakeFiles/main.dir/gui/menu.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/gui/menu.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/gui/menu.cpp.o -MF CMakeFiles/main.dir/gui/menu.cpp.o.d -o CMakeFiles/main.dir/gui/menu.cpp.o -c /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.cpp
+
+CMakeFiles/main.dir/gui/menu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/gui/menu.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.cpp > CMakeFiles/main.dir/gui/menu.cpp.i
+
+CMakeFiles/main.dir/gui/menu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/gui/menu.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.cpp -o CMakeFiles/main.dir/gui/menu.cpp.s
+
+CMakeFiles/main.dir/gui/coords.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/gui/coords.cpp.o: /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.cpp
+CMakeFiles/main.dir/gui/coords.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/gui/coords.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/gui/coords.cpp.o -MF CMakeFiles/main.dir/gui/coords.cpp.o.d -o CMakeFiles/main.dir/gui/coords.cpp.o -c /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.cpp
+
+CMakeFiles/main.dir/gui/coords.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/gui/coords.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.cpp > CMakeFiles/main.dir/gui/coords.cpp.i
+
+CMakeFiles/main.dir/gui/coords.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/gui/coords.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.cpp -o CMakeFiles/main.dir/gui/coords.cpp.s
+
+CMakeFiles/main.dir/gui/canvas.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp
+CMakeFiles/main.dir/gui/canvas.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/gui/canvas.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/gui/canvas.cpp.o -MF CMakeFiles/main.dir/gui/canvas.cpp.o.d -o CMakeFiles/main.dir/gui/canvas.cpp.o -c /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp
+
+CMakeFiles/main.dir/gui/canvas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/gui/canvas.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp > CMakeFiles/main.dir/gui/canvas.cpp.i
+
+CMakeFiles/main.dir/gui/canvas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/gui/canvas.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp -o CMakeFiles/main.dir/gui/canvas.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/main.cpp.o"
+"CMakeFiles/main.dir/main.cpp.o" \
+"CMakeFiles/main.dir/domain_functions.cpp.o" \
+"CMakeFiles/main.dir/gui/menu.cpp.o" \
+"CMakeFiles/main.dir/gui/coords.cpp.o" \
+"CMakeFiles/main.dir/gui/canvas.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/main.cpp.o
+main: CMakeFiles/main.dir/domain_functions.cpp.o
+main: CMakeFiles/main.dir/gui/menu.cpp.o
+main: CMakeFiles/main.dir/gui/coords.cpp.o
+main: CMakeFiles/main.dir/gui/canvas.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsfml-graphics.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsfml-window.dylib
@@ -98,7 +162,7 @@ main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsf
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/lib/libtgui.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/lib/libTinyFileDialogsDll.dylib
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -110,6 +174,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	cd /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/comrademashkov/Desktop/PO/main/airborne-crew/src /Users/comrademashkov/Desktop/PO/main/airborne-crew/src /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/comrademashkov/Desktop/po/main/airborne-crew/src /Users/comrademashkov/Desktop/po/main/airborne-crew/src /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug /Users/comrademashkov/Desktop/po/main/airborne-crew/cmake_build/Debug/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/main.dir/depend
 

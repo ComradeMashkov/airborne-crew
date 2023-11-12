@@ -1,5 +1,5 @@
-CMakeFiles/main.dir/main.cpp.o: \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/main.cpp \
+CMakeFiles/main.dir/gui/canvas.cpp.o: \
+  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.cpp \
   /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/canvas.h \
   /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/../domain_functions.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp \
@@ -666,6 +666,4 @@ CMakeFiles/main.dir/main.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/coords.h \
-  /Users/comrademashkov/Desktop/po/main/airborne-crew/src/gui/menu.h
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h
