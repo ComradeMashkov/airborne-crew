@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../domain_functions.h"
+#include "../event_handler.h"
 
 namespace gui_wrapper {
 

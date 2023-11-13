@@ -16,7 +16,7 @@ else()
     set(SYSTEM_LIBS)
 endif()
 
-add_executable(main main.cpp domain_functions.h domain_functions.cpp gui/menu.h gui/menu.cpp gui/coords.h gui/coords.cpp gui/canvas.h gui/canvas.cpp objects/plane.h objects/plane.cpp)
+add_executable(main main.cpp event_handler.h event_handler.cpp gui/menu.h gui/menu.cpp gui/coords.h gui/coords.cpp gui/canvas.h gui/canvas.cpp objects/plane.h objects/plane.cpp)
 
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/include")
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBTGUI/include")

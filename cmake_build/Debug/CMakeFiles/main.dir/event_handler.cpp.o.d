@@ -1,7 +1,6 @@
-CMakeFiles/main.dir/gui/canvas.cpp.o: \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.cpp \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/../event_handler.h \
+CMakeFiles/main.dir/event_handler.cpp.o: \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp \
@@ -667,4 +666,4 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/../objects/plane.h
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h
