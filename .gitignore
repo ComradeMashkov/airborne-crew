@@ -1,0 +1,5 @@
+# ignore basic vs code trash
+
+.DS_Store
+.vscode/
+libs/.DS_Store
