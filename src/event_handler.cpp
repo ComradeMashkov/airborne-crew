@@ -2,9 +2,17 @@
 
 namespace event_handler {
 
+// Debug
+
+void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
+    if (menuItem.size() == 2 && menuItem[0] == "Debug" && menuItem[1] == "Show FPS") {
+        fps.ShowLabel();
+    }
+}
+
 // Info
 
-void EventHandler::showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
+void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
         auto messageBox = tgui::MessageBox::create();
         messageBox->setPosition("(&.size - size) / 2");

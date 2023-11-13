@@ -1,5 +1,6 @@
 #pragma once
 
+#include "fps.h"
 #include "../event_handler.h"
 #include "../objects/plane.h"
 
@@ -9,7 +10,7 @@ class UpperMenu {
 public:
     UpperMenu() = default;
 
-    void InitializeMenu(tgui::Gui& gui, objects::Plane& plane);
+    void InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps);
 
     tgui::MenuBar::Ptr GetMenu() const;
 

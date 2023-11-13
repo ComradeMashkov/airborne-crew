@@ -667,6 +667,7 @@ CMakeFiles/main.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.h \

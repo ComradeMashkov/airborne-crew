@@ -5,12 +5,17 @@
 #include <fstream>
 #include <tinyfiledialogs.h>
 
+#include "gui/fps.h"
 #include "objects/plane.h"
 
 namespace event_handler {
 
 class EventHandler {
 public:
+    // Debug
+
+    static void showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem);
+
     // Info
 
     static void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem);

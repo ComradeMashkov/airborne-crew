@@ -201,6 +201,30 @@ gui/coords.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/coords.cpp.s
 .PHONY : gui/coords.cpp.s
 
+gui/fps.o: gui/fps.cpp.o
+.PHONY : gui/fps.o
+
+# target to build an object file
+gui/fps.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/fps.cpp.o
+.PHONY : gui/fps.cpp.o
+
+gui/fps.i: gui/fps.cpp.i
+.PHONY : gui/fps.i
+
+# target to preprocess a source file
+gui/fps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/fps.cpp.i
+.PHONY : gui/fps.cpp.i
+
+gui/fps.s: gui/fps.cpp.s
+.PHONY : gui/fps.s
+
+# target to generate assembly for a file
+gui/fps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/gui/fps.cpp.s
+.PHONY : gui/fps.cpp.s
+
 gui/menu.o: gui/menu.cpp.o
 .PHONY : gui/menu.o
 
@@ -291,6 +315,9 @@ help:
 	@echo "... gui/coords.o"
 	@echo "... gui/coords.i"
 	@echo "... gui/coords.s"
+	@echo "... gui/fps.o"
+	@echo "... gui/fps.i"
+	@echo "... gui/fps.s"
 	@echo "... gui/menu.o"
 	@echo "... gui/menu.i"
 	@echo "... gui/menu.s"
