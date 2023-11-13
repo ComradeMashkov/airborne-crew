@@ -12,6 +12,9 @@ int main() {
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60);
 
+    log_handler::LogHandler logger;
+    event_handler::EventHandler::SetLogger(&logger);
+
     Plane plane;
 
     CoordsLabel coords_label;

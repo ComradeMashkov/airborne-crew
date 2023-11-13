@@ -2,6 +2,8 @@
 
 namespace event_handler {
 
+log_handler::LogHandler* EventHandler::logger_ = nullptr;
+
 // Debug
 
 void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
@@ -66,6 +68,11 @@ void EventHandler::saveFile(const std::string& filename, const std::vector<tgui:
 
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
+    logger_->LogTrivial(log_handler::info, "test");
+}
+
+void EventHandler::SetLogger(log_handler::LogHandler* logger) {
+    EventHandler::logger_ = logger;
 }
 
 } // namespace event_handler

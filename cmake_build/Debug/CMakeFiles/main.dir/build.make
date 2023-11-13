@@ -167,6 +167,20 @@ CMakeFiles/main.dir/objects/plane.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/objects/plane.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.cpp -o CMakeFiles/main.dir/objects/plane.cpp.s
 
+CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp
+CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o -MF CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o.d -o CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o -c /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp
+
+CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp > CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i
+
+CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp -o CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/main.cpp.o" \
@@ -175,7 +189,8 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/gui/coords.cpp.o" \
 "CMakeFiles/main.dir/gui/canvas.cpp.o" \
 "CMakeFiles/main.dir/gui/fps.cpp.o" \
-"CMakeFiles/main.dir/objects/plane.cpp.o"
+"CMakeFiles/main.dir/objects/plane.cpp.o" \
+"CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
@@ -187,14 +202,22 @@ main: CMakeFiles/main.dir/gui/coords.cpp.o
 main: CMakeFiles/main.dir/gui/canvas.cpp.o
 main: CMakeFiles/main.dir/gui/fps.cpp.o
 main: CMakeFiles/main.dir/objects/plane.cpp.o
+main: CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsfml-graphics.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsfml-window.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/lib/libsfml-system.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/lib/libtgui.dylib
 main: /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/lib/libTinyFileDialogsDll.dylib
+main: /opt/homebrew/lib/libboost_log_setup-mt.dylib
+main: /opt/homebrew/lib/libboost_log-mt.dylib
+main: /opt/homebrew/lib/libboost_chrono-mt.dylib
+main: /opt/homebrew/lib/libboost_filesystem-mt.dylib
+main: /opt/homebrew/lib/libboost_atomic-mt.dylib
+main: /opt/homebrew/lib/libboost_regex-mt.dylib
+main: /opt/homebrew/lib/libboost_thread-mt.dylib
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
