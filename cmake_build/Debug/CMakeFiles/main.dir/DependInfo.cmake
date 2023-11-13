@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp" "CMakeFiles/main.dir/domain_functions.cpp.o" "gcc" "CMakeFiles/main.dir/domain_functions.cpp.o.d"
+  "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp" "CMakeFiles/main.dir/event_handler.cpp.o" "gcc" "CMakeFiles/main.dir/event_handler.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.cpp" "CMakeFiles/main.dir/gui/canvas.cpp.o" "gcc" "CMakeFiles/main.dir/gui/canvas.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.cpp" "CMakeFiles/main.dir/gui/coords.cpp.o" "gcc" "CMakeFiles/main.dir/gui/coords.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.cpp" "CMakeFiles/main.dir/gui/menu.cpp.o" "gcc" "CMakeFiles/main.dir/gui/menu.cpp.o.d"

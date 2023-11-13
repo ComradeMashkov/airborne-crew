@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/main.cpp.o: \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.h \
-  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/../domain_functions.h \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/../event_handler.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp \

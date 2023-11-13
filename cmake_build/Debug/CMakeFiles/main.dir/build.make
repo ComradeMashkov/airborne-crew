@@ -83,19 +83,19 @@ CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
-CMakeFiles/main.dir/domain_functions.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/domain_functions.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp
-CMakeFiles/main.dir/domain_functions.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/domain_functions.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/domain_functions.cpp.o -MF CMakeFiles/main.dir/domain_functions.cpp.o.d -o CMakeFiles/main.dir/domain_functions.cpp.o -c /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp
+CMakeFiles/main.dir/event_handler.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp
+CMakeFiles/main.dir/event_handler.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/event_handler.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/event_handler.cpp.o -MF CMakeFiles/main.dir/event_handler.cpp.o.d -o CMakeFiles/main.dir/event_handler.cpp.o -c /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp
 
-CMakeFiles/main.dir/domain_functions.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/domain_functions.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp > CMakeFiles/main.dir/domain_functions.cpp.i
+CMakeFiles/main.dir/event_handler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/event_handler.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp > CMakeFiles/main.dir/event_handler.cpp.i
 
-CMakeFiles/main.dir/domain_functions.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/domain_functions.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/domain_functions.cpp -o CMakeFiles/main.dir/domain_functions.cpp.s
+CMakeFiles/main.dir/event_handler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/event_handler.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp -o CMakeFiles/main.dir/event_handler.cpp.s
 
 CMakeFiles/main.dir/gui/menu.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.cpp
@@ -156,7 +156,7 @@ CMakeFiles/main.dir/objects/plane.cpp.s: cmake_force
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/main.cpp.o" \
-"CMakeFiles/main.dir/domain_functions.cpp.o" \
+"CMakeFiles/main.dir/event_handler.cpp.o" \
 "CMakeFiles/main.dir/gui/menu.cpp.o" \
 "CMakeFiles/main.dir/gui/coords.cpp.o" \
 "CMakeFiles/main.dir/gui/canvas.cpp.o" \
@@ -166,7 +166,7 @@ main_OBJECTS = \
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/main.cpp.o
-main: CMakeFiles/main.dir/domain_functions.cpp.o
+main: CMakeFiles/main.dir/event_handler.cpp.o
 main: CMakeFiles/main.dir/gui/menu.cpp.o
 main: CMakeFiles/main.dir/gui/coords.cpp.o
 main: CMakeFiles/main.dir/gui/canvas.cpp.o

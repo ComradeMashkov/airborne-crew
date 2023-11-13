@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/domain_functions.cpp.o"
-  "CMakeFiles/main.dir/domain_functions.cpp.o.d"
+  "CMakeFiles/main.dir/event_handler.cpp.o"
+  "CMakeFiles/main.dir/event_handler.cpp.o.d"
   "CMakeFiles/main.dir/gui/canvas.cpp.o"
   "CMakeFiles/main.dir/gui/canvas.cpp.o.d"
   "CMakeFiles/main.dir/gui/coords.cpp.o"

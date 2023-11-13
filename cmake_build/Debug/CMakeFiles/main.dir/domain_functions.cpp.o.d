@@ -666,4 +666,5 @@ CMakeFiles/main.dir/domain_functions.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h \
+  /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/../utils/logger.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h

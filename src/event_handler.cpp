@@ -1,8 +1,10 @@
-#include "domain_functions.h"
+#include "event_handler.h"
+
+namespace event_handler {
 
 // Info
 
-void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
+void EventHandler::showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
         auto messageBox = tgui::MessageBox::create();
         messageBox->setPosition("(&.size - size) / 2");
@@ -18,7 +20,7 @@ void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
 
 // Program
 
-void startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
+void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         sf::CircleShape c(50.f);
         c.setPosition({ 50.f, 50.f });
@@ -29,7 +31,7 @@ void startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuIt
     }
 }
 
-void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
+void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Finish") {
         plane.SetToDraw(false);
     }
@@ -37,7 +39,7 @@ void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuI
 
 // File
 
-void saveFile(const std::string& filename, const std::vector<tgui::String>& menuItem) {
+void EventHandler::saveFile(const std::string& filename, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "File" && menuItem[1] == "Save") {
         const char *file_path = tinyfd_saveFileDialog(
             "Сохранить файл",
@@ -54,6 +56,8 @@ void saveFile(const std::string& filename, const std::vector<tgui::String>& menu
 
 // Graphics
 
-void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
+void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
 }
+
+} // namespace event_handler

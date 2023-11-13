@@ -7,7 +7,7 @@ using namespace gui_wrapper;
 using namespace objects;
 
 int main() {
-    sf::RenderWindow window{ {800, 600}, "Main window" };
+    sf::RenderWindow window{ {800, 600}, "Dispatch window" };
     tgui::Gui gui{ window };
 
     Plane plane;

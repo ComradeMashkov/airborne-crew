@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-domain_functions.o: domain_functions.cpp.o
-.PHONY : domain_functions.o
+event_handler.o: event_handler.cpp.o
+.PHONY : event_handler.o
 
 # target to build an object file
-domain_functions.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.o
-.PHONY : domain_functions.cpp.o
+event_handler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/event_handler.cpp.o
+.PHONY : event_handler.cpp.o
 
-domain_functions.i: domain_functions.cpp.i
-.PHONY : domain_functions.i
+event_handler.i: event_handler.cpp.i
+.PHONY : event_handler.i
 
 # target to preprocess a source file
-domain_functions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.i
-.PHONY : domain_functions.cpp.i
+event_handler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/event_handler.cpp.i
+.PHONY : event_handler.cpp.i
 
-domain_functions.s: domain_functions.cpp.s
-.PHONY : domain_functions.s
+event_handler.s: event_handler.cpp.s
+.PHONY : event_handler.s
 
 # target to generate assembly for a file
-domain_functions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/domain_functions.cpp.s
-.PHONY : domain_functions.cpp.s
+event_handler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/event_handler.cpp.s
+.PHONY : event_handler.cpp.s
 
 gui/canvas.o: gui/canvas.cpp.o
 .PHONY : gui/canvas.o
@@ -282,9 +282,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... domain_functions.o"
-	@echo "... domain_functions.i"
-	@echo "... domain_functions.s"
+	@echo "... event_handler.o"
+	@echo "... event_handler.i"
+	@echo "... event_handler.s"
 	@echo "... gui/canvas.o"
 	@echo "... gui/canvas.i"
 	@echo "... gui/canvas.s"
