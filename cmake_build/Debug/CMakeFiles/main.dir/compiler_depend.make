@@ -146,6 +146,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/hash.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/identity.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/invoke.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/mem_fn.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/not_fn.h \
@@ -209,6 +210,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/unique_ptr.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uses_allocator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mutex_base \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/access.h \
@@ -217,6 +219,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__threading_support \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tuple \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__undef_macros \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/__decay_copy.h \
@@ -236,6 +239,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__variant/monostate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/any \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/atomic \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cassert \
@@ -248,6 +252,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
@@ -262,6 +267,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ios \
@@ -273,6 +279,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex \
@@ -303,13 +310,69 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
@@ -362,6 +425,8 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h \
@@ -393,6 +458,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h \
@@ -417,6 +483,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
@@ -434,13 +501,104 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.h \
+  /usr/local/include/boost/array.hpp \
   /usr/local/include/boost/assert.hpp \
   /usr/local/include/boost/assert/source_location.hpp \
+  /usr/local/include/boost/atomic/atomic.hpp \
+  /usr/local/include/boost/atomic/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/addressof.hpp \
+  /usr/local/include/boost/atomic/detail/aligned_variable.hpp \
+  /usr/local/include/boost/atomic/detail/atomic_impl.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_cast.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp \
+  /usr/local/include/boost/atomic/detail/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/classify.hpp \
+  /usr/local/include/boost/atomic/detail/config.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/float_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/footer.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/futex.hpp \
+  /usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/header.hpp \
+  /usr/local/include/boost/atomic/detail/int_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/integral_conversions.hpp \
+  /usr/local/include/boost/atomic/detail/intptr.hpp \
+  /usr/local/include/boost/atomic/detail/link.hpp \
+  /usr/local/include/boost/atomic/detail/lock_pool.hpp \
+  /usr/local/include/boost/atomic/detail/memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp \
+  /usr/local/include/boost/atomic/detail/pause.hpp \
+  /usr/local/include/boost/atomic/detail/platform.hpp \
+  /usr/local/include/boost/atomic/detail/storage_traits.hpp \
+  /usr/local/include/boost/atomic/detail/string_ops.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/conditional.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_function.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/atomic/detail/wait_capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_generic.hpp \
+  /usr/local/include/boost/chrono/ceil.hpp \
+  /usr/local/include/boost/chrono/clock_string.hpp \
+  /usr/local/include/boost/chrono/config.hpp \
+  /usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp \
+  /usr/local/include/boost/chrono/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/chrono/detail/static_assert.hpp \
+  /usr/local/include/boost/chrono/detail/system.hpp \
+  /usr/local/include/boost/chrono/duration.hpp \
+  /usr/local/include/boost/chrono/system_clocks.hpp \
+  /usr/local/include/boost/chrono/time_point.hpp \
+  /usr/local/include/boost/concept/assert.hpp \
+  /usr/local/include/boost/concept/detail/backward_compatibility.hpp \
+  /usr/local/include/boost/concept/detail/concept_def.hpp \
+  /usr/local/include/boost/concept/detail/concept_undef.hpp \
+  /usr/local/include/boost/concept/detail/general.hpp \
+  /usr/local/include/boost/concept/detail/has_constraints.hpp \
+  /usr/local/include/boost/concept/usage.hpp \
+  /usr/local/include/boost/concept_check.hpp \
   /usr/local/include/boost/config.hpp \
   /usr/local/include/boost/config/abi_prefix.hpp \
   /usr/local/include/boost/config/abi_suffix.hpp \
@@ -453,13 +611,18 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/local/include/boost/config/detail/suffix.hpp \
   /usr/local/include/boost/config/helper_macros.hpp \
+  /usr/local/include/boost/config/no_tr1/cmath.hpp \
   /usr/local/include/boost/config/no_tr1/functional.hpp \
+  /usr/local/include/boost/config/no_tr1/memory.hpp \
+  /usr/local/include/boost/config/no_tr1/utility.hpp \
   /usr/local/include/boost/config/platform/macos.hpp \
   /usr/local/include/boost/config/pragma_message.hpp \
   /usr/local/include/boost/config/requires_threads.hpp \
   /usr/local/include/boost/config/stdlib/libcpp.hpp \
   /usr/local/include/boost/config/user.hpp \
   /usr/local/include/boost/config/workaround.hpp \
+  /usr/local/include/boost/container/container_fwd.hpp \
+  /usr/local/include/boost/container/detail/std_fwd.hpp \
   /usr/local/include/boost/container_hash/detail/hash_mix.hpp \
   /usr/local/include/boost/container_hash/detail/hash_range.hpp \
   /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp \
@@ -474,13 +637,69 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/container_hash/is_unordered_range.hpp \
   /usr/local/include/boost/core/addressof.hpp \
   /usr/local/include/boost/core/checked_delete.hpp \
+  /usr/local/include/boost/core/cmath.hpp \
   /usr/local/include/boost/core/demangle.hpp \
   /usr/local/include/boost/core/enable_if.hpp \
   /usr/local/include/boost/core/explicit_operator_bool.hpp \
+  /usr/local/include/boost/core/noncopyable.hpp \
+  /usr/local/include/boost/core/null_deleter.hpp \
+  /usr/local/include/boost/core/ref.hpp \
+  /usr/local/include/boost/core/snprintf.hpp \
   /usr/local/include/boost/core/swap.hpp \
   /usr/local/include/boost/core/uncaught_exceptions.hpp \
+  /usr/local/include/boost/core/use_default.hpp \
   /usr/local/include/boost/cstdint.hpp \
   /usr/local/include/boost/current_function.hpp \
+  /usr/local/include/boost/date_time/adjust_functors.hpp \
+  /usr/local/include/boost/date_time/c_time.hpp \
+  /usr/local/include/boost/date_time/compiler_config.hpp \
+  /usr/local/include/boost/date_time/constrained_value.hpp \
+  /usr/local/include/boost/date_time/date.hpp \
+  /usr/local/include/boost/date_time/date_clock_device.hpp \
+  /usr/local/include/boost/date_time/date_defs.hpp \
+  /usr/local/include/boost/date_time/date_duration.hpp \
+  /usr/local/include/boost/date_time/date_duration_types.hpp \
+  /usr/local/include/boost/date_time/date_generators.hpp \
+  /usr/local/include/boost/date_time/date_iterator.hpp \
+  /usr/local/include/boost/date_time/dst_rules.hpp \
+  /usr/local/include/boost/date_time/filetime_functions.hpp \
+  /usr/local/include/boost/date_time/gregorian/conversion.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_date.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_month.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_weekday.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_ymd.hpp \
+  /usr/local/include/boost/date_time/gregorian/gregorian_types.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.ipp \
+  /usr/local/include/boost/date_time/int_adapter.hpp \
+  /usr/local/include/boost/date_time/locale_config.hpp \
+  /usr/local/include/boost/date_time/microsec_time_clock.hpp \
+  /usr/local/include/boost/date_time/period.hpp \
+  /usr/local/include/boost/date_time/posix_time/conversion.hpp \
+  /usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_config.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_system.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_types.hpp \
+  /usr/local/include/boost/date_time/posix_time/ptime.hpp \
+  /usr/local/include/boost/date_time/posix_time/time_period.hpp \
+  /usr/local/include/boost/date_time/special_defs.hpp \
+  /usr/local/include/boost/date_time/time.hpp \
+  /usr/local/include/boost/date_time/time_clock.hpp \
+  /usr/local/include/boost/date_time/time_defs.hpp \
+  /usr/local/include/boost/date_time/time_duration.hpp \
+  /usr/local/include/boost/date_time/time_iterator.hpp \
+  /usr/local/include/boost/date_time/time_resolution_traits.hpp \
+  /usr/local/include/boost/date_time/time_system_counted.hpp \
+  /usr/local/include/boost/date_time/time_system_split.hpp \
+  /usr/local/include/boost/date_time/wrapping_int.hpp \
+  /usr/local/include/boost/date_time/year_month_day.hpp \
   /usr/local/include/boost/describe/bases.hpp \
   /usr/local/include/boost/describe/detail/config.hpp \
   /usr/local/include/boost/describe/detail/cx_streq.hpp \
@@ -488,8 +707,188 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/describe/members.hpp \
   /usr/local/include/boost/describe/modifiers.hpp \
   /usr/local/include/boost/detail/atomic_count.hpp \
+  /usr/local/include/boost/detail/basic_pointerbuf.hpp \
+  /usr/local/include/boost/detail/indirect_traits.hpp \
+  /usr/local/include/boost/detail/lcast_precision.hpp \
+  /usr/local/include/boost/detail/select_type.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/exception/exception.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp \
+  /usr/local/include/boost/fusion/container/list/cons.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_iterator.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/list_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/nil.hpp \
+  /usr/local/include/boost/fusion/include/at.hpp \
+  /usr/local/include/boost/fusion/include/at_c.hpp \
+  /usr/local/include/boost/fusion/include/begin.hpp \
+  /usr/local/include/boost/fusion/include/fold.hpp \
+  /usr/local/include/boost/fusion/include/next.hpp \
+  /usr/local/include/boost/fusion/include/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/include/size.hpp \
+  /usr/local/include/boost/fusion/include/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/basic_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/deref.hpp \
+  /usr/local/include/boost/fusion/iterator/deref_data.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp \
+  /usr/local/include/boost/fusion/iterator/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/fusion/iterator/key_of.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/next.hpp \
+  /usr/local/include/boost/fusion/iterator/prior.hpp \
+  /usr/local/include/boost/fusion/iterator/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of_data.hpp \
+  /usr/local/include/boost/fusion/mpl/begin.hpp \
+  /usr/local/include/boost/fusion/mpl/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp \
+  /usr/local/include/boost/fusion/support/category_of.hpp \
+  /usr/local/include/boost/fusion/support/config.hpp \
+  /usr/local/include/boost/fusion/support/detail/access.hpp \
+  /usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp \
+  /usr/local/include/boost/fusion/support/detail/enabler.hpp \
+  /usr/local/include/boost/fusion/support/detail/index_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp \
+  /usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp \
+  /usr/local/include/boost/fusion/support/is_iterator.hpp \
+  /usr/local/include/boost/fusion/support/is_segmented.hpp \
+  /usr/local/include/boost/fusion/support/is_sequence.hpp \
+  /usr/local/include/boost/fusion/support/is_view.hpp \
+  /usr/local/include/boost/fusion/support/iterator_base.hpp \
+  /usr/local/include/boost/fusion/support/segmented_fold_until.hpp \
+  /usr/local/include/boost/fusion/support/sequence_base.hpp \
+  /usr/local/include/boost/fusion/support/tag_of.hpp \
+  /usr/local/include/boost/fusion/support/tag_of_fwd.hpp \
+  /usr/local/include/boost/fusion/support/void.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp \
+  /usr/local/include/boost/get_pointer.hpp \
+  /usr/local/include/boost/integer.hpp \
+  /usr/local/include/boost/integer_fwd.hpp \
+  /usr/local/include/boost/integer_traits.hpp \
+  /usr/local/include/boost/is_placeholder.hpp \
+  /usr/local/include/boost/iterator/advance.hpp \
+  /usr/local/include/boost/iterator/detail/config_def.hpp \
+  /usr/local/include/boost/iterator/detail/config_undef.hpp \
+  /usr/local/include/boost/iterator/detail/enable_if.hpp \
+  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
+  /usr/local/include/boost/iterator/distance.hpp \
+  /usr/local/include/boost/iterator/interoperable.hpp \
+  /usr/local/include/boost/iterator/iterator_adaptor.hpp \
+  /usr/local/include/boost/iterator/iterator_categories.hpp \
+  /usr/local/include/boost/iterator/iterator_concepts.hpp \
+  /usr/local/include/boost/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/iterator/iterator_traits.hpp \
+  /usr/local/include/boost/iterator/reverse_iterator.hpp \
+  /usr/local/include/boost/lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp \
+  /usr/local/include/boost/lexical_cast/detail/inf_nan.hpp \
+  /usr/local/include/boost/lexical_cast/detail/is_character.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp \
+  /usr/local/include/boost/lexical_cast/detail/widest_char.hpp \
+  /usr/local/include/boost/lexical_cast/try_lexical_convert.hpp \
+  /usr/local/include/boost/limits.hpp \
   /usr/local/include/boost/log/attributes/attribute.hpp \
   /usr/local/include/boost/log/attributes/attribute_cast.hpp \
   /usr/local/include/boost/log/attributes/attribute_name.hpp \
@@ -497,29 +896,75 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/log/attributes/attribute_value.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_impl.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_set.hpp \
+  /usr/local/include/boost/log/attributes/clock.hpp \
+  /usr/local/include/boost/log/attributes/constant.hpp \
+  /usr/local/include/boost/log/attributes/counter.hpp \
+  /usr/local/include/boost/log/attributes/current_process_id.hpp \
+  /usr/local/include/boost/log/attributes/current_thread_id.hpp \
+  /usr/local/include/boost/log/attributes/fallback_policy.hpp \
   /usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp \
+  /usr/local/include/boost/log/attributes/time_traits.hpp \
+  /usr/local/include/boost/log/attributes/value_extraction.hpp \
   /usr/local/include/boost/log/attributes/value_extraction_fwd.hpp \
+  /usr/local/include/boost/log/attributes/value_visitation.hpp \
   /usr/local/include/boost/log/attributes/value_visitation_fwd.hpp \
   /usr/local/include/boost/log/core/core.hpp \
   /usr/local/include/boost/log/core/record.hpp \
   /usr/local/include/boost/log/core/record_view.hpp \
   /usr/local/include/boost/log/detail/attachable_sstream_buf.hpp \
+  /usr/local/include/boost/log/detail/attr_output_impl.hpp \
+  /usr/local/include/boost/log/detail/attr_output_terminal.hpp \
   /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp \
   /usr/local/include/boost/log/detail/code_conversion.hpp \
   /usr/local/include/boost/log/detail/config.hpp \
+  /usr/local/include/boost/log/detail/copy_cv.hpp \
+  /usr/local/include/boost/log/detail/custom_terminal_spec.hpp \
   /usr/local/include/boost/log/detail/default_attribute_names.hpp \
+  /usr/local/include/boost/log/detail/embedded_string_type.hpp \
+  /usr/local/include/boost/log/detail/fake_mutex.hpp \
   /usr/local/include/boost/log/detail/footer.hpp \
+  /usr/local/include/boost/log/detail/generate_overloads.hpp \
   /usr/local/include/boost/log/detail/header.hpp \
+  /usr/local/include/boost/log/detail/id.hpp \
   /usr/local/include/boost/log/detail/is_character_type.hpp \
+  /usr/local/include/boost/log/detail/is_ostream.hpp \
   /usr/local/include/boost/log/detail/light_function.hpp \
   /usr/local/include/boost/log/detail/light_rw_mutex.hpp \
+  /usr/local/include/boost/log/detail/locking_ptr.hpp \
   /usr/local/include/boost/log/detail/locks.hpp \
   /usr/local/include/boost/log/detail/native_typeof.hpp \
   /usr/local/include/boost/log/detail/parameter_tools.hpp \
+  /usr/local/include/boost/log/detail/process_id.hpp \
+  /usr/local/include/boost/log/detail/setup_config.hpp \
   /usr/local/include/boost/log/detail/sfinae_tools.hpp \
+  /usr/local/include/boost/log/detail/sink_init_helpers.hpp \
+  /usr/local/include/boost/log/detail/thread_id.hpp \
+  /usr/local/include/boost/log/detail/trivial_keyword.hpp \
+  /usr/local/include/boost/log/detail/unary_function_terminal.hpp \
+  /usr/local/include/boost/log/detail/value_ref_visitation.hpp \
+  /usr/local/include/boost/log/exceptions.hpp \
+  /usr/local/include/boost/log/expressions/attr.hpp \
+  /usr/local/include/boost/log/expressions/attr_fwd.hpp \
   /usr/local/include/boost/log/expressions/filter.hpp \
+  /usr/local/include/boost/log/expressions/formatter.hpp \
+  /usr/local/include/boost/log/expressions/formatters/stream.hpp \
+  /usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp \
+  /usr/local/include/boost/log/expressions/keyword.hpp \
   /usr/local/include/boost/log/expressions/keyword_fwd.hpp \
+  /usr/local/include/boost/log/expressions/message.hpp \
+  /usr/local/include/boost/log/expressions/predicates/has_attr.hpp \
+  /usr/local/include/boost/log/keywords/auto_flush.hpp \
+  /usr/local/include/boost/log/keywords/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/keywords/filter.hpp \
+  /usr/local/include/boost/log/keywords/format.hpp \
   /usr/local/include/boost/log/keywords/severity.hpp \
+  /usr/local/include/boost/log/sinks/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_backend.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_frontend.hpp \
+  /usr/local/include/boost/log/sinks/frontend_requirements.hpp \
+  /usr/local/include/boost/log/sinks/sink.hpp \
+  /usr/local/include/boost/log/sinks/sync_frontend.hpp \
+  /usr/local/include/boost/log/sinks/text_ostream_backend.hpp \
   /usr/local/include/boost/log/sources/basic_logger.hpp \
   /usr/local/include/boost/log/sources/features.hpp \
   /usr/local/include/boost/log/sources/record_ostream.hpp \
@@ -529,17 +974,37 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/log/trivial.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp \
+  /usr/local/include/boost/log/utility/functional/bind.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_output.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_to_log.hpp \
+  /usr/local/include/boost/log/utility/functional/logical.hpp \
+  /usr/local/include/boost/log/utility/functional/nop.hpp \
+  /usr/local/include/boost/log/utility/manipulators/to_log.hpp \
+  /usr/local/include/boost/log/utility/once_block.hpp \
+  /usr/local/include/boost/log/utility/setup/common_attributes.hpp \
+  /usr/local/include/boost/log/utility/setup/console.hpp \
+  /usr/local/include/boost/log/utility/setup/filter_parser.hpp \
+  /usr/local/include/boost/log/utility/setup/formatter_parser.hpp \
   /usr/local/include/boost/log/utility/strictest_lock.hpp \
   /usr/local/include/boost/log/utility/string_literal_fwd.hpp \
+  /usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/unique_identifier_name.hpp \
+  /usr/local/include/boost/log/utility/value_ref.hpp \
+  /usr/local/include/boost/log/utility/value_ref_fwd.hpp \
+  /usr/local/include/boost/memory_order.hpp \
   /usr/local/include/boost/move/core.hpp \
   /usr/local/include/boost/move/detail/addressof.hpp \
   /usr/local/include/boost/move/detail/config_begin.hpp \
   /usr/local/include/boost/move/detail/config_end.hpp \
   /usr/local/include/boost/move/detail/meta_utils.hpp \
   /usr/local/include/boost/move/detail/meta_utils_core.hpp \
+  /usr/local/include/boost/move/detail/std_ns_begin.hpp \
+  /usr/local/include/boost/move/detail/std_ns_end.hpp \
+  /usr/local/include/boost/move/detail/type_traits.hpp \
   /usr/local/include/boost/move/detail/workaround.hpp \
+  /usr/local/include/boost/move/traits.hpp \
+  /usr/local/include/boost/move/utility.hpp \
   /usr/local/include/boost/move/utility_core.hpp \
   /usr/local/include/boost/mp11/algorithm.hpp \
   /usr/local/include/boost/mp11/bind.hpp \
@@ -567,6 +1032,8 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mp11/version.hpp \
   /usr/local/include/boost/mpl/O1_size.hpp \
   /usr/local/include/boost/mpl/O1_size_fwd.hpp \
+  /usr/local/include/boost/mpl/advance.hpp \
+  /usr/local/include/boost/mpl/advance_fwd.hpp \
   /usr/local/include/boost/mpl/always.hpp \
   /usr/local/include/boost/mpl/and.hpp \
   /usr/local/include/boost/mpl/apply.hpp \
@@ -575,20 +1042,28 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mpl/arg.hpp \
   /usr/local/include/boost/mpl/arg_fwd.hpp \
   /usr/local/include/boost/mpl/assert.hpp \
+  /usr/local/include/boost/mpl/at.hpp \
   /usr/local/include/boost/mpl/at_fwd.hpp \
   /usr/local/include/boost/mpl/aux_/O1_size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
+  /usr/local/include/boost/mpl/aux_/arithmetic_op.hpp \
   /usr/local/include/boost/mpl/aux_/arity.hpp \
   /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
+  /usr/local/include/boost/mpl/aux_/at_impl.hpp \
   /usr/local/include/boost/mpl/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/clear_impl.hpp \
   /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
+  /usr/local/include/boost/mpl/aux_/comparison_op.hpp \
   /usr/local/include/boost/mpl/aux_/config/adl.hpp \
   /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
   /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
   /usr/local/include/boost/mpl/aux_/config/bind.hpp \
   /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
   /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp \
   /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
   /usr/local/include/boost/mpl/aux_/config/eti.hpp \
   /usr/local/include/boost/mpl/aux_/config/forwarding.hpp \
@@ -602,29 +1077,39 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
   /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
   /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/operators.hpp \
   /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
   /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
   /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
   /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
   /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/typeof.hpp \
   /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
   /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /usr/local/include/boost/mpl/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/erase_impl.hpp \
   /usr/local/include/boost/mpl/aux_/find_if_pred.hpp \
+  /usr/local/include/boost/mpl/aux_/fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/front_impl.hpp \
   /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
   /usr/local/include/boost/mpl/aux_/has_apply.hpp \
   /usr/local/include/boost/mpl/aux_/has_begin.hpp \
+  /usr/local/include/boost/mpl/aux_/has_key_impl.hpp \
   /usr/local/include/boost/mpl/aux_/has_size.hpp \
   /usr/local/include/boost/mpl/aux_/has_tag.hpp \
   /usr/local/include/boost/mpl/aux_/has_type.hpp \
   /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/aux_/insert_impl.hpp \
   /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp \
   /usr/local/include/boost/mpl/aux_/iter_apply.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/joint_iter.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_spec.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /usr/local/include/boost/mpl/aux_/largest_int.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_type.hpp \
@@ -634,6 +1119,12 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mpl/aux_/na_spec.hpp \
   /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_op.hpp \
+  /usr/local/include/boost/mpl/aux_/order_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/overload_names.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
@@ -641,17 +1132,34 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp \
+  /usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp \
+  /usr/local/include/boost/mpl/aux_/push_back_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/push_front_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/static_cast.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
@@ -659,54 +1167,173 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/yes_no.hpp \
+  /usr/local/include/boost/mpl/back_fwd.hpp \
+  /usr/local/include/boost/mpl/base.hpp \
+  /usr/local/include/boost/mpl/begin.hpp \
   /usr/local/include/boost/mpl/begin_end.hpp \
   /usr/local/include/boost/mpl/begin_end_fwd.hpp \
   /usr/local/include/boost/mpl/bind.hpp \
   /usr/local/include/boost/mpl/bind_fwd.hpp \
   /usr/local/include/boost/mpl/bool.hpp \
   /usr/local/include/boost/mpl/bool_fwd.hpp \
+  /usr/local/include/boost/mpl/clear.hpp \
+  /usr/local/include/boost/mpl/clear_fwd.hpp \
+  /usr/local/include/boost/mpl/contains.hpp \
+  /usr/local/include/boost/mpl/contains_fwd.hpp \
   /usr/local/include/boost/mpl/count_fwd.hpp \
   /usr/local/include/boost/mpl/deref.hpp \
   /usr/local/include/boost/mpl/distance.hpp \
   /usr/local/include/boost/mpl/distance_fwd.hpp \
+  /usr/local/include/boost/mpl/empty_base.hpp \
+  /usr/local/include/boost/mpl/empty_fwd.hpp \
+  /usr/local/include/boost/mpl/end.hpp \
+  /usr/local/include/boost/mpl/equal_to.hpp \
+  /usr/local/include/boost/mpl/erase.hpp \
+  /usr/local/include/boost/mpl/erase_fwd.hpp \
+  /usr/local/include/boost/mpl/erase_key_fwd.hpp \
   /usr/local/include/boost/mpl/eval_if.hpp \
   /usr/local/include/boost/mpl/find.hpp \
   /usr/local/include/boost/mpl/find_if.hpp \
+  /usr/local/include/boost/mpl/fold.hpp \
+  /usr/local/include/boost/mpl/front.hpp \
+  /usr/local/include/boost/mpl/front_fwd.hpp \
+  /usr/local/include/boost/mpl/has_key.hpp \
   /usr/local/include/boost/mpl/has_key_fwd.hpp \
   /usr/local/include/boost/mpl/has_xxx.hpp \
   /usr/local/include/boost/mpl/identity.hpp \
   /usr/local/include/boost/mpl/if.hpp \
+  /usr/local/include/boost/mpl/index_if.hpp \
+  /usr/local/include/boost/mpl/index_of.hpp \
+  /usr/local/include/boost/mpl/inherit.hpp \
+  /usr/local/include/boost/mpl/insert.hpp \
+  /usr/local/include/boost/mpl/insert_fwd.hpp \
+  /usr/local/include/boost/mpl/insert_range_fwd.hpp \
   /usr/local/include/boost/mpl/int.hpp \
   /usr/local/include/boost/mpl/int_fwd.hpp \
+  /usr/local/include/boost/mpl/integral_c.hpp \
+  /usr/local/include/boost/mpl/integral_c_fwd.hpp \
   /usr/local/include/boost/mpl/integral_c_tag.hpp \
+  /usr/local/include/boost/mpl/is_sequence.hpp \
   /usr/local/include/boost/mpl/iter_fold.hpp \
   /usr/local/include/boost/mpl/iter_fold_if.hpp \
   /usr/local/include/boost/mpl/iterator_range.hpp \
   /usr/local/include/boost/mpl/iterator_tags.hpp \
+  /usr/local/include/boost/mpl/joint_view.hpp \
   /usr/local/include/boost/mpl/key_type_fwd.hpp \
   /usr/local/include/boost/mpl/lambda.hpp \
   /usr/local/include/boost/mpl/lambda_fwd.hpp \
+  /usr/local/include/boost/mpl/less.hpp \
   /usr/local/include/boost/mpl/limits/arity.hpp \
+  /usr/local/include/boost/mpl/limits/map.hpp \
   /usr/local/include/boost/mpl/limits/vector.hpp \
   /usr/local/include/boost/mpl/logical.hpp \
   /usr/local/include/boost/mpl/long.hpp \
   /usr/local/include/boost/mpl/long_fwd.hpp \
+  /usr/local/include/boost/mpl/map.hpp \
+  /usr/local/include/boost/mpl/map/aux_/at_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/clear_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/empty_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/item.hpp \
+  /usr/local/include/boost/mpl/map/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/map0.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp \
+  /usr/local/include/boost/mpl/map/aux_/size_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/map0.hpp \
+  /usr/local/include/boost/mpl/map/map10.hpp \
+  /usr/local/include/boost/mpl/map/map20.hpp \
+  /usr/local/include/boost/mpl/minus.hpp \
+  /usr/local/include/boost/mpl/multiplies.hpp \
+  /usr/local/include/boost/mpl/negate.hpp \
   /usr/local/include/boost/mpl/next.hpp \
   /usr/local/include/boost/mpl/next_prior.hpp \
   /usr/local/include/boost/mpl/not.hpp \
+  /usr/local/include/boost/mpl/numeric_cast.hpp \
   /usr/local/include/boost/mpl/or.hpp \
   /usr/local/include/boost/mpl/order_fwd.hpp \
   /usr/local/include/boost/mpl/pair.hpp \
   /usr/local/include/boost/mpl/placeholders.hpp \
+  /usr/local/include/boost/mpl/plus.hpp \
+  /usr/local/include/boost/mpl/pop_back_fwd.hpp \
+  /usr/local/include/boost/mpl/pop_front_fwd.hpp \
+  /usr/local/include/boost/mpl/prior.hpp \
   /usr/local/include/boost/mpl/protect.hpp \
+  /usr/local/include/boost/mpl/push_back.hpp \
+  /usr/local/include/boost/mpl/push_back_fwd.hpp \
+  /usr/local/include/boost/mpl/push_front.hpp \
+  /usr/local/include/boost/mpl/push_front_fwd.hpp \
   /usr/local/include/boost/mpl/quote.hpp \
+  /usr/local/include/boost/mpl/reverse_fold.hpp \
   /usr/local/include/boost/mpl/same_as.hpp \
   /usr/local/include/boost/mpl/sequence_tag.hpp \
   /usr/local/include/boost/mpl/sequence_tag_fwd.hpp \
+  /usr/local/include/boost/mpl/size.hpp \
+  /usr/local/include/boost/mpl/size_fwd.hpp \
+  /usr/local/include/boost/mpl/size_t.hpp \
+  /usr/local/include/boost/mpl/size_t_fwd.hpp \
   /usr/local/include/boost/mpl/tag.hpp \
+  /usr/local/include/boost/mpl/times.hpp \
   /usr/local/include/boost/mpl/value_type_fwd.hpp \
+  /usr/local/include/boost/mpl/vector.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/O1_size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/at.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/begin_end.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/clear.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/empty.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/item.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/vector20.hpp \
   /usr/local/include/boost/mpl/void.hpp \
   /usr/local/include/boost/mpl/void_fwd.hpp \
+  /usr/local/include/boost/next_prior.hpp \
+  /usr/local/include/boost/noncopyable.hpp \
+  /usr/local/include/boost/numeric/conversion/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/cast.hpp \
+  /usr/local/include/boost/numeric/conversion/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/converter_policies.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/meta.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp \
+  /usr/local/include/boost/operators.hpp \
+  /usr/local/include/boost/optional/optional_fwd.hpp \
   /usr/local/include/boost/parameter/aux_/arg_list.hpp \
   /usr/local/include/boost/parameter/aux_/augment_predicate.hpp \
   /usr/local/include/boost/parameter/aux_/default.hpp \
@@ -732,14 +1359,183 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/keyword_fwd.hpp \
   /usr/local/include/boost/parameter/value_type.hpp \
+  /usr/local/include/boost/phoenix/core/actor.hpp \
+  /usr/local/include/boost/phoenix/core/argument.hpp \
+  /usr/local/include/boost/phoenix/core/as_actor.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp \
+  /usr/local/include/boost/phoenix/core/detail/expression.hpp \
+  /usr/local/include/boost/phoenix/core/detail/index_sequence.hpp \
+  /usr/local/include/boost/phoenix/core/domain.hpp \
+  /usr/local/include/boost/phoenix/core/environment.hpp \
+  /usr/local/include/boost/phoenix/core/expression.hpp \
+  /usr/local/include/boost/phoenix/core/is_actor.hpp \
+  /usr/local/include/boost/phoenix/core/is_nullary.hpp \
+  /usr/local/include/boost/phoenix/core/limits.hpp \
+  /usr/local/include/boost/phoenix/core/meta_grammar.hpp \
+  /usr/local/include/boost/phoenix/core/terminal.hpp \
+  /usr/local/include/boost/phoenix/core/terminal_fwd.hpp \
+  /usr/local/include/boost/phoenix/operator/comparison.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/define_operator.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp \
+  /usr/local/include/boost/phoenix/support/detail/iterate_define.hpp \
+  /usr/local/include/boost/phoenix/support/iterate.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessor/round.hpp \
+  /usr/local/include/boost/phoenix/support/vector.hpp \
+  /usr/local/include/boost/phoenix/version.hpp \
+  /usr/local/include/boost/predef.h \
+  /usr/local/include/boost/predef/architecture.h \
+  /usr/local/include/boost/predef/architecture/alpha.h \
+  /usr/local/include/boost/predef/architecture/arm.h \
+  /usr/local/include/boost/predef/architecture/blackfin.h \
+  /usr/local/include/boost/predef/architecture/convex.h \
+  /usr/local/include/boost/predef/architecture/e2k.h \
+  /usr/local/include/boost/predef/architecture/ia64.h \
+  /usr/local/include/boost/predef/architecture/loongarch.h \
+  /usr/local/include/boost/predef/architecture/m68k.h \
+  /usr/local/include/boost/predef/architecture/mips.h \
+  /usr/local/include/boost/predef/architecture/parisc.h \
+  /usr/local/include/boost/predef/architecture/ppc.h \
+  /usr/local/include/boost/predef/architecture/ptx.h \
+  /usr/local/include/boost/predef/architecture/pyramid.h \
+  /usr/local/include/boost/predef/architecture/riscv.h \
+  /usr/local/include/boost/predef/architecture/rs6k.h \
+  /usr/local/include/boost/predef/architecture/sparc.h \
+  /usr/local/include/boost/predef/architecture/superh.h \
+  /usr/local/include/boost/predef/architecture/sys370.h \
+  /usr/local/include/boost/predef/architecture/sys390.h \
+  /usr/local/include/boost/predef/architecture/x86.h \
+  /usr/local/include/boost/predef/architecture/x86/32.h \
+  /usr/local/include/boost/predef/architecture/x86/64.h \
+  /usr/local/include/boost/predef/architecture/z.h \
+  /usr/local/include/boost/predef/compiler.h \
+  /usr/local/include/boost/predef/compiler/borland.h \
+  /usr/local/include/boost/predef/compiler/clang.h \
+  /usr/local/include/boost/predef/compiler/comeau.h \
+  /usr/local/include/boost/predef/compiler/compaq.h \
+  /usr/local/include/boost/predef/compiler/diab.h \
+  /usr/local/include/boost/predef/compiler/digitalmars.h \
+  /usr/local/include/boost/predef/compiler/dignus.h \
+  /usr/local/include/boost/predef/compiler/edg.h \
+  /usr/local/include/boost/predef/compiler/ekopath.h \
+  /usr/local/include/boost/predef/compiler/gcc.h \
+  /usr/local/include/boost/predef/compiler/gcc_xml.h \
+  /usr/local/include/boost/predef/compiler/greenhills.h \
+  /usr/local/include/boost/predef/compiler/hp_acc.h \
+  /usr/local/include/boost/predef/compiler/iar.h \
+  /usr/local/include/boost/predef/compiler/ibm.h \
+  /usr/local/include/boost/predef/compiler/intel.h \
+  /usr/local/include/boost/predef/compiler/kai.h \
+  /usr/local/include/boost/predef/compiler/llvm.h \
+  /usr/local/include/boost/predef/compiler/metaware.h \
+  /usr/local/include/boost/predef/compiler/metrowerks.h \
+  /usr/local/include/boost/predef/compiler/microtec.h \
+  /usr/local/include/boost/predef/compiler/mpw.h \
+  /usr/local/include/boost/predef/compiler/nvcc.h \
+  /usr/local/include/boost/predef/compiler/palm.h \
+  /usr/local/include/boost/predef/compiler/pgi.h \
+  /usr/local/include/boost/predef/compiler/sgi_mipspro.h \
+  /usr/local/include/boost/predef/compiler/sunpro.h \
+  /usr/local/include/boost/predef/compiler/tendra.h \
+  /usr/local/include/boost/predef/compiler/visualc.h \
+  /usr/local/include/boost/predef/compiler/watcom.h \
+  /usr/local/include/boost/predef/detail/_cassert.h \
+  /usr/local/include/boost/predef/detail/_exception.h \
+  /usr/local/include/boost/predef/detail/comp_detected.h \
+  /usr/local/include/boost/predef/detail/os_detected.h \
+  /usr/local/include/boost/predef/detail/test.h \
+  /usr/local/include/boost/predef/hardware.h \
+  /usr/local/include/boost/predef/hardware/simd.h \
+  /usr/local/include/boost/predef/hardware/simd/arm.h \
+  /usr/local/include/boost/predef/hardware/simd/arm/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86.h \
+  /usr/local/include/boost/predef/hardware/simd/x86/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h \
+  /usr/local/include/boost/predef/language.h \
+  /usr/local/include/boost/predef/language/cuda.h \
+  /usr/local/include/boost/predef/language/objc.h \
+  /usr/local/include/boost/predef/language/stdc.h \
+  /usr/local/include/boost/predef/language/stdcpp.h \
+  /usr/local/include/boost/predef/library.h \
+  /usr/local/include/boost/predef/library/c.h \
+  /usr/local/include/boost/predef/library/c/_prefix.h \
+  /usr/local/include/boost/predef/library/c/cloudabi.h \
+  /usr/local/include/boost/predef/library/c/gnu.h \
+  /usr/local/include/boost/predef/library/c/uc.h \
+  /usr/local/include/boost/predef/library/c/vms.h \
+  /usr/local/include/boost/predef/library/c/zos.h \
+  /usr/local/include/boost/predef/library/std.h \
+  /usr/local/include/boost/predef/library/std/_prefix.h \
+  /usr/local/include/boost/predef/library/std/cxx.h \
+  /usr/local/include/boost/predef/library/std/dinkumware.h \
+  /usr/local/include/boost/predef/library/std/libcomo.h \
+  /usr/local/include/boost/predef/library/std/modena.h \
+  /usr/local/include/boost/predef/library/std/msl.h \
+  /usr/local/include/boost/predef/library/std/roguewave.h \
+  /usr/local/include/boost/predef/library/std/sgi.h \
+  /usr/local/include/boost/predef/library/std/stdcpp3.h \
+  /usr/local/include/boost/predef/library/std/stlport.h \
+  /usr/local/include/boost/predef/library/std/vacpp.h \
+  /usr/local/include/boost/predef/make.h \
+  /usr/local/include/boost/predef/os.h \
+  /usr/local/include/boost/predef/os/aix.h \
+  /usr/local/include/boost/predef/os/amigaos.h \
+  /usr/local/include/boost/predef/os/beos.h \
+  /usr/local/include/boost/predef/os/bsd.h \
+  /usr/local/include/boost/predef/os/bsd/bsdi.h \
+  /usr/local/include/boost/predef/os/bsd/dragonfly.h \
+  /usr/local/include/boost/predef/os/bsd/free.h \
+  /usr/local/include/boost/predef/os/bsd/net.h \
+  /usr/local/include/boost/predef/os/bsd/open.h \
+  /usr/local/include/boost/predef/os/cygwin.h \
+  /usr/local/include/boost/predef/os/haiku.h \
+  /usr/local/include/boost/predef/os/hpux.h \
+  /usr/local/include/boost/predef/os/ios.h \
+  /usr/local/include/boost/predef/os/irix.h \
+  /usr/local/include/boost/predef/os/linux.h \
+  /usr/local/include/boost/predef/os/macos.h \
+  /usr/local/include/boost/predef/os/os400.h \
+  /usr/local/include/boost/predef/os/qnxnto.h \
+  /usr/local/include/boost/predef/os/solaris.h \
+  /usr/local/include/boost/predef/os/unix.h \
+  /usr/local/include/boost/predef/os/vms.h \
+  /usr/local/include/boost/predef/os/windows.h \
+  /usr/local/include/boost/predef/other.h \
+  /usr/local/include/boost/predef/other/endian.h \
+  /usr/local/include/boost/predef/other/wordsize.h \
+  /usr/local/include/boost/predef/other/workaround.h \
+  /usr/local/include/boost/predef/platform.h \
+  /usr/local/include/boost/predef/platform/android.h \
+  /usr/local/include/boost/predef/platform/cloudabi.h \
+  /usr/local/include/boost/predef/platform/ios.h \
+  /usr/local/include/boost/predef/platform/mingw.h \
+  /usr/local/include/boost/predef/platform/mingw32.h \
+  /usr/local/include/boost/predef/platform/mingw64.h \
+  /usr/local/include/boost/predef/platform/windows_desktop.h \
+  /usr/local/include/boost/predef/platform/windows_phone.h \
+  /usr/local/include/boost/predef/platform/windows_runtime.h \
+  /usr/local/include/boost/predef/platform/windows_server.h \
+  /usr/local/include/boost/predef/platform/windows_store.h \
+  /usr/local/include/boost/predef/platform/windows_system.h \
+  /usr/local/include/boost/predef/platform/windows_uwp.h \
+  /usr/local/include/boost/predef/version.h \
+  /usr/local/include/boost/predef/version_number.h \
   /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/mod.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
   /usr/local/include/boost/preprocessor/array/data.hpp \
   /usr/local/include/boost/preprocessor/array/elem.hpp \
@@ -747,32 +1543,52 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/preprocessor/cat.hpp \
   /usr/local/include/boost/preprocessor/comma_if.hpp \
   /usr/local/include/boost/preprocessor/comparison/equal.hpp \
+  /usr/local/include/boost/preprocessor/comparison/greater.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less_equal.hpp \
   /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
   /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
   /usr/local/include/boost/preprocessor/config/config.hpp \
   /usr/local/include/boost/preprocessor/config/limits.hpp \
+  /usr/local/include/boost/preprocessor/control/deduce_d.hpp \
   /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/detail/while.hpp \
+  /usr/local/include/boost/preprocessor/control/expr_if.hpp \
   /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
   /usr/local/include/boost/preprocessor/control/if.hpp \
   /usr/local/include/boost/preprocessor/control/iif.hpp \
   /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/while.hpp \
   /usr/local/include/boost/preprocessor/debug/error.hpp \
+  /usr/local/include/boost/preprocessor/dec.hpp \
   /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
   /usr/local/include/boost/preprocessor/detail/check.hpp \
   /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /usr/local/include/boost/preprocessor/detail/is_unary.hpp \
   /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
   /usr/local/include/boost/preprocessor/empty.hpp \
+  /usr/local/include/boost/preprocessor/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/identity.hpp \
   /usr/local/include/boost/preprocessor/facilities/intercept.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp \
   /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp \
   /usr/local/include/boost/preprocessor/facilities/overload.hpp \
   /usr/local/include/boost/preprocessor/identity.hpp \
+  /usr/local/include/boost/preprocessor/if.hpp \
   /usr/local/include/boost/preprocessor/inc.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/iterate.hpp \
+  /usr/local/include/boost/preprocessor/iteration/local.hpp \
   /usr/local/include/boost/preprocessor/list/adt.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
@@ -780,6 +1596,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
   /usr/local/include/boost/preprocessor/list/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/fold_right.hpp \
+  /usr/local/include/boost/preprocessor/list/for_each_i.hpp \
   /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/list/reverse.hpp \
   /usr/local/include/boost/preprocessor/logical/and.hpp \
@@ -791,27 +1608,211 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/preprocessor/logical/not.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/paren.hpp \
   /usr/local/include/boost/preprocessor/repeat.hpp \
+  /usr/local/include/boost/preprocessor/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/selection/max.hpp \
+  /usr/local/include/boost/preprocessor/seq/cat.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/split.hpp \
+  /usr/local/include/boost/preprocessor/seq/elem.hpp \
   /usr/local/include/boost/preprocessor/seq/enum.hpp \
+  /usr/local/include/boost/preprocessor/seq/first_n.hpp \
+  /usr/local/include/boost/preprocessor/seq/fold_left.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/pop_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_front.hpp \
+  /usr/local/include/boost/preprocessor/seq/reverse.hpp \
+  /usr/local/include/boost/preprocessor/seq/seq.hpp \
   /usr/local/include/boost/preprocessor/seq/size.hpp \
+  /usr/local/include/boost/preprocessor/seq/to_tuple.hpp \
+  /usr/local/include/boost/preprocessor/seq/transform.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/def.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/shared.hpp \
+  /usr/local/include/boost/preprocessor/slot/slot.hpp \
   /usr/local/include/boost/preprocessor/stringize.hpp \
   /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
   /usr/local/include/boost/preprocessor/tuple/eat.hpp \
   /usr/local/include/boost/preprocessor/tuple/elem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp \
   /usr/local/include/boost/preprocessor/tuple/rem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/size.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_seq.hpp \
   /usr/local/include/boost/preprocessor/variadic/elem.hpp \
   /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/size.hpp \
+  /usr/local/include/boost/preprocessor/variadic/to_seq.hpp \
+  /usr/local/include/boost/proto/args.hpp \
+  /usr/local/include/boost/proto/detail/and_n.hpp \
+  /usr/local/include/boost/proto/detail/any.hpp \
+  /usr/local/include/boost/proto/detail/args.hpp \
+  /usr/local/include/boost/proto/detail/as_expr.hpp \
+  /usr/local/include/boost/proto/detail/as_lvalue.hpp \
+  /usr/local/include/boost/proto/detail/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/decltype.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/deprecated.hpp \
+  /usr/local/include/boost/proto/detail/expr.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop_const.hpp \
+  /usr/local/include/boost/proto/detail/funop.hpp \
+  /usr/local/include/boost/proto/detail/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/ignore_unused.hpp \
+  /usr/local/include/boost/proto/detail/is_noncopyable.hpp \
+  /usr/local/include/boost/proto/detail/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/matches_.hpp \
+  /usr/local/include/boost/proto/detail/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/or_n.hpp \
+  /usr/local/include/boost/proto/detail/poly_function.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/and_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/args.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/matches_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/or_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/detail/remove_typename.hpp \
+  /usr/local/include/boost/proto/detail/static_const.hpp \
+  /usr/local/include/boost/proto/detail/template_arity.hpp \
+  /usr/local/include/boost/proto/detail/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/traits.hpp \
+  /usr/local/include/boost/proto/detail/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/domain.hpp \
+  /usr/local/include/boost/proto/expr.hpp \
+  /usr/local/include/boost/proto/extends.hpp \
+  /usr/local/include/boost/proto/functional/fusion/at.hpp \
+  /usr/local/include/boost/proto/generate.hpp \
+  /usr/local/include/boost/proto/make_expr.hpp \
+  /usr/local/include/boost/proto/matches.hpp \
+  /usr/local/include/boost/proto/operators.hpp \
+  /usr/local/include/boost/proto/proto_fwd.hpp \
+  /usr/local/include/boost/proto/tags.hpp \
+  /usr/local/include/boost/proto/traits.hpp \
+  /usr/local/include/boost/proto/transform/arg.hpp \
+  /usr/local/include/boost/proto/transform/call.hpp \
+  /usr/local/include/boost/proto/transform/default.hpp \
+  /usr/local/include/boost/proto/transform/detail/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp \
+  /usr/local/include/boost/proto/transform/detail/when.hpp \
+  /usr/local/include/boost/proto/transform/env.hpp \
+  /usr/local/include/boost/proto/transform/fold.hpp \
+  /usr/local/include/boost/proto/transform/impl.hpp \
+  /usr/local/include/boost/proto/transform/lazy.hpp \
+  /usr/local/include/boost/proto/transform/make.hpp \
+  /usr/local/include/boost/proto/transform/pass_through.hpp \
+  /usr/local/include/boost/proto/transform/when.hpp \
+  /usr/local/include/boost/range/algorithm/equal.hpp \
+  /usr/local/include/boost/range/begin.hpp \
+  /usr/local/include/boost/range/concepts.hpp \
+  /usr/local/include/boost/range/config.hpp \
+  /usr/local/include/boost/range/const_iterator.hpp \
+  /usr/local/include/boost/range/detail/common.hpp \
+  /usr/local/include/boost/range/detail/extract_optional_type.hpp \
+  /usr/local/include/boost/range/detail/has_member_size.hpp \
+  /usr/local/include/boost/range/detail/implementation_help.hpp \
+  /usr/local/include/boost/range/detail/misc_concept.hpp \
+  /usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+  /usr/local/include/boost/range/detail/safe_bool.hpp \
+  /usr/local/include/boost/range/detail/sfinae.hpp \
+  /usr/local/include/boost/range/difference_type.hpp \
+  /usr/local/include/boost/range/distance.hpp \
+  /usr/local/include/boost/range/empty.hpp \
+  /usr/local/include/boost/range/end.hpp \
+  /usr/local/include/boost/range/functions.hpp \
+  /usr/local/include/boost/range/has_range_iterator.hpp \
+  /usr/local/include/boost/range/iterator.hpp \
+  /usr/local/include/boost/range/iterator_range_core.hpp \
+  /usr/local/include/boost/range/mutable_iterator.hpp \
+  /usr/local/include/boost/range/range_fwd.hpp \
+  /usr/local/include/boost/range/rbegin.hpp \
+  /usr/local/include/boost/range/rend.hpp \
+  /usr/local/include/boost/range/reverse_iterator.hpp \
+  /usr/local/include/boost/range/size.hpp \
+  /usr/local/include/boost/range/size_type.hpp \
+  /usr/local/include/boost/range/value_type.hpp \
+  /usr/local/include/boost/ratio/config.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/abs.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/gcd.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/lcm.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/sign.hpp \
+  /usr/local/include/boost/ratio/detail/overflow_helpers.hpp \
+  /usr/local/include/boost/ratio/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/ratio/ratio.hpp \
+  /usr/local/include/boost/ratio/ratio_fwd.hpp \
+  /usr/local/include/boost/ref.hpp \
+  /usr/local/include/boost/shared_ptr.hpp \
   /usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
@@ -825,6 +1826,7 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+  /usr/local/include/boost/smart_ptr/detail/sp_forward.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
@@ -838,46 +1840,116 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/smart_ptr/detail/yield_k.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+  /usr/local/include/boost/smart_ptr/make_shared_object.hpp \
   /usr/local/include/boost/smart_ptr/shared_ptr.hpp \
   /usr/local/include/boost/static_assert.hpp \
+  /usr/local/include/boost/system/api_config.hpp \
+  /usr/local/include/boost/system/detail/append_int.hpp \
+  /usr/local/include/boost/system/detail/cerrno.hpp \
+  /usr/local/include/boost/system/detail/config.hpp \
+  /usr/local/include/boost/system/detail/enable_if.hpp \
+  /usr/local/include/boost/system/detail/errc.hpp \
+  /usr/local/include/boost/system/detail/error_category.hpp \
+  /usr/local/include/boost/system/detail/error_category_impl.hpp \
+  /usr/local/include/boost/system/detail/error_code.hpp \
+  /usr/local/include/boost/system/detail/error_condition.hpp \
+  /usr/local/include/boost/system/detail/generic_category.hpp \
+  /usr/local/include/boost/system/detail/generic_category_message.hpp \
+  /usr/local/include/boost/system/detail/interop_category.hpp \
+  /usr/local/include/boost/system/detail/is_same.hpp \
+  /usr/local/include/boost/system/detail/mutex.hpp \
+  /usr/local/include/boost/system/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/system/detail/snprintf.hpp \
+  /usr/local/include/boost/system/detail/std_category.hpp \
+  /usr/local/include/boost/system/detail/std_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category.hpp \
+  /usr/local/include/boost/system/detail/system_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category_message.hpp \
+  /usr/local/include/boost/system/detail/throws.hpp \
+  /usr/local/include/boost/system/errc.hpp \
+  /usr/local/include/boost/system/error_category.hpp \
+  /usr/local/include/boost/system/error_code.hpp \
+  /usr/local/include/boost/system/error_condition.hpp \
+  /usr/local/include/boost/system/generic_category.hpp \
+  /usr/local/include/boost/system/is_error_code_enum.hpp \
+  /usr/local/include/boost/system/is_error_condition_enum.hpp \
+  /usr/local/include/boost/system/system_category.hpp \
+  /usr/local/include/boost/system/system_error.hpp \
   /usr/local/include/boost/thread/detail/config.hpp \
+  /usr/local/include/boost/thread/detail/delete.hpp \
+  /usr/local/include/boost/thread/detail/move.hpp \
   /usr/local/include/boost/thread/detail/platform.hpp \
+  /usr/local/include/boost/thread/detail/platform_time.hpp \
   /usr/local/include/boost/thread/detail/thread_safety.hpp \
+  /usr/local/include/boost/thread/exceptions.hpp \
+  /usr/local/include/boost/thread/lock_options.hpp \
+  /usr/local/include/boost/thread/lock_types.hpp \
+  /usr/local/include/boost/thread/lockable_traits.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_helpers.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp \
+  /usr/local/include/boost/thread/pthread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/thread_time.hpp \
+  /usr/local/include/boost/thread/tss.hpp \
   /usr/local/include/boost/throw_exception.hpp \
+  /usr/local/include/boost/type.hpp \
   /usr/local/include/boost/type_index.hpp \
   /usr/local/include/boost/type_index/stl_type_index.hpp \
   /usr/local/include/boost/type_index/type_index_facade.hpp \
   /usr/local/include/boost/type_traits/add_const.hpp \
+  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
+  /usr/local/include/boost/type_traits/add_pointer.hpp \
+  /usr/local/include/boost/type_traits/add_reference.hpp \
   /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
   /usr/local/include/boost/type_traits/add_volatile.hpp \
+  /usr/local/include/boost/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/type_traits/common_type.hpp \
   /usr/local/include/boost/type_traits/conditional.hpp \
   /usr/local/include/boost/type_traits/conjunction.hpp \
+  /usr/local/include/boost/type_traits/conversion_traits.hpp \
+  /usr/local/include/boost/type_traits/decay.hpp \
   /usr/local/include/boost/type_traits/declval.hpp \
   /usr/local/include/boost/type_traits/detail/config.hpp \
+  /usr/local/include/boost/type_traits/detail/has_binary_operator.hpp \
   /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
+  /usr/local/include/boost/type_traits/detail/mp_defer.hpp \
   /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
   /usr/local/include/boost/type_traits/enable_if.hpp \
+  /usr/local/include/boost/type_traits/function_traits.hpp \
+  /usr/local/include/boost/type_traits/has_left_shift.hpp \
+  /usr/local/include/boost/type_traits/has_minus.hpp \
+  /usr/local/include/boost/type_traits/has_minus_assign.hpp \
   /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp \
+  /usr/local/include/boost/type_traits/has_plus.hpp \
+  /usr/local/include/boost/type_traits/has_plus_assign.hpp \
+  /usr/local/include/boost/type_traits/has_right_shift.hpp \
   /usr/local/include/boost/type_traits/integral_constant.hpp \
   /usr/local/include/boost/type_traits/intrinsics.hpp \
+  /usr/local/include/boost/type_traits/is_abstract.hpp \
   /usr/local/include/boost/type_traits/is_arithmetic.hpp \
+  /usr/local/include/boost/type_traits/is_array.hpp \
   /usr/local/include/boost/type_traits/is_base_and_derived.hpp \
   /usr/local/include/boost/type_traits/is_base_of.hpp \
   /usr/local/include/boost/type_traits/is_class.hpp \
   /usr/local/include/boost/type_traits/is_complete.hpp \
   /usr/local/include/boost/type_traits/is_const.hpp \
+  /usr/local/include/boost/type_traits/is_convertible.hpp \
   /usr/local/include/boost/type_traits/is_default_constructible.hpp \
+  /usr/local/include/boost/type_traits/is_empty.hpp \
   /usr/local/include/boost/type_traits/is_enum.hpp \
+  /usr/local/include/boost/type_traits/is_float.hpp \
   /usr/local/include/boost/type_traits/is_floating_point.hpp \
   /usr/local/include/boost/type_traits/is_function.hpp \
   /usr/local/include/boost/type_traits/is_integral.hpp \
   /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
   /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /usr/local/include/boost/type_traits/is_member_object_pointer.hpp \
   /usr/local/include/boost/type_traits/is_member_pointer.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp \
+  /usr/local/include/boost/type_traits/is_pod.hpp \
   /usr/local/include/boost/type_traits/is_pointer.hpp \
   /usr/local/include/boost/type_traits/is_reference.hpp \
   /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
@@ -888,12 +1960,29 @@ CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log
   /usr/local/include/boost/type_traits/is_unsigned.hpp \
   /usr/local/include/boost/type_traits/is_void.hpp \
   /usr/local/include/boost/type_traits/is_volatile.hpp \
+  /usr/local/include/boost/type_traits/make_signed.hpp \
   /usr/local/include/boost/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/type_traits/make_void.hpp \
+  /usr/local/include/boost/type_traits/remove_bounds.hpp \
   /usr/local/include/boost/type_traits/remove_const.hpp \
   /usr/local/include/boost/type_traits/remove_cv.hpp \
+  /usr/local/include/boost/type_traits/remove_extent.hpp \
+  /usr/local/include/boost/type_traits/remove_pointer.hpp \
   /usr/local/include/boost/type_traits/remove_reference.hpp \
+  /usr/local/include/boost/type_traits/remove_volatile.hpp \
   /usr/local/include/boost/type_traits/type_identity.hpp \
+  /usr/local/include/boost/type_traits/type_with_alignment.hpp \
+  /usr/local/include/boost/typeof/decltype.hpp \
+  /usr/local/include/boost/typeof/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/typeof/message.hpp \
+  /usr/local/include/boost/typeof/typeof.hpp \
+  /usr/local/include/boost/utility.hpp \
+  /usr/local/include/boost/utility/addressof.hpp \
+  /usr/local/include/boost/utility/base_from_member.hpp \
+  /usr/local/include/boost/utility/binary.hpp \
   /usr/local/include/boost/utility/detail/result_of_variadic.hpp \
+  /usr/local/include/boost/utility/enable_if.hpp \
+  /usr/local/include/boost/utility/identity_type.hpp \
   /usr/local/include/boost/utility/result_of.hpp \
   /usr/local/include/boost/utility/string_ref_fwd.hpp \
   /usr/local/include/boost/utility/string_view_fwd.hpp \
@@ -1153,6 +2242,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
@@ -1168,6 +2258,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
@@ -1219,13 +2310,69 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
@@ -1278,6 +2425,8 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h \
@@ -1309,6 +2458,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h \
@@ -1333,6 +2483,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
@@ -1350,6 +2501,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
@@ -1584,8 +2736,98 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
+  /usr/local/include/boost/array.hpp \
   /usr/local/include/boost/assert.hpp \
   /usr/local/include/boost/assert/source_location.hpp \
+  /usr/local/include/boost/atomic/atomic.hpp \
+  /usr/local/include/boost/atomic/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/addressof.hpp \
+  /usr/local/include/boost/atomic/detail/aligned_variable.hpp \
+  /usr/local/include/boost/atomic/detail/atomic_impl.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_cast.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp \
+  /usr/local/include/boost/atomic/detail/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/classify.hpp \
+  /usr/local/include/boost/atomic/detail/config.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/float_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/footer.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/futex.hpp \
+  /usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/header.hpp \
+  /usr/local/include/boost/atomic/detail/int_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/integral_conversions.hpp \
+  /usr/local/include/boost/atomic/detail/intptr.hpp \
+  /usr/local/include/boost/atomic/detail/link.hpp \
+  /usr/local/include/boost/atomic/detail/lock_pool.hpp \
+  /usr/local/include/boost/atomic/detail/memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp \
+  /usr/local/include/boost/atomic/detail/pause.hpp \
+  /usr/local/include/boost/atomic/detail/platform.hpp \
+  /usr/local/include/boost/atomic/detail/storage_traits.hpp \
+  /usr/local/include/boost/atomic/detail/string_ops.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/conditional.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_function.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/atomic/detail/wait_capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_generic.hpp \
+  /usr/local/include/boost/chrono/ceil.hpp \
+  /usr/local/include/boost/chrono/clock_string.hpp \
+  /usr/local/include/boost/chrono/config.hpp \
+  /usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp \
+  /usr/local/include/boost/chrono/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/chrono/detail/static_assert.hpp \
+  /usr/local/include/boost/chrono/detail/system.hpp \
+  /usr/local/include/boost/chrono/duration.hpp \
+  /usr/local/include/boost/chrono/system_clocks.hpp \
+  /usr/local/include/boost/chrono/time_point.hpp \
+  /usr/local/include/boost/concept/assert.hpp \
+  /usr/local/include/boost/concept/detail/backward_compatibility.hpp \
+  /usr/local/include/boost/concept/detail/concept_def.hpp \
+  /usr/local/include/boost/concept/detail/concept_undef.hpp \
+  /usr/local/include/boost/concept/detail/general.hpp \
+  /usr/local/include/boost/concept/detail/has_constraints.hpp \
+  /usr/local/include/boost/concept/usage.hpp \
+  /usr/local/include/boost/concept_check.hpp \
   /usr/local/include/boost/config.hpp \
   /usr/local/include/boost/config/abi_prefix.hpp \
   /usr/local/include/boost/config/abi_suffix.hpp \
@@ -1598,13 +2840,18 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/local/include/boost/config/detail/suffix.hpp \
   /usr/local/include/boost/config/helper_macros.hpp \
+  /usr/local/include/boost/config/no_tr1/cmath.hpp \
   /usr/local/include/boost/config/no_tr1/functional.hpp \
+  /usr/local/include/boost/config/no_tr1/memory.hpp \
+  /usr/local/include/boost/config/no_tr1/utility.hpp \
   /usr/local/include/boost/config/platform/macos.hpp \
   /usr/local/include/boost/config/pragma_message.hpp \
   /usr/local/include/boost/config/requires_threads.hpp \
   /usr/local/include/boost/config/stdlib/libcpp.hpp \
   /usr/local/include/boost/config/user.hpp \
   /usr/local/include/boost/config/workaround.hpp \
+  /usr/local/include/boost/container/container_fwd.hpp \
+  /usr/local/include/boost/container/detail/std_fwd.hpp \
   /usr/local/include/boost/container_hash/detail/hash_mix.hpp \
   /usr/local/include/boost/container_hash/detail/hash_range.hpp \
   /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp \
@@ -1619,13 +2866,69 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/container_hash/is_unordered_range.hpp \
   /usr/local/include/boost/core/addressof.hpp \
   /usr/local/include/boost/core/checked_delete.hpp \
+  /usr/local/include/boost/core/cmath.hpp \
   /usr/local/include/boost/core/demangle.hpp \
   /usr/local/include/boost/core/enable_if.hpp \
   /usr/local/include/boost/core/explicit_operator_bool.hpp \
+  /usr/local/include/boost/core/noncopyable.hpp \
+  /usr/local/include/boost/core/null_deleter.hpp \
+  /usr/local/include/boost/core/ref.hpp \
+  /usr/local/include/boost/core/snprintf.hpp \
   /usr/local/include/boost/core/swap.hpp \
   /usr/local/include/boost/core/uncaught_exceptions.hpp \
+  /usr/local/include/boost/core/use_default.hpp \
   /usr/local/include/boost/cstdint.hpp \
   /usr/local/include/boost/current_function.hpp \
+  /usr/local/include/boost/date_time/adjust_functors.hpp \
+  /usr/local/include/boost/date_time/c_time.hpp \
+  /usr/local/include/boost/date_time/compiler_config.hpp \
+  /usr/local/include/boost/date_time/constrained_value.hpp \
+  /usr/local/include/boost/date_time/date.hpp \
+  /usr/local/include/boost/date_time/date_clock_device.hpp \
+  /usr/local/include/boost/date_time/date_defs.hpp \
+  /usr/local/include/boost/date_time/date_duration.hpp \
+  /usr/local/include/boost/date_time/date_duration_types.hpp \
+  /usr/local/include/boost/date_time/date_generators.hpp \
+  /usr/local/include/boost/date_time/date_iterator.hpp \
+  /usr/local/include/boost/date_time/dst_rules.hpp \
+  /usr/local/include/boost/date_time/filetime_functions.hpp \
+  /usr/local/include/boost/date_time/gregorian/conversion.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_date.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_month.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_weekday.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_ymd.hpp \
+  /usr/local/include/boost/date_time/gregorian/gregorian_types.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.ipp \
+  /usr/local/include/boost/date_time/int_adapter.hpp \
+  /usr/local/include/boost/date_time/locale_config.hpp \
+  /usr/local/include/boost/date_time/microsec_time_clock.hpp \
+  /usr/local/include/boost/date_time/period.hpp \
+  /usr/local/include/boost/date_time/posix_time/conversion.hpp \
+  /usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_config.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_system.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_types.hpp \
+  /usr/local/include/boost/date_time/posix_time/ptime.hpp \
+  /usr/local/include/boost/date_time/posix_time/time_period.hpp \
+  /usr/local/include/boost/date_time/special_defs.hpp \
+  /usr/local/include/boost/date_time/time.hpp \
+  /usr/local/include/boost/date_time/time_clock.hpp \
+  /usr/local/include/boost/date_time/time_defs.hpp \
+  /usr/local/include/boost/date_time/time_duration.hpp \
+  /usr/local/include/boost/date_time/time_iterator.hpp \
+  /usr/local/include/boost/date_time/time_resolution_traits.hpp \
+  /usr/local/include/boost/date_time/time_system_counted.hpp \
+  /usr/local/include/boost/date_time/time_system_split.hpp \
+  /usr/local/include/boost/date_time/wrapping_int.hpp \
+  /usr/local/include/boost/date_time/year_month_day.hpp \
   /usr/local/include/boost/describe/bases.hpp \
   /usr/local/include/boost/describe/detail/config.hpp \
   /usr/local/include/boost/describe/detail/cx_streq.hpp \
@@ -1633,8 +2936,188 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/describe/members.hpp \
   /usr/local/include/boost/describe/modifiers.hpp \
   /usr/local/include/boost/detail/atomic_count.hpp \
+  /usr/local/include/boost/detail/basic_pointerbuf.hpp \
+  /usr/local/include/boost/detail/indirect_traits.hpp \
+  /usr/local/include/boost/detail/lcast_precision.hpp \
+  /usr/local/include/boost/detail/select_type.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/exception/exception.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp \
+  /usr/local/include/boost/fusion/container/list/cons.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_iterator.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/list_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/nil.hpp \
+  /usr/local/include/boost/fusion/include/at.hpp \
+  /usr/local/include/boost/fusion/include/at_c.hpp \
+  /usr/local/include/boost/fusion/include/begin.hpp \
+  /usr/local/include/boost/fusion/include/fold.hpp \
+  /usr/local/include/boost/fusion/include/next.hpp \
+  /usr/local/include/boost/fusion/include/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/include/size.hpp \
+  /usr/local/include/boost/fusion/include/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/basic_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/deref.hpp \
+  /usr/local/include/boost/fusion/iterator/deref_data.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp \
+  /usr/local/include/boost/fusion/iterator/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/fusion/iterator/key_of.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/next.hpp \
+  /usr/local/include/boost/fusion/iterator/prior.hpp \
+  /usr/local/include/boost/fusion/iterator/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of_data.hpp \
+  /usr/local/include/boost/fusion/mpl/begin.hpp \
+  /usr/local/include/boost/fusion/mpl/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp \
+  /usr/local/include/boost/fusion/support/category_of.hpp \
+  /usr/local/include/boost/fusion/support/config.hpp \
+  /usr/local/include/boost/fusion/support/detail/access.hpp \
+  /usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp \
+  /usr/local/include/boost/fusion/support/detail/enabler.hpp \
+  /usr/local/include/boost/fusion/support/detail/index_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp \
+  /usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp \
+  /usr/local/include/boost/fusion/support/is_iterator.hpp \
+  /usr/local/include/boost/fusion/support/is_segmented.hpp \
+  /usr/local/include/boost/fusion/support/is_sequence.hpp \
+  /usr/local/include/boost/fusion/support/is_view.hpp \
+  /usr/local/include/boost/fusion/support/iterator_base.hpp \
+  /usr/local/include/boost/fusion/support/segmented_fold_until.hpp \
+  /usr/local/include/boost/fusion/support/sequence_base.hpp \
+  /usr/local/include/boost/fusion/support/tag_of.hpp \
+  /usr/local/include/boost/fusion/support/tag_of_fwd.hpp \
+  /usr/local/include/boost/fusion/support/void.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp \
+  /usr/local/include/boost/get_pointer.hpp \
+  /usr/local/include/boost/integer.hpp \
+  /usr/local/include/boost/integer_fwd.hpp \
+  /usr/local/include/boost/integer_traits.hpp \
+  /usr/local/include/boost/is_placeholder.hpp \
+  /usr/local/include/boost/iterator/advance.hpp \
+  /usr/local/include/boost/iterator/detail/config_def.hpp \
+  /usr/local/include/boost/iterator/detail/config_undef.hpp \
+  /usr/local/include/boost/iterator/detail/enable_if.hpp \
+  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
+  /usr/local/include/boost/iterator/distance.hpp \
+  /usr/local/include/boost/iterator/interoperable.hpp \
+  /usr/local/include/boost/iterator/iterator_adaptor.hpp \
+  /usr/local/include/boost/iterator/iterator_categories.hpp \
+  /usr/local/include/boost/iterator/iterator_concepts.hpp \
+  /usr/local/include/boost/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/iterator/iterator_traits.hpp \
+  /usr/local/include/boost/iterator/reverse_iterator.hpp \
+  /usr/local/include/boost/lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp \
+  /usr/local/include/boost/lexical_cast/detail/inf_nan.hpp \
+  /usr/local/include/boost/lexical_cast/detail/is_character.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp \
+  /usr/local/include/boost/lexical_cast/detail/widest_char.hpp \
+  /usr/local/include/boost/lexical_cast/try_lexical_convert.hpp \
+  /usr/local/include/boost/limits.hpp \
   /usr/local/include/boost/log/attributes/attribute.hpp \
   /usr/local/include/boost/log/attributes/attribute_cast.hpp \
   /usr/local/include/boost/log/attributes/attribute_name.hpp \
@@ -1642,29 +3125,75 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/log/attributes/attribute_value.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_impl.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_set.hpp \
+  /usr/local/include/boost/log/attributes/clock.hpp \
+  /usr/local/include/boost/log/attributes/constant.hpp \
+  /usr/local/include/boost/log/attributes/counter.hpp \
+  /usr/local/include/boost/log/attributes/current_process_id.hpp \
+  /usr/local/include/boost/log/attributes/current_thread_id.hpp \
+  /usr/local/include/boost/log/attributes/fallback_policy.hpp \
   /usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp \
+  /usr/local/include/boost/log/attributes/time_traits.hpp \
+  /usr/local/include/boost/log/attributes/value_extraction.hpp \
   /usr/local/include/boost/log/attributes/value_extraction_fwd.hpp \
+  /usr/local/include/boost/log/attributes/value_visitation.hpp \
   /usr/local/include/boost/log/attributes/value_visitation_fwd.hpp \
   /usr/local/include/boost/log/core/core.hpp \
   /usr/local/include/boost/log/core/record.hpp \
   /usr/local/include/boost/log/core/record_view.hpp \
   /usr/local/include/boost/log/detail/attachable_sstream_buf.hpp \
+  /usr/local/include/boost/log/detail/attr_output_impl.hpp \
+  /usr/local/include/boost/log/detail/attr_output_terminal.hpp \
   /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp \
   /usr/local/include/boost/log/detail/code_conversion.hpp \
   /usr/local/include/boost/log/detail/config.hpp \
+  /usr/local/include/boost/log/detail/copy_cv.hpp \
+  /usr/local/include/boost/log/detail/custom_terminal_spec.hpp \
   /usr/local/include/boost/log/detail/default_attribute_names.hpp \
+  /usr/local/include/boost/log/detail/embedded_string_type.hpp \
+  /usr/local/include/boost/log/detail/fake_mutex.hpp \
   /usr/local/include/boost/log/detail/footer.hpp \
+  /usr/local/include/boost/log/detail/generate_overloads.hpp \
   /usr/local/include/boost/log/detail/header.hpp \
+  /usr/local/include/boost/log/detail/id.hpp \
   /usr/local/include/boost/log/detail/is_character_type.hpp \
+  /usr/local/include/boost/log/detail/is_ostream.hpp \
   /usr/local/include/boost/log/detail/light_function.hpp \
   /usr/local/include/boost/log/detail/light_rw_mutex.hpp \
+  /usr/local/include/boost/log/detail/locking_ptr.hpp \
   /usr/local/include/boost/log/detail/locks.hpp \
   /usr/local/include/boost/log/detail/native_typeof.hpp \
   /usr/local/include/boost/log/detail/parameter_tools.hpp \
+  /usr/local/include/boost/log/detail/process_id.hpp \
+  /usr/local/include/boost/log/detail/setup_config.hpp \
   /usr/local/include/boost/log/detail/sfinae_tools.hpp \
+  /usr/local/include/boost/log/detail/sink_init_helpers.hpp \
+  /usr/local/include/boost/log/detail/thread_id.hpp \
+  /usr/local/include/boost/log/detail/trivial_keyword.hpp \
+  /usr/local/include/boost/log/detail/unary_function_terminal.hpp \
+  /usr/local/include/boost/log/detail/value_ref_visitation.hpp \
+  /usr/local/include/boost/log/exceptions.hpp \
+  /usr/local/include/boost/log/expressions/attr.hpp \
+  /usr/local/include/boost/log/expressions/attr_fwd.hpp \
   /usr/local/include/boost/log/expressions/filter.hpp \
+  /usr/local/include/boost/log/expressions/formatter.hpp \
+  /usr/local/include/boost/log/expressions/formatters/stream.hpp \
+  /usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp \
+  /usr/local/include/boost/log/expressions/keyword.hpp \
   /usr/local/include/boost/log/expressions/keyword_fwd.hpp \
+  /usr/local/include/boost/log/expressions/message.hpp \
+  /usr/local/include/boost/log/expressions/predicates/has_attr.hpp \
+  /usr/local/include/boost/log/keywords/auto_flush.hpp \
+  /usr/local/include/boost/log/keywords/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/keywords/filter.hpp \
+  /usr/local/include/boost/log/keywords/format.hpp \
   /usr/local/include/boost/log/keywords/severity.hpp \
+  /usr/local/include/boost/log/sinks/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_backend.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_frontend.hpp \
+  /usr/local/include/boost/log/sinks/frontend_requirements.hpp \
+  /usr/local/include/boost/log/sinks/sink.hpp \
+  /usr/local/include/boost/log/sinks/sync_frontend.hpp \
+  /usr/local/include/boost/log/sinks/text_ostream_backend.hpp \
   /usr/local/include/boost/log/sources/basic_logger.hpp \
   /usr/local/include/boost/log/sources/features.hpp \
   /usr/local/include/boost/log/sources/record_ostream.hpp \
@@ -1674,17 +3203,37 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/log/trivial.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp \
+  /usr/local/include/boost/log/utility/functional/bind.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_output.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_to_log.hpp \
+  /usr/local/include/boost/log/utility/functional/logical.hpp \
+  /usr/local/include/boost/log/utility/functional/nop.hpp \
+  /usr/local/include/boost/log/utility/manipulators/to_log.hpp \
+  /usr/local/include/boost/log/utility/once_block.hpp \
+  /usr/local/include/boost/log/utility/setup/common_attributes.hpp \
+  /usr/local/include/boost/log/utility/setup/console.hpp \
+  /usr/local/include/boost/log/utility/setup/filter_parser.hpp \
+  /usr/local/include/boost/log/utility/setup/formatter_parser.hpp \
   /usr/local/include/boost/log/utility/strictest_lock.hpp \
   /usr/local/include/boost/log/utility/string_literal_fwd.hpp \
+  /usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/unique_identifier_name.hpp \
+  /usr/local/include/boost/log/utility/value_ref.hpp \
+  /usr/local/include/boost/log/utility/value_ref_fwd.hpp \
+  /usr/local/include/boost/memory_order.hpp \
   /usr/local/include/boost/move/core.hpp \
   /usr/local/include/boost/move/detail/addressof.hpp \
   /usr/local/include/boost/move/detail/config_begin.hpp \
   /usr/local/include/boost/move/detail/config_end.hpp \
   /usr/local/include/boost/move/detail/meta_utils.hpp \
   /usr/local/include/boost/move/detail/meta_utils_core.hpp \
+  /usr/local/include/boost/move/detail/std_ns_begin.hpp \
+  /usr/local/include/boost/move/detail/std_ns_end.hpp \
+  /usr/local/include/boost/move/detail/type_traits.hpp \
   /usr/local/include/boost/move/detail/workaround.hpp \
+  /usr/local/include/boost/move/traits.hpp \
+  /usr/local/include/boost/move/utility.hpp \
   /usr/local/include/boost/move/utility_core.hpp \
   /usr/local/include/boost/mp11/algorithm.hpp \
   /usr/local/include/boost/mp11/bind.hpp \
@@ -1712,6 +3261,8 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mp11/version.hpp \
   /usr/local/include/boost/mpl/O1_size.hpp \
   /usr/local/include/boost/mpl/O1_size_fwd.hpp \
+  /usr/local/include/boost/mpl/advance.hpp \
+  /usr/local/include/boost/mpl/advance_fwd.hpp \
   /usr/local/include/boost/mpl/always.hpp \
   /usr/local/include/boost/mpl/and.hpp \
   /usr/local/include/boost/mpl/apply.hpp \
@@ -1720,20 +3271,28 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mpl/arg.hpp \
   /usr/local/include/boost/mpl/arg_fwd.hpp \
   /usr/local/include/boost/mpl/assert.hpp \
+  /usr/local/include/boost/mpl/at.hpp \
   /usr/local/include/boost/mpl/at_fwd.hpp \
   /usr/local/include/boost/mpl/aux_/O1_size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
+  /usr/local/include/boost/mpl/aux_/arithmetic_op.hpp \
   /usr/local/include/boost/mpl/aux_/arity.hpp \
   /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
+  /usr/local/include/boost/mpl/aux_/at_impl.hpp \
   /usr/local/include/boost/mpl/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/clear_impl.hpp \
   /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
+  /usr/local/include/boost/mpl/aux_/comparison_op.hpp \
   /usr/local/include/boost/mpl/aux_/config/adl.hpp \
   /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
   /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
   /usr/local/include/boost/mpl/aux_/config/bind.hpp \
   /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
   /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp \
   /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
   /usr/local/include/boost/mpl/aux_/config/eti.hpp \
   /usr/local/include/boost/mpl/aux_/config/forwarding.hpp \
@@ -1747,29 +3306,39 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
   /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
   /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/operators.hpp \
   /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
   /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
   /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
   /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
   /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/typeof.hpp \
   /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
   /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /usr/local/include/boost/mpl/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/erase_impl.hpp \
   /usr/local/include/boost/mpl/aux_/find_if_pred.hpp \
+  /usr/local/include/boost/mpl/aux_/fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/front_impl.hpp \
   /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
   /usr/local/include/boost/mpl/aux_/has_apply.hpp \
   /usr/local/include/boost/mpl/aux_/has_begin.hpp \
+  /usr/local/include/boost/mpl/aux_/has_key_impl.hpp \
   /usr/local/include/boost/mpl/aux_/has_size.hpp \
   /usr/local/include/boost/mpl/aux_/has_tag.hpp \
   /usr/local/include/boost/mpl/aux_/has_type.hpp \
   /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/aux_/insert_impl.hpp \
   /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp \
   /usr/local/include/boost/mpl/aux_/iter_apply.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/joint_iter.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_spec.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /usr/local/include/boost/mpl/aux_/largest_int.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_type.hpp \
@@ -1779,6 +3348,12 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mpl/aux_/na_spec.hpp \
   /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_op.hpp \
+  /usr/local/include/boost/mpl/aux_/order_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/overload_names.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
@@ -1786,17 +3361,34 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp \
+  /usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp \
+  /usr/local/include/boost/mpl/aux_/push_back_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/push_front_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/static_cast.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
@@ -1804,54 +3396,173 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/yes_no.hpp \
+  /usr/local/include/boost/mpl/back_fwd.hpp \
+  /usr/local/include/boost/mpl/base.hpp \
+  /usr/local/include/boost/mpl/begin.hpp \
   /usr/local/include/boost/mpl/begin_end.hpp \
   /usr/local/include/boost/mpl/begin_end_fwd.hpp \
   /usr/local/include/boost/mpl/bind.hpp \
   /usr/local/include/boost/mpl/bind_fwd.hpp \
   /usr/local/include/boost/mpl/bool.hpp \
   /usr/local/include/boost/mpl/bool_fwd.hpp \
+  /usr/local/include/boost/mpl/clear.hpp \
+  /usr/local/include/boost/mpl/clear_fwd.hpp \
+  /usr/local/include/boost/mpl/contains.hpp \
+  /usr/local/include/boost/mpl/contains_fwd.hpp \
   /usr/local/include/boost/mpl/count_fwd.hpp \
   /usr/local/include/boost/mpl/deref.hpp \
   /usr/local/include/boost/mpl/distance.hpp \
   /usr/local/include/boost/mpl/distance_fwd.hpp \
+  /usr/local/include/boost/mpl/empty_base.hpp \
+  /usr/local/include/boost/mpl/empty_fwd.hpp \
+  /usr/local/include/boost/mpl/end.hpp \
+  /usr/local/include/boost/mpl/equal_to.hpp \
+  /usr/local/include/boost/mpl/erase.hpp \
+  /usr/local/include/boost/mpl/erase_fwd.hpp \
+  /usr/local/include/boost/mpl/erase_key_fwd.hpp \
   /usr/local/include/boost/mpl/eval_if.hpp \
   /usr/local/include/boost/mpl/find.hpp \
   /usr/local/include/boost/mpl/find_if.hpp \
+  /usr/local/include/boost/mpl/fold.hpp \
+  /usr/local/include/boost/mpl/front.hpp \
+  /usr/local/include/boost/mpl/front_fwd.hpp \
+  /usr/local/include/boost/mpl/has_key.hpp \
   /usr/local/include/boost/mpl/has_key_fwd.hpp \
   /usr/local/include/boost/mpl/has_xxx.hpp \
   /usr/local/include/boost/mpl/identity.hpp \
   /usr/local/include/boost/mpl/if.hpp \
+  /usr/local/include/boost/mpl/index_if.hpp \
+  /usr/local/include/boost/mpl/index_of.hpp \
+  /usr/local/include/boost/mpl/inherit.hpp \
+  /usr/local/include/boost/mpl/insert.hpp \
+  /usr/local/include/boost/mpl/insert_fwd.hpp \
+  /usr/local/include/boost/mpl/insert_range_fwd.hpp \
   /usr/local/include/boost/mpl/int.hpp \
   /usr/local/include/boost/mpl/int_fwd.hpp \
+  /usr/local/include/boost/mpl/integral_c.hpp \
+  /usr/local/include/boost/mpl/integral_c_fwd.hpp \
   /usr/local/include/boost/mpl/integral_c_tag.hpp \
+  /usr/local/include/boost/mpl/is_sequence.hpp \
   /usr/local/include/boost/mpl/iter_fold.hpp \
   /usr/local/include/boost/mpl/iter_fold_if.hpp \
   /usr/local/include/boost/mpl/iterator_range.hpp \
   /usr/local/include/boost/mpl/iterator_tags.hpp \
+  /usr/local/include/boost/mpl/joint_view.hpp \
   /usr/local/include/boost/mpl/key_type_fwd.hpp \
   /usr/local/include/boost/mpl/lambda.hpp \
   /usr/local/include/boost/mpl/lambda_fwd.hpp \
+  /usr/local/include/boost/mpl/less.hpp \
   /usr/local/include/boost/mpl/limits/arity.hpp \
+  /usr/local/include/boost/mpl/limits/map.hpp \
   /usr/local/include/boost/mpl/limits/vector.hpp \
   /usr/local/include/boost/mpl/logical.hpp \
   /usr/local/include/boost/mpl/long.hpp \
   /usr/local/include/boost/mpl/long_fwd.hpp \
+  /usr/local/include/boost/mpl/map.hpp \
+  /usr/local/include/boost/mpl/map/aux_/at_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/clear_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/empty_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/item.hpp \
+  /usr/local/include/boost/mpl/map/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/map0.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp \
+  /usr/local/include/boost/mpl/map/aux_/size_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/map0.hpp \
+  /usr/local/include/boost/mpl/map/map10.hpp \
+  /usr/local/include/boost/mpl/map/map20.hpp \
+  /usr/local/include/boost/mpl/minus.hpp \
+  /usr/local/include/boost/mpl/multiplies.hpp \
+  /usr/local/include/boost/mpl/negate.hpp \
   /usr/local/include/boost/mpl/next.hpp \
   /usr/local/include/boost/mpl/next_prior.hpp \
   /usr/local/include/boost/mpl/not.hpp \
+  /usr/local/include/boost/mpl/numeric_cast.hpp \
   /usr/local/include/boost/mpl/or.hpp \
   /usr/local/include/boost/mpl/order_fwd.hpp \
   /usr/local/include/boost/mpl/pair.hpp \
   /usr/local/include/boost/mpl/placeholders.hpp \
+  /usr/local/include/boost/mpl/plus.hpp \
+  /usr/local/include/boost/mpl/pop_back_fwd.hpp \
+  /usr/local/include/boost/mpl/pop_front_fwd.hpp \
+  /usr/local/include/boost/mpl/prior.hpp \
   /usr/local/include/boost/mpl/protect.hpp \
+  /usr/local/include/boost/mpl/push_back.hpp \
+  /usr/local/include/boost/mpl/push_back_fwd.hpp \
+  /usr/local/include/boost/mpl/push_front.hpp \
+  /usr/local/include/boost/mpl/push_front_fwd.hpp \
   /usr/local/include/boost/mpl/quote.hpp \
+  /usr/local/include/boost/mpl/reverse_fold.hpp \
   /usr/local/include/boost/mpl/same_as.hpp \
   /usr/local/include/boost/mpl/sequence_tag.hpp \
   /usr/local/include/boost/mpl/sequence_tag_fwd.hpp \
+  /usr/local/include/boost/mpl/size.hpp \
+  /usr/local/include/boost/mpl/size_fwd.hpp \
+  /usr/local/include/boost/mpl/size_t.hpp \
+  /usr/local/include/boost/mpl/size_t_fwd.hpp \
   /usr/local/include/boost/mpl/tag.hpp \
+  /usr/local/include/boost/mpl/times.hpp \
   /usr/local/include/boost/mpl/value_type_fwd.hpp \
+  /usr/local/include/boost/mpl/vector.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/O1_size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/at.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/begin_end.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/clear.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/empty.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/item.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/vector20.hpp \
   /usr/local/include/boost/mpl/void.hpp \
   /usr/local/include/boost/mpl/void_fwd.hpp \
+  /usr/local/include/boost/next_prior.hpp \
+  /usr/local/include/boost/noncopyable.hpp \
+  /usr/local/include/boost/numeric/conversion/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/cast.hpp \
+  /usr/local/include/boost/numeric/conversion/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/converter_policies.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/meta.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp \
+  /usr/local/include/boost/operators.hpp \
+  /usr/local/include/boost/optional/optional_fwd.hpp \
   /usr/local/include/boost/parameter/aux_/arg_list.hpp \
   /usr/local/include/boost/parameter/aux_/augment_predicate.hpp \
   /usr/local/include/boost/parameter/aux_/default.hpp \
@@ -1877,14 +3588,183 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/keyword_fwd.hpp \
   /usr/local/include/boost/parameter/value_type.hpp \
+  /usr/local/include/boost/phoenix/core/actor.hpp \
+  /usr/local/include/boost/phoenix/core/argument.hpp \
+  /usr/local/include/boost/phoenix/core/as_actor.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp \
+  /usr/local/include/boost/phoenix/core/detail/expression.hpp \
+  /usr/local/include/boost/phoenix/core/detail/index_sequence.hpp \
+  /usr/local/include/boost/phoenix/core/domain.hpp \
+  /usr/local/include/boost/phoenix/core/environment.hpp \
+  /usr/local/include/boost/phoenix/core/expression.hpp \
+  /usr/local/include/boost/phoenix/core/is_actor.hpp \
+  /usr/local/include/boost/phoenix/core/is_nullary.hpp \
+  /usr/local/include/boost/phoenix/core/limits.hpp \
+  /usr/local/include/boost/phoenix/core/meta_grammar.hpp \
+  /usr/local/include/boost/phoenix/core/terminal.hpp \
+  /usr/local/include/boost/phoenix/core/terminal_fwd.hpp \
+  /usr/local/include/boost/phoenix/operator/comparison.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/define_operator.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp \
+  /usr/local/include/boost/phoenix/support/detail/iterate_define.hpp \
+  /usr/local/include/boost/phoenix/support/iterate.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessor/round.hpp \
+  /usr/local/include/boost/phoenix/support/vector.hpp \
+  /usr/local/include/boost/phoenix/version.hpp \
+  /usr/local/include/boost/predef.h \
+  /usr/local/include/boost/predef/architecture.h \
+  /usr/local/include/boost/predef/architecture/alpha.h \
+  /usr/local/include/boost/predef/architecture/arm.h \
+  /usr/local/include/boost/predef/architecture/blackfin.h \
+  /usr/local/include/boost/predef/architecture/convex.h \
+  /usr/local/include/boost/predef/architecture/e2k.h \
+  /usr/local/include/boost/predef/architecture/ia64.h \
+  /usr/local/include/boost/predef/architecture/loongarch.h \
+  /usr/local/include/boost/predef/architecture/m68k.h \
+  /usr/local/include/boost/predef/architecture/mips.h \
+  /usr/local/include/boost/predef/architecture/parisc.h \
+  /usr/local/include/boost/predef/architecture/ppc.h \
+  /usr/local/include/boost/predef/architecture/ptx.h \
+  /usr/local/include/boost/predef/architecture/pyramid.h \
+  /usr/local/include/boost/predef/architecture/riscv.h \
+  /usr/local/include/boost/predef/architecture/rs6k.h \
+  /usr/local/include/boost/predef/architecture/sparc.h \
+  /usr/local/include/boost/predef/architecture/superh.h \
+  /usr/local/include/boost/predef/architecture/sys370.h \
+  /usr/local/include/boost/predef/architecture/sys390.h \
+  /usr/local/include/boost/predef/architecture/x86.h \
+  /usr/local/include/boost/predef/architecture/x86/32.h \
+  /usr/local/include/boost/predef/architecture/x86/64.h \
+  /usr/local/include/boost/predef/architecture/z.h \
+  /usr/local/include/boost/predef/compiler.h \
+  /usr/local/include/boost/predef/compiler/borland.h \
+  /usr/local/include/boost/predef/compiler/clang.h \
+  /usr/local/include/boost/predef/compiler/comeau.h \
+  /usr/local/include/boost/predef/compiler/compaq.h \
+  /usr/local/include/boost/predef/compiler/diab.h \
+  /usr/local/include/boost/predef/compiler/digitalmars.h \
+  /usr/local/include/boost/predef/compiler/dignus.h \
+  /usr/local/include/boost/predef/compiler/edg.h \
+  /usr/local/include/boost/predef/compiler/ekopath.h \
+  /usr/local/include/boost/predef/compiler/gcc.h \
+  /usr/local/include/boost/predef/compiler/gcc_xml.h \
+  /usr/local/include/boost/predef/compiler/greenhills.h \
+  /usr/local/include/boost/predef/compiler/hp_acc.h \
+  /usr/local/include/boost/predef/compiler/iar.h \
+  /usr/local/include/boost/predef/compiler/ibm.h \
+  /usr/local/include/boost/predef/compiler/intel.h \
+  /usr/local/include/boost/predef/compiler/kai.h \
+  /usr/local/include/boost/predef/compiler/llvm.h \
+  /usr/local/include/boost/predef/compiler/metaware.h \
+  /usr/local/include/boost/predef/compiler/metrowerks.h \
+  /usr/local/include/boost/predef/compiler/microtec.h \
+  /usr/local/include/boost/predef/compiler/mpw.h \
+  /usr/local/include/boost/predef/compiler/nvcc.h \
+  /usr/local/include/boost/predef/compiler/palm.h \
+  /usr/local/include/boost/predef/compiler/pgi.h \
+  /usr/local/include/boost/predef/compiler/sgi_mipspro.h \
+  /usr/local/include/boost/predef/compiler/sunpro.h \
+  /usr/local/include/boost/predef/compiler/tendra.h \
+  /usr/local/include/boost/predef/compiler/visualc.h \
+  /usr/local/include/boost/predef/compiler/watcom.h \
+  /usr/local/include/boost/predef/detail/_cassert.h \
+  /usr/local/include/boost/predef/detail/_exception.h \
+  /usr/local/include/boost/predef/detail/comp_detected.h \
+  /usr/local/include/boost/predef/detail/os_detected.h \
+  /usr/local/include/boost/predef/detail/test.h \
+  /usr/local/include/boost/predef/hardware.h \
+  /usr/local/include/boost/predef/hardware/simd.h \
+  /usr/local/include/boost/predef/hardware/simd/arm.h \
+  /usr/local/include/boost/predef/hardware/simd/arm/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86.h \
+  /usr/local/include/boost/predef/hardware/simd/x86/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h \
+  /usr/local/include/boost/predef/language.h \
+  /usr/local/include/boost/predef/language/cuda.h \
+  /usr/local/include/boost/predef/language/objc.h \
+  /usr/local/include/boost/predef/language/stdc.h \
+  /usr/local/include/boost/predef/language/stdcpp.h \
+  /usr/local/include/boost/predef/library.h \
+  /usr/local/include/boost/predef/library/c.h \
+  /usr/local/include/boost/predef/library/c/_prefix.h \
+  /usr/local/include/boost/predef/library/c/cloudabi.h \
+  /usr/local/include/boost/predef/library/c/gnu.h \
+  /usr/local/include/boost/predef/library/c/uc.h \
+  /usr/local/include/boost/predef/library/c/vms.h \
+  /usr/local/include/boost/predef/library/c/zos.h \
+  /usr/local/include/boost/predef/library/std.h \
+  /usr/local/include/boost/predef/library/std/_prefix.h \
+  /usr/local/include/boost/predef/library/std/cxx.h \
+  /usr/local/include/boost/predef/library/std/dinkumware.h \
+  /usr/local/include/boost/predef/library/std/libcomo.h \
+  /usr/local/include/boost/predef/library/std/modena.h \
+  /usr/local/include/boost/predef/library/std/msl.h \
+  /usr/local/include/boost/predef/library/std/roguewave.h \
+  /usr/local/include/boost/predef/library/std/sgi.h \
+  /usr/local/include/boost/predef/library/std/stdcpp3.h \
+  /usr/local/include/boost/predef/library/std/stlport.h \
+  /usr/local/include/boost/predef/library/std/vacpp.h \
+  /usr/local/include/boost/predef/make.h \
+  /usr/local/include/boost/predef/os.h \
+  /usr/local/include/boost/predef/os/aix.h \
+  /usr/local/include/boost/predef/os/amigaos.h \
+  /usr/local/include/boost/predef/os/beos.h \
+  /usr/local/include/boost/predef/os/bsd.h \
+  /usr/local/include/boost/predef/os/bsd/bsdi.h \
+  /usr/local/include/boost/predef/os/bsd/dragonfly.h \
+  /usr/local/include/boost/predef/os/bsd/free.h \
+  /usr/local/include/boost/predef/os/bsd/net.h \
+  /usr/local/include/boost/predef/os/bsd/open.h \
+  /usr/local/include/boost/predef/os/cygwin.h \
+  /usr/local/include/boost/predef/os/haiku.h \
+  /usr/local/include/boost/predef/os/hpux.h \
+  /usr/local/include/boost/predef/os/ios.h \
+  /usr/local/include/boost/predef/os/irix.h \
+  /usr/local/include/boost/predef/os/linux.h \
+  /usr/local/include/boost/predef/os/macos.h \
+  /usr/local/include/boost/predef/os/os400.h \
+  /usr/local/include/boost/predef/os/qnxnto.h \
+  /usr/local/include/boost/predef/os/solaris.h \
+  /usr/local/include/boost/predef/os/unix.h \
+  /usr/local/include/boost/predef/os/vms.h \
+  /usr/local/include/boost/predef/os/windows.h \
+  /usr/local/include/boost/predef/other.h \
+  /usr/local/include/boost/predef/other/endian.h \
+  /usr/local/include/boost/predef/other/wordsize.h \
+  /usr/local/include/boost/predef/other/workaround.h \
+  /usr/local/include/boost/predef/platform.h \
+  /usr/local/include/boost/predef/platform/android.h \
+  /usr/local/include/boost/predef/platform/cloudabi.h \
+  /usr/local/include/boost/predef/platform/ios.h \
+  /usr/local/include/boost/predef/platform/mingw.h \
+  /usr/local/include/boost/predef/platform/mingw32.h \
+  /usr/local/include/boost/predef/platform/mingw64.h \
+  /usr/local/include/boost/predef/platform/windows_desktop.h \
+  /usr/local/include/boost/predef/platform/windows_phone.h \
+  /usr/local/include/boost/predef/platform/windows_runtime.h \
+  /usr/local/include/boost/predef/platform/windows_server.h \
+  /usr/local/include/boost/predef/platform/windows_store.h \
+  /usr/local/include/boost/predef/platform/windows_system.h \
+  /usr/local/include/boost/predef/platform/windows_uwp.h \
+  /usr/local/include/boost/predef/version.h \
+  /usr/local/include/boost/predef/version_number.h \
   /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/mod.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
   /usr/local/include/boost/preprocessor/array/data.hpp \
   /usr/local/include/boost/preprocessor/array/elem.hpp \
@@ -1892,32 +3772,52 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/preprocessor/cat.hpp \
   /usr/local/include/boost/preprocessor/comma_if.hpp \
   /usr/local/include/boost/preprocessor/comparison/equal.hpp \
+  /usr/local/include/boost/preprocessor/comparison/greater.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less_equal.hpp \
   /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
   /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
   /usr/local/include/boost/preprocessor/config/config.hpp \
   /usr/local/include/boost/preprocessor/config/limits.hpp \
+  /usr/local/include/boost/preprocessor/control/deduce_d.hpp \
   /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/detail/while.hpp \
+  /usr/local/include/boost/preprocessor/control/expr_if.hpp \
   /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
   /usr/local/include/boost/preprocessor/control/if.hpp \
   /usr/local/include/boost/preprocessor/control/iif.hpp \
   /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/while.hpp \
   /usr/local/include/boost/preprocessor/debug/error.hpp \
+  /usr/local/include/boost/preprocessor/dec.hpp \
   /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
   /usr/local/include/boost/preprocessor/detail/check.hpp \
   /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /usr/local/include/boost/preprocessor/detail/is_unary.hpp \
   /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
   /usr/local/include/boost/preprocessor/empty.hpp \
+  /usr/local/include/boost/preprocessor/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/identity.hpp \
   /usr/local/include/boost/preprocessor/facilities/intercept.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp \
   /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp \
   /usr/local/include/boost/preprocessor/facilities/overload.hpp \
   /usr/local/include/boost/preprocessor/identity.hpp \
+  /usr/local/include/boost/preprocessor/if.hpp \
   /usr/local/include/boost/preprocessor/inc.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/iterate.hpp \
+  /usr/local/include/boost/preprocessor/iteration/local.hpp \
   /usr/local/include/boost/preprocessor/list/adt.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
@@ -1925,6 +3825,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
   /usr/local/include/boost/preprocessor/list/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/fold_right.hpp \
+  /usr/local/include/boost/preprocessor/list/for_each_i.hpp \
   /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/list/reverse.hpp \
   /usr/local/include/boost/preprocessor/logical/and.hpp \
@@ -1936,27 +3837,211 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/preprocessor/logical/not.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/paren.hpp \
   /usr/local/include/boost/preprocessor/repeat.hpp \
+  /usr/local/include/boost/preprocessor/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/selection/max.hpp \
+  /usr/local/include/boost/preprocessor/seq/cat.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/split.hpp \
+  /usr/local/include/boost/preprocessor/seq/elem.hpp \
   /usr/local/include/boost/preprocessor/seq/enum.hpp \
+  /usr/local/include/boost/preprocessor/seq/first_n.hpp \
+  /usr/local/include/boost/preprocessor/seq/fold_left.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/pop_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_front.hpp \
+  /usr/local/include/boost/preprocessor/seq/reverse.hpp \
+  /usr/local/include/boost/preprocessor/seq/seq.hpp \
   /usr/local/include/boost/preprocessor/seq/size.hpp \
+  /usr/local/include/boost/preprocessor/seq/to_tuple.hpp \
+  /usr/local/include/boost/preprocessor/seq/transform.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/def.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/shared.hpp \
+  /usr/local/include/boost/preprocessor/slot/slot.hpp \
   /usr/local/include/boost/preprocessor/stringize.hpp \
   /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
   /usr/local/include/boost/preprocessor/tuple/eat.hpp \
   /usr/local/include/boost/preprocessor/tuple/elem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp \
   /usr/local/include/boost/preprocessor/tuple/rem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/size.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_seq.hpp \
   /usr/local/include/boost/preprocessor/variadic/elem.hpp \
   /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/size.hpp \
+  /usr/local/include/boost/preprocessor/variadic/to_seq.hpp \
+  /usr/local/include/boost/proto/args.hpp \
+  /usr/local/include/boost/proto/detail/and_n.hpp \
+  /usr/local/include/boost/proto/detail/any.hpp \
+  /usr/local/include/boost/proto/detail/args.hpp \
+  /usr/local/include/boost/proto/detail/as_expr.hpp \
+  /usr/local/include/boost/proto/detail/as_lvalue.hpp \
+  /usr/local/include/boost/proto/detail/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/decltype.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/deprecated.hpp \
+  /usr/local/include/boost/proto/detail/expr.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop_const.hpp \
+  /usr/local/include/boost/proto/detail/funop.hpp \
+  /usr/local/include/boost/proto/detail/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/ignore_unused.hpp \
+  /usr/local/include/boost/proto/detail/is_noncopyable.hpp \
+  /usr/local/include/boost/proto/detail/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/matches_.hpp \
+  /usr/local/include/boost/proto/detail/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/or_n.hpp \
+  /usr/local/include/boost/proto/detail/poly_function.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/and_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/args.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/matches_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/or_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/detail/remove_typename.hpp \
+  /usr/local/include/boost/proto/detail/static_const.hpp \
+  /usr/local/include/boost/proto/detail/template_arity.hpp \
+  /usr/local/include/boost/proto/detail/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/traits.hpp \
+  /usr/local/include/boost/proto/detail/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/domain.hpp \
+  /usr/local/include/boost/proto/expr.hpp \
+  /usr/local/include/boost/proto/extends.hpp \
+  /usr/local/include/boost/proto/functional/fusion/at.hpp \
+  /usr/local/include/boost/proto/generate.hpp \
+  /usr/local/include/boost/proto/make_expr.hpp \
+  /usr/local/include/boost/proto/matches.hpp \
+  /usr/local/include/boost/proto/operators.hpp \
+  /usr/local/include/boost/proto/proto_fwd.hpp \
+  /usr/local/include/boost/proto/tags.hpp \
+  /usr/local/include/boost/proto/traits.hpp \
+  /usr/local/include/boost/proto/transform/arg.hpp \
+  /usr/local/include/boost/proto/transform/call.hpp \
+  /usr/local/include/boost/proto/transform/default.hpp \
+  /usr/local/include/boost/proto/transform/detail/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp \
+  /usr/local/include/boost/proto/transform/detail/when.hpp \
+  /usr/local/include/boost/proto/transform/env.hpp \
+  /usr/local/include/boost/proto/transform/fold.hpp \
+  /usr/local/include/boost/proto/transform/impl.hpp \
+  /usr/local/include/boost/proto/transform/lazy.hpp \
+  /usr/local/include/boost/proto/transform/make.hpp \
+  /usr/local/include/boost/proto/transform/pass_through.hpp \
+  /usr/local/include/boost/proto/transform/when.hpp \
+  /usr/local/include/boost/range/algorithm/equal.hpp \
+  /usr/local/include/boost/range/begin.hpp \
+  /usr/local/include/boost/range/concepts.hpp \
+  /usr/local/include/boost/range/config.hpp \
+  /usr/local/include/boost/range/const_iterator.hpp \
+  /usr/local/include/boost/range/detail/common.hpp \
+  /usr/local/include/boost/range/detail/extract_optional_type.hpp \
+  /usr/local/include/boost/range/detail/has_member_size.hpp \
+  /usr/local/include/boost/range/detail/implementation_help.hpp \
+  /usr/local/include/boost/range/detail/misc_concept.hpp \
+  /usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+  /usr/local/include/boost/range/detail/safe_bool.hpp \
+  /usr/local/include/boost/range/detail/sfinae.hpp \
+  /usr/local/include/boost/range/difference_type.hpp \
+  /usr/local/include/boost/range/distance.hpp \
+  /usr/local/include/boost/range/empty.hpp \
+  /usr/local/include/boost/range/end.hpp \
+  /usr/local/include/boost/range/functions.hpp \
+  /usr/local/include/boost/range/has_range_iterator.hpp \
+  /usr/local/include/boost/range/iterator.hpp \
+  /usr/local/include/boost/range/iterator_range_core.hpp \
+  /usr/local/include/boost/range/mutable_iterator.hpp \
+  /usr/local/include/boost/range/range_fwd.hpp \
+  /usr/local/include/boost/range/rbegin.hpp \
+  /usr/local/include/boost/range/rend.hpp \
+  /usr/local/include/boost/range/reverse_iterator.hpp \
+  /usr/local/include/boost/range/size.hpp \
+  /usr/local/include/boost/range/size_type.hpp \
+  /usr/local/include/boost/range/value_type.hpp \
+  /usr/local/include/boost/ratio/config.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/abs.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/gcd.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/lcm.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/sign.hpp \
+  /usr/local/include/boost/ratio/detail/overflow_helpers.hpp \
+  /usr/local/include/boost/ratio/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/ratio/ratio.hpp \
+  /usr/local/include/boost/ratio/ratio_fwd.hpp \
+  /usr/local/include/boost/ref.hpp \
+  /usr/local/include/boost/shared_ptr.hpp \
   /usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
@@ -1970,6 +4055,7 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+  /usr/local/include/boost/smart_ptr/detail/sp_forward.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
@@ -1983,46 +4069,116 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/smart_ptr/detail/yield_k.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+  /usr/local/include/boost/smart_ptr/make_shared_object.hpp \
   /usr/local/include/boost/smart_ptr/shared_ptr.hpp \
   /usr/local/include/boost/static_assert.hpp \
+  /usr/local/include/boost/system/api_config.hpp \
+  /usr/local/include/boost/system/detail/append_int.hpp \
+  /usr/local/include/boost/system/detail/cerrno.hpp \
+  /usr/local/include/boost/system/detail/config.hpp \
+  /usr/local/include/boost/system/detail/enable_if.hpp \
+  /usr/local/include/boost/system/detail/errc.hpp \
+  /usr/local/include/boost/system/detail/error_category.hpp \
+  /usr/local/include/boost/system/detail/error_category_impl.hpp \
+  /usr/local/include/boost/system/detail/error_code.hpp \
+  /usr/local/include/boost/system/detail/error_condition.hpp \
+  /usr/local/include/boost/system/detail/generic_category.hpp \
+  /usr/local/include/boost/system/detail/generic_category_message.hpp \
+  /usr/local/include/boost/system/detail/interop_category.hpp \
+  /usr/local/include/boost/system/detail/is_same.hpp \
+  /usr/local/include/boost/system/detail/mutex.hpp \
+  /usr/local/include/boost/system/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/system/detail/snprintf.hpp \
+  /usr/local/include/boost/system/detail/std_category.hpp \
+  /usr/local/include/boost/system/detail/std_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category.hpp \
+  /usr/local/include/boost/system/detail/system_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category_message.hpp \
+  /usr/local/include/boost/system/detail/throws.hpp \
+  /usr/local/include/boost/system/errc.hpp \
+  /usr/local/include/boost/system/error_category.hpp \
+  /usr/local/include/boost/system/error_code.hpp \
+  /usr/local/include/boost/system/error_condition.hpp \
+  /usr/local/include/boost/system/generic_category.hpp \
+  /usr/local/include/boost/system/is_error_code_enum.hpp \
+  /usr/local/include/boost/system/is_error_condition_enum.hpp \
+  /usr/local/include/boost/system/system_category.hpp \
+  /usr/local/include/boost/system/system_error.hpp \
   /usr/local/include/boost/thread/detail/config.hpp \
+  /usr/local/include/boost/thread/detail/delete.hpp \
+  /usr/local/include/boost/thread/detail/move.hpp \
   /usr/local/include/boost/thread/detail/platform.hpp \
+  /usr/local/include/boost/thread/detail/platform_time.hpp \
   /usr/local/include/boost/thread/detail/thread_safety.hpp \
+  /usr/local/include/boost/thread/exceptions.hpp \
+  /usr/local/include/boost/thread/lock_options.hpp \
+  /usr/local/include/boost/thread/lock_types.hpp \
+  /usr/local/include/boost/thread/lockable_traits.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_helpers.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp \
+  /usr/local/include/boost/thread/pthread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/thread_time.hpp \
+  /usr/local/include/boost/thread/tss.hpp \
   /usr/local/include/boost/throw_exception.hpp \
+  /usr/local/include/boost/type.hpp \
   /usr/local/include/boost/type_index.hpp \
   /usr/local/include/boost/type_index/stl_type_index.hpp \
   /usr/local/include/boost/type_index/type_index_facade.hpp \
   /usr/local/include/boost/type_traits/add_const.hpp \
+  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
+  /usr/local/include/boost/type_traits/add_pointer.hpp \
+  /usr/local/include/boost/type_traits/add_reference.hpp \
   /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
   /usr/local/include/boost/type_traits/add_volatile.hpp \
+  /usr/local/include/boost/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/type_traits/common_type.hpp \
   /usr/local/include/boost/type_traits/conditional.hpp \
   /usr/local/include/boost/type_traits/conjunction.hpp \
+  /usr/local/include/boost/type_traits/conversion_traits.hpp \
+  /usr/local/include/boost/type_traits/decay.hpp \
   /usr/local/include/boost/type_traits/declval.hpp \
   /usr/local/include/boost/type_traits/detail/config.hpp \
+  /usr/local/include/boost/type_traits/detail/has_binary_operator.hpp \
   /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
+  /usr/local/include/boost/type_traits/detail/mp_defer.hpp \
   /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
   /usr/local/include/boost/type_traits/enable_if.hpp \
+  /usr/local/include/boost/type_traits/function_traits.hpp \
+  /usr/local/include/boost/type_traits/has_left_shift.hpp \
+  /usr/local/include/boost/type_traits/has_minus.hpp \
+  /usr/local/include/boost/type_traits/has_minus_assign.hpp \
   /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp \
+  /usr/local/include/boost/type_traits/has_plus.hpp \
+  /usr/local/include/boost/type_traits/has_plus_assign.hpp \
+  /usr/local/include/boost/type_traits/has_right_shift.hpp \
   /usr/local/include/boost/type_traits/integral_constant.hpp \
   /usr/local/include/boost/type_traits/intrinsics.hpp \
+  /usr/local/include/boost/type_traits/is_abstract.hpp \
   /usr/local/include/boost/type_traits/is_arithmetic.hpp \
+  /usr/local/include/boost/type_traits/is_array.hpp \
   /usr/local/include/boost/type_traits/is_base_and_derived.hpp \
   /usr/local/include/boost/type_traits/is_base_of.hpp \
   /usr/local/include/boost/type_traits/is_class.hpp \
   /usr/local/include/boost/type_traits/is_complete.hpp \
   /usr/local/include/boost/type_traits/is_const.hpp \
+  /usr/local/include/boost/type_traits/is_convertible.hpp \
   /usr/local/include/boost/type_traits/is_default_constructible.hpp \
+  /usr/local/include/boost/type_traits/is_empty.hpp \
   /usr/local/include/boost/type_traits/is_enum.hpp \
+  /usr/local/include/boost/type_traits/is_float.hpp \
   /usr/local/include/boost/type_traits/is_floating_point.hpp \
   /usr/local/include/boost/type_traits/is_function.hpp \
   /usr/local/include/boost/type_traits/is_integral.hpp \
   /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
   /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /usr/local/include/boost/type_traits/is_member_object_pointer.hpp \
   /usr/local/include/boost/type_traits/is_member_pointer.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp \
+  /usr/local/include/boost/type_traits/is_pod.hpp \
   /usr/local/include/boost/type_traits/is_pointer.hpp \
   /usr/local/include/boost/type_traits/is_reference.hpp \
   /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
@@ -2033,12 +4189,29 @@ CMakeFiles/main.dir/event_handler.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /usr/local/include/boost/type_traits/is_unsigned.hpp \
   /usr/local/include/boost/type_traits/is_void.hpp \
   /usr/local/include/boost/type_traits/is_volatile.hpp \
+  /usr/local/include/boost/type_traits/make_signed.hpp \
   /usr/local/include/boost/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/type_traits/make_void.hpp \
+  /usr/local/include/boost/type_traits/remove_bounds.hpp \
   /usr/local/include/boost/type_traits/remove_const.hpp \
   /usr/local/include/boost/type_traits/remove_cv.hpp \
+  /usr/local/include/boost/type_traits/remove_extent.hpp \
+  /usr/local/include/boost/type_traits/remove_pointer.hpp \
   /usr/local/include/boost/type_traits/remove_reference.hpp \
+  /usr/local/include/boost/type_traits/remove_volatile.hpp \
   /usr/local/include/boost/type_traits/type_identity.hpp \
+  /usr/local/include/boost/type_traits/type_with_alignment.hpp \
+  /usr/local/include/boost/typeof/decltype.hpp \
+  /usr/local/include/boost/typeof/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/typeof/message.hpp \
+  /usr/local/include/boost/typeof/typeof.hpp \
+  /usr/local/include/boost/utility.hpp \
+  /usr/local/include/boost/utility/addressof.hpp \
+  /usr/local/include/boost/utility/base_from_member.hpp \
+  /usr/local/include/boost/utility/binary.hpp \
   /usr/local/include/boost/utility/detail/result_of_variadic.hpp \
+  /usr/local/include/boost/utility/enable_if.hpp \
+  /usr/local/include/boost/utility/identity_type.hpp \
   /usr/local/include/boost/utility/result_of.hpp \
   /usr/local/include/boost/utility/string_ref_fwd.hpp \
   /usr/local/include/boost/utility/string_view_fwd.hpp \
@@ -2298,6 +4471,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
@@ -2313,6 +4487,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
@@ -2364,13 +4539,69 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
@@ -2423,6 +4654,8 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h \
@@ -2454,6 +4687,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h \
@@ -2478,6 +4712,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
@@ -2495,6 +4730,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
@@ -2730,8 +4966,98 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.h \
+  /usr/local/include/boost/array.hpp \
   /usr/local/include/boost/assert.hpp \
   /usr/local/include/boost/assert/source_location.hpp \
+  /usr/local/include/boost/atomic/atomic.hpp \
+  /usr/local/include/boost/atomic/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/addressof.hpp \
+  /usr/local/include/boost/atomic/detail/aligned_variable.hpp \
+  /usr/local/include/boost/atomic/detail/atomic_impl.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_cast.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp \
+  /usr/local/include/boost/atomic/detail/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/classify.hpp \
+  /usr/local/include/boost/atomic/detail/config.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/float_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/footer.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/futex.hpp \
+  /usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/header.hpp \
+  /usr/local/include/boost/atomic/detail/int_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/integral_conversions.hpp \
+  /usr/local/include/boost/atomic/detail/intptr.hpp \
+  /usr/local/include/boost/atomic/detail/link.hpp \
+  /usr/local/include/boost/atomic/detail/lock_pool.hpp \
+  /usr/local/include/boost/atomic/detail/memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp \
+  /usr/local/include/boost/atomic/detail/pause.hpp \
+  /usr/local/include/boost/atomic/detail/platform.hpp \
+  /usr/local/include/boost/atomic/detail/storage_traits.hpp \
+  /usr/local/include/boost/atomic/detail/string_ops.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/conditional.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_function.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/atomic/detail/wait_capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_generic.hpp \
+  /usr/local/include/boost/chrono/ceil.hpp \
+  /usr/local/include/boost/chrono/clock_string.hpp \
+  /usr/local/include/boost/chrono/config.hpp \
+  /usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp \
+  /usr/local/include/boost/chrono/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/chrono/detail/static_assert.hpp \
+  /usr/local/include/boost/chrono/detail/system.hpp \
+  /usr/local/include/boost/chrono/duration.hpp \
+  /usr/local/include/boost/chrono/system_clocks.hpp \
+  /usr/local/include/boost/chrono/time_point.hpp \
+  /usr/local/include/boost/concept/assert.hpp \
+  /usr/local/include/boost/concept/detail/backward_compatibility.hpp \
+  /usr/local/include/boost/concept/detail/concept_def.hpp \
+  /usr/local/include/boost/concept/detail/concept_undef.hpp \
+  /usr/local/include/boost/concept/detail/general.hpp \
+  /usr/local/include/boost/concept/detail/has_constraints.hpp \
+  /usr/local/include/boost/concept/usage.hpp \
+  /usr/local/include/boost/concept_check.hpp \
   /usr/local/include/boost/config.hpp \
   /usr/local/include/boost/config/abi_prefix.hpp \
   /usr/local/include/boost/config/abi_suffix.hpp \
@@ -2744,13 +5070,18 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/local/include/boost/config/detail/suffix.hpp \
   /usr/local/include/boost/config/helper_macros.hpp \
+  /usr/local/include/boost/config/no_tr1/cmath.hpp \
   /usr/local/include/boost/config/no_tr1/functional.hpp \
+  /usr/local/include/boost/config/no_tr1/memory.hpp \
+  /usr/local/include/boost/config/no_tr1/utility.hpp \
   /usr/local/include/boost/config/platform/macos.hpp \
   /usr/local/include/boost/config/pragma_message.hpp \
   /usr/local/include/boost/config/requires_threads.hpp \
   /usr/local/include/boost/config/stdlib/libcpp.hpp \
   /usr/local/include/boost/config/user.hpp \
   /usr/local/include/boost/config/workaround.hpp \
+  /usr/local/include/boost/container/container_fwd.hpp \
+  /usr/local/include/boost/container/detail/std_fwd.hpp \
   /usr/local/include/boost/container_hash/detail/hash_mix.hpp \
   /usr/local/include/boost/container_hash/detail/hash_range.hpp \
   /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp \
@@ -2765,13 +5096,69 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/container_hash/is_unordered_range.hpp \
   /usr/local/include/boost/core/addressof.hpp \
   /usr/local/include/boost/core/checked_delete.hpp \
+  /usr/local/include/boost/core/cmath.hpp \
   /usr/local/include/boost/core/demangle.hpp \
   /usr/local/include/boost/core/enable_if.hpp \
   /usr/local/include/boost/core/explicit_operator_bool.hpp \
+  /usr/local/include/boost/core/noncopyable.hpp \
+  /usr/local/include/boost/core/null_deleter.hpp \
+  /usr/local/include/boost/core/ref.hpp \
+  /usr/local/include/boost/core/snprintf.hpp \
   /usr/local/include/boost/core/swap.hpp \
   /usr/local/include/boost/core/uncaught_exceptions.hpp \
+  /usr/local/include/boost/core/use_default.hpp \
   /usr/local/include/boost/cstdint.hpp \
   /usr/local/include/boost/current_function.hpp \
+  /usr/local/include/boost/date_time/adjust_functors.hpp \
+  /usr/local/include/boost/date_time/c_time.hpp \
+  /usr/local/include/boost/date_time/compiler_config.hpp \
+  /usr/local/include/boost/date_time/constrained_value.hpp \
+  /usr/local/include/boost/date_time/date.hpp \
+  /usr/local/include/boost/date_time/date_clock_device.hpp \
+  /usr/local/include/boost/date_time/date_defs.hpp \
+  /usr/local/include/boost/date_time/date_duration.hpp \
+  /usr/local/include/boost/date_time/date_duration_types.hpp \
+  /usr/local/include/boost/date_time/date_generators.hpp \
+  /usr/local/include/boost/date_time/date_iterator.hpp \
+  /usr/local/include/boost/date_time/dst_rules.hpp \
+  /usr/local/include/boost/date_time/filetime_functions.hpp \
+  /usr/local/include/boost/date_time/gregorian/conversion.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_date.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_month.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_weekday.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_ymd.hpp \
+  /usr/local/include/boost/date_time/gregorian/gregorian_types.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.ipp \
+  /usr/local/include/boost/date_time/int_adapter.hpp \
+  /usr/local/include/boost/date_time/locale_config.hpp \
+  /usr/local/include/boost/date_time/microsec_time_clock.hpp \
+  /usr/local/include/boost/date_time/period.hpp \
+  /usr/local/include/boost/date_time/posix_time/conversion.hpp \
+  /usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_config.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_system.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_types.hpp \
+  /usr/local/include/boost/date_time/posix_time/ptime.hpp \
+  /usr/local/include/boost/date_time/posix_time/time_period.hpp \
+  /usr/local/include/boost/date_time/special_defs.hpp \
+  /usr/local/include/boost/date_time/time.hpp \
+  /usr/local/include/boost/date_time/time_clock.hpp \
+  /usr/local/include/boost/date_time/time_defs.hpp \
+  /usr/local/include/boost/date_time/time_duration.hpp \
+  /usr/local/include/boost/date_time/time_iterator.hpp \
+  /usr/local/include/boost/date_time/time_resolution_traits.hpp \
+  /usr/local/include/boost/date_time/time_system_counted.hpp \
+  /usr/local/include/boost/date_time/time_system_split.hpp \
+  /usr/local/include/boost/date_time/wrapping_int.hpp \
+  /usr/local/include/boost/date_time/year_month_day.hpp \
   /usr/local/include/boost/describe/bases.hpp \
   /usr/local/include/boost/describe/detail/config.hpp \
   /usr/local/include/boost/describe/detail/cx_streq.hpp \
@@ -2779,8 +5166,188 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/describe/members.hpp \
   /usr/local/include/boost/describe/modifiers.hpp \
   /usr/local/include/boost/detail/atomic_count.hpp \
+  /usr/local/include/boost/detail/basic_pointerbuf.hpp \
+  /usr/local/include/boost/detail/indirect_traits.hpp \
+  /usr/local/include/boost/detail/lcast_precision.hpp \
+  /usr/local/include/boost/detail/select_type.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/exception/exception.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp \
+  /usr/local/include/boost/fusion/container/list/cons.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_iterator.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/list_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/nil.hpp \
+  /usr/local/include/boost/fusion/include/at.hpp \
+  /usr/local/include/boost/fusion/include/at_c.hpp \
+  /usr/local/include/boost/fusion/include/begin.hpp \
+  /usr/local/include/boost/fusion/include/fold.hpp \
+  /usr/local/include/boost/fusion/include/next.hpp \
+  /usr/local/include/boost/fusion/include/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/include/size.hpp \
+  /usr/local/include/boost/fusion/include/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/basic_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/deref.hpp \
+  /usr/local/include/boost/fusion/iterator/deref_data.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp \
+  /usr/local/include/boost/fusion/iterator/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/fusion/iterator/key_of.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/next.hpp \
+  /usr/local/include/boost/fusion/iterator/prior.hpp \
+  /usr/local/include/boost/fusion/iterator/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of_data.hpp \
+  /usr/local/include/boost/fusion/mpl/begin.hpp \
+  /usr/local/include/boost/fusion/mpl/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp \
+  /usr/local/include/boost/fusion/support/category_of.hpp \
+  /usr/local/include/boost/fusion/support/config.hpp \
+  /usr/local/include/boost/fusion/support/detail/access.hpp \
+  /usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp \
+  /usr/local/include/boost/fusion/support/detail/enabler.hpp \
+  /usr/local/include/boost/fusion/support/detail/index_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp \
+  /usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp \
+  /usr/local/include/boost/fusion/support/is_iterator.hpp \
+  /usr/local/include/boost/fusion/support/is_segmented.hpp \
+  /usr/local/include/boost/fusion/support/is_sequence.hpp \
+  /usr/local/include/boost/fusion/support/is_view.hpp \
+  /usr/local/include/boost/fusion/support/iterator_base.hpp \
+  /usr/local/include/boost/fusion/support/segmented_fold_until.hpp \
+  /usr/local/include/boost/fusion/support/sequence_base.hpp \
+  /usr/local/include/boost/fusion/support/tag_of.hpp \
+  /usr/local/include/boost/fusion/support/tag_of_fwd.hpp \
+  /usr/local/include/boost/fusion/support/void.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp \
+  /usr/local/include/boost/get_pointer.hpp \
+  /usr/local/include/boost/integer.hpp \
+  /usr/local/include/boost/integer_fwd.hpp \
+  /usr/local/include/boost/integer_traits.hpp \
+  /usr/local/include/boost/is_placeholder.hpp \
+  /usr/local/include/boost/iterator/advance.hpp \
+  /usr/local/include/boost/iterator/detail/config_def.hpp \
+  /usr/local/include/boost/iterator/detail/config_undef.hpp \
+  /usr/local/include/boost/iterator/detail/enable_if.hpp \
+  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
+  /usr/local/include/boost/iterator/distance.hpp \
+  /usr/local/include/boost/iterator/interoperable.hpp \
+  /usr/local/include/boost/iterator/iterator_adaptor.hpp \
+  /usr/local/include/boost/iterator/iterator_categories.hpp \
+  /usr/local/include/boost/iterator/iterator_concepts.hpp \
+  /usr/local/include/boost/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/iterator/iterator_traits.hpp \
+  /usr/local/include/boost/iterator/reverse_iterator.hpp \
+  /usr/local/include/boost/lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp \
+  /usr/local/include/boost/lexical_cast/detail/inf_nan.hpp \
+  /usr/local/include/boost/lexical_cast/detail/is_character.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp \
+  /usr/local/include/boost/lexical_cast/detail/widest_char.hpp \
+  /usr/local/include/boost/lexical_cast/try_lexical_convert.hpp \
+  /usr/local/include/boost/limits.hpp \
   /usr/local/include/boost/log/attributes/attribute.hpp \
   /usr/local/include/boost/log/attributes/attribute_cast.hpp \
   /usr/local/include/boost/log/attributes/attribute_name.hpp \
@@ -2788,29 +5355,75 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/log/attributes/attribute_value.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_impl.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_set.hpp \
+  /usr/local/include/boost/log/attributes/clock.hpp \
+  /usr/local/include/boost/log/attributes/constant.hpp \
+  /usr/local/include/boost/log/attributes/counter.hpp \
+  /usr/local/include/boost/log/attributes/current_process_id.hpp \
+  /usr/local/include/boost/log/attributes/current_thread_id.hpp \
+  /usr/local/include/boost/log/attributes/fallback_policy.hpp \
   /usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp \
+  /usr/local/include/boost/log/attributes/time_traits.hpp \
+  /usr/local/include/boost/log/attributes/value_extraction.hpp \
   /usr/local/include/boost/log/attributes/value_extraction_fwd.hpp \
+  /usr/local/include/boost/log/attributes/value_visitation.hpp \
   /usr/local/include/boost/log/attributes/value_visitation_fwd.hpp \
   /usr/local/include/boost/log/core/core.hpp \
   /usr/local/include/boost/log/core/record.hpp \
   /usr/local/include/boost/log/core/record_view.hpp \
   /usr/local/include/boost/log/detail/attachable_sstream_buf.hpp \
+  /usr/local/include/boost/log/detail/attr_output_impl.hpp \
+  /usr/local/include/boost/log/detail/attr_output_terminal.hpp \
   /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp \
   /usr/local/include/boost/log/detail/code_conversion.hpp \
   /usr/local/include/boost/log/detail/config.hpp \
+  /usr/local/include/boost/log/detail/copy_cv.hpp \
+  /usr/local/include/boost/log/detail/custom_terminal_spec.hpp \
   /usr/local/include/boost/log/detail/default_attribute_names.hpp \
+  /usr/local/include/boost/log/detail/embedded_string_type.hpp \
+  /usr/local/include/boost/log/detail/fake_mutex.hpp \
   /usr/local/include/boost/log/detail/footer.hpp \
+  /usr/local/include/boost/log/detail/generate_overloads.hpp \
   /usr/local/include/boost/log/detail/header.hpp \
+  /usr/local/include/boost/log/detail/id.hpp \
   /usr/local/include/boost/log/detail/is_character_type.hpp \
+  /usr/local/include/boost/log/detail/is_ostream.hpp \
   /usr/local/include/boost/log/detail/light_function.hpp \
   /usr/local/include/boost/log/detail/light_rw_mutex.hpp \
+  /usr/local/include/boost/log/detail/locking_ptr.hpp \
   /usr/local/include/boost/log/detail/locks.hpp \
   /usr/local/include/boost/log/detail/native_typeof.hpp \
   /usr/local/include/boost/log/detail/parameter_tools.hpp \
+  /usr/local/include/boost/log/detail/process_id.hpp \
+  /usr/local/include/boost/log/detail/setup_config.hpp \
   /usr/local/include/boost/log/detail/sfinae_tools.hpp \
+  /usr/local/include/boost/log/detail/sink_init_helpers.hpp \
+  /usr/local/include/boost/log/detail/thread_id.hpp \
+  /usr/local/include/boost/log/detail/trivial_keyword.hpp \
+  /usr/local/include/boost/log/detail/unary_function_terminal.hpp \
+  /usr/local/include/boost/log/detail/value_ref_visitation.hpp \
+  /usr/local/include/boost/log/exceptions.hpp \
+  /usr/local/include/boost/log/expressions/attr.hpp \
+  /usr/local/include/boost/log/expressions/attr_fwd.hpp \
   /usr/local/include/boost/log/expressions/filter.hpp \
+  /usr/local/include/boost/log/expressions/formatter.hpp \
+  /usr/local/include/boost/log/expressions/formatters/stream.hpp \
+  /usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp \
+  /usr/local/include/boost/log/expressions/keyword.hpp \
   /usr/local/include/boost/log/expressions/keyword_fwd.hpp \
+  /usr/local/include/boost/log/expressions/message.hpp \
+  /usr/local/include/boost/log/expressions/predicates/has_attr.hpp \
+  /usr/local/include/boost/log/keywords/auto_flush.hpp \
+  /usr/local/include/boost/log/keywords/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/keywords/filter.hpp \
+  /usr/local/include/boost/log/keywords/format.hpp \
   /usr/local/include/boost/log/keywords/severity.hpp \
+  /usr/local/include/boost/log/sinks/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_backend.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_frontend.hpp \
+  /usr/local/include/boost/log/sinks/frontend_requirements.hpp \
+  /usr/local/include/boost/log/sinks/sink.hpp \
+  /usr/local/include/boost/log/sinks/sync_frontend.hpp \
+  /usr/local/include/boost/log/sinks/text_ostream_backend.hpp \
   /usr/local/include/boost/log/sources/basic_logger.hpp \
   /usr/local/include/boost/log/sources/features.hpp \
   /usr/local/include/boost/log/sources/record_ostream.hpp \
@@ -2820,17 +5433,37 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/log/trivial.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp \
+  /usr/local/include/boost/log/utility/functional/bind.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_output.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_to_log.hpp \
+  /usr/local/include/boost/log/utility/functional/logical.hpp \
+  /usr/local/include/boost/log/utility/functional/nop.hpp \
+  /usr/local/include/boost/log/utility/manipulators/to_log.hpp \
+  /usr/local/include/boost/log/utility/once_block.hpp \
+  /usr/local/include/boost/log/utility/setup/common_attributes.hpp \
+  /usr/local/include/boost/log/utility/setup/console.hpp \
+  /usr/local/include/boost/log/utility/setup/filter_parser.hpp \
+  /usr/local/include/boost/log/utility/setup/formatter_parser.hpp \
   /usr/local/include/boost/log/utility/strictest_lock.hpp \
   /usr/local/include/boost/log/utility/string_literal_fwd.hpp \
+  /usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/unique_identifier_name.hpp \
+  /usr/local/include/boost/log/utility/value_ref.hpp \
+  /usr/local/include/boost/log/utility/value_ref_fwd.hpp \
+  /usr/local/include/boost/memory_order.hpp \
   /usr/local/include/boost/move/core.hpp \
   /usr/local/include/boost/move/detail/addressof.hpp \
   /usr/local/include/boost/move/detail/config_begin.hpp \
   /usr/local/include/boost/move/detail/config_end.hpp \
   /usr/local/include/boost/move/detail/meta_utils.hpp \
   /usr/local/include/boost/move/detail/meta_utils_core.hpp \
+  /usr/local/include/boost/move/detail/std_ns_begin.hpp \
+  /usr/local/include/boost/move/detail/std_ns_end.hpp \
+  /usr/local/include/boost/move/detail/type_traits.hpp \
   /usr/local/include/boost/move/detail/workaround.hpp \
+  /usr/local/include/boost/move/traits.hpp \
+  /usr/local/include/boost/move/utility.hpp \
   /usr/local/include/boost/move/utility_core.hpp \
   /usr/local/include/boost/mp11/algorithm.hpp \
   /usr/local/include/boost/mp11/bind.hpp \
@@ -2858,6 +5491,8 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mp11/version.hpp \
   /usr/local/include/boost/mpl/O1_size.hpp \
   /usr/local/include/boost/mpl/O1_size_fwd.hpp \
+  /usr/local/include/boost/mpl/advance.hpp \
+  /usr/local/include/boost/mpl/advance_fwd.hpp \
   /usr/local/include/boost/mpl/always.hpp \
   /usr/local/include/boost/mpl/and.hpp \
   /usr/local/include/boost/mpl/apply.hpp \
@@ -2866,20 +5501,28 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mpl/arg.hpp \
   /usr/local/include/boost/mpl/arg_fwd.hpp \
   /usr/local/include/boost/mpl/assert.hpp \
+  /usr/local/include/boost/mpl/at.hpp \
   /usr/local/include/boost/mpl/at_fwd.hpp \
   /usr/local/include/boost/mpl/aux_/O1_size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
+  /usr/local/include/boost/mpl/aux_/arithmetic_op.hpp \
   /usr/local/include/boost/mpl/aux_/arity.hpp \
   /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
+  /usr/local/include/boost/mpl/aux_/at_impl.hpp \
   /usr/local/include/boost/mpl/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/clear_impl.hpp \
   /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
+  /usr/local/include/boost/mpl/aux_/comparison_op.hpp \
   /usr/local/include/boost/mpl/aux_/config/adl.hpp \
   /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
   /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
   /usr/local/include/boost/mpl/aux_/config/bind.hpp \
   /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
   /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp \
   /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
   /usr/local/include/boost/mpl/aux_/config/eti.hpp \
   /usr/local/include/boost/mpl/aux_/config/forwarding.hpp \
@@ -2893,29 +5536,39 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
   /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
   /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/operators.hpp \
   /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
   /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
   /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
   /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
   /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/typeof.hpp \
   /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
   /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /usr/local/include/boost/mpl/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/erase_impl.hpp \
   /usr/local/include/boost/mpl/aux_/find_if_pred.hpp \
+  /usr/local/include/boost/mpl/aux_/fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/front_impl.hpp \
   /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
   /usr/local/include/boost/mpl/aux_/has_apply.hpp \
   /usr/local/include/boost/mpl/aux_/has_begin.hpp \
+  /usr/local/include/boost/mpl/aux_/has_key_impl.hpp \
   /usr/local/include/boost/mpl/aux_/has_size.hpp \
   /usr/local/include/boost/mpl/aux_/has_tag.hpp \
   /usr/local/include/boost/mpl/aux_/has_type.hpp \
   /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/aux_/insert_impl.hpp \
   /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp \
   /usr/local/include/boost/mpl/aux_/iter_apply.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/joint_iter.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_spec.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /usr/local/include/boost/mpl/aux_/largest_int.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_type.hpp \
@@ -2925,6 +5578,12 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mpl/aux_/na_spec.hpp \
   /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_op.hpp \
+  /usr/local/include/boost/mpl/aux_/order_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/overload_names.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
@@ -2932,17 +5591,34 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp \
+  /usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp \
+  /usr/local/include/boost/mpl/aux_/push_back_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/push_front_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/static_cast.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
@@ -2950,54 +5626,173 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/yes_no.hpp \
+  /usr/local/include/boost/mpl/back_fwd.hpp \
+  /usr/local/include/boost/mpl/base.hpp \
+  /usr/local/include/boost/mpl/begin.hpp \
   /usr/local/include/boost/mpl/begin_end.hpp \
   /usr/local/include/boost/mpl/begin_end_fwd.hpp \
   /usr/local/include/boost/mpl/bind.hpp \
   /usr/local/include/boost/mpl/bind_fwd.hpp \
   /usr/local/include/boost/mpl/bool.hpp \
   /usr/local/include/boost/mpl/bool_fwd.hpp \
+  /usr/local/include/boost/mpl/clear.hpp \
+  /usr/local/include/boost/mpl/clear_fwd.hpp \
+  /usr/local/include/boost/mpl/contains.hpp \
+  /usr/local/include/boost/mpl/contains_fwd.hpp \
   /usr/local/include/boost/mpl/count_fwd.hpp \
   /usr/local/include/boost/mpl/deref.hpp \
   /usr/local/include/boost/mpl/distance.hpp \
   /usr/local/include/boost/mpl/distance_fwd.hpp \
+  /usr/local/include/boost/mpl/empty_base.hpp \
+  /usr/local/include/boost/mpl/empty_fwd.hpp \
+  /usr/local/include/boost/mpl/end.hpp \
+  /usr/local/include/boost/mpl/equal_to.hpp \
+  /usr/local/include/boost/mpl/erase.hpp \
+  /usr/local/include/boost/mpl/erase_fwd.hpp \
+  /usr/local/include/boost/mpl/erase_key_fwd.hpp \
   /usr/local/include/boost/mpl/eval_if.hpp \
   /usr/local/include/boost/mpl/find.hpp \
   /usr/local/include/boost/mpl/find_if.hpp \
+  /usr/local/include/boost/mpl/fold.hpp \
+  /usr/local/include/boost/mpl/front.hpp \
+  /usr/local/include/boost/mpl/front_fwd.hpp \
+  /usr/local/include/boost/mpl/has_key.hpp \
   /usr/local/include/boost/mpl/has_key_fwd.hpp \
   /usr/local/include/boost/mpl/has_xxx.hpp \
   /usr/local/include/boost/mpl/identity.hpp \
   /usr/local/include/boost/mpl/if.hpp \
+  /usr/local/include/boost/mpl/index_if.hpp \
+  /usr/local/include/boost/mpl/index_of.hpp \
+  /usr/local/include/boost/mpl/inherit.hpp \
+  /usr/local/include/boost/mpl/insert.hpp \
+  /usr/local/include/boost/mpl/insert_fwd.hpp \
+  /usr/local/include/boost/mpl/insert_range_fwd.hpp \
   /usr/local/include/boost/mpl/int.hpp \
   /usr/local/include/boost/mpl/int_fwd.hpp \
+  /usr/local/include/boost/mpl/integral_c.hpp \
+  /usr/local/include/boost/mpl/integral_c_fwd.hpp \
   /usr/local/include/boost/mpl/integral_c_tag.hpp \
+  /usr/local/include/boost/mpl/is_sequence.hpp \
   /usr/local/include/boost/mpl/iter_fold.hpp \
   /usr/local/include/boost/mpl/iter_fold_if.hpp \
   /usr/local/include/boost/mpl/iterator_range.hpp \
   /usr/local/include/boost/mpl/iterator_tags.hpp \
+  /usr/local/include/boost/mpl/joint_view.hpp \
   /usr/local/include/boost/mpl/key_type_fwd.hpp \
   /usr/local/include/boost/mpl/lambda.hpp \
   /usr/local/include/boost/mpl/lambda_fwd.hpp \
+  /usr/local/include/boost/mpl/less.hpp \
   /usr/local/include/boost/mpl/limits/arity.hpp \
+  /usr/local/include/boost/mpl/limits/map.hpp \
   /usr/local/include/boost/mpl/limits/vector.hpp \
   /usr/local/include/boost/mpl/logical.hpp \
   /usr/local/include/boost/mpl/long.hpp \
   /usr/local/include/boost/mpl/long_fwd.hpp \
+  /usr/local/include/boost/mpl/map.hpp \
+  /usr/local/include/boost/mpl/map/aux_/at_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/clear_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/empty_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/item.hpp \
+  /usr/local/include/boost/mpl/map/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/map0.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp \
+  /usr/local/include/boost/mpl/map/aux_/size_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/map0.hpp \
+  /usr/local/include/boost/mpl/map/map10.hpp \
+  /usr/local/include/boost/mpl/map/map20.hpp \
+  /usr/local/include/boost/mpl/minus.hpp \
+  /usr/local/include/boost/mpl/multiplies.hpp \
+  /usr/local/include/boost/mpl/negate.hpp \
   /usr/local/include/boost/mpl/next.hpp \
   /usr/local/include/boost/mpl/next_prior.hpp \
   /usr/local/include/boost/mpl/not.hpp \
+  /usr/local/include/boost/mpl/numeric_cast.hpp \
   /usr/local/include/boost/mpl/or.hpp \
   /usr/local/include/boost/mpl/order_fwd.hpp \
   /usr/local/include/boost/mpl/pair.hpp \
   /usr/local/include/boost/mpl/placeholders.hpp \
+  /usr/local/include/boost/mpl/plus.hpp \
+  /usr/local/include/boost/mpl/pop_back_fwd.hpp \
+  /usr/local/include/boost/mpl/pop_front_fwd.hpp \
+  /usr/local/include/boost/mpl/prior.hpp \
   /usr/local/include/boost/mpl/protect.hpp \
+  /usr/local/include/boost/mpl/push_back.hpp \
+  /usr/local/include/boost/mpl/push_back_fwd.hpp \
+  /usr/local/include/boost/mpl/push_front.hpp \
+  /usr/local/include/boost/mpl/push_front_fwd.hpp \
   /usr/local/include/boost/mpl/quote.hpp \
+  /usr/local/include/boost/mpl/reverse_fold.hpp \
   /usr/local/include/boost/mpl/same_as.hpp \
   /usr/local/include/boost/mpl/sequence_tag.hpp \
   /usr/local/include/boost/mpl/sequence_tag_fwd.hpp \
+  /usr/local/include/boost/mpl/size.hpp \
+  /usr/local/include/boost/mpl/size_fwd.hpp \
+  /usr/local/include/boost/mpl/size_t.hpp \
+  /usr/local/include/boost/mpl/size_t_fwd.hpp \
   /usr/local/include/boost/mpl/tag.hpp \
+  /usr/local/include/boost/mpl/times.hpp \
   /usr/local/include/boost/mpl/value_type_fwd.hpp \
+  /usr/local/include/boost/mpl/vector.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/O1_size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/at.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/begin_end.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/clear.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/empty.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/item.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/vector20.hpp \
   /usr/local/include/boost/mpl/void.hpp \
   /usr/local/include/boost/mpl/void_fwd.hpp \
+  /usr/local/include/boost/next_prior.hpp \
+  /usr/local/include/boost/noncopyable.hpp \
+  /usr/local/include/boost/numeric/conversion/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/cast.hpp \
+  /usr/local/include/boost/numeric/conversion/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/converter_policies.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/meta.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp \
+  /usr/local/include/boost/operators.hpp \
+  /usr/local/include/boost/optional/optional_fwd.hpp \
   /usr/local/include/boost/parameter/aux_/arg_list.hpp \
   /usr/local/include/boost/parameter/aux_/augment_predicate.hpp \
   /usr/local/include/boost/parameter/aux_/default.hpp \
@@ -3023,14 +5818,183 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/keyword_fwd.hpp \
   /usr/local/include/boost/parameter/value_type.hpp \
+  /usr/local/include/boost/phoenix/core/actor.hpp \
+  /usr/local/include/boost/phoenix/core/argument.hpp \
+  /usr/local/include/boost/phoenix/core/as_actor.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp \
+  /usr/local/include/boost/phoenix/core/detail/expression.hpp \
+  /usr/local/include/boost/phoenix/core/detail/index_sequence.hpp \
+  /usr/local/include/boost/phoenix/core/domain.hpp \
+  /usr/local/include/boost/phoenix/core/environment.hpp \
+  /usr/local/include/boost/phoenix/core/expression.hpp \
+  /usr/local/include/boost/phoenix/core/is_actor.hpp \
+  /usr/local/include/boost/phoenix/core/is_nullary.hpp \
+  /usr/local/include/boost/phoenix/core/limits.hpp \
+  /usr/local/include/boost/phoenix/core/meta_grammar.hpp \
+  /usr/local/include/boost/phoenix/core/terminal.hpp \
+  /usr/local/include/boost/phoenix/core/terminal_fwd.hpp \
+  /usr/local/include/boost/phoenix/operator/comparison.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/define_operator.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp \
+  /usr/local/include/boost/phoenix/support/detail/iterate_define.hpp \
+  /usr/local/include/boost/phoenix/support/iterate.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessor/round.hpp \
+  /usr/local/include/boost/phoenix/support/vector.hpp \
+  /usr/local/include/boost/phoenix/version.hpp \
+  /usr/local/include/boost/predef.h \
+  /usr/local/include/boost/predef/architecture.h \
+  /usr/local/include/boost/predef/architecture/alpha.h \
+  /usr/local/include/boost/predef/architecture/arm.h \
+  /usr/local/include/boost/predef/architecture/blackfin.h \
+  /usr/local/include/boost/predef/architecture/convex.h \
+  /usr/local/include/boost/predef/architecture/e2k.h \
+  /usr/local/include/boost/predef/architecture/ia64.h \
+  /usr/local/include/boost/predef/architecture/loongarch.h \
+  /usr/local/include/boost/predef/architecture/m68k.h \
+  /usr/local/include/boost/predef/architecture/mips.h \
+  /usr/local/include/boost/predef/architecture/parisc.h \
+  /usr/local/include/boost/predef/architecture/ppc.h \
+  /usr/local/include/boost/predef/architecture/ptx.h \
+  /usr/local/include/boost/predef/architecture/pyramid.h \
+  /usr/local/include/boost/predef/architecture/riscv.h \
+  /usr/local/include/boost/predef/architecture/rs6k.h \
+  /usr/local/include/boost/predef/architecture/sparc.h \
+  /usr/local/include/boost/predef/architecture/superh.h \
+  /usr/local/include/boost/predef/architecture/sys370.h \
+  /usr/local/include/boost/predef/architecture/sys390.h \
+  /usr/local/include/boost/predef/architecture/x86.h \
+  /usr/local/include/boost/predef/architecture/x86/32.h \
+  /usr/local/include/boost/predef/architecture/x86/64.h \
+  /usr/local/include/boost/predef/architecture/z.h \
+  /usr/local/include/boost/predef/compiler.h \
+  /usr/local/include/boost/predef/compiler/borland.h \
+  /usr/local/include/boost/predef/compiler/clang.h \
+  /usr/local/include/boost/predef/compiler/comeau.h \
+  /usr/local/include/boost/predef/compiler/compaq.h \
+  /usr/local/include/boost/predef/compiler/diab.h \
+  /usr/local/include/boost/predef/compiler/digitalmars.h \
+  /usr/local/include/boost/predef/compiler/dignus.h \
+  /usr/local/include/boost/predef/compiler/edg.h \
+  /usr/local/include/boost/predef/compiler/ekopath.h \
+  /usr/local/include/boost/predef/compiler/gcc.h \
+  /usr/local/include/boost/predef/compiler/gcc_xml.h \
+  /usr/local/include/boost/predef/compiler/greenhills.h \
+  /usr/local/include/boost/predef/compiler/hp_acc.h \
+  /usr/local/include/boost/predef/compiler/iar.h \
+  /usr/local/include/boost/predef/compiler/ibm.h \
+  /usr/local/include/boost/predef/compiler/intel.h \
+  /usr/local/include/boost/predef/compiler/kai.h \
+  /usr/local/include/boost/predef/compiler/llvm.h \
+  /usr/local/include/boost/predef/compiler/metaware.h \
+  /usr/local/include/boost/predef/compiler/metrowerks.h \
+  /usr/local/include/boost/predef/compiler/microtec.h \
+  /usr/local/include/boost/predef/compiler/mpw.h \
+  /usr/local/include/boost/predef/compiler/nvcc.h \
+  /usr/local/include/boost/predef/compiler/palm.h \
+  /usr/local/include/boost/predef/compiler/pgi.h \
+  /usr/local/include/boost/predef/compiler/sgi_mipspro.h \
+  /usr/local/include/boost/predef/compiler/sunpro.h \
+  /usr/local/include/boost/predef/compiler/tendra.h \
+  /usr/local/include/boost/predef/compiler/visualc.h \
+  /usr/local/include/boost/predef/compiler/watcom.h \
+  /usr/local/include/boost/predef/detail/_cassert.h \
+  /usr/local/include/boost/predef/detail/_exception.h \
+  /usr/local/include/boost/predef/detail/comp_detected.h \
+  /usr/local/include/boost/predef/detail/os_detected.h \
+  /usr/local/include/boost/predef/detail/test.h \
+  /usr/local/include/boost/predef/hardware.h \
+  /usr/local/include/boost/predef/hardware/simd.h \
+  /usr/local/include/boost/predef/hardware/simd/arm.h \
+  /usr/local/include/boost/predef/hardware/simd/arm/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86.h \
+  /usr/local/include/boost/predef/hardware/simd/x86/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h \
+  /usr/local/include/boost/predef/language.h \
+  /usr/local/include/boost/predef/language/cuda.h \
+  /usr/local/include/boost/predef/language/objc.h \
+  /usr/local/include/boost/predef/language/stdc.h \
+  /usr/local/include/boost/predef/language/stdcpp.h \
+  /usr/local/include/boost/predef/library.h \
+  /usr/local/include/boost/predef/library/c.h \
+  /usr/local/include/boost/predef/library/c/_prefix.h \
+  /usr/local/include/boost/predef/library/c/cloudabi.h \
+  /usr/local/include/boost/predef/library/c/gnu.h \
+  /usr/local/include/boost/predef/library/c/uc.h \
+  /usr/local/include/boost/predef/library/c/vms.h \
+  /usr/local/include/boost/predef/library/c/zos.h \
+  /usr/local/include/boost/predef/library/std.h \
+  /usr/local/include/boost/predef/library/std/_prefix.h \
+  /usr/local/include/boost/predef/library/std/cxx.h \
+  /usr/local/include/boost/predef/library/std/dinkumware.h \
+  /usr/local/include/boost/predef/library/std/libcomo.h \
+  /usr/local/include/boost/predef/library/std/modena.h \
+  /usr/local/include/boost/predef/library/std/msl.h \
+  /usr/local/include/boost/predef/library/std/roguewave.h \
+  /usr/local/include/boost/predef/library/std/sgi.h \
+  /usr/local/include/boost/predef/library/std/stdcpp3.h \
+  /usr/local/include/boost/predef/library/std/stlport.h \
+  /usr/local/include/boost/predef/library/std/vacpp.h \
+  /usr/local/include/boost/predef/make.h \
+  /usr/local/include/boost/predef/os.h \
+  /usr/local/include/boost/predef/os/aix.h \
+  /usr/local/include/boost/predef/os/amigaos.h \
+  /usr/local/include/boost/predef/os/beos.h \
+  /usr/local/include/boost/predef/os/bsd.h \
+  /usr/local/include/boost/predef/os/bsd/bsdi.h \
+  /usr/local/include/boost/predef/os/bsd/dragonfly.h \
+  /usr/local/include/boost/predef/os/bsd/free.h \
+  /usr/local/include/boost/predef/os/bsd/net.h \
+  /usr/local/include/boost/predef/os/bsd/open.h \
+  /usr/local/include/boost/predef/os/cygwin.h \
+  /usr/local/include/boost/predef/os/haiku.h \
+  /usr/local/include/boost/predef/os/hpux.h \
+  /usr/local/include/boost/predef/os/ios.h \
+  /usr/local/include/boost/predef/os/irix.h \
+  /usr/local/include/boost/predef/os/linux.h \
+  /usr/local/include/boost/predef/os/macos.h \
+  /usr/local/include/boost/predef/os/os400.h \
+  /usr/local/include/boost/predef/os/qnxnto.h \
+  /usr/local/include/boost/predef/os/solaris.h \
+  /usr/local/include/boost/predef/os/unix.h \
+  /usr/local/include/boost/predef/os/vms.h \
+  /usr/local/include/boost/predef/os/windows.h \
+  /usr/local/include/boost/predef/other.h \
+  /usr/local/include/boost/predef/other/endian.h \
+  /usr/local/include/boost/predef/other/wordsize.h \
+  /usr/local/include/boost/predef/other/workaround.h \
+  /usr/local/include/boost/predef/platform.h \
+  /usr/local/include/boost/predef/platform/android.h \
+  /usr/local/include/boost/predef/platform/cloudabi.h \
+  /usr/local/include/boost/predef/platform/ios.h \
+  /usr/local/include/boost/predef/platform/mingw.h \
+  /usr/local/include/boost/predef/platform/mingw32.h \
+  /usr/local/include/boost/predef/platform/mingw64.h \
+  /usr/local/include/boost/predef/platform/windows_desktop.h \
+  /usr/local/include/boost/predef/platform/windows_phone.h \
+  /usr/local/include/boost/predef/platform/windows_runtime.h \
+  /usr/local/include/boost/predef/platform/windows_server.h \
+  /usr/local/include/boost/predef/platform/windows_store.h \
+  /usr/local/include/boost/predef/platform/windows_system.h \
+  /usr/local/include/boost/predef/platform/windows_uwp.h \
+  /usr/local/include/boost/predef/version.h \
+  /usr/local/include/boost/predef/version_number.h \
   /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/mod.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
   /usr/local/include/boost/preprocessor/array/data.hpp \
   /usr/local/include/boost/preprocessor/array/elem.hpp \
@@ -3038,32 +6002,52 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/preprocessor/cat.hpp \
   /usr/local/include/boost/preprocessor/comma_if.hpp \
   /usr/local/include/boost/preprocessor/comparison/equal.hpp \
+  /usr/local/include/boost/preprocessor/comparison/greater.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less_equal.hpp \
   /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
   /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
   /usr/local/include/boost/preprocessor/config/config.hpp \
   /usr/local/include/boost/preprocessor/config/limits.hpp \
+  /usr/local/include/boost/preprocessor/control/deduce_d.hpp \
   /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/detail/while.hpp \
+  /usr/local/include/boost/preprocessor/control/expr_if.hpp \
   /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
   /usr/local/include/boost/preprocessor/control/if.hpp \
   /usr/local/include/boost/preprocessor/control/iif.hpp \
   /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/while.hpp \
   /usr/local/include/boost/preprocessor/debug/error.hpp \
+  /usr/local/include/boost/preprocessor/dec.hpp \
   /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
   /usr/local/include/boost/preprocessor/detail/check.hpp \
   /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /usr/local/include/boost/preprocessor/detail/is_unary.hpp \
   /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
   /usr/local/include/boost/preprocessor/empty.hpp \
+  /usr/local/include/boost/preprocessor/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/identity.hpp \
   /usr/local/include/boost/preprocessor/facilities/intercept.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp \
   /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp \
   /usr/local/include/boost/preprocessor/facilities/overload.hpp \
   /usr/local/include/boost/preprocessor/identity.hpp \
+  /usr/local/include/boost/preprocessor/if.hpp \
   /usr/local/include/boost/preprocessor/inc.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/iterate.hpp \
+  /usr/local/include/boost/preprocessor/iteration/local.hpp \
   /usr/local/include/boost/preprocessor/list/adt.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
@@ -3071,6 +6055,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
   /usr/local/include/boost/preprocessor/list/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/fold_right.hpp \
+  /usr/local/include/boost/preprocessor/list/for_each_i.hpp \
   /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/list/reverse.hpp \
   /usr/local/include/boost/preprocessor/logical/and.hpp \
@@ -3082,27 +6067,211 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/preprocessor/logical/not.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/paren.hpp \
   /usr/local/include/boost/preprocessor/repeat.hpp \
+  /usr/local/include/boost/preprocessor/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/selection/max.hpp \
+  /usr/local/include/boost/preprocessor/seq/cat.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/split.hpp \
+  /usr/local/include/boost/preprocessor/seq/elem.hpp \
   /usr/local/include/boost/preprocessor/seq/enum.hpp \
+  /usr/local/include/boost/preprocessor/seq/first_n.hpp \
+  /usr/local/include/boost/preprocessor/seq/fold_left.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/pop_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_front.hpp \
+  /usr/local/include/boost/preprocessor/seq/reverse.hpp \
+  /usr/local/include/boost/preprocessor/seq/seq.hpp \
   /usr/local/include/boost/preprocessor/seq/size.hpp \
+  /usr/local/include/boost/preprocessor/seq/to_tuple.hpp \
+  /usr/local/include/boost/preprocessor/seq/transform.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/def.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/shared.hpp \
+  /usr/local/include/boost/preprocessor/slot/slot.hpp \
   /usr/local/include/boost/preprocessor/stringize.hpp \
   /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
   /usr/local/include/boost/preprocessor/tuple/eat.hpp \
   /usr/local/include/boost/preprocessor/tuple/elem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp \
   /usr/local/include/boost/preprocessor/tuple/rem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/size.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_seq.hpp \
   /usr/local/include/boost/preprocessor/variadic/elem.hpp \
   /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/size.hpp \
+  /usr/local/include/boost/preprocessor/variadic/to_seq.hpp \
+  /usr/local/include/boost/proto/args.hpp \
+  /usr/local/include/boost/proto/detail/and_n.hpp \
+  /usr/local/include/boost/proto/detail/any.hpp \
+  /usr/local/include/boost/proto/detail/args.hpp \
+  /usr/local/include/boost/proto/detail/as_expr.hpp \
+  /usr/local/include/boost/proto/detail/as_lvalue.hpp \
+  /usr/local/include/boost/proto/detail/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/decltype.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/deprecated.hpp \
+  /usr/local/include/boost/proto/detail/expr.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop_const.hpp \
+  /usr/local/include/boost/proto/detail/funop.hpp \
+  /usr/local/include/boost/proto/detail/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/ignore_unused.hpp \
+  /usr/local/include/boost/proto/detail/is_noncopyable.hpp \
+  /usr/local/include/boost/proto/detail/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/matches_.hpp \
+  /usr/local/include/boost/proto/detail/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/or_n.hpp \
+  /usr/local/include/boost/proto/detail/poly_function.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/and_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/args.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/matches_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/or_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/detail/remove_typename.hpp \
+  /usr/local/include/boost/proto/detail/static_const.hpp \
+  /usr/local/include/boost/proto/detail/template_arity.hpp \
+  /usr/local/include/boost/proto/detail/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/traits.hpp \
+  /usr/local/include/boost/proto/detail/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/domain.hpp \
+  /usr/local/include/boost/proto/expr.hpp \
+  /usr/local/include/boost/proto/extends.hpp \
+  /usr/local/include/boost/proto/functional/fusion/at.hpp \
+  /usr/local/include/boost/proto/generate.hpp \
+  /usr/local/include/boost/proto/make_expr.hpp \
+  /usr/local/include/boost/proto/matches.hpp \
+  /usr/local/include/boost/proto/operators.hpp \
+  /usr/local/include/boost/proto/proto_fwd.hpp \
+  /usr/local/include/boost/proto/tags.hpp \
+  /usr/local/include/boost/proto/traits.hpp \
+  /usr/local/include/boost/proto/transform/arg.hpp \
+  /usr/local/include/boost/proto/transform/call.hpp \
+  /usr/local/include/boost/proto/transform/default.hpp \
+  /usr/local/include/boost/proto/transform/detail/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp \
+  /usr/local/include/boost/proto/transform/detail/when.hpp \
+  /usr/local/include/boost/proto/transform/env.hpp \
+  /usr/local/include/boost/proto/transform/fold.hpp \
+  /usr/local/include/boost/proto/transform/impl.hpp \
+  /usr/local/include/boost/proto/transform/lazy.hpp \
+  /usr/local/include/boost/proto/transform/make.hpp \
+  /usr/local/include/boost/proto/transform/pass_through.hpp \
+  /usr/local/include/boost/proto/transform/when.hpp \
+  /usr/local/include/boost/range/algorithm/equal.hpp \
+  /usr/local/include/boost/range/begin.hpp \
+  /usr/local/include/boost/range/concepts.hpp \
+  /usr/local/include/boost/range/config.hpp \
+  /usr/local/include/boost/range/const_iterator.hpp \
+  /usr/local/include/boost/range/detail/common.hpp \
+  /usr/local/include/boost/range/detail/extract_optional_type.hpp \
+  /usr/local/include/boost/range/detail/has_member_size.hpp \
+  /usr/local/include/boost/range/detail/implementation_help.hpp \
+  /usr/local/include/boost/range/detail/misc_concept.hpp \
+  /usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+  /usr/local/include/boost/range/detail/safe_bool.hpp \
+  /usr/local/include/boost/range/detail/sfinae.hpp \
+  /usr/local/include/boost/range/difference_type.hpp \
+  /usr/local/include/boost/range/distance.hpp \
+  /usr/local/include/boost/range/empty.hpp \
+  /usr/local/include/boost/range/end.hpp \
+  /usr/local/include/boost/range/functions.hpp \
+  /usr/local/include/boost/range/has_range_iterator.hpp \
+  /usr/local/include/boost/range/iterator.hpp \
+  /usr/local/include/boost/range/iterator_range_core.hpp \
+  /usr/local/include/boost/range/mutable_iterator.hpp \
+  /usr/local/include/boost/range/range_fwd.hpp \
+  /usr/local/include/boost/range/rbegin.hpp \
+  /usr/local/include/boost/range/rend.hpp \
+  /usr/local/include/boost/range/reverse_iterator.hpp \
+  /usr/local/include/boost/range/size.hpp \
+  /usr/local/include/boost/range/size_type.hpp \
+  /usr/local/include/boost/range/value_type.hpp \
+  /usr/local/include/boost/ratio/config.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/abs.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/gcd.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/lcm.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/sign.hpp \
+  /usr/local/include/boost/ratio/detail/overflow_helpers.hpp \
+  /usr/local/include/boost/ratio/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/ratio/ratio.hpp \
+  /usr/local/include/boost/ratio/ratio_fwd.hpp \
+  /usr/local/include/boost/ref.hpp \
+  /usr/local/include/boost/shared_ptr.hpp \
   /usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
@@ -3116,6 +6285,7 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+  /usr/local/include/boost/smart_ptr/detail/sp_forward.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
@@ -3129,46 +6299,116 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/smart_ptr/detail/yield_k.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+  /usr/local/include/boost/smart_ptr/make_shared_object.hpp \
   /usr/local/include/boost/smart_ptr/shared_ptr.hpp \
   /usr/local/include/boost/static_assert.hpp \
+  /usr/local/include/boost/system/api_config.hpp \
+  /usr/local/include/boost/system/detail/append_int.hpp \
+  /usr/local/include/boost/system/detail/cerrno.hpp \
+  /usr/local/include/boost/system/detail/config.hpp \
+  /usr/local/include/boost/system/detail/enable_if.hpp \
+  /usr/local/include/boost/system/detail/errc.hpp \
+  /usr/local/include/boost/system/detail/error_category.hpp \
+  /usr/local/include/boost/system/detail/error_category_impl.hpp \
+  /usr/local/include/boost/system/detail/error_code.hpp \
+  /usr/local/include/boost/system/detail/error_condition.hpp \
+  /usr/local/include/boost/system/detail/generic_category.hpp \
+  /usr/local/include/boost/system/detail/generic_category_message.hpp \
+  /usr/local/include/boost/system/detail/interop_category.hpp \
+  /usr/local/include/boost/system/detail/is_same.hpp \
+  /usr/local/include/boost/system/detail/mutex.hpp \
+  /usr/local/include/boost/system/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/system/detail/snprintf.hpp \
+  /usr/local/include/boost/system/detail/std_category.hpp \
+  /usr/local/include/boost/system/detail/std_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category.hpp \
+  /usr/local/include/boost/system/detail/system_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category_message.hpp \
+  /usr/local/include/boost/system/detail/throws.hpp \
+  /usr/local/include/boost/system/errc.hpp \
+  /usr/local/include/boost/system/error_category.hpp \
+  /usr/local/include/boost/system/error_code.hpp \
+  /usr/local/include/boost/system/error_condition.hpp \
+  /usr/local/include/boost/system/generic_category.hpp \
+  /usr/local/include/boost/system/is_error_code_enum.hpp \
+  /usr/local/include/boost/system/is_error_condition_enum.hpp \
+  /usr/local/include/boost/system/system_category.hpp \
+  /usr/local/include/boost/system/system_error.hpp \
   /usr/local/include/boost/thread/detail/config.hpp \
+  /usr/local/include/boost/thread/detail/delete.hpp \
+  /usr/local/include/boost/thread/detail/move.hpp \
   /usr/local/include/boost/thread/detail/platform.hpp \
+  /usr/local/include/boost/thread/detail/platform_time.hpp \
   /usr/local/include/boost/thread/detail/thread_safety.hpp \
+  /usr/local/include/boost/thread/exceptions.hpp \
+  /usr/local/include/boost/thread/lock_options.hpp \
+  /usr/local/include/boost/thread/lock_types.hpp \
+  /usr/local/include/boost/thread/lockable_traits.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_helpers.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp \
+  /usr/local/include/boost/thread/pthread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/thread_time.hpp \
+  /usr/local/include/boost/thread/tss.hpp \
   /usr/local/include/boost/throw_exception.hpp \
+  /usr/local/include/boost/type.hpp \
   /usr/local/include/boost/type_index.hpp \
   /usr/local/include/boost/type_index/stl_type_index.hpp \
   /usr/local/include/boost/type_index/type_index_facade.hpp \
   /usr/local/include/boost/type_traits/add_const.hpp \
+  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
+  /usr/local/include/boost/type_traits/add_pointer.hpp \
+  /usr/local/include/boost/type_traits/add_reference.hpp \
   /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
   /usr/local/include/boost/type_traits/add_volatile.hpp \
+  /usr/local/include/boost/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/type_traits/common_type.hpp \
   /usr/local/include/boost/type_traits/conditional.hpp \
   /usr/local/include/boost/type_traits/conjunction.hpp \
+  /usr/local/include/boost/type_traits/conversion_traits.hpp \
+  /usr/local/include/boost/type_traits/decay.hpp \
   /usr/local/include/boost/type_traits/declval.hpp \
   /usr/local/include/boost/type_traits/detail/config.hpp \
+  /usr/local/include/boost/type_traits/detail/has_binary_operator.hpp \
   /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
+  /usr/local/include/boost/type_traits/detail/mp_defer.hpp \
   /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
   /usr/local/include/boost/type_traits/enable_if.hpp \
+  /usr/local/include/boost/type_traits/function_traits.hpp \
+  /usr/local/include/boost/type_traits/has_left_shift.hpp \
+  /usr/local/include/boost/type_traits/has_minus.hpp \
+  /usr/local/include/boost/type_traits/has_minus_assign.hpp \
   /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp \
+  /usr/local/include/boost/type_traits/has_plus.hpp \
+  /usr/local/include/boost/type_traits/has_plus_assign.hpp \
+  /usr/local/include/boost/type_traits/has_right_shift.hpp \
   /usr/local/include/boost/type_traits/integral_constant.hpp \
   /usr/local/include/boost/type_traits/intrinsics.hpp \
+  /usr/local/include/boost/type_traits/is_abstract.hpp \
   /usr/local/include/boost/type_traits/is_arithmetic.hpp \
+  /usr/local/include/boost/type_traits/is_array.hpp \
   /usr/local/include/boost/type_traits/is_base_and_derived.hpp \
   /usr/local/include/boost/type_traits/is_base_of.hpp \
   /usr/local/include/boost/type_traits/is_class.hpp \
   /usr/local/include/boost/type_traits/is_complete.hpp \
   /usr/local/include/boost/type_traits/is_const.hpp \
+  /usr/local/include/boost/type_traits/is_convertible.hpp \
   /usr/local/include/boost/type_traits/is_default_constructible.hpp \
+  /usr/local/include/boost/type_traits/is_empty.hpp \
   /usr/local/include/boost/type_traits/is_enum.hpp \
+  /usr/local/include/boost/type_traits/is_float.hpp \
   /usr/local/include/boost/type_traits/is_floating_point.hpp \
   /usr/local/include/boost/type_traits/is_function.hpp \
   /usr/local/include/boost/type_traits/is_integral.hpp \
   /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
   /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /usr/local/include/boost/type_traits/is_member_object_pointer.hpp \
   /usr/local/include/boost/type_traits/is_member_pointer.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp \
+  /usr/local/include/boost/type_traits/is_pod.hpp \
   /usr/local/include/boost/type_traits/is_pointer.hpp \
   /usr/local/include/boost/type_traits/is_reference.hpp \
   /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
@@ -3179,12 +6419,29 @@ CMakeFiles/main.dir/gui/canvas.cpp.o: /Users/comrademashkov/Desktop/PO/main/airb
   /usr/local/include/boost/type_traits/is_unsigned.hpp \
   /usr/local/include/boost/type_traits/is_void.hpp \
   /usr/local/include/boost/type_traits/is_volatile.hpp \
+  /usr/local/include/boost/type_traits/make_signed.hpp \
   /usr/local/include/boost/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/type_traits/make_void.hpp \
+  /usr/local/include/boost/type_traits/remove_bounds.hpp \
   /usr/local/include/boost/type_traits/remove_const.hpp \
   /usr/local/include/boost/type_traits/remove_cv.hpp \
+  /usr/local/include/boost/type_traits/remove_extent.hpp \
+  /usr/local/include/boost/type_traits/remove_pointer.hpp \
   /usr/local/include/boost/type_traits/remove_reference.hpp \
+  /usr/local/include/boost/type_traits/remove_volatile.hpp \
   /usr/local/include/boost/type_traits/type_identity.hpp \
+  /usr/local/include/boost/type_traits/type_with_alignment.hpp \
+  /usr/local/include/boost/typeof/decltype.hpp \
+  /usr/local/include/boost/typeof/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/typeof/message.hpp \
+  /usr/local/include/boost/typeof/typeof.hpp \
+  /usr/local/include/boost/utility.hpp \
+  /usr/local/include/boost/utility/addressof.hpp \
+  /usr/local/include/boost/utility/base_from_member.hpp \
+  /usr/local/include/boost/utility/binary.hpp \
   /usr/local/include/boost/utility/detail/result_of_variadic.hpp \
+  /usr/local/include/boost/utility/enable_if.hpp \
+  /usr/local/include/boost/utility/identity_type.hpp \
   /usr/local/include/boost/utility/result_of.hpp \
   /usr/local/include/boost/utility/string_ref_fwd.hpp \
   /usr/local/include/boost/utility/string_view_fwd.hpp \
@@ -4774,6 +8031,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
@@ -4789,6 +8047,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
@@ -4840,13 +8099,69 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
@@ -4899,6 +8214,8 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h \
@@ -4930,6 +8247,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h \
@@ -4954,6 +8272,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
@@ -4971,6 +8290,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
@@ -5207,8 +8527,98 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.h \
+  /usr/local/include/boost/array.hpp \
   /usr/local/include/boost/assert.hpp \
   /usr/local/include/boost/assert/source_location.hpp \
+  /usr/local/include/boost/atomic/atomic.hpp \
+  /usr/local/include/boost/atomic/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/addressof.hpp \
+  /usr/local/include/boost/atomic/detail/aligned_variable.hpp \
+  /usr/local/include/boost/atomic/detail/atomic_impl.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_cast.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp \
+  /usr/local/include/boost/atomic/detail/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/classify.hpp \
+  /usr/local/include/boost/atomic/detail/config.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/float_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/footer.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/futex.hpp \
+  /usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/header.hpp \
+  /usr/local/include/boost/atomic/detail/int_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/integral_conversions.hpp \
+  /usr/local/include/boost/atomic/detail/intptr.hpp \
+  /usr/local/include/boost/atomic/detail/link.hpp \
+  /usr/local/include/boost/atomic/detail/lock_pool.hpp \
+  /usr/local/include/boost/atomic/detail/memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp \
+  /usr/local/include/boost/atomic/detail/pause.hpp \
+  /usr/local/include/boost/atomic/detail/platform.hpp \
+  /usr/local/include/boost/atomic/detail/storage_traits.hpp \
+  /usr/local/include/boost/atomic/detail/string_ops.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/conditional.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_function.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/atomic/detail/wait_capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_generic.hpp \
+  /usr/local/include/boost/chrono/ceil.hpp \
+  /usr/local/include/boost/chrono/clock_string.hpp \
+  /usr/local/include/boost/chrono/config.hpp \
+  /usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp \
+  /usr/local/include/boost/chrono/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/chrono/detail/static_assert.hpp \
+  /usr/local/include/boost/chrono/detail/system.hpp \
+  /usr/local/include/boost/chrono/duration.hpp \
+  /usr/local/include/boost/chrono/system_clocks.hpp \
+  /usr/local/include/boost/chrono/time_point.hpp \
+  /usr/local/include/boost/concept/assert.hpp \
+  /usr/local/include/boost/concept/detail/backward_compatibility.hpp \
+  /usr/local/include/boost/concept/detail/concept_def.hpp \
+  /usr/local/include/boost/concept/detail/concept_undef.hpp \
+  /usr/local/include/boost/concept/detail/general.hpp \
+  /usr/local/include/boost/concept/detail/has_constraints.hpp \
+  /usr/local/include/boost/concept/usage.hpp \
+  /usr/local/include/boost/concept_check.hpp \
   /usr/local/include/boost/config.hpp \
   /usr/local/include/boost/config/abi_prefix.hpp \
   /usr/local/include/boost/config/abi_suffix.hpp \
@@ -5221,13 +8631,18 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/local/include/boost/config/detail/suffix.hpp \
   /usr/local/include/boost/config/helper_macros.hpp \
+  /usr/local/include/boost/config/no_tr1/cmath.hpp \
   /usr/local/include/boost/config/no_tr1/functional.hpp \
+  /usr/local/include/boost/config/no_tr1/memory.hpp \
+  /usr/local/include/boost/config/no_tr1/utility.hpp \
   /usr/local/include/boost/config/platform/macos.hpp \
   /usr/local/include/boost/config/pragma_message.hpp \
   /usr/local/include/boost/config/requires_threads.hpp \
   /usr/local/include/boost/config/stdlib/libcpp.hpp \
   /usr/local/include/boost/config/user.hpp \
   /usr/local/include/boost/config/workaround.hpp \
+  /usr/local/include/boost/container/container_fwd.hpp \
+  /usr/local/include/boost/container/detail/std_fwd.hpp \
   /usr/local/include/boost/container_hash/detail/hash_mix.hpp \
   /usr/local/include/boost/container_hash/detail/hash_range.hpp \
   /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp \
@@ -5242,13 +8657,69 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/container_hash/is_unordered_range.hpp \
   /usr/local/include/boost/core/addressof.hpp \
   /usr/local/include/boost/core/checked_delete.hpp \
+  /usr/local/include/boost/core/cmath.hpp \
   /usr/local/include/boost/core/demangle.hpp \
   /usr/local/include/boost/core/enable_if.hpp \
   /usr/local/include/boost/core/explicit_operator_bool.hpp \
+  /usr/local/include/boost/core/noncopyable.hpp \
+  /usr/local/include/boost/core/null_deleter.hpp \
+  /usr/local/include/boost/core/ref.hpp \
+  /usr/local/include/boost/core/snprintf.hpp \
   /usr/local/include/boost/core/swap.hpp \
   /usr/local/include/boost/core/uncaught_exceptions.hpp \
+  /usr/local/include/boost/core/use_default.hpp \
   /usr/local/include/boost/cstdint.hpp \
   /usr/local/include/boost/current_function.hpp \
+  /usr/local/include/boost/date_time/adjust_functors.hpp \
+  /usr/local/include/boost/date_time/c_time.hpp \
+  /usr/local/include/boost/date_time/compiler_config.hpp \
+  /usr/local/include/boost/date_time/constrained_value.hpp \
+  /usr/local/include/boost/date_time/date.hpp \
+  /usr/local/include/boost/date_time/date_clock_device.hpp \
+  /usr/local/include/boost/date_time/date_defs.hpp \
+  /usr/local/include/boost/date_time/date_duration.hpp \
+  /usr/local/include/boost/date_time/date_duration_types.hpp \
+  /usr/local/include/boost/date_time/date_generators.hpp \
+  /usr/local/include/boost/date_time/date_iterator.hpp \
+  /usr/local/include/boost/date_time/dst_rules.hpp \
+  /usr/local/include/boost/date_time/filetime_functions.hpp \
+  /usr/local/include/boost/date_time/gregorian/conversion.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_date.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_month.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_weekday.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_ymd.hpp \
+  /usr/local/include/boost/date_time/gregorian/gregorian_types.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.ipp \
+  /usr/local/include/boost/date_time/int_adapter.hpp \
+  /usr/local/include/boost/date_time/locale_config.hpp \
+  /usr/local/include/boost/date_time/microsec_time_clock.hpp \
+  /usr/local/include/boost/date_time/period.hpp \
+  /usr/local/include/boost/date_time/posix_time/conversion.hpp \
+  /usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_config.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_system.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_types.hpp \
+  /usr/local/include/boost/date_time/posix_time/ptime.hpp \
+  /usr/local/include/boost/date_time/posix_time/time_period.hpp \
+  /usr/local/include/boost/date_time/special_defs.hpp \
+  /usr/local/include/boost/date_time/time.hpp \
+  /usr/local/include/boost/date_time/time_clock.hpp \
+  /usr/local/include/boost/date_time/time_defs.hpp \
+  /usr/local/include/boost/date_time/time_duration.hpp \
+  /usr/local/include/boost/date_time/time_iterator.hpp \
+  /usr/local/include/boost/date_time/time_resolution_traits.hpp \
+  /usr/local/include/boost/date_time/time_system_counted.hpp \
+  /usr/local/include/boost/date_time/time_system_split.hpp \
+  /usr/local/include/boost/date_time/wrapping_int.hpp \
+  /usr/local/include/boost/date_time/year_month_day.hpp \
   /usr/local/include/boost/describe/bases.hpp \
   /usr/local/include/boost/describe/detail/config.hpp \
   /usr/local/include/boost/describe/detail/cx_streq.hpp \
@@ -5256,8 +8727,188 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/describe/members.hpp \
   /usr/local/include/boost/describe/modifiers.hpp \
   /usr/local/include/boost/detail/atomic_count.hpp \
+  /usr/local/include/boost/detail/basic_pointerbuf.hpp \
+  /usr/local/include/boost/detail/indirect_traits.hpp \
+  /usr/local/include/boost/detail/lcast_precision.hpp \
+  /usr/local/include/boost/detail/select_type.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/exception/exception.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp \
+  /usr/local/include/boost/fusion/container/list/cons.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_iterator.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/list_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/nil.hpp \
+  /usr/local/include/boost/fusion/include/at.hpp \
+  /usr/local/include/boost/fusion/include/at_c.hpp \
+  /usr/local/include/boost/fusion/include/begin.hpp \
+  /usr/local/include/boost/fusion/include/fold.hpp \
+  /usr/local/include/boost/fusion/include/next.hpp \
+  /usr/local/include/boost/fusion/include/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/include/size.hpp \
+  /usr/local/include/boost/fusion/include/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/basic_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/deref.hpp \
+  /usr/local/include/boost/fusion/iterator/deref_data.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp \
+  /usr/local/include/boost/fusion/iterator/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/fusion/iterator/key_of.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/next.hpp \
+  /usr/local/include/boost/fusion/iterator/prior.hpp \
+  /usr/local/include/boost/fusion/iterator/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of_data.hpp \
+  /usr/local/include/boost/fusion/mpl/begin.hpp \
+  /usr/local/include/boost/fusion/mpl/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp \
+  /usr/local/include/boost/fusion/support/category_of.hpp \
+  /usr/local/include/boost/fusion/support/config.hpp \
+  /usr/local/include/boost/fusion/support/detail/access.hpp \
+  /usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp \
+  /usr/local/include/boost/fusion/support/detail/enabler.hpp \
+  /usr/local/include/boost/fusion/support/detail/index_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp \
+  /usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp \
+  /usr/local/include/boost/fusion/support/is_iterator.hpp \
+  /usr/local/include/boost/fusion/support/is_segmented.hpp \
+  /usr/local/include/boost/fusion/support/is_sequence.hpp \
+  /usr/local/include/boost/fusion/support/is_view.hpp \
+  /usr/local/include/boost/fusion/support/iterator_base.hpp \
+  /usr/local/include/boost/fusion/support/segmented_fold_until.hpp \
+  /usr/local/include/boost/fusion/support/sequence_base.hpp \
+  /usr/local/include/boost/fusion/support/tag_of.hpp \
+  /usr/local/include/boost/fusion/support/tag_of_fwd.hpp \
+  /usr/local/include/boost/fusion/support/void.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp \
+  /usr/local/include/boost/get_pointer.hpp \
+  /usr/local/include/boost/integer.hpp \
+  /usr/local/include/boost/integer_fwd.hpp \
+  /usr/local/include/boost/integer_traits.hpp \
+  /usr/local/include/boost/is_placeholder.hpp \
+  /usr/local/include/boost/iterator/advance.hpp \
+  /usr/local/include/boost/iterator/detail/config_def.hpp \
+  /usr/local/include/boost/iterator/detail/config_undef.hpp \
+  /usr/local/include/boost/iterator/detail/enable_if.hpp \
+  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
+  /usr/local/include/boost/iterator/distance.hpp \
+  /usr/local/include/boost/iterator/interoperable.hpp \
+  /usr/local/include/boost/iterator/iterator_adaptor.hpp \
+  /usr/local/include/boost/iterator/iterator_categories.hpp \
+  /usr/local/include/boost/iterator/iterator_concepts.hpp \
+  /usr/local/include/boost/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/iterator/iterator_traits.hpp \
+  /usr/local/include/boost/iterator/reverse_iterator.hpp \
+  /usr/local/include/boost/lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp \
+  /usr/local/include/boost/lexical_cast/detail/inf_nan.hpp \
+  /usr/local/include/boost/lexical_cast/detail/is_character.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp \
+  /usr/local/include/boost/lexical_cast/detail/widest_char.hpp \
+  /usr/local/include/boost/lexical_cast/try_lexical_convert.hpp \
+  /usr/local/include/boost/limits.hpp \
   /usr/local/include/boost/log/attributes/attribute.hpp \
   /usr/local/include/boost/log/attributes/attribute_cast.hpp \
   /usr/local/include/boost/log/attributes/attribute_name.hpp \
@@ -5265,29 +8916,75 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/log/attributes/attribute_value.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_impl.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_set.hpp \
+  /usr/local/include/boost/log/attributes/clock.hpp \
+  /usr/local/include/boost/log/attributes/constant.hpp \
+  /usr/local/include/boost/log/attributes/counter.hpp \
+  /usr/local/include/boost/log/attributes/current_process_id.hpp \
+  /usr/local/include/boost/log/attributes/current_thread_id.hpp \
+  /usr/local/include/boost/log/attributes/fallback_policy.hpp \
   /usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp \
+  /usr/local/include/boost/log/attributes/time_traits.hpp \
+  /usr/local/include/boost/log/attributes/value_extraction.hpp \
   /usr/local/include/boost/log/attributes/value_extraction_fwd.hpp \
+  /usr/local/include/boost/log/attributes/value_visitation.hpp \
   /usr/local/include/boost/log/attributes/value_visitation_fwd.hpp \
   /usr/local/include/boost/log/core/core.hpp \
   /usr/local/include/boost/log/core/record.hpp \
   /usr/local/include/boost/log/core/record_view.hpp \
   /usr/local/include/boost/log/detail/attachable_sstream_buf.hpp \
+  /usr/local/include/boost/log/detail/attr_output_impl.hpp \
+  /usr/local/include/boost/log/detail/attr_output_terminal.hpp \
   /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp \
   /usr/local/include/boost/log/detail/code_conversion.hpp \
   /usr/local/include/boost/log/detail/config.hpp \
+  /usr/local/include/boost/log/detail/copy_cv.hpp \
+  /usr/local/include/boost/log/detail/custom_terminal_spec.hpp \
   /usr/local/include/boost/log/detail/default_attribute_names.hpp \
+  /usr/local/include/boost/log/detail/embedded_string_type.hpp \
+  /usr/local/include/boost/log/detail/fake_mutex.hpp \
   /usr/local/include/boost/log/detail/footer.hpp \
+  /usr/local/include/boost/log/detail/generate_overloads.hpp \
   /usr/local/include/boost/log/detail/header.hpp \
+  /usr/local/include/boost/log/detail/id.hpp \
   /usr/local/include/boost/log/detail/is_character_type.hpp \
+  /usr/local/include/boost/log/detail/is_ostream.hpp \
   /usr/local/include/boost/log/detail/light_function.hpp \
   /usr/local/include/boost/log/detail/light_rw_mutex.hpp \
+  /usr/local/include/boost/log/detail/locking_ptr.hpp \
   /usr/local/include/boost/log/detail/locks.hpp \
   /usr/local/include/boost/log/detail/native_typeof.hpp \
   /usr/local/include/boost/log/detail/parameter_tools.hpp \
+  /usr/local/include/boost/log/detail/process_id.hpp \
+  /usr/local/include/boost/log/detail/setup_config.hpp \
   /usr/local/include/boost/log/detail/sfinae_tools.hpp \
+  /usr/local/include/boost/log/detail/sink_init_helpers.hpp \
+  /usr/local/include/boost/log/detail/thread_id.hpp \
+  /usr/local/include/boost/log/detail/trivial_keyword.hpp \
+  /usr/local/include/boost/log/detail/unary_function_terminal.hpp \
+  /usr/local/include/boost/log/detail/value_ref_visitation.hpp \
+  /usr/local/include/boost/log/exceptions.hpp \
+  /usr/local/include/boost/log/expressions/attr.hpp \
+  /usr/local/include/boost/log/expressions/attr_fwd.hpp \
   /usr/local/include/boost/log/expressions/filter.hpp \
+  /usr/local/include/boost/log/expressions/formatter.hpp \
+  /usr/local/include/boost/log/expressions/formatters/stream.hpp \
+  /usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp \
+  /usr/local/include/boost/log/expressions/keyword.hpp \
   /usr/local/include/boost/log/expressions/keyword_fwd.hpp \
+  /usr/local/include/boost/log/expressions/message.hpp \
+  /usr/local/include/boost/log/expressions/predicates/has_attr.hpp \
+  /usr/local/include/boost/log/keywords/auto_flush.hpp \
+  /usr/local/include/boost/log/keywords/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/keywords/filter.hpp \
+  /usr/local/include/boost/log/keywords/format.hpp \
   /usr/local/include/boost/log/keywords/severity.hpp \
+  /usr/local/include/boost/log/sinks/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_backend.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_frontend.hpp \
+  /usr/local/include/boost/log/sinks/frontend_requirements.hpp \
+  /usr/local/include/boost/log/sinks/sink.hpp \
+  /usr/local/include/boost/log/sinks/sync_frontend.hpp \
+  /usr/local/include/boost/log/sinks/text_ostream_backend.hpp \
   /usr/local/include/boost/log/sources/basic_logger.hpp \
   /usr/local/include/boost/log/sources/features.hpp \
   /usr/local/include/boost/log/sources/record_ostream.hpp \
@@ -5297,17 +8994,37 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/log/trivial.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp \
+  /usr/local/include/boost/log/utility/functional/bind.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_output.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_to_log.hpp \
+  /usr/local/include/boost/log/utility/functional/logical.hpp \
+  /usr/local/include/boost/log/utility/functional/nop.hpp \
+  /usr/local/include/boost/log/utility/manipulators/to_log.hpp \
+  /usr/local/include/boost/log/utility/once_block.hpp \
+  /usr/local/include/boost/log/utility/setup/common_attributes.hpp \
+  /usr/local/include/boost/log/utility/setup/console.hpp \
+  /usr/local/include/boost/log/utility/setup/filter_parser.hpp \
+  /usr/local/include/boost/log/utility/setup/formatter_parser.hpp \
   /usr/local/include/boost/log/utility/strictest_lock.hpp \
   /usr/local/include/boost/log/utility/string_literal_fwd.hpp \
+  /usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/unique_identifier_name.hpp \
+  /usr/local/include/boost/log/utility/value_ref.hpp \
+  /usr/local/include/boost/log/utility/value_ref_fwd.hpp \
+  /usr/local/include/boost/memory_order.hpp \
   /usr/local/include/boost/move/core.hpp \
   /usr/local/include/boost/move/detail/addressof.hpp \
   /usr/local/include/boost/move/detail/config_begin.hpp \
   /usr/local/include/boost/move/detail/config_end.hpp \
   /usr/local/include/boost/move/detail/meta_utils.hpp \
   /usr/local/include/boost/move/detail/meta_utils_core.hpp \
+  /usr/local/include/boost/move/detail/std_ns_begin.hpp \
+  /usr/local/include/boost/move/detail/std_ns_end.hpp \
+  /usr/local/include/boost/move/detail/type_traits.hpp \
   /usr/local/include/boost/move/detail/workaround.hpp \
+  /usr/local/include/boost/move/traits.hpp \
+  /usr/local/include/boost/move/utility.hpp \
   /usr/local/include/boost/move/utility_core.hpp \
   /usr/local/include/boost/mp11/algorithm.hpp \
   /usr/local/include/boost/mp11/bind.hpp \
@@ -5335,6 +9052,8 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mp11/version.hpp \
   /usr/local/include/boost/mpl/O1_size.hpp \
   /usr/local/include/boost/mpl/O1_size_fwd.hpp \
+  /usr/local/include/boost/mpl/advance.hpp \
+  /usr/local/include/boost/mpl/advance_fwd.hpp \
   /usr/local/include/boost/mpl/always.hpp \
   /usr/local/include/boost/mpl/and.hpp \
   /usr/local/include/boost/mpl/apply.hpp \
@@ -5343,20 +9062,28 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mpl/arg.hpp \
   /usr/local/include/boost/mpl/arg_fwd.hpp \
   /usr/local/include/boost/mpl/assert.hpp \
+  /usr/local/include/boost/mpl/at.hpp \
   /usr/local/include/boost/mpl/at_fwd.hpp \
   /usr/local/include/boost/mpl/aux_/O1_size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
+  /usr/local/include/boost/mpl/aux_/arithmetic_op.hpp \
   /usr/local/include/boost/mpl/aux_/arity.hpp \
   /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
+  /usr/local/include/boost/mpl/aux_/at_impl.hpp \
   /usr/local/include/boost/mpl/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/clear_impl.hpp \
   /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
+  /usr/local/include/boost/mpl/aux_/comparison_op.hpp \
   /usr/local/include/boost/mpl/aux_/config/adl.hpp \
   /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
   /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
   /usr/local/include/boost/mpl/aux_/config/bind.hpp \
   /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
   /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp \
   /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
   /usr/local/include/boost/mpl/aux_/config/eti.hpp \
   /usr/local/include/boost/mpl/aux_/config/forwarding.hpp \
@@ -5370,29 +9097,39 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
   /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
   /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/operators.hpp \
   /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
   /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
   /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
   /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
   /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/typeof.hpp \
   /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
   /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /usr/local/include/boost/mpl/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/erase_impl.hpp \
   /usr/local/include/boost/mpl/aux_/find_if_pred.hpp \
+  /usr/local/include/boost/mpl/aux_/fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/front_impl.hpp \
   /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
   /usr/local/include/boost/mpl/aux_/has_apply.hpp \
   /usr/local/include/boost/mpl/aux_/has_begin.hpp \
+  /usr/local/include/boost/mpl/aux_/has_key_impl.hpp \
   /usr/local/include/boost/mpl/aux_/has_size.hpp \
   /usr/local/include/boost/mpl/aux_/has_tag.hpp \
   /usr/local/include/boost/mpl/aux_/has_type.hpp \
   /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/aux_/insert_impl.hpp \
   /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp \
   /usr/local/include/boost/mpl/aux_/iter_apply.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/joint_iter.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_spec.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /usr/local/include/boost/mpl/aux_/largest_int.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_type.hpp \
@@ -5402,6 +9139,12 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mpl/aux_/na_spec.hpp \
   /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_op.hpp \
+  /usr/local/include/boost/mpl/aux_/order_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/overload_names.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
@@ -5409,17 +9152,34 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp \
+  /usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp \
+  /usr/local/include/boost/mpl/aux_/push_back_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/push_front_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/static_cast.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
@@ -5427,54 +9187,173 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/yes_no.hpp \
+  /usr/local/include/boost/mpl/back_fwd.hpp \
+  /usr/local/include/boost/mpl/base.hpp \
+  /usr/local/include/boost/mpl/begin.hpp \
   /usr/local/include/boost/mpl/begin_end.hpp \
   /usr/local/include/boost/mpl/begin_end_fwd.hpp \
   /usr/local/include/boost/mpl/bind.hpp \
   /usr/local/include/boost/mpl/bind_fwd.hpp \
   /usr/local/include/boost/mpl/bool.hpp \
   /usr/local/include/boost/mpl/bool_fwd.hpp \
+  /usr/local/include/boost/mpl/clear.hpp \
+  /usr/local/include/boost/mpl/clear_fwd.hpp \
+  /usr/local/include/boost/mpl/contains.hpp \
+  /usr/local/include/boost/mpl/contains_fwd.hpp \
   /usr/local/include/boost/mpl/count_fwd.hpp \
   /usr/local/include/boost/mpl/deref.hpp \
   /usr/local/include/boost/mpl/distance.hpp \
   /usr/local/include/boost/mpl/distance_fwd.hpp \
+  /usr/local/include/boost/mpl/empty_base.hpp \
+  /usr/local/include/boost/mpl/empty_fwd.hpp \
+  /usr/local/include/boost/mpl/end.hpp \
+  /usr/local/include/boost/mpl/equal_to.hpp \
+  /usr/local/include/boost/mpl/erase.hpp \
+  /usr/local/include/boost/mpl/erase_fwd.hpp \
+  /usr/local/include/boost/mpl/erase_key_fwd.hpp \
   /usr/local/include/boost/mpl/eval_if.hpp \
   /usr/local/include/boost/mpl/find.hpp \
   /usr/local/include/boost/mpl/find_if.hpp \
+  /usr/local/include/boost/mpl/fold.hpp \
+  /usr/local/include/boost/mpl/front.hpp \
+  /usr/local/include/boost/mpl/front_fwd.hpp \
+  /usr/local/include/boost/mpl/has_key.hpp \
   /usr/local/include/boost/mpl/has_key_fwd.hpp \
   /usr/local/include/boost/mpl/has_xxx.hpp \
   /usr/local/include/boost/mpl/identity.hpp \
   /usr/local/include/boost/mpl/if.hpp \
+  /usr/local/include/boost/mpl/index_if.hpp \
+  /usr/local/include/boost/mpl/index_of.hpp \
+  /usr/local/include/boost/mpl/inherit.hpp \
+  /usr/local/include/boost/mpl/insert.hpp \
+  /usr/local/include/boost/mpl/insert_fwd.hpp \
+  /usr/local/include/boost/mpl/insert_range_fwd.hpp \
   /usr/local/include/boost/mpl/int.hpp \
   /usr/local/include/boost/mpl/int_fwd.hpp \
+  /usr/local/include/boost/mpl/integral_c.hpp \
+  /usr/local/include/boost/mpl/integral_c_fwd.hpp \
   /usr/local/include/boost/mpl/integral_c_tag.hpp \
+  /usr/local/include/boost/mpl/is_sequence.hpp \
   /usr/local/include/boost/mpl/iter_fold.hpp \
   /usr/local/include/boost/mpl/iter_fold_if.hpp \
   /usr/local/include/boost/mpl/iterator_range.hpp \
   /usr/local/include/boost/mpl/iterator_tags.hpp \
+  /usr/local/include/boost/mpl/joint_view.hpp \
   /usr/local/include/boost/mpl/key_type_fwd.hpp \
   /usr/local/include/boost/mpl/lambda.hpp \
   /usr/local/include/boost/mpl/lambda_fwd.hpp \
+  /usr/local/include/boost/mpl/less.hpp \
   /usr/local/include/boost/mpl/limits/arity.hpp \
+  /usr/local/include/boost/mpl/limits/map.hpp \
   /usr/local/include/boost/mpl/limits/vector.hpp \
   /usr/local/include/boost/mpl/logical.hpp \
   /usr/local/include/boost/mpl/long.hpp \
   /usr/local/include/boost/mpl/long_fwd.hpp \
+  /usr/local/include/boost/mpl/map.hpp \
+  /usr/local/include/boost/mpl/map/aux_/at_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/clear_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/empty_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/item.hpp \
+  /usr/local/include/boost/mpl/map/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/map0.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp \
+  /usr/local/include/boost/mpl/map/aux_/size_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/map0.hpp \
+  /usr/local/include/boost/mpl/map/map10.hpp \
+  /usr/local/include/boost/mpl/map/map20.hpp \
+  /usr/local/include/boost/mpl/minus.hpp \
+  /usr/local/include/boost/mpl/multiplies.hpp \
+  /usr/local/include/boost/mpl/negate.hpp \
   /usr/local/include/boost/mpl/next.hpp \
   /usr/local/include/boost/mpl/next_prior.hpp \
   /usr/local/include/boost/mpl/not.hpp \
+  /usr/local/include/boost/mpl/numeric_cast.hpp \
   /usr/local/include/boost/mpl/or.hpp \
   /usr/local/include/boost/mpl/order_fwd.hpp \
   /usr/local/include/boost/mpl/pair.hpp \
   /usr/local/include/boost/mpl/placeholders.hpp \
+  /usr/local/include/boost/mpl/plus.hpp \
+  /usr/local/include/boost/mpl/pop_back_fwd.hpp \
+  /usr/local/include/boost/mpl/pop_front_fwd.hpp \
+  /usr/local/include/boost/mpl/prior.hpp \
   /usr/local/include/boost/mpl/protect.hpp \
+  /usr/local/include/boost/mpl/push_back.hpp \
+  /usr/local/include/boost/mpl/push_back_fwd.hpp \
+  /usr/local/include/boost/mpl/push_front.hpp \
+  /usr/local/include/boost/mpl/push_front_fwd.hpp \
   /usr/local/include/boost/mpl/quote.hpp \
+  /usr/local/include/boost/mpl/reverse_fold.hpp \
   /usr/local/include/boost/mpl/same_as.hpp \
   /usr/local/include/boost/mpl/sequence_tag.hpp \
   /usr/local/include/boost/mpl/sequence_tag_fwd.hpp \
+  /usr/local/include/boost/mpl/size.hpp \
+  /usr/local/include/boost/mpl/size_fwd.hpp \
+  /usr/local/include/boost/mpl/size_t.hpp \
+  /usr/local/include/boost/mpl/size_t_fwd.hpp \
   /usr/local/include/boost/mpl/tag.hpp \
+  /usr/local/include/boost/mpl/times.hpp \
   /usr/local/include/boost/mpl/value_type_fwd.hpp \
+  /usr/local/include/boost/mpl/vector.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/O1_size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/at.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/begin_end.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/clear.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/empty.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/item.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/vector20.hpp \
   /usr/local/include/boost/mpl/void.hpp \
   /usr/local/include/boost/mpl/void_fwd.hpp \
+  /usr/local/include/boost/next_prior.hpp \
+  /usr/local/include/boost/noncopyable.hpp \
+  /usr/local/include/boost/numeric/conversion/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/cast.hpp \
+  /usr/local/include/boost/numeric/conversion/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/converter_policies.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/meta.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp \
+  /usr/local/include/boost/operators.hpp \
+  /usr/local/include/boost/optional/optional_fwd.hpp \
   /usr/local/include/boost/parameter/aux_/arg_list.hpp \
   /usr/local/include/boost/parameter/aux_/augment_predicate.hpp \
   /usr/local/include/boost/parameter/aux_/default.hpp \
@@ -5500,14 +9379,183 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/keyword_fwd.hpp \
   /usr/local/include/boost/parameter/value_type.hpp \
+  /usr/local/include/boost/phoenix/core/actor.hpp \
+  /usr/local/include/boost/phoenix/core/argument.hpp \
+  /usr/local/include/boost/phoenix/core/as_actor.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp \
+  /usr/local/include/boost/phoenix/core/detail/expression.hpp \
+  /usr/local/include/boost/phoenix/core/detail/index_sequence.hpp \
+  /usr/local/include/boost/phoenix/core/domain.hpp \
+  /usr/local/include/boost/phoenix/core/environment.hpp \
+  /usr/local/include/boost/phoenix/core/expression.hpp \
+  /usr/local/include/boost/phoenix/core/is_actor.hpp \
+  /usr/local/include/boost/phoenix/core/is_nullary.hpp \
+  /usr/local/include/boost/phoenix/core/limits.hpp \
+  /usr/local/include/boost/phoenix/core/meta_grammar.hpp \
+  /usr/local/include/boost/phoenix/core/terminal.hpp \
+  /usr/local/include/boost/phoenix/core/terminal_fwd.hpp \
+  /usr/local/include/boost/phoenix/operator/comparison.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/define_operator.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp \
+  /usr/local/include/boost/phoenix/support/detail/iterate_define.hpp \
+  /usr/local/include/boost/phoenix/support/iterate.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessor/round.hpp \
+  /usr/local/include/boost/phoenix/support/vector.hpp \
+  /usr/local/include/boost/phoenix/version.hpp \
+  /usr/local/include/boost/predef.h \
+  /usr/local/include/boost/predef/architecture.h \
+  /usr/local/include/boost/predef/architecture/alpha.h \
+  /usr/local/include/boost/predef/architecture/arm.h \
+  /usr/local/include/boost/predef/architecture/blackfin.h \
+  /usr/local/include/boost/predef/architecture/convex.h \
+  /usr/local/include/boost/predef/architecture/e2k.h \
+  /usr/local/include/boost/predef/architecture/ia64.h \
+  /usr/local/include/boost/predef/architecture/loongarch.h \
+  /usr/local/include/boost/predef/architecture/m68k.h \
+  /usr/local/include/boost/predef/architecture/mips.h \
+  /usr/local/include/boost/predef/architecture/parisc.h \
+  /usr/local/include/boost/predef/architecture/ppc.h \
+  /usr/local/include/boost/predef/architecture/ptx.h \
+  /usr/local/include/boost/predef/architecture/pyramid.h \
+  /usr/local/include/boost/predef/architecture/riscv.h \
+  /usr/local/include/boost/predef/architecture/rs6k.h \
+  /usr/local/include/boost/predef/architecture/sparc.h \
+  /usr/local/include/boost/predef/architecture/superh.h \
+  /usr/local/include/boost/predef/architecture/sys370.h \
+  /usr/local/include/boost/predef/architecture/sys390.h \
+  /usr/local/include/boost/predef/architecture/x86.h \
+  /usr/local/include/boost/predef/architecture/x86/32.h \
+  /usr/local/include/boost/predef/architecture/x86/64.h \
+  /usr/local/include/boost/predef/architecture/z.h \
+  /usr/local/include/boost/predef/compiler.h \
+  /usr/local/include/boost/predef/compiler/borland.h \
+  /usr/local/include/boost/predef/compiler/clang.h \
+  /usr/local/include/boost/predef/compiler/comeau.h \
+  /usr/local/include/boost/predef/compiler/compaq.h \
+  /usr/local/include/boost/predef/compiler/diab.h \
+  /usr/local/include/boost/predef/compiler/digitalmars.h \
+  /usr/local/include/boost/predef/compiler/dignus.h \
+  /usr/local/include/boost/predef/compiler/edg.h \
+  /usr/local/include/boost/predef/compiler/ekopath.h \
+  /usr/local/include/boost/predef/compiler/gcc.h \
+  /usr/local/include/boost/predef/compiler/gcc_xml.h \
+  /usr/local/include/boost/predef/compiler/greenhills.h \
+  /usr/local/include/boost/predef/compiler/hp_acc.h \
+  /usr/local/include/boost/predef/compiler/iar.h \
+  /usr/local/include/boost/predef/compiler/ibm.h \
+  /usr/local/include/boost/predef/compiler/intel.h \
+  /usr/local/include/boost/predef/compiler/kai.h \
+  /usr/local/include/boost/predef/compiler/llvm.h \
+  /usr/local/include/boost/predef/compiler/metaware.h \
+  /usr/local/include/boost/predef/compiler/metrowerks.h \
+  /usr/local/include/boost/predef/compiler/microtec.h \
+  /usr/local/include/boost/predef/compiler/mpw.h \
+  /usr/local/include/boost/predef/compiler/nvcc.h \
+  /usr/local/include/boost/predef/compiler/palm.h \
+  /usr/local/include/boost/predef/compiler/pgi.h \
+  /usr/local/include/boost/predef/compiler/sgi_mipspro.h \
+  /usr/local/include/boost/predef/compiler/sunpro.h \
+  /usr/local/include/boost/predef/compiler/tendra.h \
+  /usr/local/include/boost/predef/compiler/visualc.h \
+  /usr/local/include/boost/predef/compiler/watcom.h \
+  /usr/local/include/boost/predef/detail/_cassert.h \
+  /usr/local/include/boost/predef/detail/_exception.h \
+  /usr/local/include/boost/predef/detail/comp_detected.h \
+  /usr/local/include/boost/predef/detail/os_detected.h \
+  /usr/local/include/boost/predef/detail/test.h \
+  /usr/local/include/boost/predef/hardware.h \
+  /usr/local/include/boost/predef/hardware/simd.h \
+  /usr/local/include/boost/predef/hardware/simd/arm.h \
+  /usr/local/include/boost/predef/hardware/simd/arm/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86.h \
+  /usr/local/include/boost/predef/hardware/simd/x86/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h \
+  /usr/local/include/boost/predef/language.h \
+  /usr/local/include/boost/predef/language/cuda.h \
+  /usr/local/include/boost/predef/language/objc.h \
+  /usr/local/include/boost/predef/language/stdc.h \
+  /usr/local/include/boost/predef/language/stdcpp.h \
+  /usr/local/include/boost/predef/library.h \
+  /usr/local/include/boost/predef/library/c.h \
+  /usr/local/include/boost/predef/library/c/_prefix.h \
+  /usr/local/include/boost/predef/library/c/cloudabi.h \
+  /usr/local/include/boost/predef/library/c/gnu.h \
+  /usr/local/include/boost/predef/library/c/uc.h \
+  /usr/local/include/boost/predef/library/c/vms.h \
+  /usr/local/include/boost/predef/library/c/zos.h \
+  /usr/local/include/boost/predef/library/std.h \
+  /usr/local/include/boost/predef/library/std/_prefix.h \
+  /usr/local/include/boost/predef/library/std/cxx.h \
+  /usr/local/include/boost/predef/library/std/dinkumware.h \
+  /usr/local/include/boost/predef/library/std/libcomo.h \
+  /usr/local/include/boost/predef/library/std/modena.h \
+  /usr/local/include/boost/predef/library/std/msl.h \
+  /usr/local/include/boost/predef/library/std/roguewave.h \
+  /usr/local/include/boost/predef/library/std/sgi.h \
+  /usr/local/include/boost/predef/library/std/stdcpp3.h \
+  /usr/local/include/boost/predef/library/std/stlport.h \
+  /usr/local/include/boost/predef/library/std/vacpp.h \
+  /usr/local/include/boost/predef/make.h \
+  /usr/local/include/boost/predef/os.h \
+  /usr/local/include/boost/predef/os/aix.h \
+  /usr/local/include/boost/predef/os/amigaos.h \
+  /usr/local/include/boost/predef/os/beos.h \
+  /usr/local/include/boost/predef/os/bsd.h \
+  /usr/local/include/boost/predef/os/bsd/bsdi.h \
+  /usr/local/include/boost/predef/os/bsd/dragonfly.h \
+  /usr/local/include/boost/predef/os/bsd/free.h \
+  /usr/local/include/boost/predef/os/bsd/net.h \
+  /usr/local/include/boost/predef/os/bsd/open.h \
+  /usr/local/include/boost/predef/os/cygwin.h \
+  /usr/local/include/boost/predef/os/haiku.h \
+  /usr/local/include/boost/predef/os/hpux.h \
+  /usr/local/include/boost/predef/os/ios.h \
+  /usr/local/include/boost/predef/os/irix.h \
+  /usr/local/include/boost/predef/os/linux.h \
+  /usr/local/include/boost/predef/os/macos.h \
+  /usr/local/include/boost/predef/os/os400.h \
+  /usr/local/include/boost/predef/os/qnxnto.h \
+  /usr/local/include/boost/predef/os/solaris.h \
+  /usr/local/include/boost/predef/os/unix.h \
+  /usr/local/include/boost/predef/os/vms.h \
+  /usr/local/include/boost/predef/os/windows.h \
+  /usr/local/include/boost/predef/other.h \
+  /usr/local/include/boost/predef/other/endian.h \
+  /usr/local/include/boost/predef/other/wordsize.h \
+  /usr/local/include/boost/predef/other/workaround.h \
+  /usr/local/include/boost/predef/platform.h \
+  /usr/local/include/boost/predef/platform/android.h \
+  /usr/local/include/boost/predef/platform/cloudabi.h \
+  /usr/local/include/boost/predef/platform/ios.h \
+  /usr/local/include/boost/predef/platform/mingw.h \
+  /usr/local/include/boost/predef/platform/mingw32.h \
+  /usr/local/include/boost/predef/platform/mingw64.h \
+  /usr/local/include/boost/predef/platform/windows_desktop.h \
+  /usr/local/include/boost/predef/platform/windows_phone.h \
+  /usr/local/include/boost/predef/platform/windows_runtime.h \
+  /usr/local/include/boost/predef/platform/windows_server.h \
+  /usr/local/include/boost/predef/platform/windows_store.h \
+  /usr/local/include/boost/predef/platform/windows_system.h \
+  /usr/local/include/boost/predef/platform/windows_uwp.h \
+  /usr/local/include/boost/predef/version.h \
+  /usr/local/include/boost/predef/version_number.h \
   /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/mod.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
   /usr/local/include/boost/preprocessor/array/data.hpp \
   /usr/local/include/boost/preprocessor/array/elem.hpp \
@@ -5515,32 +9563,52 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/preprocessor/cat.hpp \
   /usr/local/include/boost/preprocessor/comma_if.hpp \
   /usr/local/include/boost/preprocessor/comparison/equal.hpp \
+  /usr/local/include/boost/preprocessor/comparison/greater.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less_equal.hpp \
   /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
   /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
   /usr/local/include/boost/preprocessor/config/config.hpp \
   /usr/local/include/boost/preprocessor/config/limits.hpp \
+  /usr/local/include/boost/preprocessor/control/deduce_d.hpp \
   /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/detail/while.hpp \
+  /usr/local/include/boost/preprocessor/control/expr_if.hpp \
   /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
   /usr/local/include/boost/preprocessor/control/if.hpp \
   /usr/local/include/boost/preprocessor/control/iif.hpp \
   /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/while.hpp \
   /usr/local/include/boost/preprocessor/debug/error.hpp \
+  /usr/local/include/boost/preprocessor/dec.hpp \
   /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
   /usr/local/include/boost/preprocessor/detail/check.hpp \
   /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /usr/local/include/boost/preprocessor/detail/is_unary.hpp \
   /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
   /usr/local/include/boost/preprocessor/empty.hpp \
+  /usr/local/include/boost/preprocessor/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/identity.hpp \
   /usr/local/include/boost/preprocessor/facilities/intercept.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp \
   /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp \
   /usr/local/include/boost/preprocessor/facilities/overload.hpp \
   /usr/local/include/boost/preprocessor/identity.hpp \
+  /usr/local/include/boost/preprocessor/if.hpp \
   /usr/local/include/boost/preprocessor/inc.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/iterate.hpp \
+  /usr/local/include/boost/preprocessor/iteration/local.hpp \
   /usr/local/include/boost/preprocessor/list/adt.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
@@ -5548,6 +9616,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
   /usr/local/include/boost/preprocessor/list/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/fold_right.hpp \
+  /usr/local/include/boost/preprocessor/list/for_each_i.hpp \
   /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/list/reverse.hpp \
   /usr/local/include/boost/preprocessor/logical/and.hpp \
@@ -5559,27 +9628,211 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/preprocessor/logical/not.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/paren.hpp \
   /usr/local/include/boost/preprocessor/repeat.hpp \
+  /usr/local/include/boost/preprocessor/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/selection/max.hpp \
+  /usr/local/include/boost/preprocessor/seq/cat.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/split.hpp \
+  /usr/local/include/boost/preprocessor/seq/elem.hpp \
   /usr/local/include/boost/preprocessor/seq/enum.hpp \
+  /usr/local/include/boost/preprocessor/seq/first_n.hpp \
+  /usr/local/include/boost/preprocessor/seq/fold_left.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/pop_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_front.hpp \
+  /usr/local/include/boost/preprocessor/seq/reverse.hpp \
+  /usr/local/include/boost/preprocessor/seq/seq.hpp \
   /usr/local/include/boost/preprocessor/seq/size.hpp \
+  /usr/local/include/boost/preprocessor/seq/to_tuple.hpp \
+  /usr/local/include/boost/preprocessor/seq/transform.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/def.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/shared.hpp \
+  /usr/local/include/boost/preprocessor/slot/slot.hpp \
   /usr/local/include/boost/preprocessor/stringize.hpp \
   /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
   /usr/local/include/boost/preprocessor/tuple/eat.hpp \
   /usr/local/include/boost/preprocessor/tuple/elem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp \
   /usr/local/include/boost/preprocessor/tuple/rem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/size.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_seq.hpp \
   /usr/local/include/boost/preprocessor/variadic/elem.hpp \
   /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/size.hpp \
+  /usr/local/include/boost/preprocessor/variadic/to_seq.hpp \
+  /usr/local/include/boost/proto/args.hpp \
+  /usr/local/include/boost/proto/detail/and_n.hpp \
+  /usr/local/include/boost/proto/detail/any.hpp \
+  /usr/local/include/boost/proto/detail/args.hpp \
+  /usr/local/include/boost/proto/detail/as_expr.hpp \
+  /usr/local/include/boost/proto/detail/as_lvalue.hpp \
+  /usr/local/include/boost/proto/detail/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/decltype.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/deprecated.hpp \
+  /usr/local/include/boost/proto/detail/expr.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop_const.hpp \
+  /usr/local/include/boost/proto/detail/funop.hpp \
+  /usr/local/include/boost/proto/detail/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/ignore_unused.hpp \
+  /usr/local/include/boost/proto/detail/is_noncopyable.hpp \
+  /usr/local/include/boost/proto/detail/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/matches_.hpp \
+  /usr/local/include/boost/proto/detail/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/or_n.hpp \
+  /usr/local/include/boost/proto/detail/poly_function.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/and_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/args.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/matches_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/or_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/detail/remove_typename.hpp \
+  /usr/local/include/boost/proto/detail/static_const.hpp \
+  /usr/local/include/boost/proto/detail/template_arity.hpp \
+  /usr/local/include/boost/proto/detail/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/traits.hpp \
+  /usr/local/include/boost/proto/detail/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/domain.hpp \
+  /usr/local/include/boost/proto/expr.hpp \
+  /usr/local/include/boost/proto/extends.hpp \
+  /usr/local/include/boost/proto/functional/fusion/at.hpp \
+  /usr/local/include/boost/proto/generate.hpp \
+  /usr/local/include/boost/proto/make_expr.hpp \
+  /usr/local/include/boost/proto/matches.hpp \
+  /usr/local/include/boost/proto/operators.hpp \
+  /usr/local/include/boost/proto/proto_fwd.hpp \
+  /usr/local/include/boost/proto/tags.hpp \
+  /usr/local/include/boost/proto/traits.hpp \
+  /usr/local/include/boost/proto/transform/arg.hpp \
+  /usr/local/include/boost/proto/transform/call.hpp \
+  /usr/local/include/boost/proto/transform/default.hpp \
+  /usr/local/include/boost/proto/transform/detail/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp \
+  /usr/local/include/boost/proto/transform/detail/when.hpp \
+  /usr/local/include/boost/proto/transform/env.hpp \
+  /usr/local/include/boost/proto/transform/fold.hpp \
+  /usr/local/include/boost/proto/transform/impl.hpp \
+  /usr/local/include/boost/proto/transform/lazy.hpp \
+  /usr/local/include/boost/proto/transform/make.hpp \
+  /usr/local/include/boost/proto/transform/pass_through.hpp \
+  /usr/local/include/boost/proto/transform/when.hpp \
+  /usr/local/include/boost/range/algorithm/equal.hpp \
+  /usr/local/include/boost/range/begin.hpp \
+  /usr/local/include/boost/range/concepts.hpp \
+  /usr/local/include/boost/range/config.hpp \
+  /usr/local/include/boost/range/const_iterator.hpp \
+  /usr/local/include/boost/range/detail/common.hpp \
+  /usr/local/include/boost/range/detail/extract_optional_type.hpp \
+  /usr/local/include/boost/range/detail/has_member_size.hpp \
+  /usr/local/include/boost/range/detail/implementation_help.hpp \
+  /usr/local/include/boost/range/detail/misc_concept.hpp \
+  /usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+  /usr/local/include/boost/range/detail/safe_bool.hpp \
+  /usr/local/include/boost/range/detail/sfinae.hpp \
+  /usr/local/include/boost/range/difference_type.hpp \
+  /usr/local/include/boost/range/distance.hpp \
+  /usr/local/include/boost/range/empty.hpp \
+  /usr/local/include/boost/range/end.hpp \
+  /usr/local/include/boost/range/functions.hpp \
+  /usr/local/include/boost/range/has_range_iterator.hpp \
+  /usr/local/include/boost/range/iterator.hpp \
+  /usr/local/include/boost/range/iterator_range_core.hpp \
+  /usr/local/include/boost/range/mutable_iterator.hpp \
+  /usr/local/include/boost/range/range_fwd.hpp \
+  /usr/local/include/boost/range/rbegin.hpp \
+  /usr/local/include/boost/range/rend.hpp \
+  /usr/local/include/boost/range/reverse_iterator.hpp \
+  /usr/local/include/boost/range/size.hpp \
+  /usr/local/include/boost/range/size_type.hpp \
+  /usr/local/include/boost/range/value_type.hpp \
+  /usr/local/include/boost/ratio/config.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/abs.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/gcd.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/lcm.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/sign.hpp \
+  /usr/local/include/boost/ratio/detail/overflow_helpers.hpp \
+  /usr/local/include/boost/ratio/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/ratio/ratio.hpp \
+  /usr/local/include/boost/ratio/ratio_fwd.hpp \
+  /usr/local/include/boost/ref.hpp \
+  /usr/local/include/boost/shared_ptr.hpp \
   /usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
@@ -5593,6 +9846,7 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+  /usr/local/include/boost/smart_ptr/detail/sp_forward.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
@@ -5606,46 +9860,116 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/smart_ptr/detail/yield_k.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+  /usr/local/include/boost/smart_ptr/make_shared_object.hpp \
   /usr/local/include/boost/smart_ptr/shared_ptr.hpp \
   /usr/local/include/boost/static_assert.hpp \
+  /usr/local/include/boost/system/api_config.hpp \
+  /usr/local/include/boost/system/detail/append_int.hpp \
+  /usr/local/include/boost/system/detail/cerrno.hpp \
+  /usr/local/include/boost/system/detail/config.hpp \
+  /usr/local/include/boost/system/detail/enable_if.hpp \
+  /usr/local/include/boost/system/detail/errc.hpp \
+  /usr/local/include/boost/system/detail/error_category.hpp \
+  /usr/local/include/boost/system/detail/error_category_impl.hpp \
+  /usr/local/include/boost/system/detail/error_code.hpp \
+  /usr/local/include/boost/system/detail/error_condition.hpp \
+  /usr/local/include/boost/system/detail/generic_category.hpp \
+  /usr/local/include/boost/system/detail/generic_category_message.hpp \
+  /usr/local/include/boost/system/detail/interop_category.hpp \
+  /usr/local/include/boost/system/detail/is_same.hpp \
+  /usr/local/include/boost/system/detail/mutex.hpp \
+  /usr/local/include/boost/system/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/system/detail/snprintf.hpp \
+  /usr/local/include/boost/system/detail/std_category.hpp \
+  /usr/local/include/boost/system/detail/std_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category.hpp \
+  /usr/local/include/boost/system/detail/system_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category_message.hpp \
+  /usr/local/include/boost/system/detail/throws.hpp \
+  /usr/local/include/boost/system/errc.hpp \
+  /usr/local/include/boost/system/error_category.hpp \
+  /usr/local/include/boost/system/error_code.hpp \
+  /usr/local/include/boost/system/error_condition.hpp \
+  /usr/local/include/boost/system/generic_category.hpp \
+  /usr/local/include/boost/system/is_error_code_enum.hpp \
+  /usr/local/include/boost/system/is_error_condition_enum.hpp \
+  /usr/local/include/boost/system/system_category.hpp \
+  /usr/local/include/boost/system/system_error.hpp \
   /usr/local/include/boost/thread/detail/config.hpp \
+  /usr/local/include/boost/thread/detail/delete.hpp \
+  /usr/local/include/boost/thread/detail/move.hpp \
   /usr/local/include/boost/thread/detail/platform.hpp \
+  /usr/local/include/boost/thread/detail/platform_time.hpp \
   /usr/local/include/boost/thread/detail/thread_safety.hpp \
+  /usr/local/include/boost/thread/exceptions.hpp \
+  /usr/local/include/boost/thread/lock_options.hpp \
+  /usr/local/include/boost/thread/lock_types.hpp \
+  /usr/local/include/boost/thread/lockable_traits.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_helpers.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp \
+  /usr/local/include/boost/thread/pthread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/thread_time.hpp \
+  /usr/local/include/boost/thread/tss.hpp \
   /usr/local/include/boost/throw_exception.hpp \
+  /usr/local/include/boost/type.hpp \
   /usr/local/include/boost/type_index.hpp \
   /usr/local/include/boost/type_index/stl_type_index.hpp \
   /usr/local/include/boost/type_index/type_index_facade.hpp \
   /usr/local/include/boost/type_traits/add_const.hpp \
+  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
+  /usr/local/include/boost/type_traits/add_pointer.hpp \
+  /usr/local/include/boost/type_traits/add_reference.hpp \
   /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
   /usr/local/include/boost/type_traits/add_volatile.hpp \
+  /usr/local/include/boost/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/type_traits/common_type.hpp \
   /usr/local/include/boost/type_traits/conditional.hpp \
   /usr/local/include/boost/type_traits/conjunction.hpp \
+  /usr/local/include/boost/type_traits/conversion_traits.hpp \
+  /usr/local/include/boost/type_traits/decay.hpp \
   /usr/local/include/boost/type_traits/declval.hpp \
   /usr/local/include/boost/type_traits/detail/config.hpp \
+  /usr/local/include/boost/type_traits/detail/has_binary_operator.hpp \
   /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
+  /usr/local/include/boost/type_traits/detail/mp_defer.hpp \
   /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
   /usr/local/include/boost/type_traits/enable_if.hpp \
+  /usr/local/include/boost/type_traits/function_traits.hpp \
+  /usr/local/include/boost/type_traits/has_left_shift.hpp \
+  /usr/local/include/boost/type_traits/has_minus.hpp \
+  /usr/local/include/boost/type_traits/has_minus_assign.hpp \
   /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp \
+  /usr/local/include/boost/type_traits/has_plus.hpp \
+  /usr/local/include/boost/type_traits/has_plus_assign.hpp \
+  /usr/local/include/boost/type_traits/has_right_shift.hpp \
   /usr/local/include/boost/type_traits/integral_constant.hpp \
   /usr/local/include/boost/type_traits/intrinsics.hpp \
+  /usr/local/include/boost/type_traits/is_abstract.hpp \
   /usr/local/include/boost/type_traits/is_arithmetic.hpp \
+  /usr/local/include/boost/type_traits/is_array.hpp \
   /usr/local/include/boost/type_traits/is_base_and_derived.hpp \
   /usr/local/include/boost/type_traits/is_base_of.hpp \
   /usr/local/include/boost/type_traits/is_class.hpp \
   /usr/local/include/boost/type_traits/is_complete.hpp \
   /usr/local/include/boost/type_traits/is_const.hpp \
+  /usr/local/include/boost/type_traits/is_convertible.hpp \
   /usr/local/include/boost/type_traits/is_default_constructible.hpp \
+  /usr/local/include/boost/type_traits/is_empty.hpp \
   /usr/local/include/boost/type_traits/is_enum.hpp \
+  /usr/local/include/boost/type_traits/is_float.hpp \
   /usr/local/include/boost/type_traits/is_floating_point.hpp \
   /usr/local/include/boost/type_traits/is_function.hpp \
   /usr/local/include/boost/type_traits/is_integral.hpp \
   /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
   /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /usr/local/include/boost/type_traits/is_member_object_pointer.hpp \
   /usr/local/include/boost/type_traits/is_member_pointer.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp \
+  /usr/local/include/boost/type_traits/is_pod.hpp \
   /usr/local/include/boost/type_traits/is_pointer.hpp \
   /usr/local/include/boost/type_traits/is_reference.hpp \
   /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
@@ -5656,12 +9980,29 @@ CMakeFiles/main.dir/gui/menu.cpp.o: /Users/comrademashkov/Desktop/PO/main/airbor
   /usr/local/include/boost/type_traits/is_unsigned.hpp \
   /usr/local/include/boost/type_traits/is_void.hpp \
   /usr/local/include/boost/type_traits/is_volatile.hpp \
+  /usr/local/include/boost/type_traits/make_signed.hpp \
   /usr/local/include/boost/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/type_traits/make_void.hpp \
+  /usr/local/include/boost/type_traits/remove_bounds.hpp \
   /usr/local/include/boost/type_traits/remove_const.hpp \
   /usr/local/include/boost/type_traits/remove_cv.hpp \
+  /usr/local/include/boost/type_traits/remove_extent.hpp \
+  /usr/local/include/boost/type_traits/remove_pointer.hpp \
   /usr/local/include/boost/type_traits/remove_reference.hpp \
+  /usr/local/include/boost/type_traits/remove_volatile.hpp \
   /usr/local/include/boost/type_traits/type_identity.hpp \
+  /usr/local/include/boost/type_traits/type_with_alignment.hpp \
+  /usr/local/include/boost/typeof/decltype.hpp \
+  /usr/local/include/boost/typeof/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/typeof/message.hpp \
+  /usr/local/include/boost/typeof/typeof.hpp \
+  /usr/local/include/boost/utility.hpp \
+  /usr/local/include/boost/utility/addressof.hpp \
+  /usr/local/include/boost/utility/base_from_member.hpp \
+  /usr/local/include/boost/utility/binary.hpp \
   /usr/local/include/boost/utility/detail/result_of_variadic.hpp \
+  /usr/local/include/boost/utility/enable_if.hpp \
+  /usr/local/include/boost/utility/identity_type.hpp \
   /usr/local/include/boost/utility/result_of.hpp \
   /usr/local/include/boost/utility/string_ref_fwd.hpp \
   /usr/local/include/boost/utility/string_view_fwd.hpp \
@@ -5921,6 +10262,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
@@ -5936,6 +10278,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list \
@@ -5987,13 +10330,69 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h \
@@ -6046,6 +10445,8 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h \
@@ -6077,6 +10478,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h \
@@ -6101,6 +10503,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h \
@@ -6118,6 +10521,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
@@ -6356,8 +10760,98 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.h \
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h \
+  /usr/local/include/boost/array.hpp \
   /usr/local/include/boost/assert.hpp \
   /usr/local/include/boost/assert/source_location.hpp \
+  /usr/local/include/boost/atomic/atomic.hpp \
+  /usr/local/include/boost/atomic/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/addressof.hpp \
+  /usr/local/include/boost/atomic/detail/aligned_variable.hpp \
+  /usr/local/include/boost/atomic/detail/atomic_impl.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_cast.hpp \
+  /usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp \
+  /usr/local/include/boost/atomic/detail/capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/classify.hpp \
+  /usr/local/include/boost/atomic/detail/config.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations.hpp \
+  /usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp \
+  /usr/local/include/boost/atomic/detail/extra_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/float_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/footer.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations.hpp \
+  /usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/fp_ops_generic.hpp \
+  /usr/local/include/boost/atomic/detail/futex.hpp \
+  /usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/header.hpp \
+  /usr/local/include/boost/atomic/detail/int_sizes.hpp \
+  /usr/local/include/boost/atomic/detail/integral_conversions.hpp \
+  /usr/local/include/boost/atomic/detail/intptr.hpp \
+  /usr/local/include/boost/atomic/detail/link.hpp \
+  /usr/local/include/boost/atomic/detail/lock_pool.hpp \
+  /usr/local/include/boost/atomic/detail/memory_order_utils.hpp \
+  /usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp \
+  /usr/local/include/boost/atomic/detail/pause.hpp \
+  /usr/local/include/boost/atomic/detail/platform.hpp \
+  /usr/local/include/boost/atomic/detail/storage_traits.hpp \
+  /usr/local/include/boost/atomic/detail/string_ops.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/conditional.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_function.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp \
+  /usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/atomic/detail/wait_capabilities.hpp \
+  /usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations.hpp \
+  /usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp \
+  /usr/local/include/boost/atomic/detail/wait_ops_generic.hpp \
+  /usr/local/include/boost/chrono/ceil.hpp \
+  /usr/local/include/boost/chrono/clock_string.hpp \
+  /usr/local/include/boost/chrono/config.hpp \
+  /usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp \
+  /usr/local/include/boost/chrono/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/chrono/detail/static_assert.hpp \
+  /usr/local/include/boost/chrono/detail/system.hpp \
+  /usr/local/include/boost/chrono/duration.hpp \
+  /usr/local/include/boost/chrono/system_clocks.hpp \
+  /usr/local/include/boost/chrono/time_point.hpp \
+  /usr/local/include/boost/concept/assert.hpp \
+  /usr/local/include/boost/concept/detail/backward_compatibility.hpp \
+  /usr/local/include/boost/concept/detail/concept_def.hpp \
+  /usr/local/include/boost/concept/detail/concept_undef.hpp \
+  /usr/local/include/boost/concept/detail/general.hpp \
+  /usr/local/include/boost/concept/detail/has_constraints.hpp \
+  /usr/local/include/boost/concept/usage.hpp \
+  /usr/local/include/boost/concept_check.hpp \
   /usr/local/include/boost/config.hpp \
   /usr/local/include/boost/config/abi_prefix.hpp \
   /usr/local/include/boost/config/abi_suffix.hpp \
@@ -6370,13 +10864,18 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/config/detail/select_stdlib_config.hpp \
   /usr/local/include/boost/config/detail/suffix.hpp \
   /usr/local/include/boost/config/helper_macros.hpp \
+  /usr/local/include/boost/config/no_tr1/cmath.hpp \
   /usr/local/include/boost/config/no_tr1/functional.hpp \
+  /usr/local/include/boost/config/no_tr1/memory.hpp \
+  /usr/local/include/boost/config/no_tr1/utility.hpp \
   /usr/local/include/boost/config/platform/macos.hpp \
   /usr/local/include/boost/config/pragma_message.hpp \
   /usr/local/include/boost/config/requires_threads.hpp \
   /usr/local/include/boost/config/stdlib/libcpp.hpp \
   /usr/local/include/boost/config/user.hpp \
   /usr/local/include/boost/config/workaround.hpp \
+  /usr/local/include/boost/container/container_fwd.hpp \
+  /usr/local/include/boost/container/detail/std_fwd.hpp \
   /usr/local/include/boost/container_hash/detail/hash_mix.hpp \
   /usr/local/include/boost/container_hash/detail/hash_range.hpp \
   /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp \
@@ -6391,13 +10890,69 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/container_hash/is_unordered_range.hpp \
   /usr/local/include/boost/core/addressof.hpp \
   /usr/local/include/boost/core/checked_delete.hpp \
+  /usr/local/include/boost/core/cmath.hpp \
   /usr/local/include/boost/core/demangle.hpp \
   /usr/local/include/boost/core/enable_if.hpp \
   /usr/local/include/boost/core/explicit_operator_bool.hpp \
+  /usr/local/include/boost/core/noncopyable.hpp \
+  /usr/local/include/boost/core/null_deleter.hpp \
+  /usr/local/include/boost/core/ref.hpp \
+  /usr/local/include/boost/core/snprintf.hpp \
   /usr/local/include/boost/core/swap.hpp \
   /usr/local/include/boost/core/uncaught_exceptions.hpp \
+  /usr/local/include/boost/core/use_default.hpp \
   /usr/local/include/boost/cstdint.hpp \
   /usr/local/include/boost/current_function.hpp \
+  /usr/local/include/boost/date_time/adjust_functors.hpp \
+  /usr/local/include/boost/date_time/c_time.hpp \
+  /usr/local/include/boost/date_time/compiler_config.hpp \
+  /usr/local/include/boost/date_time/constrained_value.hpp \
+  /usr/local/include/boost/date_time/date.hpp \
+  /usr/local/include/boost/date_time/date_clock_device.hpp \
+  /usr/local/include/boost/date_time/date_defs.hpp \
+  /usr/local/include/boost/date_time/date_duration.hpp \
+  /usr/local/include/boost/date_time/date_duration_types.hpp \
+  /usr/local/include/boost/date_time/date_generators.hpp \
+  /usr/local/include/boost/date_time/date_iterator.hpp \
+  /usr/local/include/boost/date_time/dst_rules.hpp \
+  /usr/local/include/boost/date_time/filetime_functions.hpp \
+  /usr/local/include/boost/date_time/gregorian/conversion.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_date.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_month.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_weekday.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_year.hpp \
+  /usr/local/include/boost/date_time/gregorian/greg_ymd.hpp \
+  /usr/local/include/boost/date_time/gregorian/gregorian_types.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.hpp \
+  /usr/local/include/boost/date_time/gregorian_calendar.ipp \
+  /usr/local/include/boost/date_time/int_adapter.hpp \
+  /usr/local/include/boost/date_time/locale_config.hpp \
+  /usr/local/include/boost/date_time/microsec_time_clock.hpp \
+  /usr/local/include/boost/date_time/period.hpp \
+  /usr/local/include/boost/date_time/posix_time/conversion.hpp \
+  /usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_config.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_system.hpp \
+  /usr/local/include/boost/date_time/posix_time/posix_time_types.hpp \
+  /usr/local/include/boost/date_time/posix_time/ptime.hpp \
+  /usr/local/include/boost/date_time/posix_time/time_period.hpp \
+  /usr/local/include/boost/date_time/special_defs.hpp \
+  /usr/local/include/boost/date_time/time.hpp \
+  /usr/local/include/boost/date_time/time_clock.hpp \
+  /usr/local/include/boost/date_time/time_defs.hpp \
+  /usr/local/include/boost/date_time/time_duration.hpp \
+  /usr/local/include/boost/date_time/time_iterator.hpp \
+  /usr/local/include/boost/date_time/time_resolution_traits.hpp \
+  /usr/local/include/boost/date_time/time_system_counted.hpp \
+  /usr/local/include/boost/date_time/time_system_split.hpp \
+  /usr/local/include/boost/date_time/wrapping_int.hpp \
+  /usr/local/include/boost/date_time/year_month_day.hpp \
   /usr/local/include/boost/describe/bases.hpp \
   /usr/local/include/boost/describe/detail/config.hpp \
   /usr/local/include/boost/describe/detail/cx_streq.hpp \
@@ -6405,8 +10960,188 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/describe/members.hpp \
   /usr/local/include/boost/describe/modifiers.hpp \
   /usr/local/include/boost/detail/atomic_count.hpp \
+  /usr/local/include/boost/detail/basic_pointerbuf.hpp \
+  /usr/local/include/boost/detail/indirect_traits.hpp \
+  /usr/local/include/boost/detail/lcast_precision.hpp \
+  /usr/local/include/boost/detail/select_type.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/exception/exception.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp \
+  /usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp \
+  /usr/local/include/boost/fusion/container/list/cons.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/cons_iterator.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/container/list/list_fwd.hpp \
+  /usr/local/include/boost/fusion/container/list/nil.hpp \
+  /usr/local/include/boost/fusion/include/at.hpp \
+  /usr/local/include/boost/fusion/include/at_c.hpp \
+  /usr/local/include/boost/fusion/include/begin.hpp \
+  /usr/local/include/boost/fusion/include/fold.hpp \
+  /usr/local/include/boost/fusion/include/next.hpp \
+  /usr/local/include/boost/fusion/include/reverse_fold.hpp \
+  /usr/local/include/boost/fusion/include/size.hpp \
+  /usr/local/include/boost/fusion/include/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/basic_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/deref.hpp \
+  /usr/local/include/boost/fusion/iterator/deref_data.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/advance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp \
+  /usr/local/include/boost/fusion/iterator/distance.hpp \
+  /usr/local/include/boost/fusion/iterator/equal_to.hpp \
+  /usr/local/include/boost/fusion/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/fusion/iterator/key_of.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/next.hpp \
+  /usr/local/include/boost/fusion/iterator/prior.hpp \
+  /usr/local/include/boost/fusion/iterator/segmented_iterator.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of.hpp \
+  /usr/local/include/boost/fusion/iterator/value_of_data.hpp \
+  /usr/local/include/boost/fusion/mpl/begin.hpp \
+  /usr/local/include/boost/fusion/mpl/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/end.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/size.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp \
+  /usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp \
+  /usr/local/include/boost/fusion/support/category_of.hpp \
+  /usr/local/include/boost/fusion/support/config.hpp \
+  /usr/local/include/boost/fusion/support/detail/access.hpp \
+  /usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp \
+  /usr/local/include/boost/fusion/support/detail/enabler.hpp \
+  /usr/local/include/boost/fusion/support/detail/index_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp \
+  /usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp \
+  /usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp \
+  /usr/local/include/boost/fusion/support/is_iterator.hpp \
+  /usr/local/include/boost/fusion/support/is_segmented.hpp \
+  /usr/local/include/boost/fusion/support/is_sequence.hpp \
+  /usr/local/include/boost/fusion/support/is_view.hpp \
+  /usr/local/include/boost/fusion/support/iterator_base.hpp \
+  /usr/local/include/boost/fusion/support/segmented_fold_until.hpp \
+  /usr/local/include/boost/fusion/support/sequence_base.hpp \
+  /usr/local/include/boost/fusion/support/tag_of.hpp \
+  /usr/local/include/boost/fusion/support/tag_of_fwd.hpp \
+  /usr/local/include/boost/fusion/support/void.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp \
+  /usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view.hpp \
+  /usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp \
+  /usr/local/include/boost/get_pointer.hpp \
+  /usr/local/include/boost/integer.hpp \
+  /usr/local/include/boost/integer_fwd.hpp \
+  /usr/local/include/boost/integer_traits.hpp \
+  /usr/local/include/boost/is_placeholder.hpp \
+  /usr/local/include/boost/iterator/advance.hpp \
+  /usr/local/include/boost/iterator/detail/config_def.hpp \
+  /usr/local/include/boost/iterator/detail/config_undef.hpp \
+  /usr/local/include/boost/iterator/detail/enable_if.hpp \
+  /usr/local/include/boost/iterator/detail/facade_iterator_category.hpp \
+  /usr/local/include/boost/iterator/distance.hpp \
+  /usr/local/include/boost/iterator/interoperable.hpp \
+  /usr/local/include/boost/iterator/iterator_adaptor.hpp \
+  /usr/local/include/boost/iterator/iterator_categories.hpp \
+  /usr/local/include/boost/iterator/iterator_concepts.hpp \
+  /usr/local/include/boost/iterator/iterator_facade.hpp \
+  /usr/local/include/boost/iterator/iterator_traits.hpp \
+  /usr/local/include/boost/iterator/reverse_iterator.hpp \
+  /usr/local/include/boost/lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp \
+  /usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp \
+  /usr/local/include/boost/lexical_cast/detail/inf_nan.hpp \
+  /usr/local/include/boost/lexical_cast/detail/is_character.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp \
+  /usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp \
+  /usr/local/include/boost/lexical_cast/detail/widest_char.hpp \
+  /usr/local/include/boost/lexical_cast/try_lexical_convert.hpp \
+  /usr/local/include/boost/limits.hpp \
   /usr/local/include/boost/log/attributes/attribute.hpp \
   /usr/local/include/boost/log/attributes/attribute_cast.hpp \
   /usr/local/include/boost/log/attributes/attribute_name.hpp \
@@ -6414,29 +11149,75 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/log/attributes/attribute_value.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_impl.hpp \
   /usr/local/include/boost/log/attributes/attribute_value_set.hpp \
+  /usr/local/include/boost/log/attributes/clock.hpp \
+  /usr/local/include/boost/log/attributes/constant.hpp \
+  /usr/local/include/boost/log/attributes/counter.hpp \
+  /usr/local/include/boost/log/attributes/current_process_id.hpp \
+  /usr/local/include/boost/log/attributes/current_thread_id.hpp \
+  /usr/local/include/boost/log/attributes/fallback_policy.hpp \
   /usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp \
+  /usr/local/include/boost/log/attributes/time_traits.hpp \
+  /usr/local/include/boost/log/attributes/value_extraction.hpp \
   /usr/local/include/boost/log/attributes/value_extraction_fwd.hpp \
+  /usr/local/include/boost/log/attributes/value_visitation.hpp \
   /usr/local/include/boost/log/attributes/value_visitation_fwd.hpp \
   /usr/local/include/boost/log/core/core.hpp \
   /usr/local/include/boost/log/core/record.hpp \
   /usr/local/include/boost/log/core/record_view.hpp \
   /usr/local/include/boost/log/detail/attachable_sstream_buf.hpp \
+  /usr/local/include/boost/log/detail/attr_output_impl.hpp \
+  /usr/local/include/boost/log/detail/attr_output_terminal.hpp \
   /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp \
   /usr/local/include/boost/log/detail/code_conversion.hpp \
   /usr/local/include/boost/log/detail/config.hpp \
+  /usr/local/include/boost/log/detail/copy_cv.hpp \
+  /usr/local/include/boost/log/detail/custom_terminal_spec.hpp \
   /usr/local/include/boost/log/detail/default_attribute_names.hpp \
+  /usr/local/include/boost/log/detail/embedded_string_type.hpp \
+  /usr/local/include/boost/log/detail/fake_mutex.hpp \
   /usr/local/include/boost/log/detail/footer.hpp \
+  /usr/local/include/boost/log/detail/generate_overloads.hpp \
   /usr/local/include/boost/log/detail/header.hpp \
+  /usr/local/include/boost/log/detail/id.hpp \
   /usr/local/include/boost/log/detail/is_character_type.hpp \
+  /usr/local/include/boost/log/detail/is_ostream.hpp \
   /usr/local/include/boost/log/detail/light_function.hpp \
   /usr/local/include/boost/log/detail/light_rw_mutex.hpp \
+  /usr/local/include/boost/log/detail/locking_ptr.hpp \
   /usr/local/include/boost/log/detail/locks.hpp \
   /usr/local/include/boost/log/detail/native_typeof.hpp \
   /usr/local/include/boost/log/detail/parameter_tools.hpp \
+  /usr/local/include/boost/log/detail/process_id.hpp \
+  /usr/local/include/boost/log/detail/setup_config.hpp \
   /usr/local/include/boost/log/detail/sfinae_tools.hpp \
+  /usr/local/include/boost/log/detail/sink_init_helpers.hpp \
+  /usr/local/include/boost/log/detail/thread_id.hpp \
+  /usr/local/include/boost/log/detail/trivial_keyword.hpp \
+  /usr/local/include/boost/log/detail/unary_function_terminal.hpp \
+  /usr/local/include/boost/log/detail/value_ref_visitation.hpp \
+  /usr/local/include/boost/log/exceptions.hpp \
+  /usr/local/include/boost/log/expressions/attr.hpp \
+  /usr/local/include/boost/log/expressions/attr_fwd.hpp \
   /usr/local/include/boost/log/expressions/filter.hpp \
+  /usr/local/include/boost/log/expressions/formatter.hpp \
+  /usr/local/include/boost/log/expressions/formatters/stream.hpp \
+  /usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp \
+  /usr/local/include/boost/log/expressions/keyword.hpp \
   /usr/local/include/boost/log/expressions/keyword_fwd.hpp \
+  /usr/local/include/boost/log/expressions/message.hpp \
+  /usr/local/include/boost/log/expressions/predicates/has_attr.hpp \
+  /usr/local/include/boost/log/keywords/auto_flush.hpp \
+  /usr/local/include/boost/log/keywords/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/keywords/filter.hpp \
+  /usr/local/include/boost/log/keywords/format.hpp \
   /usr/local/include/boost/log/keywords/severity.hpp \
+  /usr/local/include/boost/log/sinks/auto_newline_mode.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_backend.hpp \
+  /usr/local/include/boost/log/sinks/basic_sink_frontend.hpp \
+  /usr/local/include/boost/log/sinks/frontend_requirements.hpp \
+  /usr/local/include/boost/log/sinks/sink.hpp \
+  /usr/local/include/boost/log/sinks/sync_frontend.hpp \
+  /usr/local/include/boost/log/sinks/text_ostream_backend.hpp \
   /usr/local/include/boost/log/sources/basic_logger.hpp \
   /usr/local/include/boost/log/sources/features.hpp \
   /usr/local/include/boost/log/sources/record_ostream.hpp \
@@ -6446,17 +11227,37 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/log/trivial.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream.hpp \
   /usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp \
+  /usr/local/include/boost/log/utility/functional/bind.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_output.hpp \
+  /usr/local/include/boost/log/utility/functional/bind_to_log.hpp \
+  /usr/local/include/boost/log/utility/functional/logical.hpp \
+  /usr/local/include/boost/log/utility/functional/nop.hpp \
+  /usr/local/include/boost/log/utility/manipulators/to_log.hpp \
+  /usr/local/include/boost/log/utility/once_block.hpp \
+  /usr/local/include/boost/log/utility/setup/common_attributes.hpp \
+  /usr/local/include/boost/log/utility/setup/console.hpp \
+  /usr/local/include/boost/log/utility/setup/filter_parser.hpp \
+  /usr/local/include/boost/log/utility/setup/formatter_parser.hpp \
   /usr/local/include/boost/log/utility/strictest_lock.hpp \
   /usr/local/include/boost/log/utility/string_literal_fwd.hpp \
+  /usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp \
   /usr/local/include/boost/log/utility/unique_identifier_name.hpp \
+  /usr/local/include/boost/log/utility/value_ref.hpp \
+  /usr/local/include/boost/log/utility/value_ref_fwd.hpp \
+  /usr/local/include/boost/memory_order.hpp \
   /usr/local/include/boost/move/core.hpp \
   /usr/local/include/boost/move/detail/addressof.hpp \
   /usr/local/include/boost/move/detail/config_begin.hpp \
   /usr/local/include/boost/move/detail/config_end.hpp \
   /usr/local/include/boost/move/detail/meta_utils.hpp \
   /usr/local/include/boost/move/detail/meta_utils_core.hpp \
+  /usr/local/include/boost/move/detail/std_ns_begin.hpp \
+  /usr/local/include/boost/move/detail/std_ns_end.hpp \
+  /usr/local/include/boost/move/detail/type_traits.hpp \
   /usr/local/include/boost/move/detail/workaround.hpp \
+  /usr/local/include/boost/move/traits.hpp \
+  /usr/local/include/boost/move/utility.hpp \
   /usr/local/include/boost/move/utility_core.hpp \
   /usr/local/include/boost/mp11/algorithm.hpp \
   /usr/local/include/boost/mp11/bind.hpp \
@@ -6484,6 +11285,8 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mp11/version.hpp \
   /usr/local/include/boost/mpl/O1_size.hpp \
   /usr/local/include/boost/mpl/O1_size_fwd.hpp \
+  /usr/local/include/boost/mpl/advance.hpp \
+  /usr/local/include/boost/mpl/advance_fwd.hpp \
   /usr/local/include/boost/mpl/always.hpp \
   /usr/local/include/boost/mpl/and.hpp \
   /usr/local/include/boost/mpl/apply.hpp \
@@ -6492,20 +11295,28 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mpl/arg.hpp \
   /usr/local/include/boost/mpl/arg_fwd.hpp \
   /usr/local/include/boost/mpl/assert.hpp \
+  /usr/local/include/boost/mpl/at.hpp \
   /usr/local/include/boost/mpl/at_fwd.hpp \
   /usr/local/include/boost/mpl/aux_/O1_size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/adl_barrier.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/arg_typedef.hpp \
+  /usr/local/include/boost/mpl/aux_/arithmetic_op.hpp \
   /usr/local/include/boost/mpl/aux_/arity.hpp \
   /usr/local/include/boost/mpl/aux_/arity_spec.hpp \
+  /usr/local/include/boost/mpl/aux_/at_impl.hpp \
   /usr/local/include/boost/mpl/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/clear_impl.hpp \
   /usr/local/include/boost/mpl/aux_/common_name_wknd.hpp \
+  /usr/local/include/boost/mpl/aux_/comparison_op.hpp \
   /usr/local/include/boost/mpl/aux_/config/adl.hpp \
   /usr/local/include/boost/mpl/aux_/config/arrays.hpp \
   /usr/local/include/boost/mpl/aux_/config/bcc.hpp \
   /usr/local/include/boost/mpl/aux_/config/bind.hpp \
   /usr/local/include/boost/mpl/aux_/config/compiler.hpp \
   /usr/local/include/boost/mpl/aux_/config/ctps.hpp \
+  /usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp \
   /usr/local/include/boost/mpl/aux_/config/dtp.hpp \
   /usr/local/include/boost/mpl/aux_/config/eti.hpp \
   /usr/local/include/boost/mpl/aux_/config/forwarding.hpp \
@@ -6519,29 +11330,39 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mpl/aux_/config/msvc.hpp \
   /usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp \
   /usr/local/include/boost/mpl/aux_/config/nttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/operators.hpp \
   /usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp \
   /usr/local/include/boost/mpl/aux_/config/pp_counter.hpp \
   /usr/local/include/boost/mpl/aux_/config/preprocessor.hpp \
   /usr/local/include/boost/mpl/aux_/config/static_constant.hpp \
   /usr/local/include/boost/mpl/aux_/config/ttp.hpp \
+  /usr/local/include/boost/mpl/aux_/config/typeof.hpp \
   /usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp \
   /usr/local/include/boost/mpl/aux_/config/workaround.hpp \
+  /usr/local/include/boost/mpl/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/erase_impl.hpp \
   /usr/local/include/boost/mpl/aux_/find_if_pred.hpp \
+  /usr/local/include/boost/mpl/aux_/fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/front_impl.hpp \
   /usr/local/include/boost/mpl/aux_/full_lambda.hpp \
   /usr/local/include/boost/mpl/aux_/has_apply.hpp \
   /usr/local/include/boost/mpl/aux_/has_begin.hpp \
+  /usr/local/include/boost/mpl/aux_/has_key_impl.hpp \
   /usr/local/include/boost/mpl/aux_/has_size.hpp \
   /usr/local/include/boost/mpl/aux_/has_tag.hpp \
   /usr/local/include/boost/mpl/aux_/has_type.hpp \
   /usr/local/include/boost/mpl/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/aux_/insert_impl.hpp \
   /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp \
   /usr/local/include/boost/mpl/aux_/iter_apply.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/joint_iter.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_spec.hpp \
   /usr/local/include/boost/mpl/aux_/lambda_support.hpp \
+  /usr/local/include/boost/mpl/aux_/largest_int.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_never_true.hpp \
   /usr/local/include/boost/mpl/aux_/msvc_type.hpp \
@@ -6551,6 +11372,12 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mpl/aux_/na_spec.hpp \
   /usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/nttp_decl.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp \
+  /usr/local/include/boost/mpl/aux_/numeric_op.hpp \
+  /usr/local/include/boost/mpl/aux_/order_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/overload_names.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
@@ -6558,17 +11385,34 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp \
   /usr/local/include/boost/mpl/aux_/preprocessor/params.hpp \
+  /usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp \
+  /usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp \
+  /usr/local/include/boost/mpl/aux_/push_back_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/push_front_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp \
+  /usr/local/include/boost/mpl/aux_/size_impl.hpp \
   /usr/local/include/boost/mpl/aux_/static_cast.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity.hpp \
   /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp \
@@ -6576,54 +11420,173 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/mpl/aux_/type_wrapper.hpp \
   /usr/local/include/boost/mpl/aux_/value_wknd.hpp \
   /usr/local/include/boost/mpl/aux_/yes_no.hpp \
+  /usr/local/include/boost/mpl/back_fwd.hpp \
+  /usr/local/include/boost/mpl/base.hpp \
+  /usr/local/include/boost/mpl/begin.hpp \
   /usr/local/include/boost/mpl/begin_end.hpp \
   /usr/local/include/boost/mpl/begin_end_fwd.hpp \
   /usr/local/include/boost/mpl/bind.hpp \
   /usr/local/include/boost/mpl/bind_fwd.hpp \
   /usr/local/include/boost/mpl/bool.hpp \
   /usr/local/include/boost/mpl/bool_fwd.hpp \
+  /usr/local/include/boost/mpl/clear.hpp \
+  /usr/local/include/boost/mpl/clear_fwd.hpp \
+  /usr/local/include/boost/mpl/contains.hpp \
+  /usr/local/include/boost/mpl/contains_fwd.hpp \
   /usr/local/include/boost/mpl/count_fwd.hpp \
   /usr/local/include/boost/mpl/deref.hpp \
   /usr/local/include/boost/mpl/distance.hpp \
   /usr/local/include/boost/mpl/distance_fwd.hpp \
+  /usr/local/include/boost/mpl/empty_base.hpp \
+  /usr/local/include/boost/mpl/empty_fwd.hpp \
+  /usr/local/include/boost/mpl/end.hpp \
+  /usr/local/include/boost/mpl/equal_to.hpp \
+  /usr/local/include/boost/mpl/erase.hpp \
+  /usr/local/include/boost/mpl/erase_fwd.hpp \
+  /usr/local/include/boost/mpl/erase_key_fwd.hpp \
   /usr/local/include/boost/mpl/eval_if.hpp \
   /usr/local/include/boost/mpl/find.hpp \
   /usr/local/include/boost/mpl/find_if.hpp \
+  /usr/local/include/boost/mpl/fold.hpp \
+  /usr/local/include/boost/mpl/front.hpp \
+  /usr/local/include/boost/mpl/front_fwd.hpp \
+  /usr/local/include/boost/mpl/has_key.hpp \
   /usr/local/include/boost/mpl/has_key_fwd.hpp \
   /usr/local/include/boost/mpl/has_xxx.hpp \
   /usr/local/include/boost/mpl/identity.hpp \
   /usr/local/include/boost/mpl/if.hpp \
+  /usr/local/include/boost/mpl/index_if.hpp \
+  /usr/local/include/boost/mpl/index_of.hpp \
+  /usr/local/include/boost/mpl/inherit.hpp \
+  /usr/local/include/boost/mpl/insert.hpp \
+  /usr/local/include/boost/mpl/insert_fwd.hpp \
+  /usr/local/include/boost/mpl/insert_range_fwd.hpp \
   /usr/local/include/boost/mpl/int.hpp \
   /usr/local/include/boost/mpl/int_fwd.hpp \
+  /usr/local/include/boost/mpl/integral_c.hpp \
+  /usr/local/include/boost/mpl/integral_c_fwd.hpp \
   /usr/local/include/boost/mpl/integral_c_tag.hpp \
+  /usr/local/include/boost/mpl/is_sequence.hpp \
   /usr/local/include/boost/mpl/iter_fold.hpp \
   /usr/local/include/boost/mpl/iter_fold_if.hpp \
   /usr/local/include/boost/mpl/iterator_range.hpp \
   /usr/local/include/boost/mpl/iterator_tags.hpp \
+  /usr/local/include/boost/mpl/joint_view.hpp \
   /usr/local/include/boost/mpl/key_type_fwd.hpp \
   /usr/local/include/boost/mpl/lambda.hpp \
   /usr/local/include/boost/mpl/lambda_fwd.hpp \
+  /usr/local/include/boost/mpl/less.hpp \
   /usr/local/include/boost/mpl/limits/arity.hpp \
+  /usr/local/include/boost/mpl/limits/map.hpp \
   /usr/local/include/boost/mpl/limits/vector.hpp \
   /usr/local/include/boost/mpl/logical.hpp \
   /usr/local/include/boost/mpl/long.hpp \
   /usr/local/include/boost/mpl/long_fwd.hpp \
+  /usr/local/include/boost/mpl/map.hpp \
+  /usr/local/include/boost/mpl/map/aux_/at_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/clear_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/contains_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/empty_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/item.hpp \
+  /usr/local/include/boost/mpl/map/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/map0.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp \
+  /usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp \
+  /usr/local/include/boost/mpl/map/aux_/size_impl.hpp \
+  /usr/local/include/boost/mpl/map/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp \
+  /usr/local/include/boost/mpl/map/map0.hpp \
+  /usr/local/include/boost/mpl/map/map10.hpp \
+  /usr/local/include/boost/mpl/map/map20.hpp \
+  /usr/local/include/boost/mpl/minus.hpp \
+  /usr/local/include/boost/mpl/multiplies.hpp \
+  /usr/local/include/boost/mpl/negate.hpp \
   /usr/local/include/boost/mpl/next.hpp \
   /usr/local/include/boost/mpl/next_prior.hpp \
   /usr/local/include/boost/mpl/not.hpp \
+  /usr/local/include/boost/mpl/numeric_cast.hpp \
   /usr/local/include/boost/mpl/or.hpp \
   /usr/local/include/boost/mpl/order_fwd.hpp \
   /usr/local/include/boost/mpl/pair.hpp \
   /usr/local/include/boost/mpl/placeholders.hpp \
+  /usr/local/include/boost/mpl/plus.hpp \
+  /usr/local/include/boost/mpl/pop_back_fwd.hpp \
+  /usr/local/include/boost/mpl/pop_front_fwd.hpp \
+  /usr/local/include/boost/mpl/prior.hpp \
   /usr/local/include/boost/mpl/protect.hpp \
+  /usr/local/include/boost/mpl/push_back.hpp \
+  /usr/local/include/boost/mpl/push_back_fwd.hpp \
+  /usr/local/include/boost/mpl/push_front.hpp \
+  /usr/local/include/boost/mpl/push_front_fwd.hpp \
   /usr/local/include/boost/mpl/quote.hpp \
+  /usr/local/include/boost/mpl/reverse_fold.hpp \
   /usr/local/include/boost/mpl/same_as.hpp \
   /usr/local/include/boost/mpl/sequence_tag.hpp \
   /usr/local/include/boost/mpl/sequence_tag_fwd.hpp \
+  /usr/local/include/boost/mpl/size.hpp \
+  /usr/local/include/boost/mpl/size_fwd.hpp \
+  /usr/local/include/boost/mpl/size_t.hpp \
+  /usr/local/include/boost/mpl/size_t_fwd.hpp \
   /usr/local/include/boost/mpl/tag.hpp \
+  /usr/local/include/boost/mpl/times.hpp \
   /usr/local/include/boost/mpl/value_type_fwd.hpp \
+  /usr/local/include/boost/mpl/vector.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/O1_size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/at.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/begin_end.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/clear.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/empty.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/item.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/iterator.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/pop_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_back.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/push_front.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/size.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/tag.hpp \
+  /usr/local/include/boost/mpl/vector/aux_/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector0.hpp \
+  /usr/local/include/boost/mpl/vector/vector10.hpp \
+  /usr/local/include/boost/mpl/vector/vector20.hpp \
   /usr/local/include/boost/mpl/void.hpp \
   /usr/local/include/boost/mpl/void_fwd.hpp \
+  /usr/local/include/boost/next_prior.hpp \
+  /usr/local/include/boost/noncopyable.hpp \
+  /usr/local/include/boost/numeric/conversion/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/cast.hpp \
+  /usr/local/include/boost/numeric/conversion/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/converter_policies.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/bounds.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/converter.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/meta.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp \
+  /usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp \
+  /usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp \
+  /usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp \
+  /usr/local/include/boost/operators.hpp \
+  /usr/local/include/boost/optional/optional_fwd.hpp \
   /usr/local/include/boost/parameter/aux_/arg_list.hpp \
   /usr/local/include/boost/parameter/aux_/augment_predicate.hpp \
   /usr/local/include/boost/parameter/aux_/default.hpp \
@@ -6649,14 +11612,183 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/parameter/keyword.hpp \
   /usr/local/include/boost/parameter/keyword_fwd.hpp \
   /usr/local/include/boost/parameter/value_type.hpp \
+  /usr/local/include/boost/phoenix/core/actor.hpp \
+  /usr/local/include/boost/phoenix/core/argument.hpp \
+  /usr/local/include/boost/phoenix/core/as_actor.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp \
+  /usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp \
+  /usr/local/include/boost/phoenix/core/detail/expression.hpp \
+  /usr/local/include/boost/phoenix/core/detail/index_sequence.hpp \
+  /usr/local/include/boost/phoenix/core/domain.hpp \
+  /usr/local/include/boost/phoenix/core/environment.hpp \
+  /usr/local/include/boost/phoenix/core/expression.hpp \
+  /usr/local/include/boost/phoenix/core/is_actor.hpp \
+  /usr/local/include/boost/phoenix/core/is_nullary.hpp \
+  /usr/local/include/boost/phoenix/core/limits.hpp \
+  /usr/local/include/boost/phoenix/core/meta_grammar.hpp \
+  /usr/local/include/boost/phoenix/core/terminal.hpp \
+  /usr/local/include/boost/phoenix/core/terminal_fwd.hpp \
+  /usr/local/include/boost/phoenix/operator/comparison.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/define_operator.hpp \
+  /usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp \
+  /usr/local/include/boost/phoenix/support/detail/iterate_define.hpp \
+  /usr/local/include/boost/phoenix/support/iterate.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp \
+  /usr/local/include/boost/phoenix/support/preprocessor/round.hpp \
+  /usr/local/include/boost/phoenix/support/vector.hpp \
+  /usr/local/include/boost/phoenix/version.hpp \
+  /usr/local/include/boost/predef.h \
+  /usr/local/include/boost/predef/architecture.h \
+  /usr/local/include/boost/predef/architecture/alpha.h \
+  /usr/local/include/boost/predef/architecture/arm.h \
+  /usr/local/include/boost/predef/architecture/blackfin.h \
+  /usr/local/include/boost/predef/architecture/convex.h \
+  /usr/local/include/boost/predef/architecture/e2k.h \
+  /usr/local/include/boost/predef/architecture/ia64.h \
+  /usr/local/include/boost/predef/architecture/loongarch.h \
+  /usr/local/include/boost/predef/architecture/m68k.h \
+  /usr/local/include/boost/predef/architecture/mips.h \
+  /usr/local/include/boost/predef/architecture/parisc.h \
+  /usr/local/include/boost/predef/architecture/ppc.h \
+  /usr/local/include/boost/predef/architecture/ptx.h \
+  /usr/local/include/boost/predef/architecture/pyramid.h \
+  /usr/local/include/boost/predef/architecture/riscv.h \
+  /usr/local/include/boost/predef/architecture/rs6k.h \
+  /usr/local/include/boost/predef/architecture/sparc.h \
+  /usr/local/include/boost/predef/architecture/superh.h \
+  /usr/local/include/boost/predef/architecture/sys370.h \
+  /usr/local/include/boost/predef/architecture/sys390.h \
+  /usr/local/include/boost/predef/architecture/x86.h \
+  /usr/local/include/boost/predef/architecture/x86/32.h \
+  /usr/local/include/boost/predef/architecture/x86/64.h \
+  /usr/local/include/boost/predef/architecture/z.h \
+  /usr/local/include/boost/predef/compiler.h \
+  /usr/local/include/boost/predef/compiler/borland.h \
+  /usr/local/include/boost/predef/compiler/clang.h \
+  /usr/local/include/boost/predef/compiler/comeau.h \
+  /usr/local/include/boost/predef/compiler/compaq.h \
+  /usr/local/include/boost/predef/compiler/diab.h \
+  /usr/local/include/boost/predef/compiler/digitalmars.h \
+  /usr/local/include/boost/predef/compiler/dignus.h \
+  /usr/local/include/boost/predef/compiler/edg.h \
+  /usr/local/include/boost/predef/compiler/ekopath.h \
+  /usr/local/include/boost/predef/compiler/gcc.h \
+  /usr/local/include/boost/predef/compiler/gcc_xml.h \
+  /usr/local/include/boost/predef/compiler/greenhills.h \
+  /usr/local/include/boost/predef/compiler/hp_acc.h \
+  /usr/local/include/boost/predef/compiler/iar.h \
+  /usr/local/include/boost/predef/compiler/ibm.h \
+  /usr/local/include/boost/predef/compiler/intel.h \
+  /usr/local/include/boost/predef/compiler/kai.h \
+  /usr/local/include/boost/predef/compiler/llvm.h \
+  /usr/local/include/boost/predef/compiler/metaware.h \
+  /usr/local/include/boost/predef/compiler/metrowerks.h \
+  /usr/local/include/boost/predef/compiler/microtec.h \
+  /usr/local/include/boost/predef/compiler/mpw.h \
+  /usr/local/include/boost/predef/compiler/nvcc.h \
+  /usr/local/include/boost/predef/compiler/palm.h \
+  /usr/local/include/boost/predef/compiler/pgi.h \
+  /usr/local/include/boost/predef/compiler/sgi_mipspro.h \
+  /usr/local/include/boost/predef/compiler/sunpro.h \
+  /usr/local/include/boost/predef/compiler/tendra.h \
+  /usr/local/include/boost/predef/compiler/visualc.h \
+  /usr/local/include/boost/predef/compiler/watcom.h \
+  /usr/local/include/boost/predef/detail/_cassert.h \
+  /usr/local/include/boost/predef/detail/_exception.h \
+  /usr/local/include/boost/predef/detail/comp_detected.h \
+  /usr/local/include/boost/predef/detail/os_detected.h \
+  /usr/local/include/boost/predef/detail/test.h \
+  /usr/local/include/boost/predef/hardware.h \
+  /usr/local/include/boost/predef/hardware/simd.h \
+  /usr/local/include/boost/predef/hardware/simd/arm.h \
+  /usr/local/include/boost/predef/hardware/simd/arm/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc.h \
+  /usr/local/include/boost/predef/hardware/simd/ppc/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86.h \
+  /usr/local/include/boost/predef/hardware/simd/x86/versions.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd.h \
+  /usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h \
+  /usr/local/include/boost/predef/language.h \
+  /usr/local/include/boost/predef/language/cuda.h \
+  /usr/local/include/boost/predef/language/objc.h \
+  /usr/local/include/boost/predef/language/stdc.h \
+  /usr/local/include/boost/predef/language/stdcpp.h \
+  /usr/local/include/boost/predef/library.h \
+  /usr/local/include/boost/predef/library/c.h \
+  /usr/local/include/boost/predef/library/c/_prefix.h \
+  /usr/local/include/boost/predef/library/c/cloudabi.h \
+  /usr/local/include/boost/predef/library/c/gnu.h \
+  /usr/local/include/boost/predef/library/c/uc.h \
+  /usr/local/include/boost/predef/library/c/vms.h \
+  /usr/local/include/boost/predef/library/c/zos.h \
+  /usr/local/include/boost/predef/library/std.h \
+  /usr/local/include/boost/predef/library/std/_prefix.h \
+  /usr/local/include/boost/predef/library/std/cxx.h \
+  /usr/local/include/boost/predef/library/std/dinkumware.h \
+  /usr/local/include/boost/predef/library/std/libcomo.h \
+  /usr/local/include/boost/predef/library/std/modena.h \
+  /usr/local/include/boost/predef/library/std/msl.h \
+  /usr/local/include/boost/predef/library/std/roguewave.h \
+  /usr/local/include/boost/predef/library/std/sgi.h \
+  /usr/local/include/boost/predef/library/std/stdcpp3.h \
+  /usr/local/include/boost/predef/library/std/stlport.h \
+  /usr/local/include/boost/predef/library/std/vacpp.h \
+  /usr/local/include/boost/predef/make.h \
+  /usr/local/include/boost/predef/os.h \
+  /usr/local/include/boost/predef/os/aix.h \
+  /usr/local/include/boost/predef/os/amigaos.h \
+  /usr/local/include/boost/predef/os/beos.h \
+  /usr/local/include/boost/predef/os/bsd.h \
+  /usr/local/include/boost/predef/os/bsd/bsdi.h \
+  /usr/local/include/boost/predef/os/bsd/dragonfly.h \
+  /usr/local/include/boost/predef/os/bsd/free.h \
+  /usr/local/include/boost/predef/os/bsd/net.h \
+  /usr/local/include/boost/predef/os/bsd/open.h \
+  /usr/local/include/boost/predef/os/cygwin.h \
+  /usr/local/include/boost/predef/os/haiku.h \
+  /usr/local/include/boost/predef/os/hpux.h \
+  /usr/local/include/boost/predef/os/ios.h \
+  /usr/local/include/boost/predef/os/irix.h \
+  /usr/local/include/boost/predef/os/linux.h \
+  /usr/local/include/boost/predef/os/macos.h \
+  /usr/local/include/boost/predef/os/os400.h \
+  /usr/local/include/boost/predef/os/qnxnto.h \
+  /usr/local/include/boost/predef/os/solaris.h \
+  /usr/local/include/boost/predef/os/unix.h \
+  /usr/local/include/boost/predef/os/vms.h \
+  /usr/local/include/boost/predef/os/windows.h \
+  /usr/local/include/boost/predef/other.h \
+  /usr/local/include/boost/predef/other/endian.h \
+  /usr/local/include/boost/predef/other/wordsize.h \
+  /usr/local/include/boost/predef/other/workaround.h \
+  /usr/local/include/boost/predef/platform.h \
+  /usr/local/include/boost/predef/platform/android.h \
+  /usr/local/include/boost/predef/platform/cloudabi.h \
+  /usr/local/include/boost/predef/platform/ios.h \
+  /usr/local/include/boost/predef/platform/mingw.h \
+  /usr/local/include/boost/predef/platform/mingw32.h \
+  /usr/local/include/boost/predef/platform/mingw64.h \
+  /usr/local/include/boost/predef/platform/windows_desktop.h \
+  /usr/local/include/boost/predef/platform/windows_phone.h \
+  /usr/local/include/boost/predef/platform/windows_runtime.h \
+  /usr/local/include/boost/predef/platform/windows_server.h \
+  /usr/local/include/boost/predef/platform/windows_store.h \
+  /usr/local/include/boost/predef/platform/windows_system.h \
+  /usr/local/include/boost/predef/platform/windows_uwp.h \
+  /usr/local/include/boost/predef/version.h \
+  /usr/local/include/boost/predef/version_number.h \
   /usr/local/include/boost/preprocessor/arithmetic/add.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/dec.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/inc.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp \
+  /usr/local/include/boost/preprocessor/arithmetic/mod.hpp \
   /usr/local/include/boost/preprocessor/arithmetic/sub.hpp \
   /usr/local/include/boost/preprocessor/array/data.hpp \
   /usr/local/include/boost/preprocessor/array/elem.hpp \
@@ -6664,32 +11796,52 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/preprocessor/cat.hpp \
   /usr/local/include/boost/preprocessor/comma_if.hpp \
   /usr/local/include/boost/preprocessor/comparison/equal.hpp \
+  /usr/local/include/boost/preprocessor/comparison/greater.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less.hpp \
+  /usr/local/include/boost/preprocessor/comparison/less_equal.hpp \
   /usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp \
   /usr/local/include/boost/preprocessor/comparison/not_equal.hpp \
   /usr/local/include/boost/preprocessor/config/config.hpp \
   /usr/local/include/boost/preprocessor/config/limits.hpp \
+  /usr/local/include/boost/preprocessor/control/deduce_d.hpp \
   /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/detail/while.hpp \
+  /usr/local/include/boost/preprocessor/control/expr_if.hpp \
   /usr/local/include/boost/preprocessor/control/expr_iif.hpp \
   /usr/local/include/boost/preprocessor/control/if.hpp \
   /usr/local/include/boost/preprocessor/control/iif.hpp \
   /usr/local/include/boost/preprocessor/control/limits/while_256.hpp \
   /usr/local/include/boost/preprocessor/control/while.hpp \
   /usr/local/include/boost/preprocessor/debug/error.hpp \
+  /usr/local/include/boost/preprocessor/dec.hpp \
   /usr/local/include/boost/preprocessor/detail/auto_rec.hpp \
   /usr/local/include/boost/preprocessor/detail/check.hpp \
   /usr/local/include/boost/preprocessor/detail/is_binary.hpp \
+  /usr/local/include/boost/preprocessor/detail/is_unary.hpp \
   /usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp \
   /usr/local/include/boost/preprocessor/empty.hpp \
+  /usr/local/include/boost/preprocessor/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/check_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/empty.hpp \
   /usr/local/include/boost/preprocessor/facilities/expand.hpp \
   /usr/local/include/boost/preprocessor/facilities/identity.hpp \
   /usr/local/include/boost/preprocessor/facilities/intercept.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp \
   /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp \
   /usr/local/include/boost/preprocessor/facilities/overload.hpp \
   /usr/local/include/boost/preprocessor/identity.hpp \
+  /usr/local/include/boost/preprocessor/if.hpp \
   /usr/local/include/boost/preprocessor/inc.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp \
+  /usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp \
+  /usr/local/include/boost/preprocessor/iteration/iterate.hpp \
+  /usr/local/include/boost/preprocessor/iteration/local.hpp \
   /usr/local/include/boost/preprocessor/list/adt.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp \
@@ -6697,6 +11849,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp \
   /usr/local/include/boost/preprocessor/list/fold_left.hpp \
   /usr/local/include/boost/preprocessor/list/fold_right.hpp \
+  /usr/local/include/boost/preprocessor/list/for_each_i.hpp \
   /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/list/reverse.hpp \
   /usr/local/include/boost/preprocessor/logical/and.hpp \
@@ -6708,27 +11861,211 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/preprocessor/logical/not.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma.hpp \
   /usr/local/include/boost/preprocessor/punctuation/comma_if.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp \
+  /usr/local/include/boost/preprocessor/punctuation/paren.hpp \
   /usr/local/include/boost/preprocessor/repeat.hpp \
+  /usr/local/include/boost/preprocessor/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp \
+  /usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp \
   /usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+  /usr/local/include/boost/preprocessor/repetition/for.hpp \
+  /usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat.hpp \
   /usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp \
+  /usr/local/include/boost/preprocessor/selection/max.hpp \
+  /usr/local/include/boost/preprocessor/seq/cat.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/detail/split.hpp \
+  /usr/local/include/boost/preprocessor/seq/elem.hpp \
   /usr/local/include/boost/preprocessor/seq/enum.hpp \
+  /usr/local/include/boost/preprocessor/seq/first_n.hpp \
+  /usr/local/include/boost/preprocessor/seq/fold_left.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each.hpp \
+  /usr/local/include/boost/preprocessor/seq/for_each_i.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp \
   /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp \
+  /usr/local/include/boost/preprocessor/seq/pop_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_back.hpp \
+  /usr/local/include/boost/preprocessor/seq/push_front.hpp \
+  /usr/local/include/boost/preprocessor/seq/reverse.hpp \
+  /usr/local/include/boost/preprocessor/seq/seq.hpp \
   /usr/local/include/boost/preprocessor/seq/size.hpp \
+  /usr/local/include/boost/preprocessor/seq/to_tuple.hpp \
+  /usr/local/include/boost/preprocessor/seq/transform.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/def.hpp \
+  /usr/local/include/boost/preprocessor/slot/detail/shared.hpp \
+  /usr/local/include/boost/preprocessor/slot/slot.hpp \
   /usr/local/include/boost/preprocessor/stringize.hpp \
   /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp \
   /usr/local/include/boost/preprocessor/tuple/eat.hpp \
   /usr/local/include/boost/preprocessor/tuple/elem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp \
+  /usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp \
   /usr/local/include/boost/preprocessor/tuple/rem.hpp \
+  /usr/local/include/boost/preprocessor/tuple/size.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_list.hpp \
+  /usr/local/include/boost/preprocessor/tuple/to_seq.hpp \
   /usr/local/include/boost/preprocessor/variadic/elem.hpp \
   /usr/local/include/boost/preprocessor/variadic/has_opt.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp \
   /usr/local/include/boost/preprocessor/variadic/size.hpp \
+  /usr/local/include/boost/preprocessor/variadic/to_seq.hpp \
+  /usr/local/include/boost/proto/args.hpp \
+  /usr/local/include/boost/proto/detail/and_n.hpp \
+  /usr/local/include/boost/proto/detail/any.hpp \
+  /usr/local/include/boost/proto/detail/args.hpp \
+  /usr/local/include/boost/proto/detail/as_expr.hpp \
+  /usr/local/include/boost/proto/detail/as_lvalue.hpp \
+  /usr/local/include/boost/proto/detail/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/decltype.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain.hpp \
+  /usr/local/include/boost/proto/detail/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/deprecated.hpp \
+  /usr/local/include/boost/proto/detail/expr.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop.hpp \
+  /usr/local/include/boost/proto/detail/extends_funop_const.hpp \
+  /usr/local/include/boost/proto/detail/funop.hpp \
+  /usr/local/include/boost/proto/detail/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/ignore_unused.hpp \
+  /usr/local/include/boost/proto/detail/is_noncopyable.hpp \
+  /usr/local/include/boost/proto/detail/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/matches_.hpp \
+  /usr/local/include/boost/proto/detail/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/or_n.hpp \
+  /usr/local/include/boost/proto/detail/poly_function.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/and_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/args.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/matches_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/or_n.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/traits.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/detail/remove_typename.hpp \
+  /usr/local/include/boost/proto/detail/static_const.hpp \
+  /usr/local/include/boost/proto/detail/template_arity.hpp \
+  /usr/local/include/boost/proto/detail/template_arity_helper.hpp \
+  /usr/local/include/boost/proto/detail/traits.hpp \
+  /usr/local/include/boost/proto/detail/unpack_expr_.hpp \
+  /usr/local/include/boost/proto/detail/vararg_matches_impl.hpp \
+  /usr/local/include/boost/proto/domain.hpp \
+  /usr/local/include/boost/proto/expr.hpp \
+  /usr/local/include/boost/proto/extends.hpp \
+  /usr/local/include/boost/proto/functional/fusion/at.hpp \
+  /usr/local/include/boost/proto/generate.hpp \
+  /usr/local/include/boost/proto/make_expr.hpp \
+  /usr/local/include/boost/proto/matches.hpp \
+  /usr/local/include/boost/proto/operators.hpp \
+  /usr/local/include/boost/proto/proto_fwd.hpp \
+  /usr/local/include/boost/proto/tags.hpp \
+  /usr/local/include/boost/proto/traits.hpp \
+  /usr/local/include/boost/proto/transform/arg.hpp \
+  /usr/local/include/boost/proto/transform/call.hpp \
+  /usr/local/include/boost/proto/transform/default.hpp \
+  /usr/local/include/boost/proto/transform/detail/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp \
+  /usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp \
+  /usr/local/include/boost/proto/transform/detail/when.hpp \
+  /usr/local/include/boost/proto/transform/env.hpp \
+  /usr/local/include/boost/proto/transform/fold.hpp \
+  /usr/local/include/boost/proto/transform/impl.hpp \
+  /usr/local/include/boost/proto/transform/lazy.hpp \
+  /usr/local/include/boost/proto/transform/make.hpp \
+  /usr/local/include/boost/proto/transform/pass_through.hpp \
+  /usr/local/include/boost/proto/transform/when.hpp \
+  /usr/local/include/boost/range/algorithm/equal.hpp \
+  /usr/local/include/boost/range/begin.hpp \
+  /usr/local/include/boost/range/concepts.hpp \
+  /usr/local/include/boost/range/config.hpp \
+  /usr/local/include/boost/range/const_iterator.hpp \
+  /usr/local/include/boost/range/detail/common.hpp \
+  /usr/local/include/boost/range/detail/extract_optional_type.hpp \
+  /usr/local/include/boost/range/detail/has_member_size.hpp \
+  /usr/local/include/boost/range/detail/implementation_help.hpp \
+  /usr/local/include/boost/range/detail/misc_concept.hpp \
+  /usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+  /usr/local/include/boost/range/detail/safe_bool.hpp \
+  /usr/local/include/boost/range/detail/sfinae.hpp \
+  /usr/local/include/boost/range/difference_type.hpp \
+  /usr/local/include/boost/range/distance.hpp \
+  /usr/local/include/boost/range/empty.hpp \
+  /usr/local/include/boost/range/end.hpp \
+  /usr/local/include/boost/range/functions.hpp \
+  /usr/local/include/boost/range/has_range_iterator.hpp \
+  /usr/local/include/boost/range/iterator.hpp \
+  /usr/local/include/boost/range/iterator_range_core.hpp \
+  /usr/local/include/boost/range/mutable_iterator.hpp \
+  /usr/local/include/boost/range/range_fwd.hpp \
+  /usr/local/include/boost/range/rbegin.hpp \
+  /usr/local/include/boost/range/rend.hpp \
+  /usr/local/include/boost/range/reverse_iterator.hpp \
+  /usr/local/include/boost/range/size.hpp \
+  /usr/local/include/boost/range/size_type.hpp \
+  /usr/local/include/boost/range/value_type.hpp \
+  /usr/local/include/boost/ratio/config.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/abs.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/gcd.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/lcm.hpp \
+  /usr/local/include/boost/ratio/detail/mpl/sign.hpp \
+  /usr/local/include/boost/ratio/detail/overflow_helpers.hpp \
+  /usr/local/include/boost/ratio/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/ratio/ratio.hpp \
+  /usr/local/include/boost/ratio/ratio_fwd.hpp \
+  /usr/local/include/boost/ref.hpp \
+  /usr/local/include/boost/shared_ptr.hpp \
   /usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count.hpp \
   /usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
@@ -6742,6 +12079,7 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+  /usr/local/include/boost/smart_ptr/detail/sp_forward.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp \
   /usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp \
@@ -6755,46 +12093,116 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/smart_ptr/detail/yield_k.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ptr.hpp \
   /usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+  /usr/local/include/boost/smart_ptr/make_shared_object.hpp \
   /usr/local/include/boost/smart_ptr/shared_ptr.hpp \
   /usr/local/include/boost/static_assert.hpp \
+  /usr/local/include/boost/system/api_config.hpp \
+  /usr/local/include/boost/system/detail/append_int.hpp \
+  /usr/local/include/boost/system/detail/cerrno.hpp \
+  /usr/local/include/boost/system/detail/config.hpp \
+  /usr/local/include/boost/system/detail/enable_if.hpp \
+  /usr/local/include/boost/system/detail/errc.hpp \
+  /usr/local/include/boost/system/detail/error_category.hpp \
+  /usr/local/include/boost/system/detail/error_category_impl.hpp \
+  /usr/local/include/boost/system/detail/error_code.hpp \
+  /usr/local/include/boost/system/detail/error_condition.hpp \
+  /usr/local/include/boost/system/detail/generic_category.hpp \
+  /usr/local/include/boost/system/detail/generic_category_message.hpp \
+  /usr/local/include/boost/system/detail/interop_category.hpp \
+  /usr/local/include/boost/system/detail/is_same.hpp \
+  /usr/local/include/boost/system/detail/mutex.hpp \
+  /usr/local/include/boost/system/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/system/detail/snprintf.hpp \
+  /usr/local/include/boost/system/detail/std_category.hpp \
+  /usr/local/include/boost/system/detail/std_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category.hpp \
+  /usr/local/include/boost/system/detail/system_category_impl.hpp \
+  /usr/local/include/boost/system/detail/system_category_message.hpp \
+  /usr/local/include/boost/system/detail/throws.hpp \
+  /usr/local/include/boost/system/errc.hpp \
+  /usr/local/include/boost/system/error_category.hpp \
+  /usr/local/include/boost/system/error_code.hpp \
+  /usr/local/include/boost/system/error_condition.hpp \
+  /usr/local/include/boost/system/generic_category.hpp \
+  /usr/local/include/boost/system/is_error_code_enum.hpp \
+  /usr/local/include/boost/system/is_error_condition_enum.hpp \
+  /usr/local/include/boost/system/system_category.hpp \
+  /usr/local/include/boost/system/system_error.hpp \
   /usr/local/include/boost/thread/detail/config.hpp \
+  /usr/local/include/boost/thread/detail/delete.hpp \
+  /usr/local/include/boost/thread/detail/move.hpp \
   /usr/local/include/boost/thread/detail/platform.hpp \
+  /usr/local/include/boost/thread/detail/platform_time.hpp \
   /usr/local/include/boost/thread/detail/thread_safety.hpp \
+  /usr/local/include/boost/thread/exceptions.hpp \
+  /usr/local/include/boost/thread/lock_options.hpp \
+  /usr/local/include/boost/thread/lock_types.hpp \
+  /usr/local/include/boost/thread/lockable_traits.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_helpers.hpp \
+  /usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp \
+  /usr/local/include/boost/thread/pthread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/recursive_mutex.hpp \
+  /usr/local/include/boost/thread/thread_time.hpp \
+  /usr/local/include/boost/thread/tss.hpp \
   /usr/local/include/boost/throw_exception.hpp \
+  /usr/local/include/boost/type.hpp \
   /usr/local/include/boost/type_index.hpp \
   /usr/local/include/boost/type_index/stl_type_index.hpp \
   /usr/local/include/boost/type_index/type_index_facade.hpp \
   /usr/local/include/boost/type_traits/add_const.hpp \
+  /usr/local/include/boost/type_traits/add_lvalue_reference.hpp \
+  /usr/local/include/boost/type_traits/add_pointer.hpp \
+  /usr/local/include/boost/type_traits/add_reference.hpp \
   /usr/local/include/boost/type_traits/add_rvalue_reference.hpp \
   /usr/local/include/boost/type_traits/add_volatile.hpp \
+  /usr/local/include/boost/type_traits/alignment_of.hpp \
+  /usr/local/include/boost/type_traits/common_type.hpp \
   /usr/local/include/boost/type_traits/conditional.hpp \
   /usr/local/include/boost/type_traits/conjunction.hpp \
+  /usr/local/include/boost/type_traits/conversion_traits.hpp \
+  /usr/local/include/boost/type_traits/decay.hpp \
   /usr/local/include/boost/type_traits/declval.hpp \
   /usr/local/include/boost/type_traits/detail/config.hpp \
+  /usr/local/include/boost/type_traits/detail/has_binary_operator.hpp \
   /usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
   /usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
+  /usr/local/include/boost/type_traits/detail/mp_defer.hpp \
   /usr/local/include/boost/type_traits/detail/yes_no_type.hpp \
   /usr/local/include/boost/type_traits/enable_if.hpp \
+  /usr/local/include/boost/type_traits/function_traits.hpp \
+  /usr/local/include/boost/type_traits/has_left_shift.hpp \
+  /usr/local/include/boost/type_traits/has_minus.hpp \
+  /usr/local/include/boost/type_traits/has_minus_assign.hpp \
   /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp \
+  /usr/local/include/boost/type_traits/has_plus.hpp \
+  /usr/local/include/boost/type_traits/has_plus_assign.hpp \
+  /usr/local/include/boost/type_traits/has_right_shift.hpp \
   /usr/local/include/boost/type_traits/integral_constant.hpp \
   /usr/local/include/boost/type_traits/intrinsics.hpp \
+  /usr/local/include/boost/type_traits/is_abstract.hpp \
   /usr/local/include/boost/type_traits/is_arithmetic.hpp \
+  /usr/local/include/boost/type_traits/is_array.hpp \
   /usr/local/include/boost/type_traits/is_base_and_derived.hpp \
   /usr/local/include/boost/type_traits/is_base_of.hpp \
   /usr/local/include/boost/type_traits/is_class.hpp \
   /usr/local/include/boost/type_traits/is_complete.hpp \
   /usr/local/include/boost/type_traits/is_const.hpp \
+  /usr/local/include/boost/type_traits/is_convertible.hpp \
   /usr/local/include/boost/type_traits/is_default_constructible.hpp \
+  /usr/local/include/boost/type_traits/is_empty.hpp \
   /usr/local/include/boost/type_traits/is_enum.hpp \
+  /usr/local/include/boost/type_traits/is_float.hpp \
   /usr/local/include/boost/type_traits/is_floating_point.hpp \
   /usr/local/include/boost/type_traits/is_function.hpp \
   /usr/local/include/boost/type_traits/is_integral.hpp \
   /usr/local/include/boost/type_traits/is_lvalue_reference.hpp \
   /usr/local/include/boost/type_traits/is_member_function_pointer.hpp \
+  /usr/local/include/boost/type_traits/is_member_object_pointer.hpp \
   /usr/local/include/boost/type_traits/is_member_pointer.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp \
   /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp \
+  /usr/local/include/boost/type_traits/is_pod.hpp \
   /usr/local/include/boost/type_traits/is_pointer.hpp \
   /usr/local/include/boost/type_traits/is_reference.hpp \
   /usr/local/include/boost/type_traits/is_rvalue_reference.hpp \
@@ -6805,12 +12213,29 @@ CMakeFiles/main.dir/main.cpp.o: /Users/comrademashkov/Desktop/PO/main/airborne-c
   /usr/local/include/boost/type_traits/is_unsigned.hpp \
   /usr/local/include/boost/type_traits/is_void.hpp \
   /usr/local/include/boost/type_traits/is_volatile.hpp \
+  /usr/local/include/boost/type_traits/make_signed.hpp \
   /usr/local/include/boost/type_traits/make_unsigned.hpp \
+  /usr/local/include/boost/type_traits/make_void.hpp \
+  /usr/local/include/boost/type_traits/remove_bounds.hpp \
   /usr/local/include/boost/type_traits/remove_const.hpp \
   /usr/local/include/boost/type_traits/remove_cv.hpp \
+  /usr/local/include/boost/type_traits/remove_extent.hpp \
+  /usr/local/include/boost/type_traits/remove_pointer.hpp \
   /usr/local/include/boost/type_traits/remove_reference.hpp \
+  /usr/local/include/boost/type_traits/remove_volatile.hpp \
   /usr/local/include/boost/type_traits/type_identity.hpp \
+  /usr/local/include/boost/type_traits/type_with_alignment.hpp \
+  /usr/local/include/boost/typeof/decltype.hpp \
+  /usr/local/include/boost/typeof/detail/requires_cxx11.hpp \
+  /usr/local/include/boost/typeof/message.hpp \
+  /usr/local/include/boost/typeof/typeof.hpp \
+  /usr/local/include/boost/utility.hpp \
+  /usr/local/include/boost/utility/addressof.hpp \
+  /usr/local/include/boost/utility/base_from_member.hpp \
+  /usr/local/include/boost/utility/binary.hpp \
   /usr/local/include/boost/utility/detail/result_of_variadic.hpp \
+  /usr/local/include/boost/utility/enable_if.hpp \
+  /usr/local/include/boost/utility/identity_type.hpp \
   /usr/local/include/boost/utility/result_of.hpp \
   /usr/local/include/boost/utility/string_ref_fwd.hpp \
   /usr/local/include/boost/utility/string_view_fwd.hpp \
@@ -7319,11 +12744,13 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
   /Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h
 
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.cpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.cpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.cpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/SafeBool.hpp:
 
@@ -7335,75 +12762,57 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/CopiedPtr.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Meta/Templates.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/ClonersAndDeleters.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/VerticalLayout.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TreeView.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ToggleButton.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Tabs.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TabContainer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinControl.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinButton.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Slider.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RichTextLabel.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ScrollablePanel.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButtonGroup.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButton.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/PanelListBox.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MessageBox.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MenuBar.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Label.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalWrap.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalLayout.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Grid.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/FileDialog.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TextArea.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/EditBox.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ComboBox.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ProgressBar.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SeparatorLine.hpp:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MenuBar.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListView.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalLayout.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Group.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Grid.hpp:
+
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ColorPicker.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ClickableWidget.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChildWindow.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/CheckBox.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Button.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChatBox.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ButtonBase.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayoutRatios.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BitmapButton.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widget.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vertex.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vector2.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Variant.hpp:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TwoFingerScrollDetect.hpp:
+
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Transform.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ToolTip.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Timer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Texture.hpp:
 
@@ -7411,27 +12820,19 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Text.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SubwidgetContainer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/StringView.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/String.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/WidgetRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TreeViewRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.h:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TabsRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SpinButtonRenderer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ScrollbarRenderer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SliderRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ScrollablePanelRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RadioButtonRenderer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ProgressBarRenderer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RangeSliderRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/PictureRenderer.hpp:
 
@@ -7441,9 +12842,11 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/MessageBoxRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/MenuBarRenderer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ListViewRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ListBoxRenderer.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/LabelRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/KnobRenderer.hpp:
 
@@ -7453,95 +12856,89 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/EditBoxRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ComboBoxRenderer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChildWindowRenderer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ColorPickerRenderer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/CheckBoxRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChatBoxRenderer.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ButtonRenderer.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/BoxLayoutRenderer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RelFloatRect.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TextArea.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/WidgetFactory.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RenderStates.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/ThemeLoader.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Optional.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Theme.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ObjectConverter.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Serializer.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Deserializer.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/DataIO.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Layout.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinControl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Font.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Filesystem.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Exception.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Event.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Duration.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Container.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Cursor.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Config.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Color.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendSFML.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/BackendGui.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendGuiSFML.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/SFML-Graphics.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendTextureSFML.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRendererSFML.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendTexture.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderTarget.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/BackendFontFactory.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/BackendFont.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/AllWidgets.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/AbsoluteOrRelativeValue.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowStyle.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowHandle.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowBase.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/VideoMode.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Window.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Sensor.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Cursor.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Mouse.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/GlResource.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Export.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/Backend.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Event.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Context.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector3.inl:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector3.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.inl:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.inl:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Time.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocal.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.inl:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Thread.inl:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Thread.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.inl:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.hpp:
 
@@ -7549,915 +12946,2733 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Mutex.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Lock.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/FileInputStream.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Clock.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Export.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Vertex.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transformable.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/MemoryInputStream.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Transform.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Text.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Texture.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Sprite.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Shape.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Shader.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderWindow.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTarget.hpp:
-
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderStates.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/PrimitiveType.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.inl:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Image.hpp:
 
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Font.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Drawable.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Color.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/ConvexShape.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Config.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/CircleShape.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_set:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ButtonRenderer.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/regex:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SvgImage.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/CopiedSharedPtr.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp:
 
 /usr/local/include/boost/version.hpp:
 
 /usr/local/include/boost/utility/string_view_fwd.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Rect.hpp:
+/usr/local/include/boost/utility/string_ref_fwd.hpp:
 
-/usr/local/include/boost/utility/result_of.hpp:
+/usr/local/include/boost/utility/enable_if.hpp:
 
 /usr/local/include/boost/utility/detail/result_of_variadic.hpp:
 
+/usr/local/include/boost/utility/binary.hpp:
+
+/usr/local/include/boost/typeof/message.hpp:
+
+/usr/local/include/boost/typeof/decltype.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glsl.inl:
+
 /usr/local/include/boost/type_traits/type_identity.hpp:
 
-/usr/local/include/boost/type_traits/remove_reference.hpp:
+/usr/local/include/boost/type_traits/remove_volatile.hpp:
+
+/usr/local/include/boost/type_traits/remove_extent.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Clock.hpp:
+
+/usr/local/include/boost/type_traits/remove_const.hpp:
 
 /usr/local/include/boost/type_traits/make_unsigned.hpp:
 
-/usr/local/include/boost/type_traits/is_volatile.hpp:
+/usr/local/include/boost/type_traits/make_signed.hpp:
 
 /usr/local/include/boost/type_traits/is_void.hpp:
+
+/usr/local/include/boost/type_traits/is_unsigned.hpp:
 
 /usr/local/include/boost/type_traits/is_union.hpp:
 
 /usr/local/include/boost/type_traits/is_signed.hpp:
 
-/usr/local/include/boost/type_traits/is_scalar.hpp:
-
-/usr/local/include/boost/type_traits/is_same.hpp:
+/usr/local/include/boost/type_traits/is_rvalue_reference.hpp:
 
 /usr/local/include/boost/type_traits/is_reference.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Optional.hpp:
+/usr/local/include/boost/type_traits/is_pointer.hpp:
 
 /usr/local/include/boost/type_traits/is_nothrow_swappable.hpp:
 
+/usr/local/include/boost/type_traits/is_member_pointer.hpp:
+
 /usr/local/include/boost/type_traits/is_member_function_pointer.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics.hpp:
 
 /usr/local/include/boost/type_traits/is_lvalue_reference.hpp:
 
-/usr/local/include/boost/type_traits/is_integral.hpp:
-
-/usr/local/include/boost/type_traits/is_function.hpp:
-
-/usr/local/include/boost/type_traits/is_floating_point.hpp:
+/usr/local/include/boost/type_traits/is_float.hpp:
 
 /usr/local/include/boost/type_traits/is_enum.hpp:
 
-/usr/local/include/boost/type_traits/is_const.hpp:
+/usr/local/include/boost/type_traits/is_empty.hpp:
 
 /usr/local/include/boost/type_traits/is_complete.hpp:
 
-/usr/local/include/boost/type_traits/is_base_of.hpp:
+/usr/local/include/boost/type_traits/is_class.hpp:
 
-/usr/local/include/boost/type_traits/is_base_and_derived.hpp:
+/usr/local/include/boost/type_traits/is_base_of.hpp:
 
 /usr/local/include/boost/type_traits/is_arithmetic.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Outline.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Text.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/BackendFontFactory.hpp:
+/usr/local/include/boost/type_traits/is_abstract.hpp:
 
-/usr/local/include/boost/type_traits/intrinsics.hpp:
+/usr/local/include/boost/type_traits/integral_constant.hpp:
+
+/usr/local/include/boost/type_traits/has_right_shift.hpp:
+
+/usr/local/include/boost/type_traits/has_plus_assign.hpp:
 
 /usr/local/include/boost/type_traits/has_nothrow_constructor.hpp:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp:
+
+/usr/local/include/boost/type_traits/has_minus_assign.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/HorizontalWrap.hpp:
+
+/usr/local/include/boost/type_traits/has_minus.hpp:
+
+/usr/local/include/boost/type_traits/has_left_shift.hpp:
+
 /usr/local/include/boost/type_traits/detail/yes_no_type.hpp:
 
-/usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp:
+/usr/local/include/boost/type_traits/detail/mp_defer.hpp:
+
+/usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp:
+
+/usr/local/include/boost/type_traits/detail/has_binary_operator.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Vulkan.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list:
 
 /usr/local/include/boost/type_traits/detail/config.hpp:
 
-/usr/local/include/boost/type_traits/declval.hpp:
+/usr/local/include/boost/type_traits/decay.hpp:
 
-/usr/local/include/boost/type_traits/conjunction.hpp:
+/usr/local/include/boost/type_traits/alignment_of.hpp:
+
+/usr/local/include/boost/type_traits/add_volatile.hpp:
+
+/usr/local/include/boost/type_traits/add_rvalue_reference.hpp:
+
+/usr/local/include/boost/type_traits/add_pointer.hpp:
+
+/usr/local/include/boost/type_traits/add_lvalue_reference.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/NonCopyable.hpp:
+
+/usr/local/include/boost/type_traits/add_const.hpp:
 
 /usr/local/include/boost/type_index/type_index_facade.hpp:
 
-/usr/local/include/boost/type_index.hpp:
+/usr/local/include/boost/type_index/stl_type_index.hpp:
 
-/usr/local/include/boost/throw_exception.hpp:
+/usr/local/include/boost/type.hpp:
+
+/usr/local/include/boost/thread/pthread/recursive_mutex.hpp:
+
+/usr/local/include/boost/thread/pthread/pthread_helpers.hpp:
+
+/usr/local/include/boost/thread/lockable_traits.hpp:
+
+/usr/local/include/boost/thread/lock_types.hpp:
+
+/usr/local/include/boost/thread/lock_options.hpp:
+
+/usr/local/include/boost/thread/exceptions.hpp:
 
 /usr/local/include/boost/thread/detail/thread_safety.hpp:
 
-/usr/local/include/boost/thread/detail/platform.hpp:
+/usr/local/include/boost/thread/detail/move.hpp:
 
-/usr/local/include/boost/thread/detail/config.hpp:
+/usr/local/include/boost/utility/result_of.hpp:
+
+/usr/local/include/boost/system/system_category.hpp:
+
+/usr/local/include/boost/system/is_error_condition_enum.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/SFML-Graphics/BackendFontSFML.hpp:
+
+/usr/local/include/boost/system/is_error_code_enum.hpp:
+
+/usr/local/include/boost/system/generic_category.hpp:
+
+/usr/local/include/boost/system/error_condition.hpp:
+
+/usr/local/include/boost/type_traits/is_member_object_pointer.hpp:
+
+/usr/local/include/boost/system/error_code.hpp:
+
+/usr/local/include/boost/system/error_category.hpp:
+
+/usr/local/include/boost/system/detail/system_category_message.hpp:
+
+/usr/local/include/boost/system/detail/system_category_impl.hpp:
+
+/usr/local/include/boost/system/detail/std_category_impl.hpp:
+
+/usr/local/include/boost/system/detail/std_category.hpp:
+
+/usr/local/include/boost/system/detail/snprintf.hpp:
+
+/usr/local/include/boost/system/detail/mutex.hpp:
+
+/usr/local/include/boost/system/detail/is_same.hpp:
+
+/usr/local/include/boost/system/detail/generic_category_message.hpp:
+
+/usr/local/include/boost/system/detail/generic_category.hpp:
+
+/usr/local/include/boost/system/detail/error_code.hpp:
+
+/usr/local/include/boost/system/detail/error_category_impl.hpp:
+
+/usr/local/include/boost/system/detail/error_category.hpp:
+
+/usr/local/include/boost/system/detail/config.hpp:
+
+/usr/local/include/boost/system/api_config.hpp:
 
 /usr/local/include/boost/static_assert.hpp:
 
-/usr/local/include/boost/smart_ptr/shared_ptr.hpp:
+/usr/local/include/boost/type_traits/add_reference.hpp:
 
-/usr/local/include/boost/smart_ptr/intrusive_ptr.hpp:
+/usr/local/include/boost/smart_ptr/shared_ptr.hpp:
 
 /usr/local/include/boost/smart_ptr/detail/yield_k.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/sp_typeinfo_.hpp:
-
-/usr/local/include/boost/smart_ptr/detail/sp_nullptr_t.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/SFML-Graphics.hpp:
+/usr/local/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:
 
 /usr/local/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp:
 
+/usr/local/include/boost/smart_ptr/detail/sp_forward.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
+
 /usr/local/include/boost/smart_ptr/detail/sp_counted_base_gcc_atomic.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.h:
-
-/usr/local/include/boost/smart_ptr/detail/sp_counted_base.hpp:
-
-/usr/local/include/boost/smart_ptr/detail/shared_count.hpp:
+/usr/local/include/boost/smart_ptr/detail/requires_cxx11.hpp:
 
 /usr/local/include/boost/smart_ptr/detail/operator_bool.hpp:
 
 /usr/local/include/boost/smart_ptr/detail/local_sp_deleter.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp:
+/usr/local/include/boost/smart_ptr/detail/local_counted_base.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp:
+/usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp:
+
+/usr/local/include/boost/shared_ptr.hpp:
+
+/usr/local/include/boost/ratio/ratio_fwd.hpp:
+
+/usr/local/include/boost/ratio/detail/requires_cxx11.hpp:
+
+/usr/local/include/boost/ratio/detail/mpl/lcm.hpp:
+
+/usr/local/include/boost/ratio/detail/mpl/gcd.hpp:
+
+/usr/local/include/boost/ratio/detail/mpl/abs.hpp:
+
+/usr/local/include/boost/ratio/config.hpp:
+
+/usr/local/include/boost/range/size_type.hpp:
+
+/usr/local/include/boost/range/size.hpp:
+
+/usr/local/include/boost/range/rend.hpp:
+
+/usr/local/include/boost/range/rbegin.hpp:
+
+/usr/local/include/boost/range/range_fwd.hpp:
+
+/usr/local/include/boost/range/mutable_iterator.hpp:
+
+/usr/local/include/boost/range/iterator_range_core.hpp:
+
+/usr/local/include/boost/range/iterator.hpp:
+
+/usr/local/include/boost/range/has_range_iterator.hpp:
+
+/usr/local/include/boost/range/functions.hpp:
+
+/usr/local/include/boost/range/end.hpp:
+
+/usr/local/include/boost/range/detail/sfinae.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRendererSFML.hpp:
+
+/usr/local/include/boost/range/detail/safe_bool.hpp:
+
+/usr/local/include/boost/range/detail/msvc_has_iterator_workaround.hpp:
+
+/usr/local/include/boost/range/detail/misc_concept.hpp:
+
+/usr/local/include/boost/range/detail/implementation_help.hpp:
+
+/usr/local/include/boost/range/detail/has_member_size.hpp:
+
+/usr/local/include/boost/range/detail/extract_optional_type.hpp:
+
+/usr/local/include/boost/range/detail/common.hpp:
+
+/usr/local/include/boost/range/concepts.hpp:
+
+/usr/local/include/boost/range/algorithm/equal.hpp:
+
+/usr/local/include/boost/proto/transform/when.hpp:
+
+/usr/local/include/boost/proto/transform/pass_through.hpp:
+
+/usr/local/include/boost/proto/transform/impl.hpp:
+
+/usr/local/include/boost/range/empty.hpp:
+
+/usr/local/include/boost/proto/transform/fold.hpp:
+
+/usr/local/include/boost/proto/transform/env.hpp:
+
+/usr/local/include/boost/proto/transform/detail/when.hpp:
+
+/usr/local/include/boost/type_traits/remove_pointer.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/when.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/lazy.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/fold_impl.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/construct_pod_funop.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/construct_funop.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/call.hpp:
+
+/usr/local/include/boost/proto/transform/detail/make_gcc_workaround.hpp:
+
+/usr/local/include/boost/proto/transform/detail/make.hpp:
+
+/usr/local/include/boost/proto/transform/detail/fold_impl.hpp:
+
+/usr/local/include/boost/proto/transform/detail/expand_pack.hpp:
+
+/usr/local/include/boost/proto/transform/detail/default_function_impl.hpp:
+
+/usr/local/include/boost/proto/transform/detail/construct_pod_funop.hpp:
+
+/usr/local/include/boost/proto/transform/detail/construct_funop.hpp:
+
+/usr/local/include/boost/proto/transform/detail/call.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/make.hpp:
+
+/usr/local/include/boost/proto/transform/default.hpp:
+
+/usr/local/include/boost/proto/transform/call.hpp:
+
+/usr/local/include/boost/proto/traits.hpp:
+
+/usr/local/include/boost/proto/tags.hpp:
+
+/usr/local/include/boost/proto/proto_fwd.hpp:
+
+/usr/local/include/boost/proto/operators.hpp:
+
+/usr/local/include/boost/proto/matches.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/InputStream.hpp:
+
+/usr/local/include/boost/proto/extends.hpp:
+
+/usr/local/include/boost/proto/expr.hpp:
+
+/usr/local/include/boost/proto/detail/vararg_matches_impl.hpp:
+
+/usr/local/include/boost/proto/detail/template_arity_helper.hpp:
+
+/usr/local/include/boost/proto/detail/template_arity.hpp:
+
+/usr/local/include/boost/proto/detail/static_const.hpp:
+
+/usr/local/include/boost/proto/detail/remove_typename.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/vararg_matches_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/AbsoluteOrRelativeValue.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Export.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/unpack_expr_.hpp:
+
+/usr/local/include/boost/range/config.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/poly_function_traits.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/poly_function_funop.hpp:
+
+/usr/local/include/boost/system/detail/requires_cxx11.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/memfun_funop.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/make_expr_funop.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/make_expr.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/generate_by_value.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/funop.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/class_member_traits.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/args.hpp:
+
+/usr/local/include/boost/proto/detail/poly_function.hpp:
+
+/usr/local/include/boost/proto/detail/memfun_funop.hpp:
+
+/usr/local/include/boost/proto/detail/matches_.hpp:
+
+/usr/local/include/boost/proto/detail/make_expr_.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexArray.hpp:
+
+/usr/local/include/boost/proto/detail/make_expr.hpp:
+
+/usr/local/include/boost/proto/detail/lambda_matches.hpp:
+
+/usr/local/include/boost/proto/detail/funop.hpp:
+
+/usr/local/include/boost/proto/detail/extends_funop.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/default_function_impl.hpp:
+
+/usr/local/include/boost/proto/detail/expr.hpp:
+
+/usr/local/include/boost/proto/detail/deprecated.hpp:
+
+/usr/local/include/boost/proto/detail/deduce_domain_n.hpp:
+
+/usr/local/include/boost/proto/detail/deduce_domain.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Signal.hpp:
+
+/usr/local/include/boost/proto/detail/decltype.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/make_expr_.hpp:
+
+/usr/local/include/boost/proto/detail/class_member_traits.hpp:
+
+/usr/local/include/boost/proto/detail/basic_expr.hpp:
+
+/usr/local/include/boost/proto/detail/as_lvalue.hpp:
+
+/usr/local/include/boost/proto/detail/args.hpp:
+
+/usr/local/include/boost/proto/detail/any.hpp:
+
+/usr/local/include/boost/proto/detail/and_n.hpp:
+
+/usr/local/include/boost/proto/args.hpp:
+
+/usr/local/include/boost/system/detail/system_category.hpp:
+
+/usr/local/include/boost/preprocessor/variadic/to_seq.hpp:
 
 /usr/local/include/boost/preprocessor/variadic/size.hpp:
 
 /usr/local/include/boost/preprocessor/variadic/limits/size_64.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ProgressBar.hpp:
+/usr/local/include/boost/type_traits/is_array.hpp:
+
+/usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp:
 
 /usr/local/include/boost/preprocessor/variadic/has_opt.hpp:
 
 /usr/local/include/boost/preprocessor/variadic/elem.hpp:
 
-/usr/local/include/boost/preprocessor/tuple/elem.hpp:
+/usr/local/include/boost/preprocessor/tuple/to_list.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/rem.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/limits/to_seq_64.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/eat.hpp:
 
 /usr/local/include/boost/preprocessor/tuple/detail/is_single_return.hpp:
 
-/usr/local/include/boost/preprocessor/stringize.hpp:
+/usr/local/include/boost/preprocessor/slot/slot.hpp:
 
-/usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp:
+/usr/local/include/boost/preprocessor/seq/transform.hpp:
 
-/usr/local/include/boost/preprocessor/seq/enum.hpp:
+/usr/local/include/boost/preprocessor/seq/size.hpp:
 
-/usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp:
+/usr/local/include/boost/preprocessor/seq/seq.hpp:
 
-/usr/local/include/boost/preprocessor/repeat.hpp:
+/usr/local/include/boost/preprocessor/seq/reverse.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__debug:
+/usr/local/include/boost/preprocessor/seq/push_front.hpp:
 
-/usr/local/include/boost/preprocessor/list/reverse.hpp:
+/usr/local/include/boost/proto/detail/preprocessed/deduce_domain_n.hpp:
 
-/usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp:
+/usr/local/include/boost/preprocessor/seq/push_back.hpp:
 
-/usr/local/include/boost/preprocessor/list/detail/limits/fold_left_256.hpp:
+/usr/local/include/boost/system/detail/error_condition.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h:
-
-/usr/local/include/boost/preprocessor/list/detail/fold_left.hpp:
-
-/usr/local/include/boost/mpl/aux_/config/arrays.hpp:
-
-/usr/local/include/boost/preprocessor/list/adt.hpp:
-
-/usr/local/include/boost/preprocessor/inc.hpp:
+/usr/local/include/boost/preprocessor/seq/pop_back.hpp:
 
 /usr/local/include/boost/preprocessor/seq/limits/size_256.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sched.h:
+/usr/local/include/boost/preprocessor/seq/limits/fold_left_256.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_blkcnt_t.h:
+/usr/local/include/boost/preprocessor/seq/limits/elem_256.hpp:
 
-/usr/local/include/boost/preprocessor/identity.hpp:
+/usr/local/include/boost/system/detail/enable_if.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_stdlib.h:
+/usr/local/include/boost/preprocessor/seq/for_each_i.hpp:
 
-/usr/local/include/boost/preprocessor/facilities/overload.hpp:
+/usr/local/include/boost/preprocessor/seq/for_each.hpp:
+
+/usr/local/include/boost/ratio/ratio.hpp:
+
+/usr/local/include/boost/preprocessor/seq/first_n.hpp:
+
+/usr/local/include/boost/preprocessor/seq/detail/split.hpp:
+
+/usr/local/include/boost/preprocessor/seq/cat.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.cpp:
+
+/usr/local/include/boost/preprocessor/selection/max.hpp:
+
+/usr/local/include/boost/proto/transform/lazy.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/repeat.hpp:
+
+/usr/local/include/boost/thread/thread_time.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/for.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_trailing.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/SpinButton.hpp:
+
+/usr/local/include/boost/smart_ptr/make_shared_object.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_params_with_a_default.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_params.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/detail/limits/for_256.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/detail/for.hpp:
+
+/usr/local/include/boost/preprocessor/repeat_from_to.hpp:
+
+/usr/local/include/boost/preprocessor/punctuation/paren.hpp:
+
+/usr/local/include/boost/preprocessor/punctuation/is_begin_parens.hpp:
+
+/usr/local/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/WidgetFactory.hpp:
+
+/usr/local/include/boost/preprocessor/punctuation/comma_if.hpp:
+
+/usr/local/include/boost/ref.hpp:
+
+/usr/local/include/boost/preprocessor/punctuation/comma.hpp:
+
+/usr/local/include/boost/preprocessor/logical/not.hpp:
+
+/usr/local/include/boost/preprocessor/logical/bool.hpp:
+
+/usr/local/include/boost/preprocessor/logical/bitor.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListBox.hpp:
+
+/usr/local/include/boost/preprocessor/logical/bitand.hpp:
+
+/usr/local/include/boost/preprocessor/list/detail/limits/fold_left_256.hpp:
+
+/usr/local/include/boost/preprocessor/iteration/detail/iter/reverse1.hpp:
+
+/usr/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp:
+
+/usr/local/include/boost/type_traits/remove_bounds.hpp:
+
+/usr/local/include/boost/preprocessor/inc.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
+
+/usr/local/include/boost/preprocessor/if.hpp:
 
 /usr/local/include/boost/preprocessor/facilities/limits/intercept_256.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Touch.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/function.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
-
-/usr/local/include/boost/preprocessor/facilities/intercept.hpp:
+/usr/local/include/boost/preprocessor/seq/limits/enum_256.hpp:
 
 /usr/local/include/boost/preprocessor/facilities/expand.hpp:
 
-/usr/local/include/boost/preprocessor/facilities/empty.hpp:
+/usr/local/include/boost/preprocessor/enum_params.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp:
+/usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp:
 
-/usr/local/include/boost/preprocessor/facilities/check_empty.hpp:
+/usr/local/include/boost/preprocessor/detail/check.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_intmax_t.h:
+/usr/local/include/boost/preprocessor/dec.hpp:
 
-/usr/local/include/boost/preprocessor/empty.hpp:
+/usr/local/include/boost/mpl/aux_/config/forwarding.hpp:
 
-/usr/local/include/boost/type_traits/is_rvalue_reference.hpp:
+/usr/local/include/boost/preprocessor/debug/error.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
-
-/usr/local/include/boost/log/detail/is_character_type.hpp:
-
-/usr/local/include/boost/preprocessor/control/limits/while_256.hpp:
+/usr/local/include/boost/type_traits/is_function.hpp:
 
 /usr/local/include/boost/preprocessor/control/expr_iif.hpp:
 
 /usr/local/include/boost/preprocessor/control/detail/while.hpp:
 
-/usr/local/include/boost/preprocessor/control/if.hpp:
+/usr/local/include/boost/fusion/view/single_view/detail/equal_to_impl.hpp:
 
 /usr/local/include/boost/preprocessor/control/detail/limits/while_256.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
+/usr/local/include/boost/preprocessor/control/deduce_d.hpp:
 
-/usr/local/include/boost/preprocessor/config/limits.hpp:
+/usr/local/include/boost/preprocessor/config/config.hpp:
 
-/usr/local/include/boost/preprocessor/comparison/not_equal.hpp:
+/usr/local/include/boost/iterator/iterator_facade.hpp:
 
-/usr/local/include/boost/preprocessor/array/elem.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp:
+
+/usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional:
+
+/usr/local/include/boost/preprocessor/comparison/less_equal.hpp:
+
+/usr/local/include/boost/optional/optional_fwd.hpp:
+
+/usr/local/include/boost/preprocessor/comparison/greater.hpp:
 
 /usr/local/include/boost/preprocessor/arithmetic/sub.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Shape.hpp:
+/usr/local/include/boost/preprocessor/arithmetic/detail/is_1_number.hpp:
 
-/usr/local/include/boost/mpl/aux_/O1_size_impl.hpp:
+/usr/local/include/boost/preprocessor/arithmetic/detail/div_base.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/gcc.hpp:
+/usr/local/include/boost/preprocessor/arithmetic/dec.hpp:
 
-/usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp:
+/usr/local/include/boost/preprocessor/repetition/limits/for_256.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityVersions.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy_n.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h:
+/usr/local/include/boost/fusion/adapted/struct/detail/size_impl.hpp:
 
-/usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp:
+/usr/local/include/boost/preprocessor/control/if.hpp:
 
 /usr/local/include/boost/preprocessor/arithmetic/add.hpp:
 
-/usr/local/include/boost/parameter/keyword_fwd.hpp:
+/usr/local/include/boost/date_time/c_time.hpp:
 
-/usr/local/include/boost/parameter/config.hpp:
+/usr/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp:
+/usr/local/include/boost/predef/version.h:
 
-/usr/local/include/boost/parameter/aux_/yesno.hpp:
+/usr/local/include/boost/predef/platform/windows_uwp.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Drawable.hpp:
+/usr/local/include/boost/fusion/support/config.hpp:
 
-/usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp:
+/usr/local/include/boost/predef/platform/windows_phone.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdio.h:
+/usr/local/include/boost/predef/platform/cloudabi.h:
 
-/usr/local/include/boost/parameter/aux_/void.hpp:
+/usr/local/include/boost/predef/platform.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexArray.hpp:
+/usr/local/include/boost/mpl/apply.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/ConvexShape.hpp:
+/usr/local/include/boost/predef/other.h:
 
-/usr/local/include/boost/parameter/aux_/preprocessor/nullptr.hpp:
+/usr/local/include/boost/predef/os/vms.h:
 
-/usr/local/include/boost/parameter/aux_/parameter_requirements.hpp:
+/usr/local/include/boost/predef/os/unix.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/prev_permutation.h:
+/usr/local/include/boost/throw_exception.hpp:
 
-/usr/local/include/boost/mpl/logical.hpp:
-
-/usr/local/include/boost/parameter/aux_/pack/parameter_requirements.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Panel.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int64_t.h:
-
-/usr/local/include/boost/parameter/aux_/default.hpp:
-
-/usr/local/include/boost/preprocessor/detail/auto_rec.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string_view:
-
-/usr/local/include/boost/parameter/aux_/arg_list.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/limits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/nl_types.h:
-
-/usr/local/include/boost/mpl/void_fwd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_traits.h:
-
-/usr/local/include/boost/mpl/tag.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Picture.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/max.h:
-
-/usr/local/include/boost/mpl/sequence_tag_fwd.hpp:
-
-/usr/local/include/boost/smart_ptr/detail/requires_cxx11.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/limits.h:
-
-/usr/local/include/boost/mpl/sequence_tag.hpp:
+/usr/local/include/boost/preprocessor/control/expr_if.hpp:
 
 /usr/local/include/boost/mpl/same_as.hpp:
 
-/usr/local/include/boost/mpl/quote.hpp:
+/usr/local/include/boost/predef/os/qnxnto.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/CanvasSFML.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional_base:
 
-/usr/local/include/boost/mpl/protect.hpp:
+/usr/local/include/boost/predef/os/os400.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+/usr/local/include/boost/predef/os/linux.h:
+
+/usr/local/include/boost/predef/os/hpux.h:
+
+/usr/local/include/boost/predef/os/cygwin.h:
+
+/usr/local/include/boost/mpl/aux_/nttp_decl.hpp:
+
+/usr/local/include/boost/predef/os/bsd/dragonfly.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_size.hpp:
+
+/usr/local/include/boost/predef/os/bsd.h:
+
+/usr/local/include/boost/predef/make.h:
+
+/usr/local/include/boost/predef/library/std/stlport.h:
+
+/usr/local/include/boost/predef/library/std/modena.h:
+
+/usr/local/include/boost/predef/library/std/libcomo.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Sprite.hpp:
+
+/usr/local/include/boost/log/attributes/counter.hpp:
+
+/usr/local/include/boost/predef/library/std/cxx.h:
+
+/usr/local/include/boost/predef/library/c.h:
+
+/usr/local/include/boost/predef/language/objc.h:
+
+/usr/local/include/boost/predef/language/cuda.h:
+
+/usr/local/include/boost/predef/hardware/simd/x86/versions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
+
+/usr/local/include/boost/predef/hardware/simd/x86.h:
+
+/usr/local/include/boost/predef/hardware/simd/ppc.h:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/expand_pack.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
+
+/usr/local/include/boost/predef/hardware/simd/arm.h:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/pass_through_impl.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/lambda_matches.hpp:
+
+/usr/local/include/boost/predef/detail/comp_detected.h:
+
+/usr/local/include/boost/predef/detail/_cassert.h:
+
+/usr/local/include/boost/log/attributes/constant.hpp:
+
+/usr/local/include/boost/predef/architecture/superh.h:
+
+/usr/local/include/boost/predef/compiler/tendra.h:
+
+/usr/local/include/boost/predef/compiler/sunpro.h:
+
+/usr/local/include/boost/predef/compiler/sgi_mipspro.h:
+
+/usr/local/include/boost/preprocessor/tuple/elem.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
+
+/usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_long_long.hpp:
+
+/usr/local/include/boost/predef/compiler/palm.h:
+
+/usr/local/include/boost/predef/compiler/mpw.h:
+
+/usr/local/include/boost/preprocessor/list/reverse.hpp:
+
+/usr/local/include/boost/predef/compiler/kai.h:
+
+/usr/local/include/boost/predef/compiler/iar.h:
+
+/usr/local/include/boost/predef/compiler/hp_acc.h:
+
+/usr/local/include/boost/predef/compiler/greenhills.h:
+
+/usr/local/include/boost/predef/compiler/gcc_xml.h:
+
+/usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp:
+
+/usr/local/include/boost/proto/detail/generate_by_value.hpp:
+
+/usr/local/include/boost/predef/compiler/gcc.h:
+
+/usr/local/include/boost/smart_ptr/detail/sp_thread_pause.hpp:
+
+/usr/local/include/boost/predef/compiler/ekopath.h:
+
+/usr/local/include/boost/predef/compiler/dignus.h:
+
+/usr/local/include/boost/array.hpp:
+
+/usr/local/include/boost/predef/compiler/digitalmars.h:
+
+/usr/local/include/boost/atomic/detail/extra_ops_gcc_aarch64.hpp:
+
+/usr/local/include/boost/predef/compiler/diab.h:
+
+/usr/local/include/boost/predef/compiler/compaq.h:
+
+/usr/local/include/boost/type_traits/conjunction.hpp:
+
+/usr/local/include/boost/mpl/erase.hpp:
+
+/usr/local/include/boost/predef/compiler/comeau.h:
+
+/usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp:
+
+/usr/local/include/boost/predef/library/c/uc.h:
+
+/usr/local/include/boost/predef/compiler/clang.h:
+
+/usr/local/include/boost/predef/compiler/watcom.h:
+
+/usr/local/include/boost/predef/compiler.h:
+
+/usr/local/include/boost/log/keywords/format.hpp:
+
+/usr/local/include/boost/predef/architecture/z.h:
+
+/usr/local/include/boost/predef/architecture/x86/32.h:
+
+/usr/local/include/boost/predef/architecture/x86.h:
+
+/usr/local/include/boost/predef/architecture/sys370.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/ContextSettings.hpp:
+
+/usr/local/include/boost/predef/architecture/sparc.h:
+
+/usr/local/include/boost/predef/hardware.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/port.h:
+
+/usr/local/include/boost/predef/architecture/riscv.h:
+
+/usr/local/include/boost/log/sinks/auto_newline_mode.hpp:
+
+/usr/local/include/boost/concept/detail/general.hpp:
+
+/usr/local/include/boost/predef/architecture/ptx.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocal.hpp:
+
+/usr/local/include/boost/predef/architecture/ppc.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.h:
+
+/usr/local/include/boost/predef/architecture/parisc.h:
+
+/usr/local/include/boost/predef/architecture/m68k.h:
+
+/usr/local/include/boost/predef/architecture/e2k.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int32_t.h:
 
-/usr/local/include/boost/mpl/pair.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/rotate.h:
+
+/usr/local/include/boost/fusion/include/at_c.hpp:
+
+/usr/local/include/boost/predef/architecture/blackfin.h:
+
+/usr/local/include/boost/predef/architecture/alpha.h:
+
+/usr/local/include/boost/mpl/limits/arity.hpp:
+
+/usr/local/include/boost/predef/os/bsd/open.h:
+
+/usr/local/include/boost/predef/architecture.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/View.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_string.h:
+
+/usr/local/include/boost/predef.h:
+
+/usr/local/include/boost/mpl/map/aux_/value_type_impl.hpp:
+
+/usr/local/include/boost/phoenix/support/vector.hpp:
+
+/usr/local/include/boost/phoenix/support/preprocessed/vector.hpp:
+
+/usr/local/include/boost/phoenix/operator/detail/undef_operator.hpp:
+
+/usr/local/include/boost/phoenix/operator/detail/define_operator.hpp:
+
+/usr/local/include/boost/phoenix/operator/comparison.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/end_impl.hpp:
+
+/usr/local/include/boost/phoenix/core/terminal_fwd.hpp:
+
+/usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp:
+
+/usr/local/include/boost/phoenix/core/terminal.hpp:
+
+/usr/local/include/boost/phoenix/core/expression.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_posix_vdisable.h:
+
+/usr/local/include/boost/phoenix/core/environment.hpp:
+
+/usr/local/include/boost/type_traits/make_void.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits.h:
+
+/usr/local/include/boost/phoenix/core/detail/index_sequence.hpp:
+
+/usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument.hpp:
+
+/usr/local/include/boost/parameter/value_type.hpp:
+
+/usr/local/include/boost/mp11/set.hpp:
+
+/usr/local/include/boost/parameter/keyword.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/next_impl.hpp:
+
+/usr/local/include/boost/parameter/config.hpp:
+
+/usr/local/include/boost/parameter/aux_/yesno.hpp:
+
+/usr/local/include/boost/parameter/aux_/use_default_tag.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/unistd.h:
+
+/usr/local/include/boost/parameter/aux_/unwrap_cv_reference.hpp:
+
+/usr/local/include/boost/parameter/aux_/tagged_argument.hpp:
+
+/usr/local/include/boost/parameter/aux_/preprocessor/nullptr.hpp:
+
+/usr/local/include/boost/predef/platform/windows_store.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_backward.hpp:
+
+/usr/local/include/boost/parameter/aux_/is_maybe.hpp:
+
+/usr/local/include/boost/parameter/aux_/has_nested_template_fn.hpp:
+
+/usr/local/include/boost/preprocessor/repetition/enum_shifted.hpp:
+
+/usr/local/include/boost/log/sinks/basic_sink_frontend.hpp:
+
+/usr/local/include/boost/parameter/aux_/augment_predicate.hpp:
+
+/usr/local/include/boost/operators.hpp:
+
+/usr/local/include/boost/numeric/conversion/sign_mixture_enum.hpp:
+
+/usr/local/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TextureData.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glyph.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cwctype:
+
+/usr/local/include/boost/numeric/conversion/detail/int_float_mixture.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTexture.hpp:
+
+/usr/local/include/boost/numeric/conversion/detail/converter.hpp:
+
+/usr/local/include/boost/predef/compiler/metrowerks.h:
+
+/usr/local/include/boost/predef/other/endian.h:
+
+/usr/local/include/boost/numeric/conversion/detail/bounds.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ratio:
+
+/usr/local/include/boost/numeric/conversion/converter_policies.hpp:
+
+/usr/local/include/boost/numeric/conversion/conversion_traits.hpp:
+
+/usr/local/include/boost/mpl/void.hpp:
+
+/usr/local/include/boost/mpl/vector/vector0.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/MessageBox.hpp:
+
+/usr/local/include/boost/range/distance.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/vector0.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cwchar:
+
+/usr/local/include/boost/mpl/vector/aux_/tag.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/push_front.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/push_back.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/clear.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/back.hpp:
+
+/usr/local/include/boost/mpl/value_type_fwd.hpp:
+
+/usr/local/include/boost/predef/platform/mingw64.h:
+
+/usr/local/include/boost/mpl/times.hpp:
+
+/usr/local/include/boost/assert.hpp:
+
+/usr/local/include/boost/mpl/size_t.hpp:
+
+/usr/local/include/boost/type_traits/is_floating_point.hpp:
+
+/usr/local/include/boost/mpl/size_fwd.hpp:
+
+/usr/local/include/boost/mpl/size.hpp:
+
+/usr/local/include/boost/mpl/quote.hpp:
+
+/usr/local/include/boost/mpl/push_front_fwd.hpp:
+
+/usr/local/include/boost/fusion/adapted/mpl/detail/begin_impl.hpp:
+
+/usr/local/include/boost/mpl/push_back_fwd.hpp:
+
+/usr/local/include/boost/predef/compiler/microtec.h:
+
+/usr/local/include/boost/mpl/protect.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__threading_support:
+
+/usr/local/include/boost/mpl/placeholders.hpp:
 
 /usr/local/include/boost/mpl/order_fwd.hpp:
 
-/usr/local/include/boost/parameter/aux_/tagged_argument_fwd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ino_t.h:
-
-/usr/local/include/boost/mpl/or.hpp:
+/usr/local/include/boost/mpl/numeric_cast.hpp:
 
 /usr/local/include/boost/mpl/not.hpp:
 
 /usr/local/include/boost/mpl/next_prior.hpp:
 
-/usr/local/include/boost/type_traits/is_default_constructible.hpp:
+/usr/local/include/boost/config/detail/select_platform_config.hpp:
 
-/usr/local/include/boost/mpl/limits/arity.hpp:
-
-/usr/local/include/boost/preprocessor/detail/is_binary.hpp:
-
-/usr/local/include/boost/mpl/key_type_fwd.hpp:
-
-/usr/local/include/boost/preprocessor/logical/and.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
-
-/usr/local/include/boost/parameter/aux_/result_of0.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Export.hpp:
-
-/usr/local/include/boost/mpl/void.hpp:
-
-/usr/local/include/boost/mpl/int_fwd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/comp.h:
-
-/usr/local/include/boost/mpl/int.hpp:
-
-/usr/local/include/boost/mpl/if.hpp:
-
-/usr/local/include/boost/mpl/has_key_fwd.hpp:
-
-/usr/local/include/boost/mpl/eval_if.hpp:
-
-/usr/local/include/boost/log/attributes/attribute_set.hpp:
+/usr/local/include/boost/predef/architecture/convex.h:
 
 /usr/local/include/boost/preprocessor/list/limits/fold_left_256.hpp:
 
-/usr/local/include/boost/mpl/distance_fwd.hpp:
+/usr/local/include/boost/mpl/minus.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp:
+
+/usr/local/include/boost/mpl/map/map0.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/tag.hpp:
+
+/usr/local/include/boost/preprocessor/arithmetic/mod.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map20.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/kern_return.h:
+
+/usr/local/include/boost/atomic/detail/core_operations_emulated_fwd.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/preprocessed/typeof_based/map10.hpp:
+
+/usr/local/include/boost/detail/indirect_traits.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/map0.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/key_type_impl.hpp:
+
+/usr/local/include/boost/core/explicit_operator_bool.hpp:
+
+/usr/local/include/boost/preprocessor/iteration/iterate.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/item.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Err.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/erase_key_impl.hpp:
+
+/usr/local/include/boost/atomic/detail/aligned_variable.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/erase_impl.hpp:
+
+/usr/local/include/boost/predef/platform/windows_server.h:
+
+/usr/local/include/boost/mpl/map/aux_/empty_impl.hpp:
+
+/usr/local/include/boost/predef/language/stdc.h:
+
+/usr/local/include/boost/phoenix/core/domain.hpp:
+
+/usr/local/include/boost/parameter/aux_/parameter_requirements.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/contains_impl.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/at_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Cursor.hpp:
+
+/usr/local/include/boost/mpl/map.hpp:
+
+/usr/local/include/boost/mpl/long_fwd.hpp:
+
+/usr/local/include/boost/mpl/long.hpp:
+
+/usr/local/include/boost/preprocessor/expand.hpp:
+
+/usr/local/include/boost/mpl/limits/map.hpp:
+
+/usr/local/include/boost/core/checked_delete.hpp:
+
+/usr/local/include/boost/mpl/iterator_tags.hpp:
+
+/usr/local/include/boost/mpl/integral_c_tag.hpp:
+
+/usr/local/include/boost/proto/detail/or_n.hpp:
+
+/usr/local/include/boost/mpl/int_fwd.hpp:
+
+/usr/local/include/boost/mpl/insert_range_fwd.hpp:
+
+/usr/local/include/boost/mpl/insert.hpp:
+
+/usr/local/include/boost/fusion/container/list/cons_fwd.hpp:
+
+/usr/local/include/boost/mpl/if.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint32_t.h:
+
+/usr/local/include/boost/numeric/conversion/cast.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/concepts.h:
+
+/usr/local/include/boost/mpl/has_key.hpp:
+
+/usr/local/include/boost/log/detail/attr_output_terminal.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h:
+
+/usr/local/include/boost/mpl/front_fwd.hpp:
+
+/usr/local/include/boost/mpl/front.hpp:
+
+/usr/local/include/boost/system/detail/append_int.hpp:
+
+/usr/local/include/boost/parameter/aux_/lambda_tag.hpp:
 
 /usr/local/include/boost/mpl/find_if.hpp:
 
+/usr/local/include/boost/predef/library/c/zos.h:
+
+/usr/local/include/boost/mpl/pop_back_fwd.hpp:
+
+/usr/local/include/boost/mpl/eval_if.hpp:
+
+/usr/local/include/boost/mpl/vector/vector10.hpp:
+
+/usr/local/include/boost/mpl/erase_fwd.hpp:
+
+/usr/local/include/boost/preprocessor/comparison/not_equal.hpp:
+
+/usr/local/include/boost/mpl/end.hpp:
+
+/usr/local/include/boost/mpl/empty_fwd.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/map.hpp:
+
+/usr/local/include/boost/move/utility_core.hpp:
+
+/usr/local/include/boost/mpl/distance_fwd.hpp:
+
+/usr/local/include/boost/mpl/distance.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/EditBox.hpp:
+
+/usr/local/include/boost/log/utility/functional/logical.hpp:
+
+/usr/local/include/boost/mpl/contains.hpp:
+
+/usr/local/include/boost/preprocessor/seq/enum.hpp:
+
+/usr/local/include/boost/mpl/clear_fwd.hpp:
+
+/usr/local/include/boost/move/detail/std_ns_begin.hpp:
+
 /usr/local/include/boost/mpl/bool_fwd.hpp:
 
-/usr/local/include/boost/mpl/bool.hpp:
+/usr/local/include/boost/log/attributes/value_extraction_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/resource.h:
+/usr/local/include/boost/mpl/begin_end_fwd.hpp:
 
-/usr/local/include/boost/mpl/begin_end.hpp:
+/usr/local/include/boost/mpl/bind.hpp:
+
+/usr/local/include/boost/noncopyable.hpp:
+
+/usr/local/include/boost/mpl/push_back.hpp:
+
+/usr/local/include/boost/preprocessor/logical/and.hpp:
+
+/usr/local/include/boost/mpl/size_t_fwd.hpp:
+
+/usr/local/include/boost/mpl/begin.hpp:
 
 /usr/local/include/boost/mpl/aux_/type_wrapper.hpp:
 
-/usr/local/include/boost/preprocessor/logical/compl.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/plus.hpp:
+
+/usr/local/include/boost/mpl/index_of.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_wchar_t.h:
+
+/usr/local/include/boost/mpl/aux_/traits_lambda_spec.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/stable_sort.h:
 
 /usr/local/include/boost/mpl/aux_/template_arity_fwd.hpp:
 
-/usr/local/include/boost/preprocessor/comparison/limits/not_equal_256.hpp:
+/usr/local/include/boost/predef/platform/windows_system.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_key_t.h:
+/usr/local/include/boost/mpl/aux_/template_arity.hpp:
 
-/usr/local/include/boost/mpl/aux_/static_cast.hpp:
+/usr/local/include/boost/mpl/aux_/reverse_fold_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsobj_id_t.h:
 
-/usr/local/include/boost/mpl/aux_/preprocessor/params.hpp:
+/usr/local/include/boost/mpl/map/aux_/include_preprocessed.hpp:
+
+/usr/local/include/boost/mpl/aux_/ptr_to_ref.hpp:
+
+/usr/local/include/boost/log/utility/string_literal_fwd.hpp:
 
 /usr/local/include/boost/mpl/aux_/preprocessor/enum.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayoutRatios.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
-
-/usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp:
-
-/usr/local/include/boost/mpl/placeholders.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
-
-/usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/times.hpp:
 
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp:
 
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp:
 
+/usr/local/include/boost/parameter/aux_/tag.hpp:
+
+/usr/local/include/boost/phoenix/support/preprocessor/round.hpp:
+
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayout.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_impl.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/minus.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/exception_types.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/less.hpp:
+
+/usr/local/include/boost/preprocessor/facilities/check_empty.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/iter_fold_if_impl.hpp:
+
+/usr/local/include/boost/parameter/aux_/result_of0.hpp:
+
+/usr/local/include/boost/atomic/detail/gcc_atomic_memory_order_utils.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/inherit.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp:
 
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/fold_impl.hpp:
+
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp:
+
+/usr/local/include/boost/numeric/conversion/bounds.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
 
 /usr/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__variant/monostate.h:
+/usr/local/include/boost/mpl/aux_/push_back_impl.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp:
+/usr/local/include/boost/phoenix/core/meta_grammar.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uuid_t.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/begin_end.hpp:
+
+/usr/local/include/boost/mpl/back_fwd.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/advance_forward.hpp:
+
+/usr/local/include/boost/smart_ptr/intrusive_ptr.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sort.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_setsize.h:
+
+/usr/local/include/boost/mpl/aux_/order_impl.hpp:
+
+/usr/local/include/boost/mpl/aux_/numeric_cast_utils.hpp:
+
+/usr/local/include/boost/date_time/posix_time/conversion.hpp:
 
 /usr/local/include/boost/mpl/aux_/na_spec.hpp:
 
-/usr/local/include/boost/log/attributes/value_extraction_fwd.hpp:
+/usr/local/include/boost/mpl/aux_/na_fwd.hpp:
 
-/usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp:
+/usr/local/include/boost/mpl/aux_/msvc_type.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TwoFingerScrollDetect.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_port_t.h:
 
-/usr/local/include/boost/mpl/aux_/has_size.hpp:
+/usr/local/include/boost/mpl/aux_/lambda_spec.hpp:
 
-/usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp:
+/usr/local/include/boost/type_traits/remove_reference.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/ThreadLocalPtr.inl:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
-
-/usr/local/include/boost/mpl/aux_/lambda_support.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
-
-/usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_policy.h:
 
 /usr/local/include/boost/mpl/aux_/iter_apply.hpp:
 
-/usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp:
+/usr/local/include/boost/mpl/aux_/push_front_impl.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/detail/at_impl.hpp:
 
 /usr/local/include/boost/mpl/aux_/integral_wrapper.hpp:
 
-/usr/local/include/boost/preprocessor/detail/limits/auto_rec_256.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_va_list.h:
 
-/usr/local/include/boost/mpl/aux_/include_preprocessed.hpp:
-
-/usr/local/include/boost/mpl/aux_/has_type.hpp:
+/usr/local/include/boost/date_time/gregorian/greg_calendar.hpp:
 
 /usr/local/include/boost/mpl/aux_/has_tag.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
+/usr/local/include/boost/utility/addressof.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/static_constant.hpp:
+/usr/local/include/boost/mpl/aux_/msvc_eti_base.hpp:
 
-/usr/local/include/boost/mpl/aux_/has_begin.hpp:
+/usr/local/include/boost/mpl/aux_/has_size.hpp:
 
 /usr/local/include/boost/mpl/aux_/has_apply.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath:
+/usr/local/include/boost/fusion/adapted/struct/detail/is_view_impl.hpp:
 
-/usr/local/include/boost/parameter/aux_/is_tagged_argument.hpp:
+/usr/local/include/boost/parameter/aux_/tagged_argument_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/distance.h:
+/usr/local/include/boost/mpl/aux_/fold_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string.h:
+/usr/local/include/boost/preprocessor/list/detail/limits/fold_right_256.hpp:
 
-/usr/local/include/boost/mpl/aux_/full_lambda.hpp:
+/usr/local/include/boost/proto/transform/detail/pass_through_impl.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/ttp.hpp:
+/usr/local/include/boost/date_time/gregorian/greg_year.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/intel.hpp:
+/usr/local/include/boost/mpl/aux_/erase_impl.hpp:
 
-/usr/local/include/boost/mpl/iter_fold_if.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/BlendMode.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/preprocessor.hpp:
+/usr/local/include/boost/type_traits/conditional.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp:
+/usr/local/include/boost/mpl/aux_/contains_impl.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/workaround.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_def.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_info.h:
 
-/usr/local/include/boost/mpl/find.hpp:
+/usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp:
 
-/usr/local/include/boost/mp11/detail/mp_front.hpp:
+/usr/local/include/boost/mpl/aux_/config/pp_counter.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/nttp.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRenderTargetSFML.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/operators.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/CopiedSharedPtr.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp:
 
 /usr/local/include/boost/mpl/aux_/config/lambda.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/View.hpp:
+/usr/local/include/boost/predef/language.h:
 
-/usr/local/include/boost/mpl/assert.hpp:
+/usr/local/include/boost/mpl/iter_fold_if.hpp:
 
-/usr/local/include/boost/preprocessor/array/size.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/memory_object_types.h:
+
+/usr/local/include/boost/mpl/aux_/config/intel.hpp:
+
+/usr/local/include/boost/proto/transform/detail/preprocessed/pack_impl.hpp:
 
 /usr/local/include/boost/mpl/aux_/config/has_xxx.hpp:
 
-/usr/local/include/boost/mpl/aux_/nttp_decl.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendTexture.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/gpu.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.inl:
 
 /usr/local/include/boost/mpl/aux_/config/eti.hpp:
 
-/usr/local/include/boost/mpl/long.hpp:
+/usr/local/include/boost/mpl/aux_/value_wknd.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/ctps.hpp:
+/usr/local/include/boost/mpl/aux_/msvc_never_true.hpp:
 
-/usr/local/include/boost/mpl/iterator_range.hpp:
+/usr/local/include/boost/phoenix/core/detail/cpp03/preprocessed/argument_predefined_10.hpp:
 
-/usr/local/include/boost/mpl/aux_/arg_typedef.hpp:
+/usr/local/include/boost/mpl/aux_/config/dtp.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
+/usr/local/include/boost/date_time/gregorian/greg_duration.hpp:
 
-/usr/local/include/boost/preprocessor/comparison/equal.hpp:
+/usr/local/include/boost/preprocessor/array/data.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Cursor.hpp:
+/usr/local/include/boost/mpl/aux_/config/dependent_nttp.hpp:
 
-/usr/local/include/boost/mpl/aux_/adl_barrier.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/LabelRenderer.hpp:
-
-/usr/local/include/boost/mpl/arg_fwd.hpp:
-
-/usr/local/include/boost/mpl/arg.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RenderStates.hpp:
-
-/usr/local/include/boost/mpl/apply_fwd.hpp:
+/usr/local/include/boost/mpl/aux_/config/compiler.hpp:
 
 /usr/local/include/boost/preprocessor/arithmetic/inc.hpp:
 
 /usr/local/include/boost/mpl/aux_/config/bind.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/ContextSettings.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_clr.h:
 
-/usr/local/include/boost/mpl/apply.hpp:
+/usr/local/include/boost/preprocessor/list/adt.hpp:
 
-/usr/local/include/boost/mpl/O1_size_fwd.hpp:
+/usr/local/include/boost/fusion/sequence/intrinsic/segments.hpp:
 
-/usr/local/include/boost/mpl/O1_size.hpp:
+/usr/local/include/boost/date_time/period.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h:
+/usr/local/include/boost/mpl/aux_/config/arrays.hpp:
 
-/usr/local/include/boost/log/detail/locks.hpp:
+/usr/local/include/boost/mpl/aux_/config/adl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_copy.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Config.hpp:
 
-/usr/local/include/boost/log/detail/light_rw_mutex.hpp:
+/usr/local/include/boost/mpl/aux_/comparison_op.hpp:
 
-/usr/local/include/boost/mp11/utility.hpp:
-
-/usr/local/include/boost/preprocessor/tuple/eat.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef:
-
-/usr/local/include/boost/mp11/list.hpp:
-
-/usr/local/include/boost/preprocessor/logical/bool.hpp:
-
-/usr/local/include/boost/mp11/detail/mp_void.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/rotate.h:
-
-/usr/local/include/boost/mp11/detail/mp_remove_if.hpp:
-
-/usr/local/include/boost/log/detail/attachable_sstream_buf.hpp:
-
-/usr/local/include/boost/mp11/detail/mp_min_element.hpp:
-
-/usr/local/include/boost/mp11/detail/mp_is_list.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ButtonBase.hpp:
-
-/usr/local/include/boost/mpl/aux_/arity.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/Swap.hpp:
+/usr/local/include/boost/mpl/aux_/arity_spec.hpp:
 
 /usr/local/include/boost/mp11/detail/mp_count.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/reverse.h:
+/usr/local/include/boost/predef/hardware/simd/arm/versions.h:
 
-/usr/local/include/boost/mp11/detail/mp_copy_if.hpp:
+/usr/local/include/boost/mpl/aux_/arity.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/msvc_typename.hpp:
+/usr/local/include/boost/mpl/aux_/arithmetic_op.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/WidgetRenderer.hpp:
+/usr/local/include/boost/parameter/aux_/is_placeholder.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Export.hpp:
+/usr/local/include/boost/mpl/aux_/advance_backward.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_convertible.hpp:
+
+/usr/local/include/boost/proto/transform/detail/pack.hpp:
+
+/usr/local/include/boost/mpl/aux_/adl_barrier.hpp:
+
+/usr/local/include/boost/preprocessor/iteration/local.hpp:
+
+/usr/local/include/boost/preprocessor/arithmetic/detail/maximum_number.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_blksize_t.h:
+
+/usr/local/include/boost/mpl/aux_/config/gcc.hpp:
+
+/usr/local/include/boost/mpl/aux_/O1_size_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.hpp:
+
+/usr/local/include/boost/predef/compiler/intel.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_status.h:
+
+/usr/local/include/boost/mpl/arg_fwd.hpp:
+
+/usr/local/include/boost/mpl/apply_fwd.hpp:
+
+/usr/local/include/boost/atomic/detail/bitwise_fp_cast.hpp:
+
+/usr/local/include/boost/mpl/and.hpp:
+
+/usr/local/include/boost/mpl/advance.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/size_impl.hpp:
+
+/usr/local/include/boost/mpl/O1_size_fwd.hpp:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/float.h:
+
+/usr/local/include/boost/mp11/version.hpp:
+
+/usr/local/include/boost/mp11/integral.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_with_index.hpp:
+
+/usr/local/include/boost/log/detail/is_ostream.hpp:
+
+/usr/local/include/boost/predef/architecture/x86/64.h:
+
+/usr/local/include/boost/iterator/interoperable.hpp:
+
+/usr/local/include/boost/log/detail/thread_id.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_rename.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RichTextLabel.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/min_element.h:
+
+/usr/local/include/boost/mp11/detail/mp_plus.hpp:
+
+/usr/local/include/boost/date_time/gregorian/greg_ymd.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_map_find.hpp:
+
+/usr/local/include/boost/predef/architecture/rs6k.h:
+
+/usr/local/include/boost/mp11/detail/mp_is_list.hpp:
+
+/usr/local/include/boost/core/enable_if.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/nttp.hpp:
+
+/usr/local/include/boost/proto/transform/detail/lazy.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_front.hpp:
+
+/usr/local/include/boost/atomic/detail/float_sizes.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessor/params.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_fold.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vertex.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_types.h:
+
+/usr/local/include/boost/date_time/posix_time/posix_time_config.hpp:
 
 /usr/local/include/boost/mp11/detail/mp_append.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/GlResource.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RectangleShape.hpp:
 
-/usr/local/include/boost/mp11/algorithm.hpp:
-
-/usr/local/include/boost/core/addressof.hpp:
-
-/usr/local/include/boost/move/detail/workaround.hpp:
-
-/usr/local/include/boost/move/detail/addressof.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale.h:
-
-/usr/local/include/boost/log/utility/unique_identifier_name.hpp:
-
-/usr/local/include/boost/log/utility/string_literal_fwd.hpp:
-
-/usr/local/include/boost/log/utility/formatting_ostream.hpp:
-
-/usr/local/include/boost/mpl/long_fwd.hpp:
-
-/usr/local/include/boost/log/trivial.hpp:
-
-/usr/local/include/boost/preprocessor/logical/bitor.hpp:
-
-/usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ListViewRenderer.hpp:
-
-/usr/local/include/boost/log/attributes/attribute_value.hpp:
-
-/usr/local/include/boost/log/sources/severity_feature.hpp:
-
-/usr/local/include/boost/log/detail/light_function.hpp:
-
-/usr/local/include/boost/log/sources/basic_logger.hpp:
-
-/usr/local/include/boost/log/keywords/severity.hpp:
-
-/usr/local/include/boost/log/expressions/filter.hpp:
-
-/usr/local/include/boost/preprocessor/comma_if.hpp:
-
-/usr/local/include/boost/log/detail/sfinae_tools.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_ctype.h:
-
-/usr/local/include/boost/log/detail/parameter_tools.hpp:
-
-/usr/local/include/boost/log/detail/native_typeof.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception:
-
-/usr/local/include/boost/mpl/aux_/find_if_pred.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendText.hpp:
-
-/usr/local/include/boost/preprocessor/control/iif.hpp:
-
-/usr/local/include/boost/log/detail/footer.hpp:
-
-/usr/local/include/boost/mp11/bind.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h:
 
 /usr/local/include/boost/preprocessor/list/detail/fold_right.hpp:
 
+/usr/local/include/boost/mp11/bind.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/system_error:
+
+/usr/local/include/boost/mp11/algorithm.hpp:
+
+/usr/local/include/boost/mpl/at.hpp:
+
+/usr/local/include/boost/move/utility.hpp:
+
+/usr/local/include/boost/predef/architecture/sys390.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h:
+
+/usr/local/include/boost/concept/detail/has_constraints.hpp:
+
+/usr/local/include/boost/iterator/advance.hpp:
+
+/usr/local/include/boost/move/traits.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/spinlock.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
+
+/usr/local/include/boost/move/detail/type_traits.hpp:
+
+/usr/local/include/boost/proto/detail/poly_function_funop.hpp:
+
+/usr/local/include/boost/move/detail/config_end.hpp:
+
+/usr/local/include/boost/move/detail/addressof.hpp:
+
+/usr/local/include/boost/move/core.hpp:
+
+/usr/local/include/boost/mpl/advance_fwd.hpp:
+
+/usr/local/include/boost/memory_order.hpp:
+
+/usr/local/include/boost/log/utility/value_ref.hpp:
+
+/usr/local/include/boost/log/utility/setup/formatter_parser.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/for_each.h:
+
+/usr/local/include/boost/log/utility/setup/console.hpp:
+
+/usr/local/include/boost/log/utility/setup/common_attributes.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/spinlock_pool.hpp:
+
+/usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/size_impl.hpp:
+
+/usr/local/include/boost/log/sources/threading_models.hpp:
+
+/usr/local/include/boost/mpl/sequence_tag_fwd.hpp:
+
+/usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp:
+
+/usr/local/include/boost/log/sources/record_ostream.hpp:
+
+/usr/local/include/boost/log/sinks/text_ostream_backend.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/time_value.h:
+
+/usr/local/include/boost/log/sinks/sink.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/conditional.hpp:
+
+/usr/local/include/boost/log/utility/functional/bind.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_intptr_t.h:
+
+/usr/local/include/boost/log/keywords/filter.hpp:
+
+/usr/local/include/boost/log/keywords/auto_flush.hpp:
+
+/usr/local/include/boost/log/expressions/keyword.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_info.h:
+
+/usr/local/include/boost/log/expressions/is_keyword_descriptor.hpp:
+
+/usr/local/include/boost/log/expressions/formatters/stream.hpp:
+
+/usr/local/include/boost/utility.hpp:
+
+/usr/local/include/boost/log/expressions/filter.hpp:
+
+/usr/local/include/boost/log/expressions/attr.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Label.hpp:
+
+/usr/local/include/boost/log/exceptions.hpp:
+
+/usr/local/include/boost/log/detail/unary_function_terminal.hpp:
+
+/usr/local/include/boost/log/detail/trivial_keyword.hpp:
+
+/usr/local/include/boost/numeric/conversion/numeric_cast_traits.hpp:
+
+/usr/local/include/boost/log/detail/sink_init_helpers.hpp:
+
+/usr/local/include/boost/log/detail/setup_config.hpp:
+
+/usr/local/include/boost/log/detail/native_typeof.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTarget.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/pop_back.hpp:
+
+/usr/local/include/boost/log/detail/locking_ptr.hpp:
+
+/usr/local/include/boost/next_prior.hpp:
+
+/usr/local/include/boost/log/sources/basic_logger.hpp:
+
+/usr/local/include/boost/log/detail/light_function.hpp:
+
+/usr/local/include/boost/log/utility/once_block.hpp:
+
+/usr/local/include/boost/log/detail/footer.hpp:
+
+/usr/local/include/boost/log/detail/fake_mutex.hpp:
+
+/usr/local/include/boost/log/detail/embedded_string_type.hpp:
+
 /usr/local/include/boost/log/detail/default_attribute_names.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h:
+
+/usr/local/include/boost/log/detail/custom_terminal_spec.hpp:
+
+/usr/local/include/boost/log/detail/config.hpp:
+
+/usr/local/include/boost/atomic/detail/core_arch_ops_gcc_aarch64.hpp:
 
 /usr/local/include/boost/log/detail/code_conversion.hpp:
 
-/usr/local/include/boost/mp11/integer_sequence.hpp:
+/usr/local/include/boost/preprocessor/stringize.hpp:
 
 /usr/local/include/boost/log/detail/attribute_get_value_impl.hpp:
 
+/usr/local/include/boost/mpl/apply_wrap.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_min_element.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/message.h:
+
+/usr/local/include/boost/log/detail/attachable_sstream_buf.hpp:
+
+/usr/local/include/boost/predef/compiler/llvm.h:
+
 /usr/local/include/boost/log/core/record_view.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/FileInputStream.hpp:
+/usr/local/include/boost/log/core/record.hpp:
 
-/usr/local/include/boost/type_traits/detail/is_swappable_cxx_11.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.cpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
+
+/usr/local/include/boost/date_time/posix_time/ptime.hpp:
 
 /usr/local/include/boost/log/core/core.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/rel_ops.h:
+/usr/local/include/boost/predef/hardware/simd.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint64_t.h:
+/usr/local/include/boost/move/detail/meta_utils.hpp:
 
-/usr/local/include/boost/log/attributes/attribute_value_set.hpp:
+/usr/local/include/boost/log/attributes/value_visitation_fwd.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Clipboard.hpp:
+/usr/local/include/boost/preprocessor/slot/detail/shared.hpp:
 
-/usr/local/include/boost/log/attributes/attribute_value_impl.hpp:
+/usr/local/include/boost/container_hash/is_tuple_like.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_function.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config:
 
-/usr/local/include/boost/log/attributes/attribute_name.hpp:
+/usr/local/include/boost/log/attributes/value_visitation.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Config.hpp:
+/usr/local/include/boost/preprocessor/arithmetic/detail/is_minimum_number.hpp:
 
-/usr/local/include/boost/preprocessor/logical/bitand.hpp:
+/usr/local/include/boost/date_time/time.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h:
+
+/usr/local/include/boost/log/detail/id.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h:
+
+/usr/local/include/boost/log/attributes/value_extraction.hpp:
+
+/usr/local/include/boost/log/attributes/time_traits.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ToggleButton.hpp:
+
+/usr/local/include/boost/thread/recursive_mutex.hpp:
+
+/usr/local/include/boost/log/utility/manipulators/to_log.hpp:
+
+/usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp:
+
+/usr/local/include/boost/log/attributes/current_process_id.hpp:
+
+/usr/local/include/boost/log/sources/severity_feature.hpp:
+
+/usr/local/include/boost/log/attributes/attribute_value.hpp:
 
 /usr/local/include/boost/mpl/deref.hpp:
 
 /usr/local/include/boost/log/attributes/attribute_cast.hpp:
 
-/usr/local/include/boost/mpl/always.hpp:
+/usr/local/include/boost/lexical_cast/try_lexical_convert.hpp:
 
-/usr/local/include/boost/detail/workaround.hpp:
+/usr/local/include/boost/lexical_cast/detail/inf_nan.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Glyph.hpp:
+/usr/local/include/boost/lexical_cast/detail/converter_lexical_streams.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/search.h:
+/usr/local/include/boost/lexical_cast/detail/lcast_char_constants.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp:
+/usr/local/include/boost/mpl/iterator_range.hpp:
 
-/usr/local/include/boost/describe/modifiers.hpp:
+/usr/local/include/boost/thread/detail/delete.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp:
+/usr/local/include/boost/mpl/aux_/arg_typedef.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/size.hpp:
+
+/usr/local/include/boost/lexical_cast/bad_lexical_cast.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Scrollbar.hpp:
+
+/usr/local/include/boost/lexical_cast.hpp:
+
+/usr/local/include/boost/predef/library/std/sgi.h:
+
+/usr/local/include/boost/phoenix/core/is_actor.hpp:
+
+/usr/local/include/boost/iterator/reverse_iterator.hpp:
+
+/usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp:
+
+/usr/local/include/boost/move/detail/std_ns_end.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval64.h:
+
+/usr/local/include/boost/iterator/iterator_categories.hpp:
+
+/usr/local/include/boost/mpl/bool.hpp:
+
+/usr/local/include/boost/iterator/iterator_adaptor.hpp:
+
+/usr/local/include/boost/iterator/detail/facade_iterator_category.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Animation.hpp:
+
+/usr/local/include/boost/type_traits/is_base_and_derived.hpp:
+
+/usr/local/include/boost/iterator/detail/enable_if.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_nullptr_t.hpp:
+
+/usr/local/include/boost/phoenix/core/limits.hpp:
+
+/usr/local/include/boost/mpl/erase_key_fwd.hpp:
+
+/usr/local/include/boost/iterator/detail/config_undef.hpp:
+
+/usr/local/include/boost/atomic/detail/pause.hpp:
+
+/usr/local/include/boost/predef/os/haiku.h:
+
+/usr/local/include/boost/mpl/or.hpp:
+
+/usr/local/include/boost/is_placeholder.hpp:
+
+/usr/local/include/boost/integer_traits.hpp:
+
+/usr/local/include/boost/integer_fwd.hpp:
+
+/usr/local/include/boost/integer.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/prev.h:
+
+/usr/local/include/boost/fusion/view/single_view/single_view_iterator.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/detail/value_of_impl.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/detail/value_at_impl.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/detail/size_impl.hpp:
+
+/usr/local/include/boost/preprocessor/detail/is_binary.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
+
+/usr/local/include/boost/fusion/view/single_view/detail/begin_impl.hpp:
+
+/usr/local/include/boost/preprocessor/control/iif.hpp:
+
+/usr/local/include/boost/preprocessor/arithmetic/detail/is_maximum_number.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/joint_view_iterator.hpp:
+
+/usr/local/include/boost/lexical_cast/detail/converter_lexical.hpp:
+
+/usr/local/include/boost/predef/os/bsd/free.h:
+
+/usr/local/include/boost/fusion/view/joint_view/joint_view.hpp:
+
+/usr/local/include/boost/mp11/function.hpp:
+
+/usr/local/include/boost/atomic/detail/string_ops.hpp:
+
+/usr/local/include/boost/parameter/keyword_fwd.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/value_of_data_impl.hpp:
+
+/usr/local/include/boost/preprocessor/detail/auto_rec.hpp:
+
+/usr/local/include/boost/type_traits/function_traits.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/key_of_impl.hpp:
+
+/usr/local/include/boost/predef/os/aix.h:
+
+/usr/local/include/boost/fusion/view/iterator_range/iterator_range.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
+
+/usr/local/include/boost/mpl/less.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/value_at_impl.hpp:
+
+/usr/local/include/boost/mpl/integral_c.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/ThemeLoader.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/segments_impl.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/is_segmented_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChildWindowRenderer.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Outline.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/end_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Event.hpp:
+
+/usr/local/include/boost/predef/os/beos.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/TabContainer.hpp:
+
+/usr/local/include/boost/log/detail/sfinae_tools.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Picture.hpp:
+
+/usr/local/include/boost/preprocessor/comma_if.hpp:
+
+/usr/local/include/boost/fusion/support/tag_of.hpp:
+
+/usr/local/include/boost/phoenix/support/iterate.hpp:
+
+/usr/local/include/boost/preprocessor/facilities/intercept.hpp:
+
+/usr/local/include/boost/fusion/support/sequence_base.hpp:
+
+/usr/local/include/boost/fusion/support/segmented_fold_until.hpp:
+
+/usr/local/include/boost/preprocessor/array/elem.hpp:
+
+/usr/local/include/boost/fusion/support/iterator_base.hpp:
+
+/usr/local/include/boost/mpl/aux_/include_preprocessed.hpp:
+
+/usr/local/include/boost/fusion/support/is_view.hpp:
+
+/usr/local/include/boost/fusion/support/is_sequence.hpp:
+
+/usr/local/include/boost/fusion/support/is_iterator.hpp:
+
+/usr/local/include/boost/fusion/support/detail/segmented_fold_until_impl.hpp:
+
+/usr/local/include/boost/fusion/support/detail/mpl_iterator_category.hpp:
+
+/usr/local/include/boost/date_time/time_duration.hpp:
+
+/usr/local/include/boost/fusion/iterator/distance.hpp:
+
+/usr/local/include/boost/fusion/support/detail/index_sequence.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Meta/Templates.hpp:
+
+/usr/local/include/boost/predef/detail/os_detected.h:
+
+/usr/local/include/boost/mpl/inherit.hpp:
+
+/usr/local/include/boost/log/attributes/fallback_policy.hpp:
+
+/usr/local/include/boost/fusion/support/detail/enabler.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_if.h:
+
+/usr/local/include/boost/predef/library/std/dinkumware.h:
+
+/usr/local/include/boost/fusion/support/detail/as_fusion_element.hpp:
+
+/usr/local/include/boost/fusion/support/detail/access.hpp:
+
+/usr/local/include/boost/log/sources/severity_logger.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/value_at.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/O1_size.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end_impl.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin_impl.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_begin.hpp:
+
+/usr/local/include/boost/phoenix/core/argument.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h:
+
+/usr/local/include/boost/mpl/aux_/numeric_op.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/at_c.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/at.hpp:
+
+/usr/local/include/boost/fusion/iterator/value_of_data.hpp:
+
+/usr/local/include/boost/typeof/typeof.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint8_t.h:
+
+/usr/local/include/boost/fusion/iterator/prior.hpp:
+
+/usr/local/include/boost/fusion/iterator/iterator_facade.hpp:
+
+/usr/local/include/boost/fusion/container/list/nil.hpp:
+
+/usr/local/include/boost/log/attributes/attribute_set.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/PanelListBox.hpp:
+
+/usr/local/include/boost/date_time/wrapping_int.hpp:
+
+/usr/local/include/boost/fusion/iterator/key_of.hpp:
+
+/usr/local/include/boost/fusion/iterator/equal_to.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/segmented_next_impl.hpp:
+
+/usr/local/include/boost/config/detail/posix_features.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/construct_at.h:
+
+/usr/local/include/boost/fusion/iterator/detail/segmented_iterator.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_void.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/segmented_equal_to.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Joystick.hpp:
+
+/usr/local/include/boost/fusion/include/fold.hpp:
+
+/usr/local/include/boost/log/detail/process_id.hpp:
+
+/usr/local/include/boost/log/attributes/clock.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/segment_sequence.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/distance.hpp:
+
+/usr/local/include/boost/preprocessor/array/size.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/as_const.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
+
+/usr/local/include/boost/mpl/assert.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Core.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/advance.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/begin_impl.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/adapt_value_traits.hpp:
+
+/usr/local/include/boost/chrono/time_point.hpp:
+
+/usr/local/include/boost/fusion/iterator/deref_data.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/mem_fn.h:
+
+/usr/local/include/boost/fusion/iterator/advance.hpp:
+
+/usr/local/include/boost/predef/library/std/msl.h:
+
+/usr/local/include/boost/mpl/index_if.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine.h:
+
+/usr/local/include/boost/log/detail/value_ref_visitation.hpp:
+
+/usr/local/include/boost/fusion/include/next.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_iec559.hpp:
+
+/usr/local/include/boost/fusion/include/at.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_status.h:
+
+/usr/local/include/boost/preprocessor/cat.hpp:
+
+/usr/local/include/boost/log/keywords/auto_newline_mode.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_null.h:
+
+/usr/local/include/boost/fusion/container/list/detail/reverse_cons.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unary_negate.h:
+
+/usr/local/include/boost/date_time/int_adapter.hpp:
+
+/usr/local/include/boost/fusion/container/list/detail/next_impl.hpp:
+
+/usr/local/include/boost/fusion/container/list/detail/empty_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/istream:
+
+/usr/local/include/boost/fusion/container/list/detail/begin_impl.hpp:
+
+/usr/local/include/boost/preprocessor/comparison/less.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/has_key_impl.hpp:
+
+/usr/local/include/boost/preprocessor/iteration/detail/iter/limits/reverse1_256.hpp:
+
+/usr/local/include/boost/mpl/key_type_fwd.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/template_arity_helper.hpp:
+
+/usr/local/include/boost/fusion/container/list/detail/at_impl.hpp:
+
+/usr/local/include/boost/mpl/clear.hpp:
+
+/usr/local/include/boost/log/keywords/severity.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.h:
+
+/usr/local/include/boost/mpl/map/aux_/insert_impl.hpp:
+
+/usr/local/include/boost/log/detail/generate_overloads.hpp:
+
+/usr/local/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp:
+
+/usr/local/include/boost/chrono/system_clocks.hpp:
+
+/usr/local/include/boost/predef/library/c/gnu.h:
+
+/usr/local/include/boost/fusion/algorithm/iteration/detail/segmented_fold.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_limits.h:
+
+/usr/local/include/boost/type_traits/enable_if.hpp:
+
+/usr/local/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp:
+
+/usr/local/include/boost/type_traits/type_with_alignment.hpp:
 
 /usr/local/include/boost/describe/detail/cx_streq.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Knob.hpp:
+/usr/local/include/boost/fusion/adapted/struct/detail/deref_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_clock_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/not_fn.h:
 
-/usr/local/include/boost/mpl/aux_/na.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/signal.h:
 
-/usr/local/include/boost/mpl/aux_/config/forwarding.hpp:
+/usr/local/include/boost/fusion/adapted/struct/detail/begin_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_first_of.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rsize_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/minmax.h:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/adapt_base_attr_filler.hpp:
+
+/usr/local/include/boost/config/abi_suffix.hpp:
+
+/usr/local/include/boost/container_hash/is_contiguous_range.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ProgressBarRenderer.hpp:
+
+/usr/local/include/boost/fusion/mpl/end.hpp:
+
+/usr/local/include/boost/fusion/adapted/struct/adapt_struct.hpp:
+
+/usr/local/include/boost/detail/workaround.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/arch.h:
+
+/usr/local/include/boost/detail/select_type.hpp:
+
+/usr/local/include/boost/predef/hardware/simd/x86_amd/versions.h:
+
+/usr/local/include/boost/mpl/aux_/config/overload_resolution.hpp:
+
+/usr/local/include/boost/describe/modifiers.hpp:
+
+/usr/local/include/boost/proto/transform/detail/pack_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_isset.h:
+
+/usr/local/include/boost/mpl/lambda_fwd.hpp:
+
+/usr/local/include/boost/type_traits/remove_cv.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timespec.h:
 
-/usr/local/include/boost/mpl/lambda_fwd.hpp:
+/usr/local/include/boost/date_time/time_iterator.hpp:
 
 /usr/local/include/boost/describe/detail/config.hpp:
 
-/usr/local/include/boost/mpl/value_type_fwd.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_set:
 
-/usr/local/include/boost/mpl/aux_/msvc_never_true.hpp:
+/usr/local/include/boost/log/utility/type_dispatch/static_type_dispatcher.hpp:
 
-/usr/local/include/boost/mpl/aux_/config/dtp.hpp:
+/usr/local/include/boost/date_time/time_system_counted.hpp:
 
-/usr/local/include/boost/mpl/aux_/value_wknd.hpp:
+/usr/local/include/boost/predef/hardware/simd/ppc/versions.h:
+
+/usr/local/include/boost/mpl/has_xxx.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_heap_until.h:
+
+/usr/local/include/boost/log/trivial.hpp:
+
+/usr/local/include/boost/mpl/has_key_fwd.hpp:
+
+/usr/local/include/boost/date_time/time_clock.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp:
+
+/usr/local/include/boost/date_time/special_defs.hpp:
+
+/usr/local/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp:
+
+/usr/local/include/boost/date_time/posix_time/time_period.hpp:
+
+/usr/local/include/boost/date_time/posix_time/posix_time_system.hpp:
+
+/usr/local/include/boost/concept/detail/concept_undef.hpp:
+
+/usr/local/include/boost/fusion/container/list/detail/deref_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream:
+
+/usr/local/include/boost/date_time/gregorian/greg_day.hpp:
+
+/usr/local/include/boost/date_time/posix_time/posix_time_duration.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h:
+
+/usr/local/include/boost/date_time/locale_config.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate.h:
+
+/usr/local/include/boost/smart_ptr/detail/shared_count.hpp:
+
+/usr/local/include/boost/date_time/gregorian_calendar.ipp:
+
+/usr/local/include/boost/predef/library/std/roguewave.h:
+
+/usr/local/include/boost/date_time/gregorian_calendar.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Components.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/pop_front.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/resource.h:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/category_of_impl.hpp:
+
+/usr/local/include/boost/date_time/gregorian/greg_duration_types.hpp:
+
+/usr/local/include/boost/atomic/detail/int_sizes.hpp:
+
+/usr/local/include/boost/predef/platform/mingw32.h:
+
+/usr/local/include/boost/date_time/gregorian/conversion.hpp:
+
+/usr/local/include/boost/date_time/filetime_functions.hpp:
+
+/usr/local/include/boost/mpl/next.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/matches_.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sample.h:
+
+/usr/local/include/boost/date_time/dst_rules.hpp:
+
+/usr/local/include/boost/proto/detail/is_noncopyable.hpp:
+
+/usr/local/include/boost/date_time/date_iterator.hpp:
+
+/usr/local/include/boost/date_time/date_duration_types.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
+
+/usr/local/include/boost/date_time/date_duration.hpp:
+
+/usr/local/include/boost/mpl/O1_size.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_floating_point.hpp:
+
+/usr/local/include/boost/date_time/date_defs.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/front.hpp:
+
+/usr/local/include/boost/preprocessor/seq/elem.hpp:
+
+/usr/local/include/boost/date_time/date.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/iterator.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
+
+/usr/local/include/boost/date_time/constrained_value.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/or_n.hpp:
+
+/usr/local/include/boost/date_time/compiler_config.hpp:
 
 /usr/local/include/boost/core/uncaught_exceptions.hpp:
 
-/usr/local/include/boost/type_traits/conditional.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
 
-/usr/local/include/boost/core/enable_if.hpp:
+/usr/local/include/boost/get_pointer.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/local_counted_base.hpp:
+/usr/local/include/boost/core/ref.hpp:
 
-/usr/local/include/boost/core/demangle.hpp:
+/usr/local/include/boost/core/null_deleter.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_symmetric_difference.h:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_enum.hpp:
+
+/usr/local/include/boost/core/noncopyable.hpp:
+
+/usr/local/include/boost/core/cmath.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partition.h:
 
-/usr/local/include/boost/core/checked_delete.hpp:
+/usr/local/include/boost/range/value_type.hpp:
 
 /usr/local/include/boost/container_hash/is_described_class.hpp:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Timer.hpp:
+
 /usr/local/include/boost/container_hash/hash_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/declval.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binder1st.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/exchange.h:
 
-/usr/local/include/boost/log/expressions/keyword_fwd.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
 
-/usr/local/include/boost/container_hash/hash.hpp:
+/usr/local/include/boost/atomic/detail/wait_operations_fwd.hpp:
 
-/usr/local/include/boost/log/attributes/value_visitation_fwd.hpp:
+/usr/local/include/boost/fusion/sequence/intrinsic/detail/segmented_end.hpp:
 
-/usr/local/include/boost/move/detail/meta_utils.hpp:
+/usr/local/include/boost/atomic/detail/type_traits/alignment_of.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_wctype_t.h:
 
 /usr/local/include/boost/container_hash/detail/mulx.hpp:
 
-/usr/local/include/boost/current_function.hpp:
-
-/usr/local/include/boost/preprocessor/repetition/enum_params.hpp:
-
-/usr/local/include/boost/parameter/aux_/has_nested_template_fn.hpp:
-
 /usr/local/include/boost/container_hash/is_unordered_range.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer:
 
 /usr/local/include/boost/container_hash/detail/hash_tuple_like.hpp:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Lock.hpp:
+
+/usr/local/include/boost/predef/platform/android.h:
+
+/usr/local/include/boost/date_time/gregorian/greg_month.hpp:
+
 /usr/local/include/boost/container_hash/detail/hash_mix.hpp:
 
-/usr/local/include/boost/config/user.hpp:
+/usr/local/include/boost/type_traits/is_convertible.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/msvc.hpp:
+
+/usr/local/include/boost/container/detail/std_fwd.hpp:
+
+/usr/local/include/boost/container/container_fwd.hpp:
 
 /usr/local/include/boost/config/stdlib/libcpp.hpp:
 
 /usr/local/include/boost/config/pragma_message.hpp:
 
-/usr/local/include/boost/config/no_tr1/functional.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
+
+/usr/local/include/boost/config/no_tr1/utility.hpp:
+
+/usr/local/include/boost/config/no_tr1/memory.hpp:
+
+/usr/local/include/boost/type_traits/intrinsics.hpp:
+
+/usr/local/include/boost/predef/os/windows.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/exception:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/extension.hpp:
+
+/usr/local/include/boost/fusion/iterator/mpl/fusion_iterator.hpp:
+
+/usr/local/include/boost/predef/os/bsd/net.h:
+
+/usr/local/include/boost/mp11/integer_sequence.hpp:
+
+/usr/local/include/boost/config/no_tr1/cmath.hpp:
+
+/usr/local/include/boost/mpl/map/map10.hpp:
+
+/usr/local/include/boost/mpl/aux_/has_key_impl.hpp:
 
 /usr/local/include/boost/config/helper_macros.hpp:
-
-/usr/local/include/boost/config/detail/select_compiler_config.hpp:
-
-/usr/local/include/boost/config/detail/posix_features.hpp:
 
 /usr/local/include/boost/config/detail/cxx_composite.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread/pthread_impl.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/functional:
-
 /usr/local/include/boost/config/compiler/clang.hpp:
 
+/usr/local/include/boost/proto/functional/fusion/at.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/tuple:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/MenuBarRenderer.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/dyld_kernel.h:
+
+/usr/local/include/boost/parameter/binding.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mbstate_t.h:
+
+/usr/local/include/boost/concept_check.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/invoke.h:
+
+/usr/local/include/boost/atomic/detail/capabilities.hpp:
+
+/usr/local/include/boost/iterator/detail/config_def.hpp:
+
+/usr/local/include/boost/concept/detail/concept_def.hpp:
+
+/usr/local/include/boost/proto/make_expr.hpp:
+
+/usr/local/include/boost/config/abi_prefix.hpp:
+
+/usr/local/include/boost/date_time/gregorian/gregorian_types.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h:
+
+/usr/local/include/boost/thread/detail/platform_time.hpp:
+
+/usr/local/include/boost/chrono/detail/system.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/processor_info.h:
+
+/usr/local/include/boost/chrono/detail/static_assert.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/default_searcher.h:
+
+/usr/local/include/boost/thread/detail/config.hpp:
+
+/usr/local/include/boost/chrono/config.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/__decay_copy.h:
+
+/usr/local/include/boost/date_time/gregorian/greg_weekday.hpp:
+
+/usr/local/include/boost/chrono/ceil.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/include_preprocessed.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/integral_constant.hpp:
+
+/usr/local/include/boost/atomic/detail/wait_ops_emulated.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/ranges_operations.h:
+
+/usr/local/include/boost/atomic/detail/wait_ops_darwin_ulock.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iosfwd:
+
+/usr/local/include/boost/log/utility/functional/bind_output.hpp:
+
+/usr/local/include/boost/atomic/detail/wait_operations.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/min.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
+
 /Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.h:
+
+/usr/local/include/boost/atomic/detail/type_traits/make_unsigned.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_trivially_copyable.hpp:
+
+/usr/local/include/boost/concept/usage.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bits:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_signed.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
+
+/usr/local/include/boost/numeric/conversion/detail/numeric_cast_traits.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_integral.hpp:
+
+/usr/local/include/boost/type_traits/declval.hpp:
+
+/usr/local/include/boost/fusion/container/list/detail/value_of_impl.hpp:
+
+/usr/local/include/boost/log/expressions/message.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/has_unique_object_representations.hpp:
+
+/usr/local/include/boost/core/demangle.hpp:
+
+/usr/local/include/boost/log/detail/copy_cv.hpp:
+
+/usr/local/include/boost/atomic/detail/storage_traits.hpp:
+
+/usr/local/include/boost/proto/detail/traits.hpp:
+
+/usr/local/include/boost/phoenix/core/detail/expression.hpp:
+
+/usr/local/include/boost/fusion/adapted/mpl/mpl_iterator.hpp:
+
+/usr/local/include/boost/atomic/detail/lock_pool.hpp:
+
+/usr/local/include/boost/atomic/detail/link.hpp:
+
+/usr/local/include/boost/mpl/map/aux_/clear_impl.hpp:
+
+/usr/local/include/boost/config/detail/select_compiler_config.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Clipboard.hpp:
+
+/usr/local/include/boost/atomic/detail/intptr.hpp:
+
+/usr/local/include/boost/range/difference_type.hpp:
+
+/usr/local/include/boost/predef/other/wordsize.h:
+
+/usr/local/include/boost/mpl/tag.hpp:
+
+/usr/local/include/boost/predef/architecture/arm.h:
+
+/usr/local/include/boost/iterator/iterator_traits.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/errno.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_voucher_types.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_ctype.h:
+
+/usr/local/include/boost/date_time/date_generators.hpp:
+
+/usr/local/include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/stdio.h:
+
+/usr/local/include/boost/atomic/detail/futex.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/empty.hpp:
+
+/usr/local/include/boost/atomic/detail/fp_ops_generic.hpp:
+
+/usr/local/include/boost/atomic/detail/extra_ops_emulated.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_mcontext.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_page_size.h:
+
+/usr/local/include/boost/atomic/detail/extra_fp_ops_generic.hpp:
+
+/usr/local/include/boost/atomic/detail/core_operations_fwd.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/ttp.hpp:
+
+/usr/local/include/boost/mpl/aux_/insert_impl.hpp:
+
+/usr/local/include/boost/predef/architecture/mips.h:
+
+/usr/local/include/boost/atomic/detail/platform.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/chrono:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
+
+/usr/local/include/boost/ratio/detail/mpl/sign.hpp:
+
+/usr/local/include/boost/atomic/detail/core_operations_emulated.hpp:
+
+/usr/local/include/boost/predef/architecture/ia64.h:
+
+/usr/local/include/boost/fusion/iterator/next.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/DataIO.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/forward.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButtonGroup.hpp:
+
+/usr/local/include/boost/atomic/detail/config.hpp:
+
+/usr/local/include/boost/system/detail/cerrno.hpp:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/at_impl.hpp:
+
+/usr/local/include/boost/atomic/detail/classify.hpp:
+
+/usr/local/include/boost/atomic/detail/caps_gcc_atomic.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SubwidgetContainer.hpp:
+
+/usr/local/include/boost/proto/detail/extends_funop_const.hpp:
+
+/usr/local/include/boost/preprocessor/detail/is_unary.hpp:
+
+/usr/local/include/boost/config/no_tr1/functional.hpp:
+
+/usr/local/include/boost/mpl/integral_c_fwd.hpp:
+
+/usr/local/include/boost/thread/detail/platform.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
+
+/usr/local/include/boost/preprocessor/list/fold_left.hpp:
+
+/usr/local/include/boost/preprocessor/list/fold_right.hpp:
+
+/usr/local/include/boost/numeric/conversion/detail/meta.hpp:
+
+/usr/local/include/boost/atomic/detail/bitwise_cast.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/processor_info.h:
+
+/usr/local/include/boost/atomic/detail/atomic_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/MemoryInputStream.hpp:
+
+/usr/local/include/boost/predef/compiler/visualc.h:
+
+/usr/local/include/boost/atomic/detail/addressof.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_typeinfo_.hpp:
+
+/usr/local/include/boost/predef/library/std.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Theme.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/policy.h:
+
+/usr/local/include/boost/atomic/capabilities.hpp:
+
+/usr/local/include/boost/atomic/atomic.hpp:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h:
 
+/usr/local/include/boost/type_traits/is_scalar.hpp:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
+/usr/local/include/boost/mpl/negate.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_types.h:
+
+/usr/local/include/boost/mpl/joint_view.hpp:
+
+/usr/local/include/boost/config.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cassert:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/kern_return.h:
 
 /usr/local/include/boost/mpl/identity.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/__stddef_max_align_t.h:
 
-/usr/local/include/boost/parameter/aux_/use_default_tag.hpp:
+/usr/local/include/boost/atomic/detail/wait_ops_generic.hpp:
 
-/usr/local/include/boost/move/detail/config_end.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Rect.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h:
+/usr/local/include/boost/preprocessor/facilities/overload.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_string.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderer.hpp:
 
-/usr/local/include/boost/log/attributes/attribute.hpp:
+/usr/local/include/boost/type_traits/is_integral.hpp:
 
-/usr/local/include/boost/preprocessor/list/fold_left.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_stdlib.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessor/token_equal.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/time.h:
-
 /usr/local/include/boost/detail/atomic_count.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional_base:
 
 /usr/local/include/boost/mpl/aux_/yes_no.hpp:
 
@@ -8465,163 +15680,241 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/wait.h:
 
+/usr/local/include/boost/atomic/detail/fp_operations.hpp:
+
 /usr/local/include/boost/mpl/aux_/config/integral.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h:
 
-/usr/local/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System.hpp:
 
-/usr/local/include/boost/config/abi_suffix.hpp:
+/usr/local/include/boost/fusion/view/single_view/detail/advance_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bits:
+/usr/local/include/boost/fusion/container/list/detail/end_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/syslimits.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/time.h:
+
+/usr/local/include/boost/mpl/contains_fwd.hpp:
+
+/usr/local/include/boost/date_time/gregorian/greg_date.hpp:
+
+/usr/local/include/boost/log/sinks/basic_sink_backend.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
+
+/usr/local/include/boost/predef/library/c/vms.h:
+
+/usr/local/include/boost/mpl/at_fwd.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Container.hpp:
+
+/usr/local/include/boost/ratio/detail/overflow_helpers.hpp:
 
 /usr/local/include/boost/core/swap.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/select.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/errno.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.h:
+
+/usr/local/include/boost/mpl/begin_end.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kern_return.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_endian.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/cdefs.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/appleapiopts.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/any:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_wint_t.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChildWindow.hpp:
+/usr/local/include/boost/fusion/sequence/intrinsic/end.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_wchar_t.h:
+/usr/local/include/boost/proto/transform/make.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uuid_t.h:
-
-/usr/local/include/boost/mpl/aux_/config/bcc.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint16_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_useconds_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_short.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int8_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Keyboard.hpp:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/segmented_iterator_range.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SpinButtonRenderer.hpp:
+
+/usr/local/include/boost/atomic/detail/core_ops_gcc_atomic.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ctime:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ssize_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigaltstack.h:
+
+/usr/local/include/boost/detail/lcast_precision.hpp:
+
+/usr/local/include/boost/type_traits/has_plus.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstring:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_seek_set.h:
 
-/usr/local/include/boost/type_traits/add_rvalue_reference.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.cpp:
 
-/usr/local/include/boost/parameter/aux_/augment_predicate.hpp:
+/usr/local/include/boost/fusion/support/tag_of_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/in_place.h:
+/usr/local/include/boost/date_time/adjust_functors.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/projected.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Config.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rsize_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_stdio.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
+/usr/local/include/boost/predef/os/ios.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ColorPickerRenderer.hpp:
+/usr/local/include/boost/atomic/detail/memory_order_utils.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdlib:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/weak_result_type.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_pid_t.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.cpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/sstream:
 
-/usr/local/include/boost/mpl/bind_fwd.hpp:
+/usr/local/include/boost/fusion/sequence/intrinsic/begin.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_timeval.h:
+/usr/local/include/boost/lexical_cast/detail/is_character.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__availability:
+/usr/local/include/boost/fusion/view/joint_view/detail/begin_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_nlink_t.h:
+/usr/local/include/boost/preprocessor/repetition/enum_trailing_binary_params.hpp:
 
-/usr/local/include/boost/log/sources/features.hpp:
+/usr/local/include/boost/fusion/adapted/struct/detail/is_sequence_impl.hpp:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h:
+/usr/local/include/boost/date_time/time_defs.hpp:
 
-/usr/local/include/boost/preprocessor/arithmetic/dec.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map:
+/usr/local/include/boost/mpl/aux_/clear_impl.hpp:
 
 /usr/local/include/boost/container_hash/detail/requires_cxx11.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/spinlock.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mbstate_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_special_ports.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/stable_sort.h:
+/usr/local/include/boost/atomic/detail/extra_fp_ops_emulated.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_rwlock_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/default_searcher.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_intptr_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int8_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_gid_t.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/BackendRenderTargetSFML.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowHandle.hpp:
-
-/usr/local/include/boost/describe/detail/void_t.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_setsize.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/SmartPtr/ClonersAndDeleters.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/move.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int16_t.h:
-
-/usr/local/include/boost/preprocessor/repetition/repeat.hpp:
+/usr/local/include/boost/log/attributes/attribute_value_set.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mach_port_t.h:
 
-/usr/local/include/boost/container_hash/is_contiguous_range.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/exception.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+/usr/local/include/boost/mpl/aux_/static_cast.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/qos.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_key_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site:
+/usr/local/include/boost/lexical_cast/detail/lcast_unsigned_converters.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/sp_noexcept.hpp:
+/usr/local/include/boost/cstdint.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int64_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_rwlock_t.h:
 
-/usr/local/include/boost/parameter/aux_/lambda_tag.hpp:
+/usr/local/include/boost/preprocessor/repetition/enum.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_set.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/unistd.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int8_t.h:
+
+/usr/local/include/boost/preprocessor/seq/detail/limits/split_256.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_function.hpp:
+
+/usr/local/include/boost/parameter/aux_/default.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int64_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdlib.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int16_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ino_t.h:
+
+/usr/local/include/boost/type_traits/is_pod.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_select.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/deref_impl.hpp:
+
+/usr/local/include/boost/date_time/year_month_day.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/function.h:
+
+/usr/local/include/boost/lexical_cast/detail/converter_numeric.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/value_of_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
+
+/usr/local/include/boost/fusion/view/single_view/detail/distance_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h:
+
+/usr/local/include/boost/mpl/aux_/joint_iter.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_time.h:
+
+/usr/local/include/boost/mpl/find.hpp:
+
+/usr/local/include/boost/mpl/is_sequence.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/workaround.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_region.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_def.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uintptr_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_isset.h:
+/usr/local/include/boost/mp11/utility.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/assert.h:
+/usr/local/include/boost/log/detail/locks.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_clr.h:
+/usr/local/include/boost/log/detail/light_rw_mutex.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_trivially_default_constructible.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/equal.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_errno_t.h:
 
-/usr/local/include/boost/mpl/aux_/traits_lambda_spec.hpp:
-
-/usr/local/include/boost/type_traits/is_pointer.hpp:
-
-/usr/local/include/boost/parameter/binding.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_traits.h:
 
 /usr/local/include/boost/config/requires_threads.hpp:
 
@@ -8629,199 +15922,311 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_char.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ct_rune_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_port_t.h:
+/usr/local/include/boost/predef/library/std/stdcpp3.h:
 
-/usr/local/include/boost/type_traits/is_unsigned.hpp:
+/usr/local/include/boost/numeric/conversion/int_float_mixture_enum.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_va_list.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_caddr_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__errc:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ComboBox.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_blksize_t.h:
+/usr/local/include/boost/atomic/detail/core_arch_operations.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_select.h:
+/usr/local/include/boost/atomic/detail/footer.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/access.h:
+/usr/local/include/boost/preprocessor/identity.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/move.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sched.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/fill.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_blkcnt_t.h:
+
+/usr/local/include/boost/fusion/view/joint_view/joint_view_fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types.h:
+
+/usr/local/include/boost/system/detail/errc.hpp:
+
+/usr/local/include/boost/phoenix/core/is_nullary.hpp:
 
 /usr/local/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h:
-
-/usr/local/include/boost/describe/members.hpp:
-
-/usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/counted_iterator.h:
-
-/usr/local/include/boost/parameter/aux_/is_placeholder.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdio.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_types.h:
-
-/usr/local/include/boost/mpl/distance.hpp:
-
-/usr/local/include/boost/mpl/aux_/config/compiler.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_t.h:
+/usr/local/include/boost/mpl/multiplies.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/atomic:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
+/usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
+/usr/local/include/boost/fusion/adapted/struct/detail/value_at_impl.hpp:
 
-/usr/local/include/boost/log/sources/record_ostream.hpp:
-
-/usr/local/include/boost/preprocessor/array/data.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/construct_at.h:
+/usr/local/include/boost/fusion/sequence/intrinsic/empty.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip:
-
-/usr/local/include/boost/preprocessor/variadic/limits/elem_64.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/VideoMode.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/strings.h:
 
+/usr/local/include/boost/fusion/iterator/deref.hpp:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/end_impl.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdint.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread/qos.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_heap_until.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
+/usr/local/include/boost/mpl/void_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_suseconds_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/limits.h:
 
-/usr/local/include/boost/mpl/iterator_tags.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/weak_result_type.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_pid_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/nl_types.h:
 
 /usr/local/include/boost/config/detail/suffix.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RenderTexture.hpp:
+/usr/local/include/boost/fusion/algorithm/transformation/push_back.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread/qos.h:
 
-/usr/local/include/boost/mpl/aux_/iter_fold_if_impl.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_sync.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ClickableWidget.hpp:
+/usr/local/include/boost/mpl/aux_/is_msvc_eti_arg.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_prot.h:
 
-/usr/local/include/boost/smart_ptr/detail/atomic_count.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_mcontext.h:
+/usr/local/include/boost/log/sources/features.hpp:
 
-/usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp:
+/usr/local/include/boost/core/addressof.hpp:
 
-/usr/local/include/boost/mpl/aux_/lambda_spec.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_behavior.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Color.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/detail/prior_impl.hpp:
+
+/usr/local/include/boost/predef/other/workaround.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/types.h:
+
+/usr/local/include/boost/predef/os/amigaos.h:
+
+/usr/local/include/boost/date_time/posix_time/posix_time_types.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/rel_ops.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint64_t.h:
+
+/usr/local/include/boost/proto/detail/ignore_unused.hpp:
+
+/usr/local/include/boost/describe/detail/void_t.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
+
+/usr/local/include/boost/proto/detail/make_expr_funop.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/transform.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_info.h:
+
+/usr/local/include/boost/predef/os/irix.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdarg:
+
+/usr/local/include/boost/atomic/detail/extra_operations_fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_inspect.h:
+
+/usr/local/include/boost/log/utility/functional/bind_to_log.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/processor_info.h:
+
+/usr/local/include/boost/fusion/container/list/detail/equal_to_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_stdio.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/StringView.hpp:
+
+/usr/local/include/boost/preprocessor/control/while.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/exception.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdint.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stddef.h:
+
+/usr/local/include/boost/log/sinks/frontend_requirements.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/thread_state.h:
+
+/usr/local/include/boost/log/utility/formatting_ostream.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_time.h:
+
+/usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp:
+
+/usr/local/include/boost/predef/hardware/simd/x86_amd.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/kmod.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/host_notify.h:
+
+/usr/local/include/boost/concept/assert.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iterator:
+
+/usr/local/include/boost/mpl/aux_/full_lambda.hpp:
+
+/usr/local/include/boost/preprocessor/seq/to_tuple.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/__wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/count_if.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/distance.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityInternal.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_status.h:
+
+/usr/local/include/boost/parameter/aux_/is_tagged_argument.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/mach_types.h:
+
+/usr/local/include/boost/log/sinks/sync_frontend.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/initializer_list:
+
+/usr/local/include/boost/predef/platform/windows_desktop.h:
+
+/usr/local/include/boost/mpl/always.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TextAreaRenderer.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/boolean.h:
+
+/usr/local/include/boost/range/begin.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/bcc.hpp:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/to_underlying.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_negate.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/vm_param.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/__wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
+
+/usr/local/include/boost/mpl/base.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/any_of.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/climits:
+
+/usr/local/include/boost/preprocessor/config/limits.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
+
+/usr/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp:
+
+/usr/local/include/boost/fusion/support/detail/is_native_fusion_sequence.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/basic_expr.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/_OSByteOrder.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/ctype.h:
+/usr/local/include/boost/lexical_cast/detail/widest_char.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Global.hpp:
+/usr/local/include/boost/type_traits/is_same.hpp:
+
+/usr/local/include/boost/proto/detail/poly_function_traits.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/float.h:
+
+/usr/local/include/boost/atomic/detail/integral_conversions.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/utility:
 
-/usr/local/include/boost/move/utility_core.hpp:
-
-/usr/local/include/boost/mp11/detail/config.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/minmax.h:
-
-/usr/local/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Window.hpp:
-
-/usr/local/include/boost/preprocessor/punctuation/comma_if.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/type_traits:
-
-/usr/local/include/boost/mpl/begin_end_fwd.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ucontext.h:
-
-/usr/local/include/boost/log/utility/type_dispatch/type_dispatcher.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
-
-/usr/local/include/boost/log/sources/threading_models.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ctime:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_wctrans_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdlib.h:
 
-/usr/local/include/boost/preprocessor/debug/error.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_types.h:
 
-/usr/local/include/boost/mp11/detail/mp_fold.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RangeSlider.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/counted_iterator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdio.h:
+
+/usr/local/include/boost/smart_ptr/detail/atomic_count.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/search.h:
+
+/usr/local/include/boost/log/attributes/attribute.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/preprocessor/is_seq.hpp:
 
 /usr/local/include/boost/config/platform/macos.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Texture.hpp:
+/usr/local/include/boost/fusion/adapted/struct/detail/adapt_is_tpl.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdexcept:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wchar.h:
-
-/usr/local/include/boost/utility/string_ref_fwd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ratio:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityInternal.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/enable_view.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Font.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional:
 
 /usr/local/include/boost/mpl/aux_/iter_fold_impl.hpp:
 
+/usr/local/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/lower_bound.h:
+
+/usr/local/include/boost/log/utility/setup/filter_parser.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/new:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_size_t.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TextureData.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/_structs.h:
-
-/usr/local/include/boost/type_index/stl_type_index.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/Availability.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigset_t.h:
 
@@ -8831,29 +16236,33 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /usr/local/include/boost/config/workaround.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
+/usr/local/include/boost/proto/detail/preprocessed/traits.hpp:
 
-/usr/local/include/boost/mpl/next.hpp:
+/usr/local/include/boost/parameter/aux_/arg_list.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sample.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/boolean.h:
 
-/usr/local/include/boost/preprocessor/repetition/enum_binary_params.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string_view:
+
+/usr/local/include/boost/fusion/algorithm/iteration/fold_fwd.hpp:
+
+/usr/local/include/boost/move/detail/workaround.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/reference_wrapper.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListView.hpp:
-
-/usr/local/include/boost/preprocessor/config/config.hpp:
-
-/usr/local/include/boost/cstdint.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Button.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/prev.h:
+/usr/local/include/boost/predef/platform/windows_runtime.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iterator:
+/usr/local/include/boost/predef/detail/_exception.h:
+
+/usr/local/include/boost/mpl/vector/aux_/at.hpp:
+
+/usr/local/include/boost/mpl/aux_/front_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/thread_state.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h:
 
@@ -8861,27 +16270,39 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/istream:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RadioButton.hpp:
 
-/usr/local/include/boost/type_traits/is_member_pointer.hpp:
+/usr/local/include/boost/predef/architecture/loongarch.h:
 
-/usr/local/include/boost/mpl/aux_/na_fwd.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_id_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ScrollbarRenderer.hpp:
+
+/usr/local/include/boost/log/attributes/current_thread_id.hpp:
+
+/usr/local/include/boost/predef/detail/test.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Touch.hpp:
+
+/usr/local/include/boost/mpl/insert_fwd.hpp:
 
 /usr/local/include/boost/mp11/detail/mp_list.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/next_permutation.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iosfwd:
+/usr/local/include/boost/predef/os/macos.h:
+
+/usr/local/include/boost/type_index.hpp:
+
+/usr/local/include/boost/log/utility/value_ref_fwd.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/to_underlying.h:
-
-/usr/local/include/boost/parameter/value_type.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/CircleShape.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
 
@@ -8889,507 +16310,675 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_symbol_aliasing.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cwchar:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/arch.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/streambuf:
 
-/usr/local/include/boost/preprocessor/list/fold_right.hpp:
-
-/usr/local/include/boost/config/detail/select_platform_config.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Joystick.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/__wctype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/Backend.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint32_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_stdio.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_posix_vdisable.h:
-
-/usr/local/include/boost/mpl/aux_/config/gpu.hpp:
-
-/usr/local/include/boost/mp11/integral.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Export.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr:
-
-/usr/local/include/boost/smart_ptr/detail/spinlock_pool.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/TGUI.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeindex:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_ctype.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/clock_types.h:
 
 /usr/local/include/boost/preprocessor/logical/limits/bool_256.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/climits:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cerrno:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cctype:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/clamp.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cassert:
-
-/usr/local/include/boost/type_traits/is_class.hpp:
-
-/usr/local/include/boost/log/utility/strictest_lock.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_symmetric_difference.h:
-
-/usr/local/include/boost/type_traits/add_const.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/any:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Mouse.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map:
 
-/usr/local/include/boost/type_traits/add_volatile.hpp:
+/usr/local/include/boost/atomic/detail/wait_capabilities.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/pair.h:
+/usr/local/include/boost/mpl/aux_/preprocessor/default_params.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/identity.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdlib:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types.h:
+/usr/local/include/boost/fusion/container/list/list_fwd.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/BackendGui.hpp:
+/usr/local/include/boost/type_traits/is_volatile.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/swap.h:
+/usr/local/include/boost/limits.hpp:
 
-/usr/local/include/boost/mp11/set.hpp:
+/usr/local/include/boost/mpl/vector/aux_/item.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stdint.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
-
-/usr/local/include/boost/mpl/limits/vector.hpp:
-
-/usr/local/include/boost/smart_ptr/detail/sp_thread_pause.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/forward.h:
-
-/usr/local/include/boost/mpl/aux_/nested_type_wknd.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/cmp.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/as_const.h:
-
-/usr/local/include/boost/mpl/iter_fold.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__undef_macros:
-
-/usr/local/include/boost/preprocessor/control/while.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_sigaltstack.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__threading_support:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
-
-/usr/local/include/boost/mp11/version.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rune_t.h:
-
-/usr/local/include/boost/type_traits/integral_constant.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sort.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_posix_availability.h:
-
-/usr/local/include/boost/move/detail/config_begin.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Image.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/chrono:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/locale.h:
-
-/usr/local/include/boost/mpl/lambda.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_safety.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ScrollablePanel.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeinfo:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
-
-/usr/local/include/boost/log/detail/header.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/count_if.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/size.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_if_not.h:
-
-/usr/local/include/boost/mpl/apply_wrap.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/advance.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/InputStream.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ios:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
-
-/usr/local/include/boost/type_traits/remove_const.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unwrap_ref.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/mem_fn.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/string.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Utf.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/next.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cwctype:
-
-/usr/local/include/boost/mpl/aux_/msvc_type.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Font/SFML-Graphics/BackendFontSFML.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wctype.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/any_of.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mbstate_t.h:
+/usr/local/include/boost/config/user.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits:
+/usr/local/include/boost/predef/library/std/_prefix.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/variant:
+/usr/local/include/boost/log/utility/unique_identifier_name.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/types.h:
+/usr/local/include/boost/fusion/support/detail/is_mpl_sequence.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
+/usr/local/include/boost/proto/detail/unpack_expr_.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ChatBox.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_difference.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uintmax_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
+/usr/local/include/boost/atomic/detail/core_operations.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int32_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Loading/Serializer.hpp:
+/usr/local/include/boost/mpl/sequence_tag.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/concepts.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__string:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/access.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Rect.inl:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/shared_mutex:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unary_function.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/hash.h:
-
-/usr/local/include/boost/log/detail/config.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/operations.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/system_error:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
-
-/usr/local/include/boost/log/core/record.hpp:
-
-/usr/local/include/boost/config.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Vector2.hpp:
-
-/usr/local/include/boost/mp11/detail/mp_rename.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binder2nd.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binder1st.h:
-
-/usr/local/include/boost/preprocessor/facilities/identity.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/WindowStyle.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/charconv:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/RangeSlider.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h:
-
-/usr/local/include/boost/mpl/aux_/config/msvc.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/bind.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderer.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/ranges_operations.h:
-
-/usr/local/include/boost/mpl/aux_/begin_end_impl.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_null.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_union.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/unistd.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_mcontext.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_negate.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.cpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unary_negate.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/tuple:
-
-/usr/local/include/boost/parameter/aux_/is_maybe.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__cxxabi_config.h:
-
-/usr/local/include/boost/mp11/detail/mp_map_find.hpp:
-
-/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/exchange.h:
-
-/usr/local/include/boost/log/sources/severity_logger.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cxxabi.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Config.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ObjectConverter.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/PrimitiveType.hpp:
-
-/usr/local/include/boost/preprocessor/logical/not.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
-
-/usr/local/include/boost/mpl/aux_/common_name_wknd.hpp:
-
-/usr/local/include/boost/smart_ptr/intrusive_ref_counter.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
-
-/usr/local/include/boost/container_hash/is_range.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/data.h:
-
-/usr/local/include/boost/assert/source_location.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/none_of.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint8_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/transform.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
-
-/usr/local/include/boost/config/detail/select_stdlib_config.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_wctype.h:
-
-/usr/local/include/boost/mp11/detail/mp_plus.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SliderRenderer.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/signal.h:
-
-/usr/local/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
-
-/usr/local/include/boost/exception/exception.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uid_t.h:
-
-/usr/local/include/boost/mpl/aux_/config/adl.hpp:
-
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Context.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
-
-/usr/local/include/boost/mpl/aux_/config/use_preprocessed.hpp:
+/usr/local/include/boost/atomic/detail/extra_operations.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_off_t.h:
 
-/usr/local/include/boost/parameter/aux_/tagged_argument.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ChatBoxRenderer.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_time.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/pair.h:
 
-/usr/local/include/boost/parameter/aux_/unwrap_cv_reference.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/identity.h:
+
+/usr/local/include/boost/mpl/aux_/lambda_arity_param.hpp:
+
+/usr/local/include/boost/proto/detail/preprocessed/expr_variadic.hpp:
+
+/usr/local/include/boost/describe/members.hpp:
+
+/usr/local/include/boost/chrono/clock_string.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/regex:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/type_traits:
+
+/usr/local/include/boost/mp11/detail/config.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partition_point.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/task_special_ports.h:
+
+/usr/local/include/boost/log/expressions/formatter.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeindex:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cerrno:
+
+/usr/local/include/boost/mp11/detail/mp_remove_if.hpp:
+
+/usr/local/include/boost/system/system_error.hpp:
+
+/usr/local/include/boost/fusion/include/reverse_fold.hpp:
+
+/usr/local/include/boost/predef/architecture/pyramid.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cctype:
+
+/usr/local/include/boost/proto/generate.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/clamp.h:
+
+/usr/local/include/boost/preprocessor/seq/detail/is_empty.hpp:
+
+/usr/local/include/boost/log/utility/strictest_lock.hpp:
+
+/usr/local/include/boost/fusion/view/single_view/single_view.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset:
+
+/usr/local/include/boost/iterator/distance.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/alloca.h:
+
+/usr/local/include/boost/numeric/conversion/udt_builtin_mixture_enum.hpp:
+
+/usr/local/include/boost/mpl/vector/aux_/size.hpp:
+
+/usr/local/include/boost/proto/domain.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__variant/monostate.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/limits.h:
+
+/usr/local/include/boost/mpl/fold.hpp:
+
+/usr/local/include/boost/atomic/detail/ops_gcc_aarch64_common.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_inherit.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/boolean.h:
+
+/usr/local/include/boost/preprocessor/facilities/is_empty.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/swap.h:
+
+/usr/local/include/boost/parameter/aux_/void.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdio.h:
+
+/usr/local/include/boost/atomic/detail/wait_caps_darwin_ulock.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector3.inl:
+
+/usr/local/include/boost/log/expressions/predicates/has_attr.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex:
+
+/usr/local/include/boost/move/detail/meta_utils_core.hpp:
+
+/usr/local/include/boost/log/expressions/keyword_fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/declval.h:
+
+/usr/local/include/boost/numeric/conversion/detail/is_subranged.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/cmp.h:
+
+/usr/local/include/boost/thread/tss.hpp:
+
+/usr/local/include/boost/concept/detail/backward_compatibility.hpp:
+
+/usr/local/include/boost/system/errc.hpp:
+
+/usr/local/include/boost/atomic/detail/caps_arch_gcc_aarch64.hpp:
+
+/usr/local/include/boost/mpl/iter_fold.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/SFML-Graphics/CanvasSFML.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iterator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_special_ports.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__undef_macros:
+
+/usr/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp:
+
+/usr/local/include/boost/mpl/empty_base.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/is_nothrow_default_constructible.hpp:
+
+/usr/local/include/boost/preprocessor/list/for_each_i.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_locale.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree:
+
+/usr/local/include/boost/fusion/view/single_view/detail/next_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_statistics.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
+
+/usr/local/include/boost/type_traits/detail/is_function_cxx_11.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/endian.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/pointer_safety.h:
+
+/usr/local/include/boost/mpl/map/aux_/begin_end_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/float.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/typeinfo:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsid_t.h:
+
+/usr/local/include/boost/mpl/aux_/config/static_constant.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_suseconds_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/size.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/qos.h:
+
+/usr/local/include/boost/log/detail/attr_output_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessor/is_seq.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/advance.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Any.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ios:
+
+/usr/local/include/boost/atomic/detail/core_arch_operations_fwd.hpp:
+
+/usr/local/include/boost/utility/base_from_member.hpp:
+
+/usr/local/include/boost/mpl/aux_/na.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_clock_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/execution:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
+
+/usr/local/include/boost/date_time/posix_time/date_duration_operators.hpp:
+
+/usr/local/include/boost/predef/os/solaris.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/max.h:
+
+/usr/local/include/boost/predef/library/std/vacpp.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unwrap_ref.h:
+
+/usr/local/include/boost/date_time/gregorian/greg_day_of_year.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Panel.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Utf.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/string.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/next.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_rune_t.h:
+
+/usr/local/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/gethostuuid.h:
+
+/usr/local/include/boost/move/detail/config_begin.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/to_seq.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_posix_availability.h:
+
+/usr/local/include/boost/fusion/algorithm/iteration/fold.hpp:
+
+/usr/local/include/boost/preprocessor/repeat.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/types.h:
+
+/usr/local/include/boost/fusion/include/begin.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__cxxabi_config.h:
+
+/usr/local/include/boost/date_time/time_resolution_traits.hpp:
+
+/usr/local/include/boost/type_traits/common_type.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_purgable.h:
+
+/usr/local/include/boost/fusion/view/single_view/detail/deref_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array:
+
+/usr/local/include/boost/numeric/conversion/detail/sign_mixture.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
+
+/usr/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__mbstate_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/variant:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
+
+/usr/local/include/boost/fusion/iterator/basic_iterator.hpp:
+
+/usr/local/include/boost/mpl/limits/vector.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int32_t.h:
+
+/usr/local/include/boost/fusion/view/iterator_range/detail/at_impl.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/RelFloatRect.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_difference.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
+
+/usr/local/include/boost/fusion/iterator/value_of.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__string:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/access.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/shared_mutex:
+
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/equal_to.hpp:
+
+/usr/local/include/boost/mpl/aux_/find_if_pred.hpp:
+
+/usr/local/include/boost/fusion/support/void.hpp:
+
+/usr/local/include/boost/fusion/sequence/intrinsic/size.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unary_function.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/hash.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/operations.h:
+
+/usr/local/include/boost/predef/platform/mingw.h:
+
+/usr/local/include/boost/type_traits/conversion_traits.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
+
+/usr/local/include/boost/log/detail/parameter_tools.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_ctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binder2nd.h:
+
+/usr/local/include/boost/fusion/view/iterator_range.hpp:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/adapt_auto.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/ComboBoxRenderer.hpp:
+
+/usr/local/include/boost/preprocessor/facilities/identity.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/charconv:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp:
+
+/usr/local/include/boost/fusion/support/is_segmented.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/bind.h:
+
+/usr/local/include/boost/current_function.hpp:
+
+/usr/local/include/boost/mpl/aux_/begin_end_impl.hpp:
+
+/usr/local/include/boost/utility/identity_type.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_union.h:
+
+/usr/local/include/boost/predef/os/bsd/bsdi.h:
+
+/usr/local/include/boost/preprocessor/facilities/empty.hpp:
+
+/usr/local/include/boost/fusion/iterator/detail/adapt_deref_traits.hpp:
+
+/usr/local/include/boost/log/attributes/attribute_name.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/binary_function.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/FileDialog.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
+
+/usr/local/include/boost/type_traits/is_nothrow_move_constructible.hpp:
+
+/usr/local/include/boost/log/attributes/attribute_value_impl.hpp:
+
+/usr/local/include/boost/predef/os.h:
+
+/usr/local/include/boost/predef/language/stdcpp.h:
+
+/usr/local/include/boost/mpl/aux_/at_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_types.h:
+
+/usr/local/include/boost/atomic/detail/extra_fp_operations.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/projected.h:
+
+/usr/local/include/boost/preprocessor/arithmetic/limits/inc_256.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cxxabi.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Vector2.inl:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
+
+/usr/local/include/boost/numeric/conversion/detail/preprocessed/numeric_cast_traits_common.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm:
+
+/usr/local/include/boost/mpl/vector.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SeparatorLineRenderer.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find.h:
+
+/usr/local/include/boost/predef/compiler/metaware.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__availability:
+
+/usr/local/include/boost/fusion/sequence/intrinsic_fwd.hpp:
+
+/usr/local/include/boost/chrono/duration.hpp:
+
+/usr/local/include/boost/container_hash/is_range.hpp:
+
+/usr/local/include/boost/preprocessor/tuple/limits/to_list_64.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/data.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/machine/vm_param.h:
+
+/usr/local/include/boost/assert/source_location.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityVersions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/none_of.h:
+
+/usr/local/include/boost/chrono/detail/requires_cxx11.hpp:
+
+/usr/local/include/boost/core/use_default.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_wctype.h:
+
+/usr/local/include/boost/fusion/container/list/detail/value_at_impl.hpp:
+
+/usr/local/include/boost/phoenix/version.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
+
+/usr/local/include/boost/range/const_iterator.hpp:
+
+/usr/local/include/boost/config/detail/select_stdlib_config.hpp:
+
+/usr/local/include/boost/type_traits/is_default_constructible.hpp:
+
+/usr/local/include/boost/mpl/reverse_fold.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBtinyfiledialogs/include/tinyfiledialogs.h:
+
+/usr/local/include/boost/fusion/adapted/mpl/detail/end_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
+
+/usr/local/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp:
+
+/usr/local/include/boost/mpl/lambda.hpp:
+
+/usr/local/include/boost/system/detail/throws.hpp:
+
+/usr/local/include/boost/mpl/count_fwd.hpp:
+
+/usr/local/include/boost/atomic/detail/header.hpp:
+
+/usr/local/include/boost/log/detail/header.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/String.inl:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
+
+/usr/local/include/boost/exception/exception.hpp:
+
+/usr/local/include/boost/smart_ptr/detail/sp_counted_base.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_uid_t.h:
+
+/usr/local/include/boost/log/utility/functional/nop.hpp:
+
+/usr/local/include/boost/typeof/detail/requires_cxx11.hpp:
+
+/usr/local/include/boost/predef/library/c/_prefix.h:
+
+/usr/local/include/boost/mpl/arg.hpp:
+
+/usr/local/include/boost/chrono/detail/is_evenly_divisible_by.hpp:
+
+/usr/local/include/boost/mpl/aux_/has_begin.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
+
+/usr/local/include/boost/mpl/map/aux_/insert_range_impl.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/move.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Knob.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Keyboard.hpp:
+/usr/local/include/boost/parameter/aux_/pack/parameter_requirements.hpp:
 
-/usr/local/include/boost/preprocessor/detail/check.hpp:
+/usr/local/include/boost/mpl/logical.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
+/usr/local/include/boost/log/expressions/attr_fwd.hpp:
 
-/usr/local/include/boost/mp11/function.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/prev_permutation.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendRenderTarget.hpp:
+
+/usr/local/include/boost/core/snprintf.hpp:
+
+/usr/local/include/boost/predef/compiler/pgi.h:
+
+/usr/local/include/boost/proto/detail/preprocessed/and_n.hpp:
 
 /usr/local/include/boost/mpl/aux_/config/has_apply.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_ctermid.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Group.hpp:
-
-/usr/local/include/boost/assert.hpp:
-
-/usr/local/include/boost/type_traits/remove_cv.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Any.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/empty.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uintmax_t.h:
+/usr/local/include/boost/mpl/equal_to.hpp:
+
+/usr/local/include/boost/fusion/view/joint_view/detail/deref_data_impl.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
+/usr/local/include/boost/atomic/detail/fp_ops_emulated.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/merge.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
 
+/usr/local/include/boost/preprocessor/seq/fold_left.hpp:
+
+/usr/local/include/boost/mpl/pair.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach_debug/ipc_info.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/sift_down.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Event.hpp:
+/usr/local/include/boost/fusion/include/size.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/in_place.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_int16_t.h:
+/usr/local/include/boost/iterator/iterator_concepts.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_if_not.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.cpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wchar.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy_n.h:
+/usr/local/include/boost/phoenix/core/actor.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/access.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/move.h:
+
+/usr/local/include/boost/mpl/bind_fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_nlink_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
+
+/usr/local/include/boost/fusion/adapted/struct/detail/value_of_impl.hpp:
 
 /usr/local/include/boost/container_hash/detail/hash_range.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/min_element.h:
+/usr/local/include/boost/fusion/iterator/mpl/convert_iterator.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/BoxLayout.hpp:
+
+/usr/local/include/boost/predef/version_number.h:
+
+/usr/local/include/boost/fusion/iterator/segmented_iterator.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread/sched.h:
 
-/usr/local/include/boost/move/core.hpp:
+/usr/local/include/boost/mp11/list.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Renderer/BackendText.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/bind_front.h:
 
+/usr/local/include/boost/preprocessor/control/limits/while_256.hpp:
+
+/usr/local/include/boost/log/detail/is_character_type.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
+
+/usr/local/include/boost/atomic/detail/extra_ops_generic.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/runetype.h:
+
+/usr/local/include/boost/numeric/conversion/converter.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_types.h:
 
-/usr/local/include/boost/preprocessor/seq/size.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Global.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/endian.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/__wctype.h:
+/usr/local/include/boost/detail/basic_pointerbuf.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/__decay_copy.h:
+/usr/local/include/boost/fusion/include/value_of.hpp:
 
-/usr/local/include/boost/type_traits/enable_if.hpp:
+/usr/local/include/boost/system/detail/interop_category.hpp:
 
 /usr/local/include/boost/config/compiler/clang_version.hpp:
 
@@ -9397,232 +16986,236 @@ CMakeFiles/main.dir/objects/plane.cpp.o: /Users/comrademashkov/Desktop/PO/main/a
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
 
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/SvgImage.hpp:
+
+/usr/local/include/boost/preprocessor/facilities/is_empty_variadic.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/addressof.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RadioButtonRenderer.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Signal.hpp:
+/usr/local/include/boost/mpl/aux_/lambda_support.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_caddr_t.h:
+/usr/local/include/boost/fusion/adapted/struct/detail/adapt_base.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/errno.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/NonCopyable.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/partition_point.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/for_each.h:
-
-/usr/local/include/boost/mpl/aux_/template_arity.hpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Window/Vulkan.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/VertexBuffer.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove_if.h:
 
+/usr/local/include/boost/mpl/prior.hpp:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendSFML.hpp:
+
+/usr/local/include/boost/mpl/aux_/common_name_wknd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
 
-/usr/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp:
 
-/usr/local/include/boost/preprocessor/repetition/limits/repeat_256.hpp:
+/usr/local/include/boost/mpl/push_front.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
+/usr/local/include/boost/fusion/container/list/cons.hpp:
 
-/usr/local/include/boost/parameter/aux_/tag.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/equal.h:
+/usr/local/include/boost/predef/compiler/ibm.h:
 
-/usr/local/include/boost/core/explicit_operator_bool.hpp:
+/usr/local/include/boost/fusion/container/list/cons_iterator.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ctype.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_zero.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/min.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/Scrollbar.hpp:
-
-/usr/local/include/boost/mpl/aux_/config/pp_counter.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_in_addr_t.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/System/Err.hpp:
+/usr/local/include/boost/numeric/conversion/detail/conversion_traits.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wctype.h:
 
+/usr/local/include/boost/type_traits/is_const.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
 
-/usr/local/include/boost/preprocessor/punctuation/comma.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/extlibs/Aurora/Tools/Swap.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h:
 
-/usr/local/include/boost/parameter/keyword.hpp:
+/usr/local/include/boost/fusion/algorithm/transformation/push_front.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ssize_t.h:
+/usr/local/include/boost/preprocessor/repetition/repeat_from_to.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/libkern/arm/OSByteOrder.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ostream:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Utf.hpp:
-
-/usr/local/include/boost/mp11/detail/mp_with_index.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/version:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/RangeSliderRenderer.hpp:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/ToolTip.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/errno.h:
 
-/usr/local/include/boost/smart_ptr/bad_weak_ptr.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
 
-/usr/local/include/boost/preprocessor/tuple/rem.hpp:
+/usr/local/include/boost/preprocessor/logical/compl.hpp:
+
+/usr/local/include/boost/fusion/support/category_of.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/SeparatorLineRenderer.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stddef.h:
+/usr/local/include/boost/describe/bases.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference:
 
-/usr/local/include/boost/mpl/bind.hpp:
+/usr/local/include/boost/date_time/date_clock_device.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle:
+
+/usr/local/include/boost/mpl/int.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/comp.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/arm/_structs.h:
 
-/usr/local/include/boost/config/abi_prefix.hpp:
+/usr/local/include/boost/container_hash/hash.hpp:
 
-/usr/local/include/boost/smart_ptr/detail/sp_convertible.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/sstream:
-
-/usr/local/include/boost/mpl/aux_/arity_spec.hpp:
-
-/usr/local/include/boost/mpl/at_fwd.hpp:
+/usr/local/include/boost/predef/compiler/borland.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/includes.h:
 
-/usr/local/include/boost/move/detail/meta_utils_core.hpp:
+/usr/local/include/boost/phoenix/support/preprocessed/vector_10.hpp:
+
+/usr/local/include/boost/mpl/aux_/largest_int.hpp:
+
+/usr/local/include/boost/mpl/aux_/has_type.hpp:
+
+/usr/local/include/boost/preprocessor/facilities/detail/is_empty.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__function_like.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__debug:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/shift_right.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uint16_t.h:
+/usr/local/include/boost/date_time/time_system_split.hpp:
 
-/usr/local/include/boost/parameter/aux_/name.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_time_t.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.cpp:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/BlendMode.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_first_of.h:
-
-/usr/local/include/boost/preprocessor/cat.hpp:
+/usr/local/include/boost/preprocessor/comparison/equal.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/iter_move.h:
 
-/usr/local/include/boost/mpl/and.hpp:
+/usr/local/include/boost/proto/transform/arg.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy.h:
 
-/usr/local/include/boost/mpl/has_xxx.hpp:
+/usr/local/include/boost/mpl/plus.hpp:
+
+/usr/local/include/boost/date_time/microsec_time_clock.hpp:
+
+/usr/local/include/boost/mpl/aux_/size_impl.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/shared_ptr.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/assert.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wchar.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tuple:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/_limits.h:
+/usr/local/include/boost/mpl/aux_/overload_names.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/alloca.h:
+/usr/local/include/boost/mpl/aux_/config/preprocessor.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int.h:
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Backend/Window/SFML/BackendGuiSFML.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__errc:
+/usr/local/include/boost/atomic/detail/fp_operations_fwd.hpp:
+
+/usr/local/include/boost/predef/compiler/edg.h:
+
+/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/Font.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/typeof.hpp:
+
+/usr/local/include/boost/phoenix/core/as_actor.hpp:
+
+/usr/local/include/boost/proto/detail/as_expr.hpp:
+
+/usr/local/include/boost/mp11/detail/mp_copy_if.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/reverse.h:
+
+/usr/local/include/boost/range/reverse_iterator.hpp:
+
+/usr/local/include/boost/fusion/algorithm/iteration/reverse_fold.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/vm_attributes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/count.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_xlocale.h:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Components.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/fill.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.h:
-
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Sprite.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
-
-/usr/local/include/boost/mpl/count_fwd.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
-/usr/local/include/boost/container_hash/is_tuple_like.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/std_types.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
+/usr/local/include/boost/mpl/aux_/preprocessed/gcc/reverse_fold_impl.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Widgets/ListBox.hpp:
+/usr/local/include/boost/predef/platform/ios.h:
 
-/usr/local/include/boost/log/utility/formatting_ostream_fwd.hpp:
-
-/usr/local/include/boost/mpl/aux_/na_assert.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
-
-/usr/local/include/boost/describe/bases.hpp:
+/usr/local/include/boost/mpl/map/map20.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/replace.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_if.h:
+/usr/local/include/boost/preprocessor/empty.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBTGUI/include/TGUI/Renderers/TextAreaRenderer.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_intmax_t.h:
 
-/usr/local/include/boost/preprocessor/arithmetic/limits/dec_256.hpp:
+/usr/local/include/boost/fusion/view/single_view/detail/end_impl.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/not_fn.h:
+/usr/local/include/boost/fusion/mpl/begin.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdlib.h:
+/usr/local/include/boost/parameter/aux_/name.hpp:
+
+/usr/local/include/boost/predef/library/c/cloudabi.h:
+
+/usr/local/include/boost/predef/compiler/nvcc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
 
+/usr/local/include/boost/mpl/vector/aux_/iterator.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/search_n.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/arm/types.h:
+/usr/local/include/boost/mpl/vector/vector20.hpp:
 
-/usr/local/include/boost/log/attributes/fallback_policy_fwd.hpp:
+/usr/local/include/boost/preprocessor/slot/detail/def.hpp:
 
-/Users/comrademashkov/Desktop/PO/main/airborne-crew/libs/LIBSFML/include/SFML/Graphics/RectangleShape.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/time.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/invoke.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/mach/thread_policy.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/runetype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_locale.h:
+/usr/local/include/boost/mpl/pop_front_fwd.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/copy_backward.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_stdio.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/find_end.h:
 
-/usr/local/include/boost/mpl/integral_c_tag.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/limits.h:
+
+/usr/local/include/boost/mpl/aux_/na_assert.hpp:
+
+/usr/local/include/boost/mpl/aux_/advance_forward.hpp:
+
+/usr/local/include/boost/atomic/detail/type_traits/make_signed.hpp:
+
+/usr/local/include/boost/predef/library.h:
+
+/usr/local/include/boost/phoenix/support/detail/iterate_define.hpp:
+
+/usr/local/include/boost/mpl/aux_/config/ctps.hpp:
+
+/usr/local/include/boost/atomic/detail/extra_fp_operations_fwd.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_u_int64_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fd_set.h:
