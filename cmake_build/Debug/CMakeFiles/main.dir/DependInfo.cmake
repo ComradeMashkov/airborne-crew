@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/event_handler.cpp" "CMakeFiles/main.dir/event_handler.cpp.o" "gcc" "CMakeFiles/main.dir/event_handler.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/canvas.cpp" "CMakeFiles/main.dir/gui/canvas.cpp.o" "gcc" "CMakeFiles/main.dir/gui/canvas.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/coords.cpp" "CMakeFiles/main.dir/gui/coords.cpp.o" "gcc" "CMakeFiles/main.dir/gui/coords.cpp.o.d"
+  "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/fps.cpp" "CMakeFiles/main.dir/gui/fps.cpp.o" "gcc" "CMakeFiles/main.dir/gui/fps.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/gui/menu.cpp" "CMakeFiles/main.dir/gui/menu.cpp.o" "gcc" "CMakeFiles/main.dir/gui/menu.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
   "/Users/comrademashkov/Desktop/PO/main/airborne-crew/src/objects/plane.cpp" "CMakeFiles/main.dir/objects/plane.cpp.o" "gcc" "CMakeFiles/main.dir/objects/plane.cpp.o.d"

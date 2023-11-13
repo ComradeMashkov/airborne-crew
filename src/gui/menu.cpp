@@ -4,7 +4,7 @@ using namespace event_handler;
 
 namespace gui_wrapper {
 
-void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane) {
+void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps) {
     upper_menu_->setHeight(22.f);
     upper_menu_->addMenu("Program");
     upper_menu_->addMenuItem("Start");
@@ -16,6 +16,10 @@ void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane) {
     upper_menu_->addMenuItem("Save");
     upper_menu_->onMenuItemClick(&EventHandler::saveFile, "test.txt");
     upper_menu_->addMenuItem("Clear");
+
+    upper_menu_->addMenu("Debug");
+    upper_menu_->addMenuItem("Show FPS");
+    upper_menu_->onMenuItemClick(&EventHandler::showFPS, std::ref(fps));
 
     upper_menu_->addMenu("Info");
     upper_menu_->addMenuItem("About");
