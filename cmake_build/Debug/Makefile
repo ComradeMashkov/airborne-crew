@@ -129,6 +129,30 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.o: Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.o
+
+# target to build an object file
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o
+
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.i: Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.i
+
+# target to preprocess a source file
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.i
+
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.s: Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.s
+
+# target to generate assembly for a file
+Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s
+.PHONY : Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.s
+
 event_handler.o: event_handler.cpp.o
 .PHONY : event_handler.o
 
@@ -306,6 +330,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
+	@echo "... Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.o"
+	@echo "... Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.i"
+	@echo "... Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.s"
 	@echo "... event_handler.o"
 	@echo "... event_handler.i"
 	@echo "... event_handler.s"

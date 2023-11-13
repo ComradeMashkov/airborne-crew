@@ -1,5 +1,6 @@
 #pragma once
 
+#include <boost/log/trivial.hpp>
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 #include <fstream>
@@ -7,6 +8,7 @@
 
 #include "gui/fps.h"
 #include "objects/plane.h"
+#include "../utils/log_handler.h"
 
 namespace event_handler {
 
@@ -33,6 +35,11 @@ public:
     // Graphics
 
     static void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition);
+
+    static void SetLogger(log_handler::LogHandler* logger);
+
+public:
+    static log_handler::LogHandler* logger_;
 };
 
 } // namespace event_handler

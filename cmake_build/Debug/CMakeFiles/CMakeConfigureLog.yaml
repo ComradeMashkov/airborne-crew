@@ -208,3 +208,47 @@ events:
       
       
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/FindThreads.cmake:99 (CHECK_CXX_SOURCE_COMPILES)"
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/CMakeFindDependencyMacro.cmake:76 (find_package)"
+      - "/opt/homebrew/lib/cmake/boost_thread-1.83.0/boost_thread-config.cmake:118 (find_dependency)"
+      - "/opt/homebrew/lib/cmake/boost_log-1.83.0/boost_log-config.cmake:102 (find_package)"
+      - "/opt/homebrew/lib/cmake/boost_log_setup-1.83.0/boost_log_setup-config.cmake:102 (find_package)"
+      - "/opt/homebrew/lib/cmake/Boost-1.83.0/BoostConfig.cmake:141 (find_package)"
+      - "/opt/homebrew/lib/cmake/Boost-1.83.0/BoostConfig.cmake:262 (boost_find_component)"
+      - "/opt/homebrew/Cellar/cmake/3.27.7/share/cmake/Modules/FindBoost.cmake:594 (find_package)"
+      - "CMakeLists.txt:19 (find_package)"
+    directories:
+      source: "/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles/CMakeScratch/TryCompile-8HuMbd"
+      binary: "/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles/CMakeScratch/TryCompile-8HuMbd"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_OSX_ARCHITECTURES: ""
+      CMAKE_OSX_DEPLOYMENT_TARGET: "12.5"
+      CMAKE_OSX_SYSROOT: "/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles/CMakeScratch/TryCompile-8HuMbd'
+        
+        Run Build Command(s): /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a5032/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a5032.dir/build.make CMakeFiles/cmTC_a5032.dir/build
+        Building CXX object CMakeFiles/cmTC_a5032.dir/src.cxx.o
+        /Library/Developer/CommandLineTools/usr/bin/c++ -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -MD -MT CMakeFiles/cmTC_a5032.dir/src.cxx.o -MF CMakeFiles/cmTC_a5032.dir/src.cxx.o.d -o CMakeFiles/cmTC_a5032.dir/src.cxx.o -c /Users/comrademashkov/Desktop/PO/main/airborne-crew/cmake_build/Debug/CMakeFiles/CMakeScratch/TryCompile-8HuMbd/src.cxx
+        Linking CXX executable cmTC_a5032
+        /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5032.dir/link.txt --verbose=1
+        /Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_a5032.dir/src.cxx.o -o cmTC_a5032 
+        
+      exitCode: 0
+...

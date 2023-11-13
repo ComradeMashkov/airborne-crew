@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o"
+  "CMakeFiles/main.dir/Users/comrademashkov/Desktop/PO/main/airborne-crew/utils/log_handler.cpp.o.d"
   "CMakeFiles/main.dir/event_handler.cpp.o"
   "CMakeFiles/main.dir/event_handler.cpp.o.d"
   "CMakeFiles/main.dir/gui/canvas.cpp.o"
