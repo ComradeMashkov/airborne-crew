@@ -4,7 +4,6 @@
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 #include <fstream>
-#include <tinyfiledialogs.h>
 
 #include "gui/fps.h"
 #include "objects/plane.h"
@@ -28,13 +27,11 @@ public:
 
     static void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem);
 
-    // File
-
-    static void saveFile(const std::string& filename, const std::vector<tgui::String>& menuItem);
-
     // Graphics
 
     static void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition);
+
+    // SYSTEM (Setter)
 
     static void SetLogger(log_handler::LogHandler* logger);
 

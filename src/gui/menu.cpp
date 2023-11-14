@@ -12,11 +12,6 @@ void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateL
     upper_menu_->addMenuItem("Finish");
     upper_menu_->onMenuItemClick(&EventHandler::finishProgram, std::ref(plane));
 
-    upper_menu_->addMenu("File");
-    upper_menu_->addMenuItem("Save");
-    upper_menu_->onMenuItemClick(&EventHandler::saveFile, "test.txt");
-    upper_menu_->addMenuItem("Clear");
-
     upper_menu_->addMenu("Debug");
     upper_menu_->addMenuItem("Show FPS");
     upper_menu_->onMenuItemClick(&EventHandler::showFPS, std::ref(fps));

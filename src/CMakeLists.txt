@@ -22,12 +22,9 @@ add_executable(main main.cpp event_handler.h event_handler.cpp gui/menu.h gui/me
 
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/include")
 target_include_directories(main PUBLIC "${LIBS_DIR}/LIBTGUI/include")
-target_include_directories(main PUBLIC "${LIBS_DIR}/LIBtinyfiledialogs/include")
-target_include_directories(main PUBLIC "/usr/local/include")
 
 target_link_libraries(main "${LIBS_DIR}/LIBSFML/lib/libsfml-graphics.dylib" ${SYSTEM_LIBS})
 target_link_libraries(main "${LIBS_DIR}/LIBSFML/lib/libsfml-window.dylib" ${SYSTEM_LIBS})
 target_link_libraries(main "${LIBS_DIR}/LIBSFML/lib/libsfml-system.dylib" ${SYSTEM_LIBS})
 target_link_libraries(main "${LIBS_DIR}/LIBTGUI/lib/libtgui.dylib" ${SYSTEM_LIBS})
-target_link_libraries(main "${LIBS_DIR}/LIBtinyfiledialogs/lib/libTinyFileDialogsDll.dylib" ${SYSTEM_LIBS})
 target_link_libraries(main ${Boost_LIBRARIES})
