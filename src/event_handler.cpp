@@ -2,17 +2,19 @@
 
 namespace event_handler {
 
+// Static logger pointer init
 log_handler::LogHandler* EventHandler::logger_ = nullptr;
 
-// Debug
+// Debug button
 
 void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Debug" && menuItem[1] == "Show FPS") {
         fps.ShowLabel();
+        logger_->LogTrivial(boost::log::trivial::severity_level::info, "\"Show FPS\" button pressed");
     }
 }
 
-// Info
+// Info button
 
 void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
@@ -28,7 +30,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
     }
 }
 
-// Program
+// Program button
 
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
@@ -47,29 +49,13 @@ void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::
     }
 }
 
-// File
-
-void EventHandler::saveFile(const std::string& filename, const std::vector<tgui::String>& menuItem) {
-    if (menuItem.size() == 2 && menuItem[0] == "File" && menuItem[1] == "Save") {
-        const char *file_path = tinyfd_saveFileDialog(
-            "Сохранить файл",
-            filename.c_str(),
-            0,
-            nullptr,
-            "Текстовые файлы (*.txt), *.txt"
-        );
-        std::ofstream ofs(file_path);
-        ofs << "TEST\n";
-        ofs.close();
-    }
-}
-
-// Graphics
+// Graphics button
 
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
-    logger_->LogTrivial(log_handler::info, "test");
 }
+
+// SYSTEM (Setter)
 
 void EventHandler::SetLogger(log_handler::LogHandler* logger) {
     EventHandler::logger_ = logger;

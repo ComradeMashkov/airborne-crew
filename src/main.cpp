@@ -12,7 +12,7 @@ int main() {
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60);
 
-    log_handler::LogHandler logger;
+    log_handler::LogHandler logger("/Users/comrademashkov/Desktop/PO/main/airborne-crew/logs/debug.log");
     event_handler::EventHandler::SetLogger(&logger);
 
     Plane plane;
