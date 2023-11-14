@@ -3,3 +3,4 @@
 .DS_Store
 .vscode/
 libs/.DS_Store
+cmake_build/
