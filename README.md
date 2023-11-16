@@ -11,6 +11,7 @@
 5. Проектирование архитектуры проекта: https://habr.com/ru/amp/publications/276593/
 6. Идиома RAII в C++: https://academy.yandex.ru/handbook/cpp/article/raii-and-smart-pointers
 7. **ВАЖНО!** Базовые структуры данных: https://habr.com/ru/articles/422259/
+8. Сборка проекта: https://gist.github.com/ComradeMashkov/4663af23dc89c4dc3d3e2395a6bb1fc7
 
 ### Task
 На данный семестр поставлена задача разработать программу, которая будет включать в себя:
