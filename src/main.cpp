@@ -7,12 +7,12 @@
 using namespace gui_wrapper;
 using namespace objects;
 
-int main() {
+int main(int argc, char* argv[]) {
     sf::RenderWindow window{ {800, 600}, "Dispatch window" };
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60);
 
-    log_handler::LogHandler logger("/Users/comrademashkov/Desktop/PO/main/airborne-crew/logs/debug.log");
+    log_handler::LogHandler logger("../logs/sample.log");
     event_handler::EventHandler::SetLogger(&logger);
 
     Plane plane;
