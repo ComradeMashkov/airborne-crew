@@ -1,6 +1,5 @@
 #pragma once
 
-#include <boost/log/trivial.hpp>
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 #include <fstream>
