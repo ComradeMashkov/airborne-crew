@@ -1,0 +1,2 @@
+libs/LIBTGUI/win64/bin/tgui-d.dll filter=lfs diff=lfs merge=lfs -text
+libs/LIBTGUI/win64/lib/libtgui-s-d.a filter=lfs diff=lfs merge=lfs -text
