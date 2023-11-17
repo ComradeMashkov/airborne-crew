@@ -5,13 +5,15 @@ set(CMAKE_CXX_STANDARD 17)
 
 set(BOOST_DIR CACHE STRING "Boost root directory, e.g. path to your boost_1_83_0/ directory")
 set(LIBS_DIR "${CMAKE_SOURCE_DIR}/../libs")
+message(STATUS "Libraries directory is ${LIBS_DIR}")
 
 if (NOT BOOST_DIR AND CMAKE_SYSTEM_NAME MATCHES "Windows")
     message(FATAL_ERROR "Please, specify Boost root directory via -DBOOST_DIR=<dir>")
 endif()
-message(STATUS "Boost root directory is ${BOOST_DIR}, change via -DBOOST_DIR=<dir>")
 
 if (CMAKE_SYSTEM_NAME MATCHES "Windows")
+    message(STATUS "Boost root directory is ${BOOST_DIR}, change via -DBOOST_DIR=<dir>")
+
     set(Boost_INCLUDE_DIR ${BOOST_DIR})
     set(Boost_LOG_LIBRARY ${BOOST_DIR}/stage/lib)
     set(Boost_LOG_SETUP_LIBRARY ${BOOST_DIR}/stage/lib)
