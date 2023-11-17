@@ -1,0 +1,15 @@
+prefix=/opt/homebrew/Cellar/sfml/2.6.1
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SFML-graphics
+Description: The Simple and Fast Multimedia Library, graphics module.
+URL: http://www.sfml-dev.org
+Version: 2.6.1
+Requires: sfml-window
+Requires.private: sfml-system, freetype2
+Libs: -L${libdir} -lsfml-graphics
+# gl may not be in pkg-config
+Libs.private: /Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks/OpenGL.framework /Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks/OpenGL.framework
+Cflags: -I${includedir}
