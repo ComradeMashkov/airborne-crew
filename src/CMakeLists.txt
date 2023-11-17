@@ -27,7 +27,7 @@ endif()
 set(GUI gui/menu.h gui/menu.cpp gui/coords.h gui/coords.cpp gui/canvas.h gui/canvas.cpp gui/fps.h gui/fps.cpp)
 set(EVENT_HANDLER event_handler.h event_handler.cpp)
 set(OBJECTS objects/plane.h objects/plane.cpp)
-set(UTILS ../utils/log_handler.h ../utils/log_handler.cpp)
+set(UTILS ../utils/log_handler.h)
 
 find_package(Boost 1.83.0 REQUIRED COMPONENTS log_setup log)
 
