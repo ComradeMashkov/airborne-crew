@@ -2,20 +2,21 @@
 
 namespace event_handler {
 
-// Static logger pointer init
+// Для статического поля обязательна предварительная инициализация
 log_handler::LogHandler* EventHandler::logger_ = nullptr;
 
-// Debug button
-
+// Метод, отвечающий за кнопку Debug -> Show FPS
 void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Debug" && menuItem[1] == "Show FPS") {
         fps.ShowLabel();
+
+        // Пример логгирования
+        // Слэши перед кавычками (\") нужны для правильного экранирования кавычек, т.к. это служебный символ
         logger_->LogTrivial(boost::log::trivial::severity_level::info, "\"Show FPS\" button pressed");
     }
 }
 
-// Info button
-
+// Метод, отвечающий за кнопку Info -> About
 void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
         auto messageBox = tgui::MessageBox::create();
@@ -30,8 +31,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
     }
 }
 
-// Program button
-
+// Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         sf::CircleShape c(50.f);
@@ -43,20 +43,19 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
     }
 }
 
+// Метод, отвечающий за кнопку Program -> Finish
 void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Finish") {
         plane.SetToDraw(false);
     }
 }
 
-// Graphics button
-
+// Метод, отвечающий за передвижение круга
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
 }
 
-// SYSTEM (Setter)
-
+// Системный метод для передачи логгера в EventHandler
 void EventHandler::SetLogger(log_handler::LogHandler* logger) {
     EventHandler::logger_ = logger;
 }

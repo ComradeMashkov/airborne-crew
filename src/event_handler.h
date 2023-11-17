@@ -8,29 +8,33 @@
 #include "objects/plane.h"
 #include "../utils/log_handler.h"
 
+/* 
+   Здесь хранятся определения функций, отвечающие за события,
+   происходящие во время того или иного действия. За все эти
+   события отвечает класс EventHandler и его статические 
+   методы. Методы статические, потому что для их вызова
+   экземпляр класса не нужен. По сути, класс нам нужен
+   лишь как полочка для хранения методов в одном месте.
+   В классе присутствует единственное поле - указатель на
+   логгер, который вызывается при совершении какого-либо 
+   действия (события).
+   
+   Реализацию смотрите в .cpp файле.
+*/
+
 namespace event_handler {
 
 class EventHandler {
 public:
-    // Debug
-
     static void showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem);
 
-    // Info
-
     static void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem);
-
-    // Program
 
     static void startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem);
 
     static void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem);
 
-    // Graphics
-
     static void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition);
-
-    // SYSTEM (Setter)
 
     static void SetLogger(log_handler::LogHandler* logger);
 
