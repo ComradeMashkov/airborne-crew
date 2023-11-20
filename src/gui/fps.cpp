@@ -3,6 +3,7 @@
 namespace gui_wrapper {
 
 void FrameRateLabel::InitializeFrameRateLabel() {
+    label_->setVisible(false);
     label_->setPosition({ "&.right - 75", "&.top + 20" });
 }
 
