@@ -14,6 +14,11 @@ int main(int argc, char* argv[]) {
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60); - ограничитель кадров
 
+    // Создаем спрайт карты
+    sf::Texture map_texture;
+    map_texture.loadFromFile("../meta/map.jpeg");
+    sf::Sprite map_sprite(map_texture);
+
     // Создаем логгер, выводящий все в файл (папка logs)
     log_handler::LogHandler logger("../logs/sample.log");
     event_handler::EventHandler::SetLogger(&logger);
@@ -77,6 +82,7 @@ int main(int argc, char* argv[]) {
         plane.Control();
         
         canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
+        canvas.GetCanvas()->draw(map_sprite);
         if (plane.GetToDraw()) {
             canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }
