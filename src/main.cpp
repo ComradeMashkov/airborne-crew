@@ -37,8 +37,8 @@ int main(int argc, char* argv[]) {
     menu.InitializeMenu(gui, plane, frame_rate_label);
 
     // Добавляем все объекты в наш интерфейс
-    gui.add(menu.GetMenu());
     gui.add(canvas.GetCanvas());
+    gui.add(menu.GetMenu());
     gui.add(coords_label.GetLabel());
     gui.add(frame_rate_label.GetLabel());
 
@@ -51,6 +51,10 @@ int main(int argc, char* argv[]) {
             switch (event.type) {
                 case sf::Event::Closed:
                     window.close();
+                    break;
+                case sf::Event::Resized:
+                    canvas.SetSize(event.size.width * 0.6, event.size.height * 0.6);
+                    menu.SetTextSize(event.size.height * 0.025);
                     break;
                 case sf::Event::MouseMoved:
                     tgui::String text{ std::to_string(event.mouseMove.x) + " " + std::to_string(event.mouseMove.y) };
@@ -69,7 +73,7 @@ int main(int argc, char* argv[]) {
         }
         canvas.GetCanvas()->display();
 
-        window.clear(sf::Color{ 211, 211, 211 });
+        window.clear(sf::Color{ 255, 255, 255 });
         gui.draw();
         window.display();
     }

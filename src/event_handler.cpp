@@ -34,7 +34,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 // Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
-        sf::CircleShape c(50.f);
+        sf::CircleShape c(objects::CIRCLE_SIZE.x);
         c.setPosition({ 50.f, 50.f });
         c.setFillColor(sf::Color::Red);
         plane.SetPrimitive(c);

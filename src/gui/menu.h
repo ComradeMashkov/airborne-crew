@@ -14,6 +14,10 @@ public:
 
     tgui::MenuBar::Ptr GetMenu() const;
 
+    void SetSize(tgui::Layout width, tgui::Layout height);
+
+    void SetTextSize(unsigned int size);
+
 private:
     tgui::MenuBar::Ptr upper_menu_ = tgui::MenuBar::create();
 };

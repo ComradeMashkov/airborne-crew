@@ -12,6 +12,12 @@ public:
 
     tgui::CanvasSFML::Ptr GetCanvas() const;
 
+    void SetSize(tgui::Layout width, tgui::Layout height);
+
+    void SetPosition(tgui::Layout x, tgui::Layout y);
+
+    tgui::Vector2f GetSize() const;
+
 private:
     tgui::CanvasSFML::Ptr canvas_ = tgui::CanvasSFML::create({ 400, 300 });
 };
