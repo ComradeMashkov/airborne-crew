@@ -2,6 +2,7 @@
 #include "gui/coords.h"
 #include "gui/fps.h"
 #include "gui/menu.h"
+#include "gui/separator.h"
 #include "objects/plane.h"
 
 using namespace gui_wrapper;
@@ -36,8 +37,16 @@ int main(int argc, char* argv[]) {
     UpperMenu menu;
     menu.InitializeMenu(gui, plane, frame_rate_label);
 
+    VerticalLine vline;
+    vline.InitializeLine(window);
+
+    HorizontalLine hline;
+    hline.InitializeLine(window);
+
     // Добавляем все объекты в наш интерфейс
     gui.add(canvas.GetCanvas());
+    gui.add(vline.GetLine());
+    gui.add(hline.GetLine());
     gui.add(menu.GetMenu());
     gui.add(coords_label.GetLabel());
     gui.add(frame_rate_label.GetLabel());
