@@ -36,7 +36,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         plane_texture_ = new sf::Texture;
-        plane_texture_->loadFromFile("/Users/comrademashkov/Desktop/PO/main/airborne-crew/meta/plane_test.png");
+        plane_texture_->loadFromFile("../meta/plane_test.png");
         sf::Sprite plane_sprite;
         plane_sprite.setTexture(*plane_texture_);
         plane_sprite.setPosition({ 50.f, 50.f });
