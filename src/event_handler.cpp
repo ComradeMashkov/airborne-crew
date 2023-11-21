@@ -28,6 +28,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
         messageBox->onButtonPress([msgBox = messageBox.get()] (const tgui::String& button) {
             msgBox->getParent()->remove(msgBox->shared_from_this());
         });
+
         gui.add(messageBox);
     }
 }
@@ -37,6 +38,7 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         plane_texture_ = new sf::Texture;
         plane_texture_->loadFromFile("../meta/plane_test.png");
+
         sf::Sprite plane_sprite;
         plane_sprite.setTexture(*plane_texture_);
         sf::Vector2u texture_size = plane_texture_ ->getSize();

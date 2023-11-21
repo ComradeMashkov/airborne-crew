@@ -89,7 +89,6 @@ int main(int argc, char* argv[]) {
         canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
         canvas.GetCanvas()->draw(map_sprite);
         if (plane.GetToDraw()) {
-            canvas.GetCanvas()->draw(square);
             canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }
         canvas.GetCanvas()->display();
