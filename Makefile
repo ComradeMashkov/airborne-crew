@@ -248,6 +248,30 @@ gui/menu.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/gui/menu.cpp.s
 .PHONY : gui/menu.cpp.s
 
+gui/separator.obj: gui/separator.cpp.obj
+.PHONY : gui/separator.obj
+
+# target to build an object file
+gui/separator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/gui/separator.cpp.obj
+.PHONY : gui/separator.cpp.obj
+
+gui/separator.i: gui/separator.cpp.i
+.PHONY : gui/separator.i
+
+# target to preprocess a source file
+gui/separator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/gui/separator.cpp.i
+.PHONY : gui/separator.cpp.i
+
+gui/separator.s: gui/separator.cpp.s
+.PHONY : gui/separator.s
+
+# target to generate assembly for a file
+gui/separator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/gui/separator.cpp.s
+.PHONY : gui/separator.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -320,6 +344,9 @@ help:
 	@echo ... gui/menu.obj
 	@echo ... gui/menu.i
 	@echo ... gui/menu.s
+	@echo ... gui/separator.obj
+	@echo ... gui/separator.i
+	@echo ... gui/separator.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -55,7 +55,8 @@ void Plane::Control() {
                                                      );
 
         plane_.move(movement);
-        plane_.setRotation(asin(movement.y/sqrt(pow(movement.x,2)+pow(movement.y,2)))/M_PI*180);
+        if (direction.x > 0)plane_.setRotation(asin(movement.y/sqrt(pow(movement.x,2)+pow(movement.y,2)))/M_PI*180+90);
+        else plane_.setRotation(180-asin(movement.y/sqrt(pow(movement.x,2)+pow(movement.y,2)))/M_PI*180+90);
         //angle++;
     }
 }

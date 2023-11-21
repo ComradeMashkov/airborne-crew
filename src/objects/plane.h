@@ -5,7 +5,7 @@
 
 namespace objects {
 
-const sf::Vector2f CIRCLE_SIZE = { 25.f, 25.f };
+const sf::Vector2f PLANE_SIZE = { 50.f, 50.f };
 
 class Plane {
 public:

@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/gui/fps.cpp.obj.d"
   "CMakeFiles/main.dir/gui/menu.cpp.obj"
   "CMakeFiles/main.dir/gui/menu.cpp.obj.d"
+  "CMakeFiles/main.dir/gui/separator.cpp.obj"
+  "CMakeFiles/main.dir/gui/separator.cpp.obj.d"
   "CMakeFiles/main.dir/main.cpp.obj"
   "CMakeFiles/main.dir/main.cpp.obj.d"
   "CMakeFiles/main.dir/objects/plane.cpp.obj"

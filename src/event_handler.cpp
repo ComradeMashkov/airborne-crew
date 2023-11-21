@@ -39,11 +39,14 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
         plane_texture_->loadFromFile("../meta/plane_test.png");
         sf::Sprite plane_sprite;
         plane_sprite.setTexture(*plane_texture_);
-        plane_sprite.setPosition({ 50.f, 50.f });
-        plane_sprite.setScale({ 0.02f, 0.02f });
+        sf::Vector2u texture_size = plane_texture_ ->getSize();
+        sf::Vector2f plane_scale = plane_sprite.getScale();
+        plane_sprite.setScale({ objects::PLANE_SIZE.x/texture_size.x, objects::PLANE_SIZE.y/texture_size.y });
+        plane_sprite.setOrigin(texture_size.x/2,texture_size.y);
+        plane_sprite.setPosition({ 100.f, 100.f });
         plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);
-        plane.SetTargetPosition({ 50.f, 50.f });
+        plane.SetTargetPosition({ 100.f, 100.f });
     }
 }
 

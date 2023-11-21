@@ -56,6 +56,7 @@ int main(int argc, char* argv[]) {
     gui.add(coords_label.GetLabel());
     gui.add(frame_rate_label.GetLabel());
 
+
     // ОСНОВНОЙ ПРОГРАММНЫЙ ЦИКЛ
     while (window.isOpen()) {
         sf::Event event;
@@ -88,6 +89,7 @@ int main(int argc, char* argv[]) {
         canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
         canvas.GetCanvas()->draw(map_sprite);
         if (plane.GetToDraw()) {
+            canvas.GetCanvas()->draw(square);
             canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }
         canvas.GetCanvas()->display();

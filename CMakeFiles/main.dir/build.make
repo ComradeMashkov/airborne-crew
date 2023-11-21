@@ -143,11 +143,26 @@ CMakeFiles/main.dir/gui/fps.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/gui/fps.cpp.s"
 	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\VSCode\airborne-crew\src\gui\fps.cpp -o CMakeFiles\main.dir\gui\fps.cpp.s
 
+CMakeFiles/main.dir/gui/separator.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/gui/separator.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/gui/separator.cpp.obj: C:/VSCode/airborne-crew/src/gui/separator.cpp
+CMakeFiles/main.dir/gui/separator.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/gui/separator.cpp.obj"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/gui/separator.cpp.obj -MF CMakeFiles\main.dir\gui\separator.cpp.obj.d -o CMakeFiles\main.dir\gui\separator.cpp.obj -c C:\VSCode\airborne-crew\src\gui\separator.cpp
+
+CMakeFiles/main.dir/gui/separator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/gui/separator.cpp.i"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\VSCode\airborne-crew\src\gui\separator.cpp > CMakeFiles\main.dir\gui\separator.cpp.i
+
+CMakeFiles/main.dir/gui/separator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/gui/separator.cpp.s"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\VSCode\airborne-crew\src\gui\separator.cpp -o CMakeFiles\main.dir\gui\separator.cpp.s
+
 CMakeFiles/main.dir/event_handler.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/event_handler.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/event_handler.cpp.obj: C:/VSCode/airborne-crew/src/event_handler.cpp
 CMakeFiles/main.dir/event_handler.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/event_handler.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/event_handler.cpp.obj"
 	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/event_handler.cpp.obj -MF CMakeFiles\main.dir\event_handler.cpp.obj.d -o CMakeFiles\main.dir\event_handler.cpp.obj -c C:\VSCode\airborne-crew\src\event_handler.cpp
 
 CMakeFiles/main.dir/event_handler.cpp.i: cmake_force
@@ -162,7 +177,7 @@ CMakeFiles/main.dir/objects/plane.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/objects/plane.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/objects/plane.cpp.obj: C:/VSCode/airborne-crew/src/objects/plane.cpp
 CMakeFiles/main.dir/objects/plane.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/objects/plane.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/objects/plane.cpp.obj"
 	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/objects/plane.cpp.obj -MF CMakeFiles\main.dir\objects\plane.cpp.obj.d -o CMakeFiles\main.dir\objects\plane.cpp.obj -c C:\VSCode\airborne-crew\src\objects\plane.cpp
 
 CMakeFiles/main.dir/objects/plane.cpp.i: cmake_force
@@ -180,6 +195,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/gui/coords.cpp.obj" \
 "CMakeFiles/main.dir/gui/canvas.cpp.obj" \
 "CMakeFiles/main.dir/gui/fps.cpp.obj" \
+"CMakeFiles/main.dir/gui/separator.cpp.obj" \
 "CMakeFiles/main.dir/event_handler.cpp.obj" \
 "CMakeFiles/main.dir/objects/plane.cpp.obj"
 
@@ -191,6 +207,7 @@ main.exe: CMakeFiles/main.dir/gui/menu.cpp.obj
 main.exe: CMakeFiles/main.dir/gui/coords.cpp.obj
 main.exe: CMakeFiles/main.dir/gui/canvas.cpp.obj
 main.exe: CMakeFiles/main.dir/gui/fps.cpp.obj
+main.exe: CMakeFiles/main.dir/gui/separator.cpp.obj
 main.exe: CMakeFiles/main.dir/event_handler.cpp.obj
 main.exe: CMakeFiles/main.dir/objects/plane.cpp.obj
 main.exe: CMakeFiles/main.dir/build.make
@@ -208,7 +225,7 @@ main.exe: C:/boost_1_83_0/stage/lib/libboost_atomic-mgw13-mt-x64-1_83.a
 main.exe: CMakeFiles/main.dir/linkLibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
 main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\VSCode\airborne-crew\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 	"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/VSCode/airborne-crew/src/../libs/LIBSFML/win64/bin C:/VSCode/airborne-crew
 	"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/VSCode/airborne-crew/src/../libs/LIBTGUI/win64/bin C:/VSCode/airborne-crew

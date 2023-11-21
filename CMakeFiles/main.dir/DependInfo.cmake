@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/VSCode/airborne-crew/src/gui/coords.cpp" "CMakeFiles/main.dir/gui/coords.cpp.obj" "gcc" "CMakeFiles/main.dir/gui/coords.cpp.obj.d"
   "C:/VSCode/airborne-crew/src/gui/fps.cpp" "CMakeFiles/main.dir/gui/fps.cpp.obj" "gcc" "CMakeFiles/main.dir/gui/fps.cpp.obj.d"
   "C:/VSCode/airborne-crew/src/gui/menu.cpp" "CMakeFiles/main.dir/gui/menu.cpp.obj" "gcc" "CMakeFiles/main.dir/gui/menu.cpp.obj.d"
+  "C:/VSCode/airborne-crew/src/gui/separator.cpp" "CMakeFiles/main.dir/gui/separator.cpp.obj" "gcc" "CMakeFiles/main.dir/gui/separator.cpp.obj.d"
   "C:/VSCode/airborne-crew/src/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
   "C:/VSCode/airborne-crew/src/objects/plane.cpp" "CMakeFiles/main.dir/objects/plane.cpp.obj" "gcc" "CMakeFiles/main.dir/objects/plane.cpp.obj.d"
   )

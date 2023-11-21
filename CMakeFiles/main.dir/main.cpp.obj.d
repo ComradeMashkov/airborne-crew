@@ -2135,4 +2135,5 @@ CMakeFiles/main.dir/main.cpp.obj: C:\VSCode\airborne-crew\src\main.cpp \
  C:/boost_1_83_0/boost/log/attributes/current_thread_id.hpp \
  C:/boost_1_83_0/boost/log/detail/thread_id.hpp \
  C:\VSCode\airborne-crew\src\gui/coords.h \
- C:\VSCode\airborne-crew\src\gui/menu.h
+ C:\VSCode\airborne-crew\src\gui/menu.h \
+ C:\VSCode\airborne-crew\src\gui/separator.h
