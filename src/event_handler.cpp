@@ -62,7 +62,9 @@ void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::
 
 // Метод, отвечающий за передвижение круга
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
-    plane.SetTargetPosition(mousePosition);
+    if (plane.GetToDraw()) {
+        plane.SetTargetPosition(mousePosition);
+    }
 }
 
 // Системный метод для передачи логгера в EventHandler
