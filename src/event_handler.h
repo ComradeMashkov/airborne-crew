@@ -40,6 +40,7 @@ public:
 
 public:
     static log_handler::LogHandler* logger_;
+    static sf::Texture* plane_texture_;
 };
 
 } // namespace event_handler

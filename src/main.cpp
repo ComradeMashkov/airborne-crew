@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
 
     // Создаем спрайт карты
     sf::Texture map_texture;
-    map_texture.loadFromFile("../meta/map.jpeg");
+    map_texture.loadFromFile("../meta/map.png");
     sf::Sprite map_sprite(map_texture);
 
     // Создаем логгер, выводящий все в файл (папка logs)

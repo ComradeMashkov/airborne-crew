@@ -4,6 +4,7 @@ namespace event_handler {
 
 // Для статического поля обязательна предварительная инициализация
 log_handler::LogHandler* EventHandler::logger_ = nullptr;
+sf::Texture* EventHandler::plane_texture_ = nullptr;
 
 // Метод, отвечающий за кнопку Debug -> Show FPS
 void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
@@ -34,10 +35,13 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 // Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
-        sf::CircleShape c(objects::CIRCLE_SIZE.x);
-        c.setPosition({ 50.f, 50.f });
-        c.setFillColor(sf::Color::Red);
-        plane.SetPrimitive(c);
+        plane_texture_ = new sf::Texture;
+        plane_texture_->loadFromFile("/Users/comrademashkov/Desktop/PO/main/airborne-crew/meta/plane_test.png");
+        sf::Sprite plane_sprite;
+        plane_sprite.setTexture(*plane_texture_);
+        plane_sprite.setPosition({ 50.f, 50.f });
+        plane_sprite.setScale({ 0.02f, 0.02f });
+        plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);
         plane.SetTargetPosition({ 50.f, 50.f });
     }
@@ -47,12 +51,13 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
 void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Finish") {
         plane.SetToDraw(false);
+        delete plane_texture_;
     }
 }
 
 // Метод, отвечающий за передвижение круга
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
-    plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
+    plane.SetTargetPosition(mousePosition - plane.GetPlaneSize());
 }
 
 // Системный метод для передачи логгера в EventHandler
