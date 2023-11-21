@@ -69,6 +69,10 @@ int main(int argc, char* argv[]) {
                 case sf::Event::Resized:
                     canvas.SetSize(event.size.width * 0.6, event.size.height * 0.6);
                     menu.SetTextSize(event.size.height * 0.025);
+                    vline.SetPosition(event.size.width * 0.6 - vline.GetSize().x / 2, 0);
+                    hline.SetPosition(0, event.size.height * 0.6 - hline.GetSize().y / 2);
+                    vline.SetSize(2, event.size.height);
+                    hline.SetSize(event.size.width, 2);
                     break;
                 case sf::Event::MouseMoved:
                     tgui::String text{ std::to_string(event.mouseMove.x) + " " + std::to_string(event.mouseMove.y) };
