@@ -4,6 +4,7 @@ namespace event_handler {
 
 // Для статического поля обязательна предварительная инициализация
 log_handler::LogHandler* EventHandler::logger_ = nullptr;
+sf::Texture* EventHandler::plane_texture_ = nullptr;
 
 // Метод, отвечающий за кнопку Debug -> Show FPS
 void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem) {
@@ -34,12 +35,13 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 // Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
-        sf::RectangleShape c(objects::CIRCLE_SIZE);
-        c.setOrigin(objects::CIRCLE_SIZE.x/2.0,objects::CIRCLE_SIZE.y);
-        c.setPosition({ 50.f, 50.f });
-        c.setRotation(0);
-        c.setFillColor(sf::Color::Yellow);
-        plane.SetPrimitive(c);
+        plane_texture_ = new sf::Texture;
+        plane_texture_->loadFromFile("../meta/plane_test.png");
+        sf::Sprite plane_sprite;
+        plane_sprite.setTexture(*plane_texture_);
+        plane_sprite.setPosition({ 50.f, 50.f });
+        plane_sprite.setScale({ 0.02f, 0.02f });
+        plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);
         plane.SetTargetPosition({ 50.f, 50.f });
     }
@@ -49,6 +51,7 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
 void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Finish") {
         plane.SetToDraw(false);
+        delete plane_texture_;
     }
 }
 

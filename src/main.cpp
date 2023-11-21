@@ -2,6 +2,7 @@
 #include "gui/coords.h"
 #include "gui/fps.h"
 #include "gui/menu.h"
+#include "gui/separator.h"
 #include "objects/plane.h"
 
 using namespace gui_wrapper;
@@ -12,6 +13,11 @@ int main(int argc, char* argv[]) {
     sf::RenderWindow window{ {800, 600}, "Dispatch window" };
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60); - ограничитель кадров
+
+    // Создаем спрайт карты
+    sf::Texture map_texture;
+    map_texture.loadFromFile("../meta/map.png");
+    sf::Sprite map_sprite(map_texture);
 
     // Создаем логгер, выводящий все в файл (папка logs)
     log_handler::LogHandler logger("../logs/sample.log");
@@ -36,9 +42,17 @@ int main(int argc, char* argv[]) {
     UpperMenu menu;
     menu.InitializeMenu(gui, plane, frame_rate_label);
 
+    VerticalLine vline;
+    vline.InitializeLine(window);
+
+    HorizontalLine hline;
+    hline.InitializeLine(window);
+
     // Добавляем все объекты в наш интерфейс
-    gui.add(menu.GetMenu());
     gui.add(canvas.GetCanvas());
+    gui.add(vline.GetLine());
+    gui.add(hline.GetLine());
+    gui.add(menu.GetMenu());
     gui.add(coords_label.GetLabel());
     gui.add(frame_rate_label.GetLabel());
 
@@ -52,6 +66,14 @@ int main(int argc, char* argv[]) {
                 case sf::Event::Closed:
                     window.close();
                     break;
+                case sf::Event::Resized:
+                    canvas.SetSize(event.size.width * 0.6, event.size.height * 0.6);
+                    menu.SetTextSize(event.size.height * 0.025);
+                    vline.SetPosition(event.size.width * 0.6 - vline.GetSize().x / 2, 0);
+                    hline.SetPosition(0, event.size.height * 0.6 - hline.GetSize().y / 2);
+                    vline.SetSize(2, event.size.height);
+                    hline.SetSize(event.size.width, 2);
+                    break;
                 case sf::Event::MouseMoved:
                     tgui::String text{ std::to_string(event.mouseMove.x) + " " + std::to_string(event.mouseMove.y) };
                     coords_label.SetLabelText(text);
@@ -63,13 +85,14 @@ int main(int argc, char* argv[]) {
 
         plane.Control();
         
-        canvas.GetCanvas()->clear(sf::Color{ 28, 170, 214 });
+        canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
+        canvas.GetCanvas()->draw(map_sprite);
         if (plane.GetToDraw()) {
             canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }
         canvas.GetCanvas()->display();
 
-        window.clear(sf::Color{ 211, 211, 211 });
+        window.clear(sf::Color{ 255, 255, 255 });
         gui.draw();
         window.display();
     }

@@ -11,13 +11,15 @@ class Plane {
 public:
     Plane() = default;
 
-    void SetPrimitive(const sf::RectangleShape& square);
+    void SetPrimitive(const sf::Sprite& circle);
 
     void SetToDraw(bool to_draw);
 
     void SetTargetPosition(const sf::Vector2f& target_position);
 
-    sf::RectangleShape GetPrimitive() const;
+    void SetRotation(float angle);
+
+    sf::Sprite GetPrimitive() const;
 
     float GetSpeed() const;
 
@@ -25,11 +27,15 @@ public:
 
     sf::Vector2f GetTargetPosition() const;
 
+    sf::Vector2f GetCurrentPosition() const;
+
+    sf::Vector2f GetPlaneSize() const;
+
     void Control();
 
 private:
-    sf::RectangleShape plane_;
-    float speed_ = 0.05f;
+    sf::Sprite plane_;
+    float speed_ = 0.02f;
     bool to_draw_ = true;
     sf::Vector2f target_position_ = {0.f, 0.f};
     int angle = 0;
