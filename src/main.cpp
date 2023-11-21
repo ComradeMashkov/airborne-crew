@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 
         plane.Control();
         
-        canvas.GetCanvas()->clear(sf::Color{ 211, 211, 211 });
+        canvas.GetCanvas()->clear(sf::Color{ 28, 170, 214 });
         if (plane.GetToDraw()) {
             canvas.GetCanvas()->draw(plane.GetPrimitive()); 
         }

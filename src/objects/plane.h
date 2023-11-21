@@ -5,19 +5,19 @@
 
 namespace objects {
 
-const sf::Vector2f CIRCLE_SIZE = { 50.f, 50.f };
+const sf::Vector2f CIRCLE_SIZE = { 25.f, 25.f };
 
 class Plane {
 public:
     Plane() = default;
 
-    void SetPrimitive(const sf::CircleShape& circle);
+    void SetPrimitive(const sf::RectangleShape& square);
 
     void SetToDraw(bool to_draw);
 
     void SetTargetPosition(const sf::Vector2f& target_position);
 
-    sf::CircleShape GetPrimitive() const;
+    sf::RectangleShape GetPrimitive() const;
 
     float GetSpeed() const;
 
@@ -28,7 +28,7 @@ public:
     void Control();
 
 private:
-    sf::CircleShape plane_;
+    sf::RectangleShape plane_;
     float speed_ = 0.05f;
     bool to_draw_ = true;
     sf::Vector2f target_position_ = {0.f, 0.f};

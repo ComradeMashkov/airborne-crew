@@ -2,8 +2,8 @@
 
 namespace objects {
 
-void Plane::SetPrimitive(const sf::CircleShape& circle) {
-    plane_ = circle;
+void Plane::SetPrimitive(const sf::RectangleShape& square) {
+    plane_ = square;
 }
 
 void Plane::SetToDraw(bool to_draw) {
@@ -14,7 +14,7 @@ void Plane::SetTargetPosition(const sf::Vector2f& target_position) {
     target_position_ = target_position;
 }
 
-sf::CircleShape Plane::GetPrimitive() const {
+sf::RectangleShape Plane::GetPrimitive() const {
     return plane_;
 }
 
