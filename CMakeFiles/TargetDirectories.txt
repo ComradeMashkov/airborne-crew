@@ -1,3 +1,0 @@
-C:/VSCode/airborne-crew/CMakeFiles/main.dir
-C:/VSCode/airborne-crew/CMakeFiles/edit_cache.dir
-C:/VSCode/airborne-crew/CMakeFiles/rebuild_cache.dir
