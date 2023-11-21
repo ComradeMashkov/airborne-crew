@@ -14,10 +14,6 @@ void Plane::SetTargetPosition(const sf::Vector2f& target_position) {
     target_position_ = target_position;
 }
 
-void Plane::SetRotation(float angle) {
-    plane_.rotate(angle);
-}
-
 sf::Sprite Plane::GetPrimitive() const {
     return plane_;
 }
