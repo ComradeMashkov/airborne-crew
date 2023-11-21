@@ -35,7 +35,9 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
         sf::RectangleShape c(objects::CIRCLE_SIZE);
+        c.setOrigin(objects::CIRCLE_SIZE.x/2.0,objects::CIRCLE_SIZE.y);
         c.setPosition({ 50.f, 50.f });
+        c.setRotation(0);
         c.setFillColor(sf::Color::Yellow);
         plane.SetPrimitive(c);
         plane.SetToDraw(true);
@@ -52,7 +54,7 @@ void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::
 
 // Метод, отвечающий за передвижение круга
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
-    plane.SetTargetPosition(mousePosition - objects::CIRCLE_SIZE);
+    plane.SetTargetPosition(mousePosition);
 }
 
 // Системный метод для передачи логгера в EventHandler

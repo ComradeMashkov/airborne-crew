@@ -32,6 +32,7 @@ private:
     float speed_ = 0.05f;
     bool to_draw_ = true;
     sf::Vector2f target_position_ = {0.f, 0.f};
+    int angle = 0;
 };
 
 } // namespace objects
