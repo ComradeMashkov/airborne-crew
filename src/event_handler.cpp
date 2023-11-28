@@ -22,7 +22,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
         auto messageBox = tgui::MessageBox::create();
         messageBox->setPosition("(&.size - size) / 2");
-        messageBox->setText("This program was developed by comrademashkov");
+        messageBox->setText("This program was developed by airborne-crew team");
         messageBox->addButton("OK");
         messageBox->setButtonAlignment(tgui::MessageBox::Alignment::Center);
         messageBox->onButtonPress([msgBox = messageBox.get()] (const tgui::String& button) {
