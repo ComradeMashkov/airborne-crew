@@ -22,7 +22,7 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
         auto messageBox = tgui::MessageBox::create();
         messageBox->setPosition("(&.size - size) / 2");
-        messageBox->setText("This program was developed by comrademashkov");
+        messageBox->setText("This program was developed by airborne-crew team");
         messageBox->addButton("OK");
         messageBox->setButtonAlignment(tgui::MessageBox::Alignment::Center);
         messageBox->onButtonPress([msgBox = messageBox.get()] (const tgui::String& button) {
@@ -41,12 +41,14 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
 
         sf::Sprite plane_sprite;
         plane_sprite.setTexture(*plane_texture_);
-        
-        plane_sprite.setPosition({ 50.f, 50.f });
-        plane_sprite.setScale({ 0.02f, 0.02f });
+        sf::Vector2u texture_size = plane_texture_ ->getSize();
+        sf::Vector2f plane_scale = plane_sprite.getScale();
+        plane_sprite.setScale({ objects::PLANE_SIZE.x/texture_size.x, objects::PLANE_SIZE.y/texture_size.y });
+        plane_sprite.setOrigin(texture_size.x/2,texture_size.y);
+        plane_sprite.setPosition({ 100.f, 100.f });
         plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);
-        plane.SetTargetPosition({ 50.f, 50.f });
+        plane.SetTargetPosition({ 100.f, 100.f });
     }
 }
 
@@ -61,7 +63,7 @@ void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::
 // Метод, отвечающий за передвижение круга
 void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     if (plane.GetToDraw()) {
-        plane.SetTargetPosition(mousePosition - plane.GetPlaneSize());
+        plane.SetTargetPosition(mousePosition);
     }
 }
 

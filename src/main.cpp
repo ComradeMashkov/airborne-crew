@@ -56,6 +56,7 @@ int main(int argc, char* argv[]) {
     gui.add(coords_label.GetLabel());
     gui.add(frame_rate_label.GetLabel());
 
+
     // ОСНОВНОЙ ПРОГРАММНЫЙ ЦИКЛ
     while (window.isOpen()) {
         sf::Event event;
