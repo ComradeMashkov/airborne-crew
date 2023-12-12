@@ -1,5 +1,7 @@
 #pragma once
 
+#include "../global_parameters.h"
+
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 
@@ -7,7 +9,7 @@ namespace gui_wrapper {
 
 class Line {
 public:
-    virtual void InitializeLine(const sf::RenderWindow& window) = 0;
+    virtual void InitializeLine() = 0;
 
     virtual void SetPosition(tgui::Layout x, tgui::Layout y) = 0;
 
@@ -24,7 +26,7 @@ class VerticalLine final : public Line {
 public:
     VerticalLine() = default;
 
-    void InitializeLine(const sf::RenderWindow& window) override;
+    void InitializeLine() override;
 
     void SetPosition(tgui::Layout x, tgui::Layout y) override;
 
@@ -42,7 +44,9 @@ class HorizontalLine final : public Line {
 public:
     HorizontalLine() = default;
 
-    void InitializeLine(const sf::RenderWindow& window) override;
+    void InitializeLine() override;
+
+    void InitializeLine(tgui::Layout x, tgui::Layout y, tgui::Layout width, tgui::Layout height);
 
     void SetPosition(tgui::Layout x, tgui::Layout y) override;
 

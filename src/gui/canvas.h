@@ -1,6 +1,7 @@
 #pragma once
 
 #include "../event_handler.h"
+#include "../global_parameters.h"
 
 namespace gui_wrapper {
 
@@ -19,7 +20,7 @@ public:
     tgui::Vector2f GetSize() const;
 
 private:
-    tgui::CanvasSFML::Ptr canvas_ = tgui::CanvasSFML::create({ 400, 300 });
+    tgui::CanvasSFML::Ptr canvas_ = tgui::CanvasSFML::create();
 };
 
 } // namespace gui_wrapper

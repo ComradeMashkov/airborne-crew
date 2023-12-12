@@ -24,14 +24,23 @@ if (CMAKE_SYSTEM_NAME MATCHES "Windows")
     set(Boost_ATOMIC_LIBRARY ${BOOST_DIR}/stage/lib)
 endif()
 
-set(GUI gui/menu.h gui/menu.cpp gui/coords.h gui/coords.cpp gui/canvas.h gui/canvas.cpp gui/fps.h gui/fps.cpp gui/separator.h gui/separator.cpp)
+set(MENU gui/menu.h gui/menu.cpp)
+set(LABELS gui/label_base.h gui/text_label.h gui/text_label.cpp gui/coords.h gui/coords.cpp gui/fps.h gui/fps.cpp gui/stamp.h gui/stamp.cpp)
+set(CANVAS gui/canvas.h gui/canvas.cpp)
+set(SEPARATOR gui/separator.h gui/separator.cpp)
+set(GUI ${MENU} ${LABELS} ${CANVAS} ${SEPARATOR})
+
 set(EVENT_HANDLER event_handler.h event_handler.cpp)
+
 set(OBJECTS objects/plane.h objects/plane.cpp)
+
 set(UTILS ../utils/log_handler.h)
+
+set(CONST global_parameters.h)
 
 find_package(Boost 1.83.0 REQUIRED COMPONENTS log_setup log)
 
-add_executable(main main.cpp ${GUI} ${EVENT_HANDLER} ${OBJECTS} ${UTILS})
+add_executable(main main.cpp ${GUI} ${EVENT_HANDLER} ${OBJECTS} ${UTILS} ${CONST})
 
 if (CMAKE_SYSTEM_NAME MATCHES "Windows")
     target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/win64/include")

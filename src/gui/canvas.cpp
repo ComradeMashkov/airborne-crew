@@ -5,8 +5,8 @@ using namespace event_handler;
 namespace gui_wrapper {
 
 void Canvas::InitializeCanvas(objects::Plane& plane) {
-    canvas_->setWidth("&.width * 0.6");
-    canvas_->setHeight("&.height * 0.6");
+    canvas_->setWidth(global_parameters::CANVAS_WIDTH);
+    canvas_->setHeight(global_parameters::CANVAS_HEIGHT);
     canvas_->setAutoLayout(tgui::AutoLayout::Manual);
     canvas_->onMousePress(&EventHandler::moveCircle, std::ref(plane));
 }

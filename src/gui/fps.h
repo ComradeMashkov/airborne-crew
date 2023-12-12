@@ -1,17 +1,19 @@
 #pragma once
 
-#include <TGUI/TGUI.hpp>
-#include <TGUI/Backend/SFML-Graphics.hpp>
+#include "../global_parameters.h"
+#include "label_base.h"
 
 namespace gui_wrapper {
 
-class FrameRateLabel {
+class FrameRateLabel final : public LabelBase {
 public:
     FrameRateLabel() = default;
 
-    void InitializeFrameRateLabel();
+    void InitializeLabel() override;
 
-    tgui::Label::Ptr GetLabel() const;
+    tgui::Label::Ptr GetLabel() const override;
+
+    void SetLabelText(const tgui::String& text) override;
 
     float GetFrameRate() const;
 

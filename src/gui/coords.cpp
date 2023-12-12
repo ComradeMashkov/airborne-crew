@@ -2,16 +2,16 @@
 
 namespace gui_wrapper {
 
-void CoordsLabel::InitializeCoordsLabel() {
-    label_->setPosition({ "&.left + 7", "&.bottom - 15" });
-}
-
-void CoordsLabel::SetLabelText(const tgui::String& text) {
-    label_->setText(text);
+void CoordsLabel::InitializeLabel() {
+    label_->setPosition({ global_parameters::COORDS_LABEL_X, global_parameters::COORDS_LABEL_Y });
 }
 
 tgui::Label::Ptr CoordsLabel::GetLabel() const {
     return label_;
+}
+
+void CoordsLabel::SetLabelText(const tgui::String& text) {
+    label_->setText(text);
 }
 
 } // namespace gui_wrapper
