@@ -1,15 +1,16 @@
 #pragma once
 
-#include "../global_parameters.h"
 #include "label_base.h"
 
 namespace gui_wrapper {
 
-class CoordsLabel final : public LabelBase {
+class TextLabel final : public LabelBase {
 public:
-    CoordsLabel() = default;
+    TextLabel() = default;
 
-    void InitializeLabel() override;
+    void InitializeLabel() override {}
+
+    void InitializeLabel(const tgui::Layout2d &position, int text_size);
 
     tgui::Label::Ptr GetLabel() const override;
 

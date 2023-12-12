@@ -5,10 +5,10 @@ using namespace event_handler;
 namespace gui_wrapper {
 
 void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps) {
-    upper_menu_->setWidth("&.width");
-    upper_menu_->setHeight("&.height * 0.035");
+    upper_menu_->setWidth(global_parameters::MENU_WIDTH);
+    upper_menu_->setHeight(global_parameters::MENU_HEIGHT);
     upper_menu_->setAutoLayout(tgui::AutoLayout::Manual);
-    upper_menu_->setTextSize(gui.getWindow()->getSize().y * 0.025);
+    upper_menu_->setTextSize(global_parameters::MENU_FONTSIZE);
 
     upper_menu_->addMenu("Program");
     upper_menu_->addMenuItem("Start");
@@ -27,14 +27,6 @@ void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateL
 
 tgui::MenuBar::Ptr UpperMenu::GetMenu() const {
     return upper_menu_;
-}
-
-void UpperMenu::SetSize(tgui::Layout width, tgui::Layout height) {
-    upper_menu_->setSize(width, height);
-}
-
-void UpperMenu::SetTextSize(unsigned int size) {
-    upper_menu_->setTextSize(size);
 }
 
 } // namespace gui_wrapper
