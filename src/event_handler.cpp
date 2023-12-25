@@ -3,7 +3,7 @@
 namespace event_handler {
 
 // Для статического поля обязательна предварительная инициализация
-log_handler::LogHandler* EventHandler::logger_ = nullptr;
+utils::log_handler::LogHandler* EventHandler::logger_ = nullptr;
 sf::Texture* EventHandler::plane_texture_ = nullptr;
 
 // Метод, отвечающий за кнопку Debug -> Show FPS
@@ -38,6 +38,8 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 // Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
+        delete plane_texture_;
+
         logger_->LogTrivial(boost::log::trivial::severity_level::info, "The plane object has been loaded");
 
         plane_texture_ = new sf::Texture;
@@ -76,7 +78,7 @@ void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePo
 }
 
 // Системный метод для передачи логгера в EventHandler
-void EventHandler::SetLogger(log_handler::LogHandler* logger) {
+void EventHandler::SetLogger(utils::log_handler::LogHandler* logger) {
     logger_ = logger;
 }
 

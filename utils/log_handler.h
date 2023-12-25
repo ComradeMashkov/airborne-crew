@@ -16,6 +16,8 @@
    Реализация здесь же.
 */
 
+namespace utils {
+
 namespace log_handler {
 
 namespace logging = boost::log;
@@ -75,3 +77,5 @@ private:
 };
 
 } // namespace log_handler
+
+} // namespace utils

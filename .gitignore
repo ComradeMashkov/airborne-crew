@@ -6,3 +6,4 @@ libs/.DS_Store
 cmake_build/
 logs/
 CMakeFiles/
+utils/weather.json

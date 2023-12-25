@@ -36,10 +36,10 @@ public:
 
     static void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition);
 
-    static void SetLogger(log_handler::LogHandler* logger);
+    static void SetLogger(utils::log_handler::LogHandler* logger);
 
 public:
-    static log_handler::LogHandler* logger_;
+    static utils::log_handler::LogHandler* logger_;
     static sf::Texture* plane_texture_;
 };
 

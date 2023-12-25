@@ -10,9 +10,12 @@
 
 #include "objects/plane.h"
 
+#include "../utils/weather_handler.h"
+
 using namespace global_parameters;
 using namespace gui_wrapper;
 using namespace objects;
+using namespace utils;
 
 int main(int argc, char* argv[]) {
     // Создаем и инициализируем окно размером 800х600 и заголовком
@@ -73,13 +76,71 @@ int main(int argc, char* argv[]) {
     TextLabel time_text_label;
     time_text_label.SetLabelText("Время");
     time_text_label.InitializeLabel({ TT_LABEL_X, TT_LABEL_Y }, TEXT_LABELS_FONTSIZE);
+    gui.add(time_text_label.GetLabel());
 
     TextLabel weather_text_label;
     weather_text_label.SetLabelText("Погода");
     weather_text_label.InitializeLabel({ TW_LABEL_X, TW_LABEL_Y }, TEXT_LABELS_FONTSIZE);
-    
-    gui.add(time_text_label.GetLabel());
     gui.add(weather_text_label.GetLabel());
+
+    TextLabel temperature_text_label;
+    temperature_text_label.SetLabelText("Температура");
+    temperature_text_label.InitializeLabel({ TEMP_TEXT_LABEL_X, TEMP_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(temperature_text_label.GetLabel());
+
+    TextLabel pressure_text_label;
+    pressure_text_label.SetLabelText("Давление");
+    pressure_text_label.InitializeLabel({ PRESSURE_TEXT_LABEL_X, PRESSURE_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(pressure_text_label.GetLabel());
+
+    TextLabel humidity_text_label;
+    humidity_text_label.SetLabelText("Влажность");
+    humidity_text_label.InitializeLabel({ HUMIDITY_TEXT_LABEL_X, HUMIDITY_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(humidity_text_label.GetLabel());
+
+    TextLabel wind_speed_text_label;
+    wind_speed_text_label.SetLabelText("Скорость ветра");
+    wind_speed_text_label.InitializeLabel({ WIND_SPEED_TEXT_LABEL_X, WIND_SPEED_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(wind_speed_text_label.GetLabel());
+
+    TextLabel times_of_day_text_label;
+    times_of_day_text_label.SetLabelText("Время суток");
+    times_of_day_text_label.InitializeLabel({ TIMES_OF_DAY_TEXT_LABEL_X, TIMES_OF_DAY_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(times_of_day_text_label.GetLabel());
+
+    // Погода
+    weather_handler::WeatherHandler weather;
+    weather.Initialize();
+
+    TextLabel temperature_label;
+    temperature_label.SetLabelText(weather.temperature + " °C");
+    temperature_label.InitializeLabel({ TEMP_LABEL_X, TEMP_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(temperature_label.GetLabel());
+
+    TextLabel pressure_label;
+    pressure_label.SetLabelText(weather.pressure + "  мбар");
+    pressure_label.InitializeLabel({ PRESSURE_LABEL_X, PRESSURE_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(pressure_label.GetLabel());
+
+    TextLabel humidity_label;
+    humidity_label.SetLabelText(weather.humidity + " %");
+    humidity_label.InitializeLabel({ HUMIDITY_LABEL_X, HUMIDITY_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(humidity_label.GetLabel());
+
+    TextLabel wind_speed_label;
+    wind_speed_label.SetLabelText(weather.wind_speed + " км/ч");
+    wind_speed_label.InitializeLabel({ WIND_SPEED_LABEL_X, WIND_SPEED_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(wind_speed_label.GetLabel());
+
+    TextLabel wind_dir_label;
+    wind_dir_label.SetLabelText(weather.wind_dir);
+    wind_dir_label.InitializeLabel({ WIND_DIR_LABEL_X, WIND_DIR_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(wind_dir_label.GetLabel());
+
+    TextLabel times_of_day_label;
+    times_of_day_label.SetLabelText(weather.times_of_day);
+    times_of_day_label.InitializeLabel({ TIMES_OF_DAY_LABEL_X, TIMES_OF_DAY_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(times_of_day_label.GetLabel());
 
     // Создаем логгер, выводящий все в файл (папка logs)
     log_handler::LogHandler logger("../logs/sample.log");
