@@ -34,11 +34,12 @@ set(EVENT_HANDLER event_handler.h event_handler.cpp)
 
 set(OBJECTS objects/plane.h objects/plane.cpp)
 
-set(UTILS ../utils/log_handler.h)
+set(UTILS ../utils/log_handler.h ../utils/weather_handler.h)
 
 set(CONST global_parameters.h)
 
 find_package(Boost 1.83.0 REQUIRED COMPONENTS log_setup log)
+find_package(CURL 7.85.0 REQUIRED)
 
 add_executable(main main.cpp ${GUI} ${EVENT_HANDLER} ${OBJECTS} ${UTILS} ${CONST})
 
@@ -74,5 +75,6 @@ else()
     target_link_libraries(main "${LIBS_DIR}/LIBSFML/osx/lib/libsfml-system.dylib")
     target_link_libraries(main "${LIBS_DIR}/LIBTGUI/osx/lib/libtgui.dylib")
     target_link_libraries(main ${Boost_LIBRARIES})
+    target_link_libraries(main ${CURL_LIBRARIES})
 endif()
 
