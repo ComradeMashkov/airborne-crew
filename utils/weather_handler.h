@@ -83,13 +83,14 @@ private:
         std::ofstream outfile{ outfile_path };
         const std::string query = "https://api.weatherapi.com/v1/current.json?key=" + api_key + "&q=" + region + "&aqi=no";
 
+        curl_easy_setopt(curl, CURLOPT_CAINFO, "../libs/LIBCURL/win64/bin/curl-ca-bundle.crt");
         curl_easy_setopt(curl, CURLOPT_URL, query.c_str());
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &buffer);
         res = curl_easy_perform(curl);
 
         if (res != CURLE_OK) {
-            outfile << "Failed to get data:" << curl_easy_strerror(res) << '\n';
+            outfile << "Failed to get data: " << curl_easy_strerror(res) << '\n';
         } 
         else {
             outfile << buffer << '\n';
