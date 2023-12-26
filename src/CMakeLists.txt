@@ -47,7 +47,7 @@ set(UTILS ../utils/log_handler.h ../utils/weather_handler.h)
 set(CONST global_parameters.h)
 
 find_package(Boost 1.83.0 REQUIRED COMPONENTS log_setup log)
-find_package(CURL 7.85.0 REQUIRED)
+find_package(CURL 7.81.0 REQUIRED)
 
 add_executable(main main.cpp ${GUI} ${EVENT_HANDLER} ${OBJECTS} ${UTILS} ${CONST})
 
@@ -77,6 +77,17 @@ if (CMAKE_SYSTEM_NAME MATCHES "Windows")
     add_custom_command(TARGET main POST_BUILD COMMAND ${CMAKE_COMMAND} -E copy_directory "${SFML_DLL_PATH}" $<TARGET_FILE_DIR:main>)
     add_custom_command(TARGET main POST_BUILD COMMAND ${CMAKE_COMMAND} -E copy_directory "${TGUI_DLL_PATH}" $<TARGET_FILE_DIR:main>)
     add_custom_command(TARGET main POST_BUILD COMMAND ${CMAKE_COMMAND} -E copy_directory "${CURL_DLL_PATH}" $<TARGET_FILE_DIR:main>)
+
+elseif(CMAKE_SYSTEM_NAME MATCHES "Linux")
+    target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/linux/include")
+    target_include_directories(main PUBLIC "${LIBS_DIR}/LIBTGUI/linux/include")
+
+    target_link_libraries(main "${LIBS_DIR}/LIBSFML/linux/lib/libsfml-graphics.so")
+    target_link_libraries(main "${LIBS_DIR}/LIBSFML/linux/lib/libsfml-window.so")
+    target_link_libraries(main "${LIBS_DIR}/LIBSFML/linux/lib/libsfml-system.so")
+    target_link_libraries(main "${LIBS_DIR}/LIBTGUI/linux/lib/libtgui.so")
+    target_link_libraries(main ${Boost_LIBRARIES})
+    target_link_libraries(main ${CURL_LIBRARIES})
 
 else()
     target_include_directories(main PUBLIC "${LIBS_DIR}/LIBSFML/osx/include")
