@@ -15,7 +15,7 @@
 
 ## weather_handler
 ### Поля класса:
-  *Приватные*
+  *Приватные*  
 *is_day* — время дня: вечер/день\
 *wind_angle* — направление ветра\
 *std::string settings_path* — путь до файла weather_settings.txt (файл с настройками API-запроса)\
@@ -23,7 +23,7 @@
 *std::string region* — регион запроса\
 *std::string outfile_path* — местоположение файла с выходными данными\
 *std::string buffer* — промежуточный буффер\
-  *Публичные*
+  *Публичные*  
 *std::string temperature* — температура\
 *std::string pressure* — давление\
 *std::string humidity* — влажность  
