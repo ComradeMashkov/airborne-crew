@@ -34,7 +34,7 @@ int main(int argc, char* argv[]) {
     // Создаем и инициализируем окно размером 800х600 и заголовком
     sf::RenderWindow window{ { WIDTH, HEIGHT }, "Dispatch window", sf::Style::Titlebar | sf::Style::Close };
     tgui::Gui gui{ window };
-    // window.setFramerateLimit(60); // ограничитель кадров
+    window.setFramerateLimit(60); // ограничитель кадров
 
     // Горизонтальная линия, отделяющая блок времени от блока погоды
     HorizontalLine time_weather_hline;
@@ -65,7 +65,7 @@ int main(int argc, char* argv[]) {
 
     // Спрайт карты
     sf::Texture map_texture;
-    map_texture.loadFromFile("../meta/map.png");
+    map_texture.loadFromFile("../meta/tst2.png"); //map.png
     sf::Sprite map_sprite(map_texture);
 
     // Метка кадров в секунду
@@ -179,6 +179,12 @@ int main(int argc, char* argv[]) {
     times_of_day_label.InitializeLabel({ TIMES_OF_DAY_LABEL_X, TIMES_OF_DAY_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
     gui.add(times_of_day_label.GetLabel());
 
+    //Координаты самолета
+    TextLabel plane_coordinates_label;
+    plane_coordinates_label.SetLabelText(plane.coordinates);
+    plane_coordinates_label.InitializeLabel({ PLANE_COORDINATES_LABEL_X, PLANE_COORDINATES_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(plane_coordinates_label.GetLabel());
+
     aviation_thread.wait();
 
     for (int i = 0; i < aviation.fcount; ++i) {
@@ -233,6 +239,7 @@ int main(int argc, char* argv[]) {
         frame_rate_label.CalculateFrameRate();
 
         plane.Control();
+        plane_coordinates_label.SetLabelText(plane.coordinates);
         
         canvas.GetCanvas()->clear(sf::Color{ CANVAS_DEFAULT_COLOR.r, CANVAS_DEFAULT_COLOR.g, CANVAS_DEFAULT_COLOR.b });
         canvas.GetCanvas()->draw(map_sprite);
