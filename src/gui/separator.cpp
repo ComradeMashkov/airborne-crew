@@ -8,6 +8,12 @@ void VerticalLine::InitializeLine() {
     line_->getRenderer()->setBackgroundColor(sf::Color::Black);
 }
 
+void VerticalLine::InitializeLine(tgui::Layout x, tgui::Layout y, tgui::Layout width, tgui::Layout height) {
+    line_->setSize(height, width);
+    line_->setPosition(x, y);
+    line_->getRenderer()->setBackgroundColor(sf::Color::Black); 
+}
+
 void VerticalLine::SetPosition(tgui::Layout x, tgui::Layout y) {
     line_->setPosition(x, y);
 }
