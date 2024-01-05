@@ -11,7 +11,7 @@
 *sf::Vector2f target_position_* — двумерный вектор целевых координат в библиотеке SFML\
 
 **Методы класса**\
-*SetPrimitive(const sf::Sprite& circle)* — устанавливает в качестве изображения объекта переданую картинку /(самолет/)\
+*SetPrimitive(const sf::Sprite& circle)* — устанавливает в качестве изображения объекта переданую картинку\
 *SetToDraw(bool to_draw)* — устанавливает флаг to_draw_\
 *SetTargetPosition(const sf::Vector2f& target_position)* — обновляет целевую точку\
 *Plane::GetPrimitive()* — возвращает текстуру объекта\
