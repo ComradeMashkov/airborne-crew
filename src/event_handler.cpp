@@ -50,7 +50,7 @@ void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::S
         sf::Vector2u texture_size = plane_texture_ ->getSize();
         sf::Vector2f plane_scale = plane_sprite.getScale();
         plane_sprite.setScale({ objects::PLANE_SIZE.x/texture_size.x, objects::PLANE_SIZE.y/texture_size.y });
-        plane_sprite.setOrigin(texture_size.x/2,texture_size.y);
+        plane_sprite.setOrigin(texture_size.x/2,texture_size.y/2);
         plane_sprite.setPosition({ 100.f, 100.f });
         plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);

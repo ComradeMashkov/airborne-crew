@@ -59,6 +59,14 @@ constexpr size_t WIND_DIR_LABEL_Y = WIND_SPEED_LABEL_Y;
 constexpr size_t TIMES_OF_DAY_TEXT_LABEL_X = WIDTH - 200;
 constexpr size_t TIMES_OF_DAY_TEXT_LABEL_Y = 280;
 
+constexpr size_t PLANE_COORDINATES_LABEL_X = WIDTH - 200;
+constexpr size_t PLANE_COORDINATES_LABEL_Y = 340;
+
+constexpr float MAP_TOP_COORDINATES = 39.089530;
+constexpr float MAP_LEFT_COORDINATES = -77.347776;
+constexpr float MAP_WIDTH = 0.61268;
+constexpr float MAP_HEIGHT = -0.36113;
+
 constexpr size_t TIMES_OF_DAY_LABEL_X = TIMES_OF_DAY_TEXT_LABEL_X + 20;
 constexpr size_t TIMES_OF_DAY_LABEL_Y = TIMES_OF_DAY_TEXT_LABEL_Y + 20;
 

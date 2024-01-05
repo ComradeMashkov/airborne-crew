@@ -30,10 +30,15 @@ public:
     sf::Vector2f GetPlaneSize() const;
 
     void Control();
+    std::string coordinates = "HelloWorld!";
 
 private:
+    float angle_speed = 0.01f;
+    float angle = 0;
+    float target_angle = 0;
+    bool tracking_target = false;
     sf::Sprite plane_;
-    float speed_ = 0.02f;
+    float speed_ = 0.5f;
     bool to_draw_ = false;
     sf::Vector2f target_position_ = { 0.f, 0.f };
 };
