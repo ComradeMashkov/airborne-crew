@@ -23,6 +23,7 @@
 *std::string region* — регион запроса\
 *std::string outfile_path* — местоположение файла с выходными данными\
 *std::string buffer* — промежуточный буффер\
+ 
 *Публичные*  
 *std::string temperature* — температура\
 *std::string pressure* — давление\
