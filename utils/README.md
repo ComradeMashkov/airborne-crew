@@ -13,12 +13,12 @@
 *std::string outfile_path* — местоположение файла с выходными данными\
 *std::string buffer* — ?\
   
-*std::string temperature* —
-*std::string pressure* —
-*std::string humidity* —
-*std::string wind_speed*
-*std::string wind_dir* —
-*std::string times_of_day* —
+*std::string temperature* — температура\
+*std::string pressure* — давление\
+*std::string humidity* — влажность  
+*std::string wind_speed* — скорость ветра\
+*std::string wind_dir* — направление ветра
+*std::string times_of_day* — время
 
 
 
