@@ -8,7 +8,7 @@
 ### Поля класса:
 *Приватные*\
 *std::string settings_path* — путь к файлу aviation_settings.txt, содержащему настройки API-запроса\
-*std::string outfile_path* — путь файла с выходными данными\
+*std::string outfile_path* — путь файла с выходными данными
 
 *Публичные*\
 *size_t fcount* — число выводимых полетов\
