@@ -15,7 +15,7 @@
 *std::vector<std::string> flight_numbers* — номер рейса\
 *std::vector<std::string> departure_times* — время вылета\
 *std::vector<std::string> arrival_times* — время прилета\
-*std::vector<std::string> flight_statuses* — статус рейса\
+*std::vector<std::string> flight_statuses* — статус рейса
     
 ### Методы класса:
 *AviationHandler()* — конструктор\
@@ -32,9 +32,15 @@
 Класс отвечает за логированиия данных. Определение и реализация.
 ### Поля класса:
 *Приватные*\
+*logging::sources::severity_logger<logging::trivial::severity_level> logger_* — уровни логгирования
 
-*Публичные*\
 ### Методы класса:
+*LogHandler()* — дефолтный конструктор\
+*LogHandler(const std::string& filename)* — параметризированный конструктор
+*~LogHandler()* — декструктор, очищает поток вывода логгера\
+*LogTrivial(logging::trivial::severity_level level, const std::string& message)* — выводит сообщение через макрос из Boost.Log
+*InitConsoleLogging()*— метод вывода в консоль\
+*InitFileLogging(const std::string& filename)* —  метод вывода в консоль\
 
 ## weather_handler
 Класс обработки данных погоды с сайта http://api.weatherapi.com в Москве. Определение и реализация.
