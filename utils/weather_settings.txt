@@ -1,0 +1,3 @@
+weather-api-key = e3f1bbea9622494c998133107231212
+weather-region = Moscow
+weather-outfile-path = ../utils/weather.json
