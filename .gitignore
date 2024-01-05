@@ -7,3 +7,4 @@ cmake_build/
 logs/
 CMakeFiles/
 utils/weather.json
+utils/aviation.json
