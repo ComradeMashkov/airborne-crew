@@ -28,6 +28,8 @@ public:
 
     void InitializeLine() override;
 
+    void InitializeLine(tgui::Layout x, tgui::Layout y, tgui::Layout width, tgui::Layout height);
+
     void SetPosition(tgui::Layout x, tgui::Layout y) override;
 
     void SetSize(tgui::Layout width, tgui::Layout height) override;

@@ -19,8 +19,17 @@ constexpr size_t CANVAS_WIDTH = WIDTH * 0.6;
 constexpr size_t CANVAS_HEIGHT = HEIGHT * 0.6;
 
 // Separator lines
-constexpr size_t TW_HLINE_Y = 100;
 constexpr size_t LINE_WIDTH = 2;
+
+constexpr size_t TW_HLINE_Y = 100;
+
+constexpr size_t AT_HLINE_X = 320;
+constexpr size_t AT_HLINE_Y = 540;
+constexpr size_t AT_HLINE_LENGTH = WIDTH - AT_HLINE_X;
+
+constexpr size_t AT_VLINE_X = 680;
+constexpr size_t AT_VLINE_Y = 360;
+constexpr size_t AT_VLINE_LENGTH = 240;
 
 // Labels
 constexpr size_t TT_LABEL_X = WIDTH - 190;
@@ -78,6 +87,29 @@ constexpr size_t DATESTAMP_LABEL_FONTSIZE = 14;
 constexpr size_t TIMESTAMP_LABEL_X = WIDTH - 210;
 constexpr size_t TIMESTAMP_LABEL_Y = 45;
 constexpr size_t TIMESTAMP_LABEL_FONTSIZE = 24;
+
+constexpr size_t FLIGHT_NUMBER_TEXT_LABEL_X = 340;
+constexpr size_t FLIGHT_NUMBER_TEXT_LABEL_Y = 385;
+
+constexpr size_t FLIGHT_NUMBER_LABEL_X = 355;
+
+constexpr size_t DEPARTURE_TIME_TEXT_LABEL_X = 455;
+constexpr size_t DEPARTURE_TIME_TEXT_LABEL_Y = FLIGHT_NUMBER_TEXT_LABEL_Y;
+
+constexpr size_t DEPARTURE_TIME_LABEL_X = 475;
+
+constexpr size_t ARRIVAL_TIME_TEXT_LABEL_X = 570;
+constexpr size_t ARRIVAL_TIME_TEXT_LABEL_Y = FLIGHT_NUMBER_TEXT_LABEL_Y;
+
+constexpr size_t ARRIVAL_TIME_LABEL_X = 595;
+
+constexpr size_t FLIGHT_STATUS_TEXT_LABEL_X = 700;
+constexpr size_t FLIGHT_STATUS_TEXT_LABEL_Y = FLIGHT_NUMBER_TEXT_LABEL_Y;
+
+constexpr size_t FLIGHT_STATUS_LABEL_X = 710;
+
+constexpr size_t AVIATION_PARAMETERS_START_Y = 445;
+constexpr size_t AVIATION_PARAMETERS_OFFSET = 60;
 
 // Colors
 struct RGB {

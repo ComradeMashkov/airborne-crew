@@ -10,7 +10,10 @@
 
 #include "objects/plane.h"
 
+#include "../utils/aviation_handler.h"
 #include "../utils/weather_handler.h"
+
+#include <thread>
 
 using namespace global_parameters;
 using namespace gui_wrapper;
@@ -18,15 +21,39 @@ using namespace objects;
 using namespace utils;
 
 int main(int argc, char* argv[]) {
+    // Погода
+    weather_handler::WeatherHandler weather;
+    sf::Thread weather_thread(&weather_handler::WeatherHandler::Initialize, &weather);
+    weather_thread.launch();
+
+    // Авиация
+    aviation_handler::AviationHandler aviation;
+    sf::Thread aviation_thread(&aviation_handler::AviationHandler::Initialize, &aviation);
+    aviation_thread.launch(); 
+
     // Создаем и инициализируем окно размером 800х600 и заголовком
     sf::RenderWindow window{ { WIDTH, HEIGHT }, "Dispatch window", sf::Style::Titlebar | sf::Style::Close };
     tgui::Gui gui{ window };
     // window.setFramerateLimit(60); // ограничитель кадров
 
-    // Вертикальная линия, отделяющая блок времени от блока погоды
+    // Горизонтальная линия, отделяющая блок времени от блока погоды
     HorizontalLine time_weather_hline;
     time_weather_hline.InitializeLine(0, TW_HLINE_Y, window.getSize().x, LINE_WIDTH);
     gui.add(time_weather_hline.GetLine());
+
+    // Горизонтальные линии, отделяющие авиарейсы
+    std::array<HorizontalLine, 4> aviation_table_hlines;
+    for (int i = 0; i < 4; ++i) {
+        aviation_table_hlines[i].InitializeLine(AT_HLINE_X, AT_HLINE_Y - i * 60, AT_HLINE_LENGTH, LINE_WIDTH);
+        gui.add(aviation_table_hlines[i].GetLine());
+    }
+
+    // Вертикальные линии со столбцами значений авиарейсов
+    std::array<VerticalLine, 4> aviation_table_vlines;
+    for (int i = 0; i < 4; ++i) {
+        aviation_table_vlines[i].InitializeLine(AT_VLINE_X - 120 * i, AT_VLINE_Y, AT_VLINE_LENGTH, LINE_WIDTH);
+        gui.add(aviation_table_vlines[i].GetLine());
+    }
 
     // Объект самолета
     Plane plane;
@@ -40,14 +67,6 @@ int main(int argc, char* argv[]) {
     sf::Texture map_texture;
     map_texture.loadFromFile("../meta/map.png");
     sf::Sprite map_sprite(map_texture);
-
-    // Главные горизонтальная и вертикальная линии
-    VerticalLine vline;
-    vline.InitializeLine();
-    HorizontalLine hline_main;
-    hline_main.InitializeLine();
-    gui.add(vline.GetLine());
-    gui.add(hline_main.GetLine());
 
     // Метка кадров в секунду
     FrameRateLabel frame_rate_label;
@@ -108,9 +127,27 @@ int main(int argc, char* argv[]) {
     times_of_day_text_label.InitializeLabel({ TIMES_OF_DAY_TEXT_LABEL_X, TIMES_OF_DAY_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
     gui.add(times_of_day_text_label.GetLabel());
 
-    // Погода
-    weather_handler::WeatherHandler weather;
-    weather.Initialize();
+    TextLabel flight_number_text_label;
+    flight_number_text_label.SetLabelText("Номер рейса");
+    flight_number_text_label.InitializeLabel({ FLIGHT_NUMBER_TEXT_LABEL_X, FLIGHT_NUMBER_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(flight_number_text_label.GetLabel());
+
+    TextLabel departure_time_text_label;
+    departure_time_text_label.SetLabelText("Время вылета");
+    departure_time_text_label.InitializeLabel({ DEPARTURE_TIME_TEXT_LABEL_X, DEPARTURE_TIME_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(departure_time_text_label.GetLabel());
+
+    TextLabel arrival_time_text_label;
+    arrival_time_text_label.SetLabelText("Время прилета");
+    arrival_time_text_label.InitializeLabel({ ARRIVAL_TIME_TEXT_LABEL_X, ARRIVAL_TIME_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(arrival_time_text_label.GetLabel());
+
+    TextLabel flight_status_text_label;
+    flight_status_text_label.SetLabelText("Статус рейса");
+    flight_status_text_label.InitializeLabel({ FLIGHT_STATUS_TEXT_LABEL_X, FLIGHT_STATUS_TEXT_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
+    gui.add(flight_status_text_label.GetLabel());
+
+    weather_thread.wait();
 
     TextLabel temperature_label;
     temperature_label.SetLabelText(weather.temperature + " °C");
@@ -141,6 +178,30 @@ int main(int argc, char* argv[]) {
     times_of_day_label.SetLabelText(weather.times_of_day);
     times_of_day_label.InitializeLabel({ TIMES_OF_DAY_LABEL_X, TIMES_OF_DAY_LABEL_Y }, SUBTEXT_LABELS_FONTSIZE);
     gui.add(times_of_day_label.GetLabel());
+
+    aviation_thread.wait();
+
+    for (int i = 0; i < aviation.fcount; ++i) {
+        TextLabel flight_number_label;
+        flight_number_label.SetLabelText(aviation.flight_numbers[i]);
+        flight_number_label.InitializeLabel({ FLIGHT_NUMBER_LABEL_X, AVIATION_PARAMETERS_START_Y + AVIATION_PARAMETERS_OFFSET * i }, SUBTEXT_LABELS_FONTSIZE);
+        gui.add(flight_number_label.GetLabel());
+
+        TextLabel departure_time_label;
+        departure_time_label.SetLabelText(aviation.departure_times[i]);
+        departure_time_label.InitializeLabel({ DEPARTURE_TIME_LABEL_X, AVIATION_PARAMETERS_START_Y + AVIATION_PARAMETERS_OFFSET * i }, SUBTEXT_LABELS_FONTSIZE);
+        gui.add(departure_time_label.GetLabel());
+
+        TextLabel arrival_time_label;
+        arrival_time_label.SetLabelText(aviation.arrival_times[i]);
+        arrival_time_label.InitializeLabel({ ARRIVAL_TIME_LABEL_X, AVIATION_PARAMETERS_START_Y + AVIATION_PARAMETERS_OFFSET * i }, SUBTEXT_LABELS_FONTSIZE);
+        gui.add(arrival_time_label.GetLabel());
+
+        TextLabel flight_status_label;
+        flight_status_label.SetLabelText(aviation.flight_statuses[i]);
+        flight_status_label.InitializeLabel({ FLIGHT_STATUS_LABEL_X, AVIATION_PARAMETERS_START_Y + AVIATION_PARAMETERS_OFFSET * i }, SUBTEXT_LABELS_FONTSIZE);
+        gui.add(flight_status_label.GetLabel());
+    }
 
     // Создаем логгер, выводящий все в файл (папка logs)
     log_handler::LogHandler logger("../logs/sample.log");

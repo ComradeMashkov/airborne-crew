@@ -1,0 +1,2 @@
+aviation-flights-number = 3
+aviation-outfile-path = ../utils/aviation.json

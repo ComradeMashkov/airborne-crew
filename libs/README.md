@@ -5,7 +5,6 @@
 
 ### Requirements list
 Список библиотек и зависимостей:
-- curl
 - Boost
 - SFML
 - TGUI
