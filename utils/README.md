@@ -11,22 +11,22 @@
 * std::string outfile_path — путь файла с выходными данными
 
 #### *Публичные*
-* size_t fcount* — число выводимых полетов\
-* std::vector<std::string> flight_numbers* — номер рейса\
-* std::vector<std::string> departure_times* — время вылета\
-* std::vector<std::string> arrival_times* — время прилета\
-* std::vector<std::string> flight_statuses* — статус рейса
+* size_t fcount — число выводимых полетов
+* std::vector<std::string> flight_numbers — номер рейса
+* std::vector<std::string> departure_times — время вылета
+* std::vector<std::string> arrival_times — время прилета
+* std::vector<std::string> flight_statuses — статус рейса
     
 ### Методы класса:
-* AviationHandler()* — конструктор\
-* Initialize()* — запуск обработки: генерация JSON файла и обработка данных\
-* ProcessAviationValues()* — обработка данных из JSON файла\
-* GenerateJSON()* — генерация JSON файла с номером рейсов, временем вылета/прилета и статусом рейсов\
-* ParseSettingsFile()* — считывает настройки запроса из файла aviation_settings.txt\
-* GenerateRandomString(size_t length)* — генерация буквенной части номера рейса длиной length\
-* GenerateRandomFlightNumber()* — генерация цифровой части рейса\
-* GenerateRandomTime()* — генерация времени\
-* GenerateRandomFlightStatus()* — генерация статуса полета
+* AviationHandler() — конструктор
+* Initialize() — запуск обработки: генерация JSON файла и обработка данных
+* ProcessAviationValues() — обработка данных из JSON файла
+* GenerateJSON() — генерация JSON файла с номером рейсов, временем вылета/прилета и статусом рейсов
+* ParseSettingsFile() — считывает настройки запроса из файла aviation_settings.txt
+* GenerateRandomString(size_t length) — генерация буквенной части номера рейса длиной length
+* GenerateRandomFlightNumber() — генерация цифровой части рейса
+* GenerateRandomTime() — генерация времени
+* GenerateRandomFlightStatus() — генерация статуса полета
 
 ## log_handler
 Класс отвечает за логированиия данных. Определение и реализация.
