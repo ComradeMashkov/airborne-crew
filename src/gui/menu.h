@@ -11,7 +11,7 @@ class UpperMenu {
 public:
     UpperMenu() = default;
 
-    void InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps);
+    void InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps, CoordsLabel& coords_label);
 
     tgui::MenuBar::Ptr GetMenu() const;
 

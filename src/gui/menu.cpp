@@ -4,7 +4,7 @@ using namespace event_handler;
 
 namespace gui_wrapper {
 
-void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps) {
+void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps, CoordsLabel& coords_label) {
     upper_menu_->setWidth(global_parameters::MENU_WIDTH);
     upper_menu_->setHeight(global_parameters::MENU_HEIGHT);
     upper_menu_->setAutoLayout(tgui::AutoLayout::Manual);
@@ -19,6 +19,8 @@ void UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateL
     upper_menu_->addMenu("Debug");
     upper_menu_->addMenuItem("Show FPS");
     upper_menu_->onMenuItemClick(&EventHandler::showFPS, std::ref(fps));
+    upper_menu_->addMenuItem("Show coordinates");
+    upper_menu_->onMenuItemClick(&EventHandler::showCoordinates, std::ref(coords_label));
 
     upper_menu_->addMenu("Info");
     upper_menu_->addMenuItem("About");
