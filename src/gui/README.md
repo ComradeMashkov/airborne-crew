@@ -114,7 +114,7 @@
 * SetLabelText(const tgui::String& text) — изменяет текст метки
 * Update() — обновляет значения полей метки
 
-## Taxt label
+## Text label
 Класс TextLabel наследник класса LabelBase. Определение text_label.h, реализация text_label.cpp
 ### Поля класса
 * tgui::Label::Ptr label_ — метка, объект класса Label библиотеки TGUI
