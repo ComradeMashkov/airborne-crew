@@ -66,7 +66,7 @@
 * SetSize(tgui::Layout width, tgui::Layout height) — изменяет ширину и высоту линии
 * tgui::Panel::Ptr GetLine() — возвращает указатель на объект класса Line
 * sf::Vector2f GetSize() — возвращает размер линии
-* ~Line()* — деструктор
+* ~Line() — деструктор
 
 **Класс VerticalLine**\
 Класс рисования вертикальных линий. Наследник класса Line
@@ -77,7 +77,7 @@
 **Класс HorizontalLine**\
 Класс рисования горизонтальных линий. Наследник класса Line
 ### Поля класса
-* tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI
+* tgui::Panel::Ptr line_ — объект класса Panel библиоткеи TGUI
 ### Методы класса
 Аналогичны методам класса Line.
 
