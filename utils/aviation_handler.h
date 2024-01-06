@@ -128,7 +128,7 @@ private:
     }
 
     std::string GenerateRandomFlightStatus() const {
-        const std::array<std::string, 3> statuses = { "On Time", "Delayed", "Cancelled" };
+        const std::array<std::string, 3> statuses = { "В пути", "Задержан", "Отменен" };
         return statuses[rand() % 3];
     }
 };
