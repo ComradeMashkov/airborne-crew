@@ -1,6 +1,6 @@
-# Класс Plane
+## Класс Plane
 
-**Поля класса**
+### Поля класса
 - *angle_speed* — угловая скорость объекта
 - *angle* — угол рысканья
 - *target_angle* — целевой курс
@@ -10,7 +10,7 @@
 - *to_draw_* — флаг о начале работы программы управления
 - *sf::Vector2f target_position_* — двумерный вектор целевых координат в библиотеке SFML
 
-**Методы класса**
+### Методы класса
 - *SetPrimitive(const sf::Sprite& circle)* — устанавливает в качестве изображения объекта переданую картинку
 - *SetToDraw(bool to_draw)* — устанавливает флаг to_draw_
 - *SetTargetPosition(const sf::Vector2f& target_position)* — обновляет целевую точку
