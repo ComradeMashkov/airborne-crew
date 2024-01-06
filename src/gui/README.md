@@ -40,6 +40,14 @@
 *CalculateFrameRate()* — вычисляет частоту кадров на основе кол-ва прошедших кадров, обновляет метку\
 *ShowLabel()* — включает видимость метки ФПС
 
+## Labael base
+Абстрактный класс LabelBase. Определение label_base.h
+### Методы класса
+*InitializeLabel()* — конструктор\
+*tgui::Label::Ptr GetLabel()* — возвращает указатель на метку\
+*SetLabelText(const tgui::String& text)* — изменяет текст метки\
+*~LabelBase()* — декструктор
+
 ## Menu
 Класс UpperMenu верхнего меню приложения. Определение menu.h, реализация menu.cpp
 ### Поля класса
@@ -73,5 +81,34 @@
 *tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI
 ### Методы класса
 Аналогичны методам класса Line.
-** —
-** —
+
+## Stamp
+**Класс DateStamp**, наследник класса LabelBase. Метка даты. Определение stamp.h, реализация stamp.cpp
+### Поля класса
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+*now* — текущие время\
+*ltm* — указатель на текущее время\
+*tgui::String year* — год\
+*tgui::String month* — месяц\
+*tgui::String day* — день\
+
+### Методы класса
+*DateStamp()* — дефолтный конструктор\
+*InitializeLabel()* — инициализация метки даты: заполнение полей класса\
+*tgui::Label::Ptr GetLabel()* — возвращает указатель на метку\
+*SetLabelText(const tgui::String& text)* — изменяет текст метки\
+*Update()* — обновляет значение полей метки
+**Класс TimeStamp**, наследник класса LabelBase. Метка времени. Определение stamp.h, реализация stamp.cpp
+### Поля класса
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+*now* — текущие время\
+*ltm* — указатель на текущее время\
+*tgui::String hour* — часы\ 
+*tgui::String minute*— минуты\
+*tgui::String second*— секунды\
+
+### Методы класса
+**—
+**—
+**—
+**—
