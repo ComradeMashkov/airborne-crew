@@ -3,9 +3,9 @@
 ## About
 В этой директории хранятся всопомгательные утилиты, необходимые для реализации основной логики проекта: обработка полетов, погоды и логгирование.
 
-### Класс AviationHandler
+## Класс AviationHandler
 Класс обработки данных о полетах. Сейчас класс генерирует данные случайным образом из-за сложностей с сайтом отслеживания полетов. Определение и реализация.
-#### Поля класса:
+### Поля класса:
 *Приватные*
 - *std::string settings_path* — путь к файлу aviation_settings.txt, содержащему настройки API-запроса
 - *std::string outfile_path* — путь файла с выходными данными
@@ -17,7 +17,7 @@
 - *std::vector<std::string> arrival_times* — время прилета
 - *std::vector<std::string> flight_statuses* — статус рейса
     
-#### Методы класса:
+### Методы класса:
 - *AviationHandler()* — конструктор
 - *Initialize()* — запуск обработки: генерация JSON файла и обработка данных
 - *ProcessAviationValues()* — обработка данных из JSON файла
@@ -28,13 +28,13 @@
 - *GenerateRandomTime()* — генерация времени
 - *GenerateRandomFlightStatus()* — генерация статуса полета
 
-### Класс LogHandler
+## Класс LogHandler
 Класс отвечает за логированиия данных. Определение и реализация.
-#### Поля класса:
+### Поля класса:
 *Приватные*
 - *logging::sources::severity_logger<logging::trivial::severity_level> logger_* — уровни логгирования
 
-#### Методы класса:
+### Методы класса:
 - *LogHandler()* — дефолтный конструктор
 - *LogHandler(const std::string& filename)* — параметризированный конструктор
 - *~LogHandler()* — декструктор, очищает поток вывода логгера
@@ -42,9 +42,9 @@
 - *InitConsoleLogging()*— метод вывода в консоль
 - *InitFileLogging(const std::string& filename)* —  метод вывода в консоль
 
-### Класс WeatherHandler
+## Класс WeatherHandler
 Класс обработки данных погоды с сайта http://api.weatherapi.com в Вашингтоне. Определение и реализация.
-#### Поля класса:
+### Поля класса:
 *Приватные*  
 - *is_day* — время дня: вечер/день
 - *wind_angle* — направление ветра
@@ -61,7 +61,7 @@
 - *std::string wind_speed* — скорость ветра
 - *std::string wind_dir* — направление ветра
 - *std::string times_of_day* — время
-#### Методы класса:
+### Методы класса:
 - *WeatherHandler()* — конструктор
 - *Initialize()* — запуск обработки: отправление запроса и обработка полученных данных
 - *ParseSettingsFile()* — считывает настройки запроса из файла weather_settings.txt
