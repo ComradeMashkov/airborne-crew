@@ -106,7 +106,7 @@
 *ltm* — указатель на текущее время\
 *tgui::String hour* — часы\ 
 *tgui::String minute*— минуты\
-*tgui::String second*— секунды\
+*tgui::String second*— секунды
 
 ### Методы класса
 *TimeStamp()* —  дефольный конструктор\
@@ -125,6 +125,4 @@
 *InitializeLabel()* — переопределение метки\
 *InitializeLabel(const tgui::Layout2d &position, int text_size)* — параметрезированный конструктор: установка размера и расположения\
 *tgui::Label::Ptr TextLabel::GetLabel()* — возвращает указатель на метку\
-*SetLabelText(const tgui::String& text)* — изменяет текст метки\
-
-
+*SetLabelText(const tgui::String& text)* — изменяет текст метки
