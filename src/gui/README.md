@@ -23,6 +23,17 @@
 *tgui::Label::Ptr GetLabel()* — возвращает указатель на объект класса TextLabel\
 *SetLabelText(const tgui::String& text)* — изменяет текст метки
 
+## Fps
+Класс  наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
+### Поля класса
+** — объект класса библиотеки TGUI\
+
+### Методы класса
+** —
+** —
+** —
+** —
+
 ## Menu
 Класс верхнего меню приложения. Определение menu.h, реализация menu.cpp\
 ### Поля класса
@@ -33,5 +44,5 @@
 *UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps)* — параметризированный конструктор верхнего меню. Параметры: объекты интерфейса, самолета, ФПС\
 *tgui::MenuBar::Ptr GetMenu()* — возвращает указатель на объект типа tgui::MenuBar
 
-** —
+
 ** —
