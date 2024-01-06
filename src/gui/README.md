@@ -94,10 +94,11 @@
 
 ### Методы класса
 *DateStamp()* — дефолтный конструктор\
-*InitializeLabel()* — инициализация метки даты: заполнение полей класса\
+*InitializeLabel()* — переопределение метки даты: заполнение полей класса\
 *tgui::Label::Ptr GetLabel()* — возвращает указатель на метку\
 *SetLabelText(const tgui::String& text)* — изменяет текст метки\
 *Update()* — обновляет значение полей метки
+
 **Класс TimeStamp**, наследник класса LabelBase. Метка времени. Определение stamp.h, реализация stamp.cpp
 ### Поля класса
 *tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
@@ -108,7 +109,22 @@
 *tgui::String second*— секунды\
 
 ### Методы класса
-**—
-**—
-**—
-**—
+*TimeStamp()* —  дефольный конструктор\
+*InitializeLabel()* — переопределение метки времени: заполнение полей\
+*tgui::Label::Ptr GetLabel()* —  возвращает указатель на метку\
+*SetLabelText(const tgui::String& text)* — изменяет текст метки\
+*Update()* — обновляет значения полей метки
+
+## Taxt label
+Класс TextLabel наследник класса LabelBase. Определение text_label.h, реализация text_label.cpp
+### Поля класса
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+
+### Методы класса
+*TextLabel()* — дефолтный конструктор\
+*InitializeLabel()* — переопределение метки\
+*InitializeLabel(const tgui::Layout2d &position, int text_size)* — параметрезированный конструктор: установка размера и расположения\
+*tgui::Label::Ptr TextLabel::GetLabel()* — возвращает указатель на метку\
+*SetLabelText(const tgui::String& text)* — изменяет текст метки\
+
+
