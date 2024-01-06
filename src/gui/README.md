@@ -2,7 +2,7 @@
 ## Canvas
 Класс отображения холста приложения. Определение canvas.h, реализация canvas.cpp\
 ### Поля класса
-*tgui::CanvasSFML::Ptr canvas_* — объект класса CanvasSFML библиотеки SFML\
+*tgui::CanvasSFML::Ptr canvas_* — холст, объект класса CanvasSFML библиотеки SFML\
 
 ### Методы класса
 *Canvas()* — дефолтный конструктор\
@@ -15,7 +15,7 @@
 ## Coords
 Класс CoordsLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
 ### Поля класса
-*tgui::Label::Ptr label_* — объект класса Label библиотеки TGUI\
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
 
 ### Методы класса
 *CoordsLabel()* — дефолтный конструктор\
@@ -26,18 +26,19 @@
 ## Fps
 Класс FrameRateLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
 ### Поля класса
-*tgui::Label::Ptr label_* — объект класса Label библиотеки TGUI\
-*sf::Clock frame_clock_* — объект класса Clock библиотеки SFML\
-*frame_count_* —
-*frame_rate_* —
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+*sf::Clock frame_clock_* — таймер, объект класса Clock библиотеки SFML\
+*frame_count_* — число прошедших кадров\
+*frame_rate_* — частота кадров в секунду
 
 ### Методы класса
 *FrameRateLabel()* — дефольный конструктор\
 *InitializeLabel()* — переопределение. Устанавливает позицию метки ФПС\
 *tgui::Label::Ptr GetLabel()* — возварящает указател на объект класса TextLabel\
 *FrameRateLabel::SetLabelText(const tgui::String& text)* — изменяет текст метки\
-*FrameRateLabel::GetFrameRate()* —
-** —
+*FrameRateLabel::GetFrameRate()* — возвращается частота обновления кадров\
+*CalculateFrameRate()* — вычисляет частоту кадров на основе кол-ва прошедших кадров, обновляет метку\
+*ShowLabel()* — включает видимость метки ФПС
 
 ## Menu
 Класс UpperMenu верхнего меню приложения. Определение menu.h, реализация menu.cpp\
@@ -49,5 +50,30 @@
 *UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps)* — параметризированный конструктор верхнего меню. Параметры: объекты интерфейса, самолета, ФПС\
 *tgui::MenuBar::Ptr GetMenu()* — возвращает указатель на объект типа tgui::MenuBar
 
+## Separator
+Абстрактный класс Line разделителей областей приложения. Определение separator.h, реализация separator.cpp\
 
+### Методы класса
+*InitializeLine()* — дефолтный коснтруктор\
+*SetPosition(tgui::Layout x, tgui::Layout y)* — 
+*SetSize(tgui::Layout width, tgui::Layout height)* —
+*tgui::Panel::Ptr GetLine()* —
+*sf::Vector2f GetSize()* — 
+*~Line()* — деструктор
+
+**Класс VerticalLine**
+Класс рисования вертикальных линий\
+### Поля класса
+*tgui::Panel::Ptr line_* — \
+
+### Методы класса
+*VerticalLine()* —
+*InitializeLine()* —
+*InitializeLine(tgui::Layout x, tgui::Layout y, tgui::Layout width, tgui::Layout height)* —
+*SetPosition(tgui::Layout x, tgui::Layout y)* —
+*SetSize(tgui::Layout width, tgui::Layout height)* —
+*tgui::Panel::Ptr GetLine()* —
+*sf::Vector2f GetSize()* —
+
+** —
 ** —
