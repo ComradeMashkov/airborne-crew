@@ -104,7 +104,7 @@
 *tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
 *now* — текущие время\
 *ltm* — указатель на текущее время\
-*tgui::String hour* — часы\ 
+*tgui::String hour* — часы\
 *tgui::String minute*— минуты\
 *tgui::String second*— секунды
 
@@ -118,7 +118,7 @@
 ## Taxt label
 Класс TextLabel наследник класса LabelBase. Определение text_label.h, реализация text_label.cpp
 ### Поля класса
-*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI
 
 ### Методы класса
 *TextLabel()* — дефолтный конструктор\
