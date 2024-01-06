@@ -51,29 +51,29 @@
 *tgui::MenuBar::Ptr GetMenu()* — возвращает указатель на объект типа tgui::MenuBar
 
 ## Separator
-Абстрактный класс Line разделителей областей приложения. Определение separator.h, реализация separator.cpp\
 
+Абстрактный класс Line разделителей областей приложения. Определение separator.h, реализация separator.cpp\
 ### Методы класса
 *InitializeLine()* — дефолтный коснтруктор\
-*SetPosition(tgui::Layout x, tgui::Layout y)* — 
-*SetSize(tgui::Layout width, tgui::Layout height)* —
-*tgui::Panel::Ptr GetLine()* —
-*sf::Vector2f GetSize()* — 
+*SetPosition(tgui::Layout x, tgui::Layout y)* — изменяет начальную точку линии\
+*SetSize(tgui::Layout width, tgui::Layout height)* — изменяет ширину и высоту линии\
+*tgui::Panel::Ptr GetLine()* — возвращает указатель на объект класса Line\
+*sf::Vector2f GetSize()* — возвращает размер линии\
 *~Line()* — деструктор
 
 **Класс VerticalLine**
-Класс рисования вертикальных линий\
+Класс рисования вертикальных линий. Наследник класса Line\
 ### Поля класса
-*tgui::Panel::Ptr line_* — \
+*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI\
 
 ### Методы класса
-*VerticalLine()* —
-*InitializeLine()* —
-*InitializeLine(tgui::Layout x, tgui::Layout y, tgui::Layout width, tgui::Layout height)* —
-*SetPosition(tgui::Layout x, tgui::Layout y)* —
-*SetSize(tgui::Layout width, tgui::Layout height)* —
-*tgui::Panel::Ptr GetLine()* —
-*sf::Vector2f GetSize()* —
+Аналогичны методам класса Line.
+**Класс HorizontalLine**
+Класс рисования горизонтальных линий. Наследник класса Line\
+### Поля класса
+*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI\
 
+### Методы класса
+Аналогичны методам класса Line.
 ** —
 ** —
