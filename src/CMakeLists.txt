@@ -28,7 +28,9 @@ set(MENU gui/menu.h gui/menu.cpp)
 set(LABELS gui/label_base.h gui/text_label.h gui/text_label.cpp gui/coords.h gui/coords.cpp gui/fps.h gui/fps.cpp gui/stamp.h gui/stamp.cpp)
 set(CANVAS gui/canvas.h gui/canvas.cpp)
 set(SEPARATOR gui/separator.h gui/separator.cpp)
-set(GUI ${MENU} ${LABELS} ${CANVAS} ${SEPARATOR})
+set(SLIDER gui/slider.h gui/slider.cpp)
+set(BUILDER gui_builder.h gui_builder.cpp)
+set(GUI ${MENU} ${LABELS} ${CANVAS} ${SEPARATOR} ${SLIDER} ${BUILDER})
 
 set(EVENT_HANDLER event_handler.h event_handler.cpp)
 

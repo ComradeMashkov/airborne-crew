@@ -17,6 +17,15 @@ void EventHandler::showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<t
     }
 }
 
+void EventHandler::showCoordinates(gui_wrapper::CoordsLabel& coords_label, const std::vector<tgui::String>& menuItem) {
+    if (menuItem.size() == 2 && menuItem[0] == "Debug" && menuItem[1] == "Show coordinates") {
+        logger_->LogTrivial(boost::log::trivial::severity_level::debug, "\"Show coordinates\" button has been pressed");
+
+        coords_label.ShowLabel();
+    }
+}
+
+
 // Метод, отвечающий за кнопку Info -> About
 void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Info" && menuItem[1] == "About") {
@@ -38,23 +47,22 @@ void EventHandler::showInfo(tgui::Gui& gui, const std::vector<tgui::String>& men
 // Метод, отвечающий за кнопку Program -> Start
 void EventHandler::startProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem) {
     if (menuItem.size() == 2 && menuItem[0] == "Program" && menuItem[1] == "Start") {
-        delete plane_texture_;
-
         logger_->LogTrivial(boost::log::trivial::severity_level::info, "The plane object has been loaded");
 
         plane_texture_ = new sf::Texture;
-        plane_texture_->loadFromFile("../meta/plane_test.png");
+        plane_texture_->loadFromFile("../meta/plane.png");
 
         sf::Sprite plane_sprite;
         plane_sprite.setTexture(*plane_texture_);
         sf::Vector2u texture_size = plane_texture_ ->getSize();
         sf::Vector2f plane_scale = plane_sprite.getScale();
-        plane_sprite.setScale({ objects::PLANE_SIZE.x/texture_size.x, objects::PLANE_SIZE.y/texture_size.y });
+        plane_sprite.setScale({ objects::PLANE_SIZE.x / texture_size.x, objects::PLANE_SIZE.y / texture_size.y });
         plane_sprite.setOrigin(texture_size.x/2,texture_size.y/2);
-        plane_sprite.setPosition({ 100.f, 100.f });
+        plane_sprite.setPosition({ global_parameters::PLANE_INITIAL_POS_X, global_parameters::PLANE_INITIAL_POS_Y });
         plane.SetPrimitive(plane_sprite);
         plane.SetToDraw(true);
-        plane.SetTargetPosition({ 100.f, 100.f });
+        plane.SetTargetPosition({ global_parameters::PLANE_INITIAL_POS_X, global_parameters::PLANE_INITIAL_POS_Y });
+        plane.SetAngle(0);
     }
 }
 
@@ -69,7 +77,7 @@ void EventHandler::finishProgram(objects::Plane& plane, const std::vector<tgui::
 }
 
 // Метод, отвечающий за передвижение самолета
-void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition) {
+void EventHandler::movePlane(objects::Plane& plane, const sf::Vector2f& mousePosition) {
     if (plane.GetToDraw()) {
         logger_->LogTrivial(boost::log::trivial::severity_level::info, "Plane terminal point has been set to " + std::to_string(mousePosition.x) + ", " + std::to_string(mousePosition.y));
 
@@ -77,9 +85,27 @@ void EventHandler::moveCircle(objects::Plane& plane, const sf::Vector2f& mousePo
     }
 }
 
+void EventHandler::changeSliderValue(gui_wrapper::TextLabel& slider_label, objects::Plane& plane, bool change_linear, float value) {
+    slider_label.SetLabelText(objects::Plane::FloatToStringWithPrecision(value));
+
+    if (change_linear) {
+        logger_->LogTrivial(boost::log::trivial::severity_level::info, "Plane linear speed has been set to " + std::to_string(value));
+        plane.SetLinearSpeed(value);
+    }
+    else {
+        logger_->LogTrivial(boost::log::trivial::severity_level::info, "Plane angle speed has been set to " + std::to_string(value));
+        plane.SetAngleSpeed(value);
+    }
+}
+
+
 // Системный метод для передачи логгера в EventHandler
 void EventHandler::SetLogger(utils::log_handler::LogHandler* logger) {
     logger_ = logger;
+}
+
+EventHandler::~EventHandler() {
+    delete plane_texture_;
 }
 
 } // namespace event_handler
