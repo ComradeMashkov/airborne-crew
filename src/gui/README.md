@@ -10,7 +10,7 @@
 *tgui::CanvasSFML::Ptr GetCanvas()* — возвращает указатель на объект класса CanvasSFML библиотеки SFML\
 *SetSize(tgui::Layout width, tgui::Layout height)* — настройка размеров холста\
 *SetPosition(tgui::Layout x, tgui::Layout y)* — настройка положения хооста\
-*tgui::Vector2f GetSize()* — возвращает размер холста\
+*tgui::Vector2f GetSize()* — возвращает размер холста
 
 ## Coords
 Класс CoordsLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp
