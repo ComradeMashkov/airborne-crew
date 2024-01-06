@@ -15,6 +15,8 @@ public:
 
     void SetLabelText(const tgui::String& text) override;
 
+    void ShowLabel();
+
 private:
     tgui::Label::Ptr label_ = tgui::Label::create();
 };
