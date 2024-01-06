@@ -1,6 +1,6 @@
 # SRC 
 ## event_handler
-Класс для хранения определения функций, отвечающих за события, которые происходят во время определенного действия.\
+Класс для хранения определения функций, отвечающих за события, которые происходят во время определенного действия.
 ### Поле класса:
 *Публичное*\
 *utils::log_handler::LogHandler* logger_* - указатель на логгер, который вызывается при совершении действия\
@@ -13,7 +13,7 @@
 *finishProgram* - отвечает за кнопку Program -> Finish\
 *movePlane* - отвечает за передвижение самолета\
 *changeSliderValue* - отвечает за передвижение ползунка\
-*SetLogger* - передача логгера в EventHandler\
+*SetLogger* - передача логгера в EventHandler
 
 ## global_parameters
 Класс для задания глобальных переменных
@@ -38,7 +38,7 @@
 *gui_wrapper::ValueSlider linear_speed_slider_* - линейная скорость ползунка\
 *gui_wrapper::ValueSlider angle_speed_slider_* - смещение угла корости\
 *gui_wrapper::TextLabel linear_speed_slider_value_label_* - линейная скорость значения метки ползунка\
-*gui_wrapper::TextLabel angle_speed_slider_value_label_* - угол скорости значения метки ползунка\
+*gui_wrapper::TextLabel angle_speed_slider_value_label_* - угол скорости значения метки ползунка
 
 ### Методы класса:
 *Публичные*\
@@ -49,7 +49,7 @@
 *UpdateCoordsLabel* - обновление метки координат\
 *UpdateStampLabels* - обновление метки штампа\
 *UpdatePlaneCoordsLabel* - обновление метки координат плоскости\
-*UpdateCanvas* - обновление холста\
+*UpdateCanvas* - обновление холста
 
 *Приватные*\
 *CreateMainLines* - создание основных линий\
@@ -60,7 +60,7 @@
 *CreateFrameRateLabel* - создание метки частоты кадров\
 *CreateCoordinateLabel* - создание координатной метки\
 *CreateUpperMenu* - создание верхнего меню\
-*CreateStampLabels* - создание метки штампа\
+*CreateStampLabels* - создание метки штампа
 *CreateTextLabels* - создание текстовых меток\
 *CreateWeatherLabels* - создание погодных меток\
 *CreatePlaneCoordsLabel* - создание меток координат самолета\
