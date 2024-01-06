@@ -1,12 +1,14 @@
 #pragma once
 
+#include "gui/coords.h"
+#include "gui/fps.h"
+#include "gui/text_label.h"
+#include "objects/plane.h"
+#include "../utils/log_handler.h"
+
 #include <TGUI/TGUI.hpp>
 #include <TGUI/Backend/SFML-Graphics.hpp>
 #include <fstream>
-
-#include "gui/fps.h"
-#include "objects/plane.h"
-#include "../utils/log_handler.h"
 
 /* 
    Здесь хранятся определения функций, отвечающие за события,
@@ -27,6 +29,8 @@ namespace event_handler {
 class EventHandler {
 public:
     static void showFPS(gui_wrapper::FrameRateLabel& fps, const std::vector<tgui::String>& menuItem);
+    
+    static void showCoordinates(gui_wrapper::CoordsLabel& coords_label, const std::vector<tgui::String>& menuItem);
 
     static void showInfo (tgui::Gui& gui, const std::vector<tgui::String>& menuItem);
 
@@ -34,9 +38,13 @@ public:
 
     static void finishProgram(objects::Plane& plane, const std::vector<tgui::String>& menuItem);
 
-    static void moveCircle(objects::Plane& plane, const sf::Vector2f& mousePosition);
+    static void movePlane(objects::Plane& plane, const sf::Vector2f& mousePosition);
+    
+    static void changeSliderValue(gui_wrapper::TextLabel& slider_label, objects::Plane& plane, bool change_linear, float value);
 
     static void SetLogger(utils::log_handler::LogHandler* logger);
+
+    ~EventHandler();
 
 public:
     static utils::log_handler::LogHandler* logger_;

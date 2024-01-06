@@ -9,6 +9,8 @@ namespace global_parameters {
 constexpr size_t WIDTH = 800;
 constexpr size_t HEIGHT = 600;
 
+constexpr unsigned int MAX_FPS = 60;
+
 // Menu
 constexpr size_t MENU_WIDTH = WIDTH;
 constexpr size_t MENU_HEIGHT = HEIGHT * 0.035;
@@ -26,10 +28,33 @@ constexpr size_t TW_HLINE_Y = 100;
 constexpr size_t AT_HLINE_X = 320;
 constexpr size_t AT_HLINE_Y = 540;
 constexpr size_t AT_HLINE_LENGTH = WIDTH - AT_HLINE_X;
+constexpr size_t AT_HLINE_OFFSET = 60;
 
 constexpr size_t AT_VLINE_X = 680;
 constexpr size_t AT_VLINE_Y = 360;
 constexpr size_t AT_VLINE_LENGTH = 240;
+constexpr size_t AT_VLINE_OFFSET = 120;
+
+constexpr size_t MAIN_HLINE_Y = CANVAS_HEIGHT;
+constexpr size_t MAIN_HLINE_LENGTH = WIDTH - AT_HLINE_LENGTH;
+
+constexpr size_t MAIN_VLINE_X = CANVAS_WIDTH;
+constexpr size_t MAIN_VLINE_LENGTH = CANVAS_HEIGHT;
+
+// Plane
+constexpr float PLANE_INITIAL_POS_X = 100.f;
+constexpr float PLANE_INITIAL_POS_Y = 100.f;
+
+constexpr int PLANE_ANGLE_ROTATION_X = 480;
+constexpr int PLANE_ANGLE_ROTATION_Y = 360;
+
+constexpr float PLANE_ROTATION_COEFFICIENT_X = 0.61268f;
+constexpr float PLANE_ROTATION_COEFFICIENT_Y = -0.36113f;
+
+constexpr float PLANE_INITIAL_ANGLE_POS_X = -77.347776f;
+constexpr float PLANE_INITIAL_ANGLE_POS_Y = 39.089530f;
+
+constexpr float PLANE_CRITICAL_ANGLE = 0.02f;
 
 // Labels
 constexpr size_t TT_LABEL_X = WIDTH - 190;
@@ -68,13 +93,10 @@ constexpr size_t WIND_DIR_LABEL_Y = WIND_SPEED_LABEL_Y;
 constexpr size_t TIMES_OF_DAY_TEXT_LABEL_X = WIDTH - 200;
 constexpr size_t TIMES_OF_DAY_TEXT_LABEL_Y = 280;
 
-constexpr size_t PLANE_COORDINATES_LABEL_X = WIDTH - 200;
-constexpr size_t PLANE_COORDINATES_LABEL_Y = 340;
-
-constexpr float MAP_TOP_COORDINATES = 39.089530;
-constexpr float MAP_LEFT_COORDINATES = -77.347776;
-constexpr float MAP_WIDTH = 0.61268;
-constexpr float MAP_HEIGHT = -0.36113;
+constexpr float MAP_TOP_COORDINATES = 39.089530f;
+constexpr float MAP_LEFT_COORDINATES = -77.347776f;
+constexpr float MAP_WIDTH = 0.61268f;
+constexpr float MAP_HEIGHT = -0.36113f;
 
 constexpr size_t TIMES_OF_DAY_LABEL_X = TIMES_OF_DAY_TEXT_LABEL_X + 20;
 constexpr size_t TIMES_OF_DAY_LABEL_Y = TIMES_OF_DAY_TEXT_LABEL_Y + 20;
@@ -118,6 +140,48 @@ constexpr size_t FLIGHT_STATUS_LABEL_X = 710;
 
 constexpr size_t AVIATION_PARAMETERS_START_Y = 445;
 constexpr size_t AVIATION_PARAMETERS_OFFSET = 60;
+
+constexpr size_t PLANE_INFO_TEXT_LABEL_X = 40;
+constexpr size_t PLANE_INFO_TEXT_LABEL_Y = 390;
+
+constexpr size_t LONGTITUDE_TEXT_LABEL_X = 15;
+constexpr size_t LONGTITUDE_TEXT_LABEL_Y = 435;
+
+constexpr size_t LONGTITUDE_LABEL_X = LONGTITUDE_TEXT_LABEL_X + 70;
+constexpr size_t LONGTITUDE_LABEL_Y = LONGTITUDE_TEXT_LABEL_Y;
+
+constexpr size_t LATITUDE_TEXT_LABEL_X = LONGTITUDE_TEXT_LABEL_X;
+constexpr size_t LATITUDE_TEXT_LABEL_Y = LONGTITUDE_TEXT_LABEL_Y + 30;
+
+constexpr size_t LATITUDE_LABEL_X = LONGTITUDE_LABEL_X;
+constexpr size_t LATITUDE_LABEL_Y = LATITUDE_TEXT_LABEL_Y;
+
+constexpr size_t LINEAR_SPEED_TEXT_LABEL_X = LONGTITUDE_TEXT_LABEL_X;
+constexpr size_t LINEAR_SPEED_TEXT_LABEL_Y = LATITUDE_TEXT_LABEL_Y + 50;
+
+constexpr size_t ANGLE_SPEED_TEXT_LABEL_X = LONGTITUDE_TEXT_LABEL_X;
+constexpr size_t ANGLE_SPEED_TEXT_LABEL_Y = LINEAR_SPEED_TEXT_LABEL_Y + 30;
+
+// Sliders
+constexpr size_t LINEAR_SPEED_SLIDER_X = LINEAR_SPEED_TEXT_LABEL_X + 150;
+constexpr size_t LINEAR_SPEED_SLIDER_Y = LINEAR_SPEED_TEXT_LABEL_Y;
+
+constexpr float LINEAR_SPEED_SLIDER_MINIMUM = 0.f;
+constexpr float LINEAR_SPEED_SLIDER_MAXIMUM = 5.f;
+constexpr float LINEAR_SPEED_SLIDER_STEP = 0.05f;
+
+constexpr size_t ANGLE_SPEED_SLIDER_X = LINEAR_SPEED_SLIDER_X;
+constexpr size_t ANGLE_SPEED_SLIDER_Y = ANGLE_SPEED_TEXT_LABEL_Y;
+
+constexpr float ANGLE_SPEED_SLIDER_MINIMUM = 0.f;
+constexpr float ANGLE_SPEED_SLIDER_MAXIMUM = 0.2f;
+constexpr float ANGLE_SPEED_SLIDER_STEP = 0.005f;
+
+constexpr size_t LINEAR_SPEED_SLIDER_VALUE_LABEL_X = LINEAR_SPEED_SLIDER_X + 110;
+constexpr size_t LINEAR_SPEED_SLIDER_VALUE_LABEL_Y = LINEAR_SPEED_SLIDER_Y;
+
+constexpr size_t ANGLE_SPEED_SLIDER_VALUE_LABEL_X = LINEAR_SPEED_SLIDER_VALUE_LABEL_X;
+constexpr size_t ANGLE_SPEED_SLIDER_VALUE_LABEL_Y = ANGLE_SPEED_SLIDER_Y;
 
 // Colors
 struct RGB {
