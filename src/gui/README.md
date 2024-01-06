@@ -15,7 +15,7 @@
 ## Coords
 Класс CoordsLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
 ### Поля класса
-*tgui::Label::Ptr label_* — объект класса библиотеки TGUI\
+*tgui::Label::Ptr label_* — объект класса Label библиотеки TGUI\
 
 ### Методы класса
 *CoordsLabel()* — дефолтный конструктор\
@@ -24,23 +24,28 @@
 *SetLabelText(const tgui::String& text)* — изменяет текст метки
 
 ## Fps
-Класс  наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
+Класс FrameRateLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
 ### Поля класса
-** — объект класса библиотеки TGUI\
+*tgui::Label::Ptr label_* — объект класса Label библиотеки TGUI\
+*sf::Clock frame_clock_* — объект класса Clock библиотеки SFML\
+*frame_count_* —
+*frame_rate_* —
 
 ### Методы класса
-** —
-** —
-** —
+*FrameRateLabel()* — дефольный конструктор\
+*InitializeLabel()* — переопределение. Устанавливает позицию метки ФПС\
+*tgui::Label::Ptr GetLabel()* — возварящает указател на объект класса TextLabel\
+*FrameRateLabel::SetLabelText(const tgui::String& text)* — изменяет текст метки\
+*FrameRateLabel::GetFrameRate()* —
 ** —
 
 ## Menu
-Класс верхнего меню приложения. Определение menu.h, реализация menu.cpp\
+Класс UpperMenu верхнего меню приложения. Определение menu.h, реализация menu.cpp\
 ### Поля класса
 *tgui::MenuBar::Ptr upper_menu_* — объект класса библиотеки TGUI горизонтального меню\
 
 ### Методы класса
-*UpperMenu()* — дефолтный конструктор
+*UpperMenu()* — дефолтный конструктор\
 *UpperMenu::InitializeMenu(tgui::Gui& gui, objects::Plane& plane, FrameRateLabel& fps)* — параметризированный конструктор верхнего меню. Параметры: объекты интерфейса, самолета, ФПС\
 *tgui::MenuBar::Ptr GetMenu()* — возвращает указатель на объект типа tgui::MenuBar
 
