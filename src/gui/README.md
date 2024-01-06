@@ -24,7 +24,7 @@
 *SetLabelText(const tgui::String& text) — изменяет текст метки
 
 ## Класс FPS
-Класс FrameRateLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp
+Класс FrameRateLabel наследник класса LabelBase. Определение fps.h, реализация fps.cpp
 ### Поля класса
 *tgui::Label::Ptr label_ — метка, объект класса Label библиотеки TGUI
 *sf::Clock frame_clock_ — таймер, объект класса Clock библиотеки SFML
