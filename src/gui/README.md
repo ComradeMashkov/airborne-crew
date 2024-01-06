@@ -1,8 +1,8 @@
 # Интерфес
 ## Canvas
-Класс отображения холста приложения. Определение canvas.h, реализация canvas.cpp\
+Класс отображения холста приложения. Определение canvas.h, реализация canvas.cpp
 ### Поля класса
-*tgui::CanvasSFML::Ptr canvas_* — холст, объект класса CanvasSFML библиотеки SFML\
+*tgui::CanvasSFML::Ptr canvas_* — холст, объект класса CanvasSFML библиотеки SFML
 
 ### Методы класса
 *Canvas()* — дефолтный конструктор\
@@ -13,9 +13,9 @@
 *tgui::Vector2f GetSize()* — возвращает размер холста\
 
 ## Coords
-Класс CoordsLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
+Класс CoordsLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp
 ### Поля класса
-*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
+*tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI
 
 ### Методы класса
 *CoordsLabel()* — дефолтный конструктор\
@@ -24,7 +24,7 @@
 *SetLabelText(const tgui::String& text)* — изменяет текст метки
 
 ## Fps
-Класс FrameRateLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp\
+Класс FrameRateLabel наследник класса LabelBase. Определение coords.h, реализация coords.cpp
 ### Поля класса
 *tgui::Label::Ptr label_* — метка, объект класса Label библиотеки TGUI\
 *sf::Clock frame_clock_* — таймер, объект класса Clock библиотеки SFML\
@@ -41,9 +41,9 @@
 *ShowLabel()* — включает видимость метки ФПС
 
 ## Menu
-Класс UpperMenu верхнего меню приложения. Определение menu.h, реализация menu.cpp\
+Класс UpperMenu верхнего меню приложения. Определение menu.h, реализация menu.cpp
 ### Поля класса
-*tgui::MenuBar::Ptr upper_menu_* — объект класса библиотеки TGUI горизонтального меню\
+*tgui::MenuBar::Ptr upper_menu_* — объект класса библиотеки TGUI горизонтального меню
 
 ### Методы класса
 *UpperMenu()* — дефолтный конструктор\
@@ -52,7 +52,7 @@
 
 ## Separator
 
-Абстрактный класс Line разделителей областей приложения. Определение separator.h, реализация separator.cpp\
+Абстрактный класс Line разделителей областей приложения. Определение separator.h, реализация separator.cpp
 ### Методы класса
 *InitializeLine()* — дефолтный коснтруктор\
 *SetPosition(tgui::Layout x, tgui::Layout y)* — изменяет начальную точку линии\
@@ -61,18 +61,16 @@
 *sf::Vector2f GetSize()* — возвращает размер линии\
 *~Line()* — деструктор
 
-**Класс VerticalLine**
-Класс рисования вертикальных линий. Наследник класса Line\
+**Класс VerticalLine**\
+Класс рисования вертикальных линий. Наследник класса Line
 ### Поля класса
-*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI\
-
+*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI
 ### Методы класса
 Аналогичны методам класса Line.
-**Класс HorizontalLine**
-Класс рисования горизонтальных линий. Наследник класса Line\
+**Класс HorizontalLine**\
+Класс рисования горизонтальных линий. Наследник класса Line
 ### Поля класса
-*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI\
-
+*tgui::Panel::Ptr line_* — объект класса Panel библиоткеи TGUI
 ### Методы класса
 Аналогичны методам класса Line.
 ** —
