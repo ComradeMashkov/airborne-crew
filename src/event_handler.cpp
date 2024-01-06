@@ -89,9 +89,11 @@ void EventHandler::changeSliderValue(gui_wrapper::TextLabel& slider_label, objec
     slider_label.SetLabelText(objects::Plane::FloatToStringWithPrecision(value));
 
     if (change_linear) {
+        logger_->LogTrivial(boost::log::trivial::severity_level::info, "Plane linear speed has been set to " + std::to_string(value));
         plane.SetLinearSpeed(value);
     }
     else {
+        logger_->LogTrivial(boost::log::trivial::severity_level::info, "Plane angle speed has been set to " + std::to_string(value));
         plane.SetAngleSpeed(value);
     }
 }
