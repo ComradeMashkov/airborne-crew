@@ -51,7 +51,7 @@ cd cmake_build
 ```bash
 sudo add-apt-repository ppa:mhier/libboost-latest
 sudo apt update
-sudo apt install libboost1.83-dev
+sudo apt install libboost1.83-all-dev
 ```
 5. Начать сборку и запустить исполняемый файл:
 ```bash
