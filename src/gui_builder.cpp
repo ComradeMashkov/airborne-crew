@@ -24,7 +24,6 @@ void InterfaceBuilder::CreateAsyncComponents() {
     CreateFrameRateLabel();
     CreateCoordinateLabel();
     CreateUpperMenu();
-    CreateStampLabels();
     CreateTextLabels();
     CreatePlaneCoordsLabel();
     CreateSliderValueLabel();
@@ -34,6 +33,7 @@ void InterfaceBuilder::CreateAsyncComponents() {
 void InterfaceBuilder::CreateAwaitComponents() {
     CreateWeatherLabels();
     CreateFlightsTableLabels();
+    CreateStampLabels();
 }
 
 void InterfaceBuilder::CreateMainLines() {
@@ -95,9 +95,11 @@ void InterfaceBuilder::CreateUpperMenu() {
 }
 
 void InterfaceBuilder::CreateStampLabels() {
+    time_label_.SetTimezone(weather_handler_->timezone);
     time_label_.InitializeLabel();
     gui_->add(time_label_.GetLabel());
 
+    date_label_.SetTimezone(weather_handler_->timezone);
     date_label_.InitializeLabel();
     gui_->add(date_label_.GetLabel());
 }

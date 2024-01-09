@@ -9,9 +9,9 @@ namespace gui_wrapper {
 
 class DateStamp : public LabelBase {
 public:
-    DateStamp() {
-        setenv("TZ", timezone, 1);
-    }
+    DateStamp() = default;
+
+    void SetTimezone(const std::string& timezone);
 
     void InitializeLabel() override;
 
@@ -22,7 +22,7 @@ public:
     void Update();
 
 private:
-    const char* timezone = "UTC5";
+    std::string timezone_;
 
     tgui::Label::Ptr label_ = tgui::Label::create();
     time_t now = time(0);
@@ -35,9 +35,9 @@ private:
 
 class TimeStamp : public LabelBase {
 public:
-    TimeStamp() {
-        setenv("TZ", timezone, 1);
-    }
+    TimeStamp() = default;
+
+    void SetTimezone(const std::string& timezone);
 
     void InitializeLabel() override;
 
@@ -48,7 +48,7 @@ public:
     void Update();
 
 private:
-    const char* timezone = "UTC5";
+    std::string timezone_;
 
     tgui::Label::Ptr label_ = tgui::Label::create();
     time_t now = time(0);
