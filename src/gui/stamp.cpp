@@ -1,4 +1,5 @@
 #include "stamp.h"
+#include <iostream>
 
 namespace gui_wrapper {
 
@@ -39,7 +40,12 @@ void TimeStamp::SetTimezone(const std::string& timezone) {
 }
 
 void TimeStamp::InitializeLabel() {
-    setenv("TZ", timezone_.c_str(), 1);
+    #ifdef _WIN32
+        _putenv_s("TZ", "EST5EDT");
+        _tzset();
+    #else
+        setenv("TZ", timezone_.c_str(), 1);
+    #endif
 
     label_->setPosition({ global_parameters::TIMESTAMP_LABEL_X, global_parameters::TIMESTAMP_LABEL_Y });
     label_->setTextSize(global_parameters::TIMESTAMP_LABEL_FONTSIZE);
