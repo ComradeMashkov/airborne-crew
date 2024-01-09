@@ -83,15 +83,17 @@ void Plane::Control() {
             angle_ -= 2 * M_PI;
         }
 
-        if (angle_ - target_angle_ > global_parameters::PLANE_CRITICAL_ANGLE || angle_ - target_angle_ < -global_parameters::PLANE_CRITICAL_ANGLE){
+        if (angle_ - target_angle_ > 1.1*angle_speed_ || angle_ - target_angle_ < -1.1*angle_speed_){
+            if((sqrt(pow(direction.x,2)+pow(direction.y,2))>4*speed_/2/cos(M_PI/2-angle_speed_)) || (target_angle_ - angle_ < M_PI/2 && target_angle_ - angle_ > -M_PI/2) || target_angle_ - angle_ < -M_PI*3/4 || target_angle_ - angle_ > M_PI*3/4){
             if ((target_angle_ - angle_ > 0 && target_angle_ - angle_ < M_PI) || (target_angle_ - angle_ < -M_PI )) {
                 angle_ += angle_speed_;
             }
             else {
                 angle_ -= angle_speed_;
             }
+            }
         }
-        else {
+        if(sqrt(pow(direction.x,2)+pow(direction.y,2))<5*speed_) {
             tracking_target_ = false;
         }
 
