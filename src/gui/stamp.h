@@ -11,6 +11,8 @@ class DateStamp : public LabelBase {
 public:
     DateStamp() = default;
 
+    void SetTimezone(const std::string& timezone);
+
     void InitializeLabel() override;
 
     tgui::Label::Ptr GetLabel() const override;
@@ -20,6 +22,8 @@ public:
     void Update();
 
 private:
+    std::string timezone_;
+
     tgui::Label::Ptr label_ = tgui::Label::create();
     time_t now = time(0);
     tm* ltm = localtime(&now);
@@ -33,6 +37,8 @@ class TimeStamp : public LabelBase {
 public:
     TimeStamp() = default;
 
+    void SetTimezone(const std::string& timezone);
+
     void InitializeLabel() override;
 
     tgui::Label::Ptr GetLabel() const override;
@@ -42,6 +48,8 @@ public:
     void Update();
 
 private:
+    std::string timezone_;
+
     tgui::Label::Ptr label_ = tgui::Label::create();
     time_t now = time(0);
     tm* ltm = localtime(&now);

@@ -4,6 +4,7 @@
 #include <boost/property_tree/ptree.hpp>
 #include <fstream>
 #include <SFML/Network.hpp>
+#include <random>
 
 namespace utils {
 
@@ -12,12 +13,13 @@ namespace aviation_handler {
 class AviationHandler {
 public:
     AviationHandler() {
-        srand(static_cast<unsigned int>(time(0))); 
         ParseSettingsFile();
     }
 
     void Initialize() {
-        GenerateJSON();
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        GenerateJSON(gen);
         ProcessAviationValues();
     }
 
@@ -47,16 +49,16 @@ private:
         }
     }
 
-    void GenerateJSON() {
+    void GenerateJSON(std::mt19937& gen) {
         std::ofstream outfile{ "../utils/aviation.json" };
 
         std::string buffer = "[";
 
         for (int i = 0; i < fcount; ++i) {
-            std::string flight_number = GenerateRandomFlightNumber();
-            std::string departure_time = GenerateRandomTime();
-            std::string arrival_time = GenerateRandomTime();
-            std::string flight_status = GenerateRandomFlightStatus();
+            std::string flight_number = GenerateRandomFlightNumber(gen);
+            std::string departure_time = GenerateRandomTime(gen);
+            std::string arrival_time = GenerateRandomTime(gen);
+            std::string flight_status = GenerateRandomFlightStatus(gen);
 
             std::string flight = "{";
             flight += "\"flight_number\":\"" + flight_number + "\",";
@@ -102,34 +104,41 @@ private:
         return -1;
     }
 
-    std::string GenerateRandomString(size_t length) const {
+    std::string GenerateRandomString(size_t length, std::mt19937& gen) const {
         const std::string alphabet_numeric = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         std::string result;
 
+        std::uniform_int_distribution<int> distribution(0, alphabet_numeric.length() - 1);
+
         for (int i = 0; i < length; ++i) {
-            result += alphabet_numeric[rand() % alphabet_numeric.length()];
+            result += alphabet_numeric[distribution(gen)];
         }
 
         return result;
     }
 
-    std::string GenerateRandomFlightNumber() const {
-        const std::string letters = GenerateRandomString(2);
-        const std::string numbers = std::to_string(rand() % 9000 + 1000);
+    std::string GenerateRandomFlightNumber(std::mt19937& gen) const {
+        const std::string letters = GenerateRandomString(2, gen);
+        std::uniform_int_distribution<int> distribution(1000, 9999);
+        const std::string numbers = std::to_string(distribution(gen));
 
         return letters + numbers;
     }
 
-    std::string GenerateRandomTime() const {
-        int hours = rand() % 24;
-        int minutes = rand() % 60;
+    std::string GenerateRandomTime(std::mt19937& gen) const {
+        std::uniform_int_distribution<int> hdistribution(0, 23);
+        std::uniform_int_distribution<int> mdistribution(0, 59);
+
+        int hours = hdistribution(gen);
+        int minutes = mdistribution(gen);
 
         return (hours < 10 ? "0" : "") + std::to_string(hours) + ":" + (minutes < 10 ? "0" : "") + std::to_string(minutes);
     }
 
-    std::string GenerateRandomFlightStatus() const {
+    std::string GenerateRandomFlightStatus(std::mt19937& gen) const {
         const std::array<std::string, 3> statuses = { "В пути", "Задержан", "Отменен" };
-        return statuses[rand() % 3];
+        std::uniform_int_distribution<int> distribution(0, 2);
+        return statuses[distribution(gen)];
     }
 };
 

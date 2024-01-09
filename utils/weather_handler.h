@@ -31,6 +31,7 @@ public:
     std::string wind_speed;
     std::string wind_dir;
     std::string times_of_day;
+    std::string timezone;
 
 private:
     const std::string settings_path = "../utils/weather_settings.txt";
@@ -111,6 +112,8 @@ private:
                 times_of_day = std::move("День");
                 break;
         }
+
+        timezone = pt.get<std::string>("location.tz_id");
     }
 };
 

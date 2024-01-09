@@ -2,6 +2,10 @@
 
 namespace gui_wrapper {
 
+void DateStamp::SetTimezone(const std::string& timezone) {
+    timezone_ = timezone;
+}
+
 void DateStamp::InitializeLabel() {
     label_->setPosition({ global_parameters::DATESTAMP_LABEL_X, global_parameters::DATESTAMP_LABEL_Y });
     label_->setTextSize(global_parameters::DATESTAMP_LABEL_FONTSIZE);
@@ -30,7 +34,13 @@ void DateStamp::Update() {
     SetLabelText(day + "." + month + "." + year);
 }
 
+void TimeStamp::SetTimezone(const std::string& timezone) {
+    timezone_ = timezone;
+}
+
 void TimeStamp::InitializeLabel() {
+    setenv("TZ", timezone_.c_str(), 1);
+
     label_->setPosition({ global_parameters::TIMESTAMP_LABEL_X, global_parameters::TIMESTAMP_LABEL_Y });
     label_->setTextSize(global_parameters::TIMESTAMP_LABEL_FONTSIZE);
 
